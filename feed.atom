@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-16T00:33:39.318Z</id>
+    <id>urn:2023-08-17T00:33:09.708Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T00:33:39.318Z</updated>
+    <updated>2023-08-17T00:33:09.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 OneDrive for Business の復元機能を使い方を覚えておきましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/17/040706</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/17/040706"/>
+        <updated>2023-08-16T19:07:06.000Z</updated>
+        <summary type="html"><![CDATA[昨今、ランサムウェアの被害が世界的に増えており、日本でも工場の操業が止まるなどの被害が相次いで発生しています。 これらの問題はコンピューターウイルスによってパソコンやサーバー内のデータが自身の意に反して暗号化されてしまうために発生するのですが、 Microsoft 365 を利用していれば、これらのうちパソコン内のデータ暗号化に対策することができることはご存じでしょうか。 それは OneDrive for Business に置いたファイルの復元機能を利用することで実現できるようになっています。 OneDrive for Business はクラウド上のストレージですが、 OneDrive ア…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：チャットの引用返信がちょっと楽になった]]></title>
+        <id>https://art-break.net/tech/?p=18902</id>
+        <link href="https://art-break.net/tech/?p=18902"/>
+        <updated>2023-08-16T05:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams のチームのチャネルの投稿ではスレッドに対して返信ができるけど、チャットに関しては過去を遡ると、なぜかモバイルアプリからしか返信ができない時代が長く、２年前の 2021年9月あたりにようやく … "Microsoft Teams ：チャットの引用返信がちょっと楽になった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加できなくなった]]></title>
+        <id>https://art-break.net/tech/?p=18896</id>
+        <link href="https://art-break.net/tech/?p=18896"/>
+        <updated>2023-08-16T02:41:13.000Z</updated>
+        <summary type="html"><![CDATA[今朝、 SharePoint を触っていたら違和感を覚えました。 ▼ ページ・ニュースのWebパーツの追加 違和感の正体は記事タイトルの通り、「 Stream (クラシック)」Webパーツが消えている点です。 実は僕の環 … "SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加できなくなった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 サービス正常性画面が日本語化されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/16/024527</id>
@@ -356,16 +386,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft 365 ホームなどに表示されているアプリのアイコンが地味に変わっている]]></title>
-        <id>https://art-break.net/tech/?p=18761</id>
-        <link href="https://art-break.net/tech/?p=18761"/>
-        <updated>2023-07-20T05:30:37.000Z</updated>
-        <summary type="html"><![CDATA[日本時間では昨日2023/07/19に Microsoft Inspire が開催され、 Microsoft 365 Copilot の価格が月30ドルという発表があったり、 Bing Chat Enterprise が … "Microsoft 365 ホームなどに表示されているアプリのアイコンが地味に変わっている" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Bing Chat の要約機能を活用しましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/07/20/021646</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/20/021646"/>
@@ -381,26 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/19/022240"/>
         <updated>2023-07-18T17:22:40.000Z</updated>
         <summary type="html"><![CDATA[Build 2023 で発表され、一般利用の開始が待ち遠しい Microsoft 365 Copilot ですが、月額 30 ドルになることが発表されました。 ある意味思った通りのタイミングではあるのですが、 Inspire での発表でしたね。 https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/18/introducing-bing-chat-enterprise-microsoft-365-copilot-pricing-and-microsoft-sales-copilot/?WT.mc_id=M365-MVP-50024…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：もうすぐの「新しいチャネル エクスペリエンス」に合わせて変わる小さな変化だけど混乱しそうな点]]></title>
-        <id>https://art-break.net/tech/?p=18750</id>
-        <link href="https://art-break.net/tech/?p=18750"/>
-        <updated>2023-07-18T02:01:42.000Z</updated>
-        <summary type="html"><![CDATA[今のところ今年2023年7月下旬から標準リリース環境でも展開開始される予定である「新しいチャネルエクスペリエンス」ですが、以前の記事では急に変わるとユーザーが混乱する可能性があるという点から対象指定リリース環境ですでに変 … "Microsoft Teams ：もうすぐの「新しいチャネル エクスペリエンス」に合わせて変わる小さな変化だけど混乱しそうな点" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[■]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/18/005856</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/18/005856"/>
-        <updated>2023-07-17T15:58:56.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 5 月ごろにアナウンスのあった Microsoft 365 のファイル共有ダイアログの更新ですが、実際に使えるようになったこととちょっと意識しておかなくてはならないことが分かったのでここで共有しておきたいと思います。 新しい共有ダイアログですが、こんな感じになっています。 メールアドレスとメッセージを含めるだけの簡単はダイアログになっていることがわかるでしょう。 そして、編集権限までいらないときはこのペンマークを押すことで与えすぎた権限を削減することができるようになっています。編集権限と表示権限を切り替えることができる感じですね。 下のほうに目を向けると、いまこのファイルにアクセ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
