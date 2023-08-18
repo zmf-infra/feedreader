@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T00:33:09.708Z</id>
+    <id>urn:2023-08-18T00:33:23.475Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T00:33:09.708Z</updated>
+    <updated>2023-08-18T00:33:23.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams 新機能の説明がポップアップで表示されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/18/022342</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/18/022342"/>
+        <updated>2023-08-17T17:23:42.000Z</updated>
+        <summary type="html"><![CDATA[本日 Microsoft Teams を起動したところ、新機能についてのスプラッシュが表示されるようになっていました。 今回表示されたものは 2023 年 7 月の新機能一覧でした。 このスプラッシュでは 10 件の更新が記されていました。 この内容はすべてサポートのページに記されている内容となっています。 https://support.microsoft.com/ja-jp/office/03f99a8a-0ba9-477c-af88-389d294425c3?WT.mc_id=M365-MVP-5002496 例えばですが、新しい Teams で過去の Teams のような見た目にしたい…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ： iPhone のモバイルアプリがランドスケープモード（横向き表示）に対応された]]></title>
+        <id>https://art-break.net/tech/?p=18912</id>
+        <link href="https://art-break.net/tech/?p=18912"/>
+        <updated>2023-08-17T05:31:10.000Z</updated>
+        <summary type="html"><![CDATA[※僕は Android のモバイルデバイスは持っていないので iPhone のみの話です。 僕はモバイルアプリのアップデートは自動アップデートにはしていません。毎日数回アップデートを確認してアップデート内容を確認したいか … "Microsoft Teams ： iPhone のモバイルアプリがランドスケープモード（横向き表示）に対応された" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 OneDrive for Business の復元機能を使い方を覚えておきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/17/040706</id>
@@ -336,16 +356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：会議のオプションがブラウザー開かなくても設定できるようになった]]></title>
-        <id>https://art-break.net/tech/?p=18776</id>
-        <link href="https://art-break.net/tech/?p=18776"/>
-        <updated>2023-07-24T03:03:15.000Z</updated>
-        <summary type="html"><![CDATA[これは僕にとっては待望のアップデートです。かれこれ半年前くらいからずっと待ってました！ Microsoft Teams の会議は、チームメンバーとパパっと会議するならそのまま会議してしまえば良いけど、「大人数の会議」「役 … "Microsoft Teams ：会議のオプションがブラウザー開かなくても設定できるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23506 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/07/24/013121</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/24/013121"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/20/021646"/>
         <updated>2023-07-19T17:16:46.000Z</updated>
         <summary type="html"><![CDATA[最近の Edge は ChatGPT の機能を強化した Bing Chat の機能が搭載されています。 これはすでに利用されている人も多いと思うのですが、 Web サイトを表示しているときに Bing Chat を開くとページが要約されるという動きを意識して利用されている方はそこまで多くないのではないでしょうか。 というわけで今回は子の要約機能を見ていきたいと思います。 といっても、要約を利用するのに難しい操作は必要ありません。ページを閲覧している最中に Bing Chat ボタンを押して起動するだけで見ることができます。 Inspire の Book of news を表示させたときの状態が…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Copilot の価格感が発表されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/19/022240</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/19/022240"/>
-        <updated>2023-07-18T17:22:40.000Z</updated>
-        <summary type="html"><![CDATA[Build 2023 で発表され、一般利用の開始が待ち遠しい Microsoft 365 Copilot ですが、月額 30 ドルになることが発表されました。 ある意味思った通りのタイミングではあるのですが、 Inspire での発表でしたね。 https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/18/introducing-bing-chat-enterprise-microsoft-365-copilot-pricing-and-microsoft-sales-copilot/?WT.mc_id=M365-MVP-50024…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
