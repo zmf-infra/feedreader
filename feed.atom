@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-18T00:33:23.475Z</id>
+    <id>urn:2023-08-19T00:32:04.665Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T00:33:23.475Z</updated>
+    <updated>2023-08-19T00:32:04.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Server 2012 2023 年 10 月 10 日でサポート終了となることに注意しておきましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/19/022250</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/19/022250"/>
+        <updated>2023-08-18T17:22:50.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 10 月、 Windows 2012 および R2 のサポートが終了となることはご存じでしょうか。 過去、 Windows Server 2008 でも行われたように、サポートの終了時期がさ待ってきています。 今回はあまり大々的にアナウンスされていな感もあるのですが、これは Windows Server 2008 の EOS 時に同様に伝えていたからなのかと思われます。 そんな私も、もうそれを意識しない時期に来ているという感覚があまりなかったので自分への戒めも込めて今回はこの内容を取り上げておきます。 今年の EOS は以下のサイトにあるように、 Windows Server 2…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft To Do ：カテゴリ別にタスクをグループ化]]></title>
+        <id>https://art-break.net/tech/?p=18919</id>
+        <link href="https://art-break.net/tech/?p=18919"/>
+        <updated>2023-08-18T06:39:21.000Z</updated>
+        <summary type="html"><![CDATA[今朝ブラウザーで Microsoft To Do を開いたらこんな吹き出しが出てきました。 ▼右上にグループ化についての吹き出し 特に事前にアナウンスはなかったと思うし、半年前の Microsoft To Do の記事内 … "Microsoft To Do ：カテゴリ別にタスクをグループ化" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams 新機能の説明がポップアップで表示されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/18/022342</id>
@@ -326,16 +346,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：会議の参加者数が会議コントロールバーに表示されるようになった]]></title>
-        <id>https://art-break.net/tech/?p=18788</id>
-        <link href="https://art-break.net/tech/?p=18788"/>
-        <updated>2023-07-26T01:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Teams で会議の参加者数を知りたい場合があると思います。今までだと会議ウィンドウ内でしたら、参加者パネルを表示させて確認していたと思います。 ▼参加者パネル この場合は多くの会議でありがちな開催者 … "Microsoft Teams ：会議の参加者数が会議コントロールバーに表示されるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 SharePoint のデザインに微修正が入りました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/07/26/022401</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/26/022401"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/21/022647"/>
         <updated>2023-07-20T17:26:47.000Z</updated>
         <summary type="html"><![CDATA[ふと Microsoft Base のサイトを眺めていたところ、見慣れた場所が地図から消えていました。 そう、 Microsoft の直営でありフラッグシップ店でもあった代官山が一覧にいないのです。 https://www.microsoft.com/ja-jp/events/azurebase/places/?WT.mc_id=M365-MVP-5002496 ざっと現在残っている場所を眺めてみたのですが、サードパーティーが運営する個所だけが残っている模様です。 連絡先が Microsoft になっている佐賀は直営にも見えるのですが、実際は産官学連携の外郭団体扱いだったはずなので、やはり直接…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Bing Chat の要約機能を活用しましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/20/021646</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/20/021646"/>
-        <updated>2023-07-19T17:16:46.000Z</updated>
-        <summary type="html"><![CDATA[最近の Edge は ChatGPT の機能を強化した Bing Chat の機能が搭載されています。 これはすでに利用されている人も多いと思うのですが、 Web サイトを表示しているときに Bing Chat を開くとページが要約されるという動きを意識して利用されている方はそこまで多くないのではないでしょうか。 というわけで今回は子の要約機能を見ていきたいと思います。 といっても、要約を利用するのに難しい操作は必要ありません。ページを閲覧している最中に Bing Chat ボタンを押して起動するだけで見ることができます。 Inspire の Book of news を表示させたときの状態が…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
