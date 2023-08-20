@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-19T00:32:04.665Z</id>
+    <id>urn:2023-08-20T00:35:50.296Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-19T00:32:04.665Z</updated>
+    <updated>2023-08-20T00:35:50.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Apps Word のファイル再使用が EOS となるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/20/022939</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/20/022939"/>
+        <updated>2023-08-19T17:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 Apps は Microsoft 365 上のデータを効率的に処理するための機能が様々提供されていますが、最近はその淘汰も進んできているようです。 というわけで、今回は Word 内の ホームリボンにある ファイルを再利用する 機能が 2024 年 1 月でサービス終了となります。 この機能は利用がしやすい機能かというとちょっと微妙だったのかもしれません。過去に操作していた Word ファイルを検索し、使える文脈があればコピーして利用するための機能となっていました。 以下がその操作イメージです。 まずこのボタンを押すとファイルを探して～ということで、検索ボックスが表…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Server 2012 2023 年 10 月 10 日でサポート終了となることに注意しておきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/19/022250</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/22/161614"/>
         <updated>2023-07-22T07:16:14.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 のクラシック Stream は 2024 年に終了するのですが、データを残すためには新 Stream への移行が必要になってきます。 新 Stream といってもこれは SharePoint や OneDrive なので難しいことはありません。 しかし、作業としての移行は必要なので、今回はその方法を見ていきたいと思います。 まず移行ですが、クラシック Stream にアクセスすると情報バーに移行ツールのことが書かれています。これを頼りに Stream 管理センターに移動しましょう。 Stream 管理センターの移行は以下の個所で設定ができます。 まずチェックしておき…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Base 代官山が表記から消えています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/21/022647</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/21/022647"/>
-        <updated>2023-07-20T17:26:47.000Z</updated>
-        <summary type="html"><![CDATA[ふと Microsoft Base のサイトを眺めていたところ、見慣れた場所が地図から消えていました。 そう、 Microsoft の直営でありフラッグシップ店でもあった代官山が一覧にいないのです。 https://www.microsoft.com/ja-jp/events/azurebase/places/?WT.mc_id=M365-MVP-5002496 ざっと現在残っている場所を眺めてみたのですが、サードパーティーが運営する個所だけが残っている模様です。 連絡先が Microsoft になっている佐賀は直営にも見えるのですが、実際は産官学連携の外郭団体扱いだったはずなので、やはり直接…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
