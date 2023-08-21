@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-20T00:35:50.296Z</id>
+    <id>urn:2023-08-21T00:34:15.586Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-20T00:35:50.296Z</updated>
+    <updated>2023-08-21T00:34:15.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23526 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/21/021723</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/21/021723"/>
+        <updated>2023-08-20T17:17:23.000Z</updated>
+        <summary type="html"><![CDATA[今週、日本は夏休みがあった組織が多かったのではないかと思いますが、 Windows Insider Program には関係なしとばかりに、今週も新しい Build がリリースされました。 Canary Channel Build 25931 Dev Channel Build 23526 Beta Channel Build 22621/31.2199 といった具合です。 今回は Dev Channel と Canary Channel で別の更新が行われているようでした。まずは Dev Channel の更新から見ていきたいと思います。 一つ目はキャストの機能です。 Win + K のキャ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Apps Word のファイル再使用が EOS となるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/20/022939</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/23/024446"/>
         <updated>2023-07-22T17:44:46.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 管理センターにアクセスしたところ、 UI の一部が更新されていました。 https://admin.microsoft.com/#/homepage トップページの上部にメニューが新たに加わり、様々な機能に直接アクセスするためのショートカットが用意されたようです。 初回アクセスだったためか、説明文も表示されていますね。 説明の通り、ダークモードなどは三点リーダーのオプションメニュー内に格納されています。 右側にある組織名をクリックすると組織情報の設定画面が表示されました。 組織名称や住所などを入力できます。 初期構築時の情報が入っているので、書き換えることはあまりな…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Stream 移行ツールを使ってみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/22/161614</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/22/161614"/>
-        <updated>2023-07-22T07:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 のクラシック Stream は 2024 年に終了するのですが、データを残すためには新 Stream への移行が必要になってきます。 新 Stream といってもこれは SharePoint や OneDrive なので難しいことはありません。 しかし、作業としての移行は必要なので、今回はその方法を見ていきたいと思います。 まず移行ですが、クラシック Stream にアクセスすると情報バーに移行ツールのことが書かれています。これを頼りに Stream 管理センターに移動しましょう。 Stream 管理センターの移行は以下の個所で設定ができます。 まずチェックしておき…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
