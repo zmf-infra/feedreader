@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T00:34:15.586Z</id>
+    <id>urn:2023-08-22T00:34:35.245Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T00:34:15.586Z</updated>
+    <updated>2023-08-22T00:34:35.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge サイドバーに Skype が増えています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/22/032255</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/22/032255"/>
+        <updated>2023-08-21T18:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Skype for Business は Microsoft Teams になり、コンシューマー版の Skype も、 Windows 標準付属のチャットツールとしての役割を終え、 Teams に統合されてからというもの、 Skype の文字を見ることはとんとなくなったかと思っていたのですが、先ごろ Microsoft Edge のサイドバーに Skype という文字が、、、 英語圏を中心にサービスは続いていると聞いていましたが、日本でも標準状態でお目にかかることができるようになったようです。 早速オンにしてみると、懐かしいアイコンがサイドバーに追加されました。 Microsoft のサービス…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Stream ：モバイルアプリからビデオのアップロードができるようになった（ iOS ）]]></title>
+        <id>https://art-break.net/tech/?p=18940</id>
+        <link href="https://art-break.net/tech/?p=18940"/>
+        <updated>2023-08-21T09:13:12.000Z</updated>
+        <summary type="html"><![CDATA[※僕には珍しくネガティブな雰囲気で書いています。 Microsoft Stream が Classic から on SharePoint に移行されていますが、移行開始の頃はむしろデグレードされた感じで、こっちが不安に思 … "Microsoft Stream ：モバイルアプリからビデオのアップロードができるようになった（ iOS ）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23526 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/21/021723</id>
@@ -346,16 +366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャットやチャネルに貼り付けた Microsoft Stream の動画を直接プレビュー・再生できるようになった]]></title>
-        <id>https://art-break.net/tech/?p=18799</id>
-        <link href="https://art-break.net/tech/?p=18799"/>
-        <updated>2023-07-27T04:34:32.000Z</updated>
-        <summary type="html"><![CDATA[先に怪しい記憶なので知っている人がいたら逆に教えてほしいけど、大昔は Microsoft Teams のチャットやチャネルのメッセージに貼り付けた動画は Microsoft Teams 内で再生できた記憶があるんですよね … "Microsoft Teams ：チャットやチャネルに貼り付けた Microsoft Stream の動画を直接プレビュー・再生できるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 メールとカレンダーの Outlook 化がアナウンスされるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/07/27/023443</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/27/023443"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/24/013121"/>
         <updated>2023-07-23T16:31:21.000Z</updated>
         <summary type="html"><![CDATA[今週は Dev Channel の週だったのか、 Dev Channel と Beta Channel の 2 つが更新対象となっていました。 ちなみに Dev Channel は 22H2 のままですね。 今回は Dev Channel で Microsoft Entra ID を利用したパスワードレスサインインのポリシーが利用できるようになったとアナウンスされていました。 手軽に試すには Intune を利用するのがよいでしょう。 デバイス - 構成プロファイル - プロファイルの作成からプラットフォームとして Windows 10 以降を選んでプロファイルの種類を設定カタログにすることで…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 管理センターがリニューアルしています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/23/024446</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/23/024446"/>
-        <updated>2023-07-22T17:44:46.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 管理センターにアクセスしたところ、 UI の一部が更新されていました。 https://admin.microsoft.com/#/homepage トップページの上部にメニューが新たに加わり、様々な機能に直接アクセスするためのショートカットが用意されたようです。 初回アクセスだったためか、説明文も表示されていますね。 説明の通り、ダークモードなどは三点リーダーのオプションメニュー内に格納されています。 右側にある組織名をクリックすると組織情報の設定画面が表示されました。 組織名称や住所などを入力できます。 初期構築時の情報が入っているので、書き換えることはあまりな…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
