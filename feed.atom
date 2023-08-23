@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T00:34:35.245Z</id>
+    <id>urn:2023-08-23T00:33:56.798Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T00:34:35.245Z</updated>
+    <updated>2023-08-23T00:33:56.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Viva Pulse を見てみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/23/030834</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/23/030834"/>
+        <updated>2023-08-22T18:08:34.000Z</updated>
+        <summary type="html"><![CDATA[手元のテスト環境で Viva Pulse が利用できるようになっていました。 今回はこの Viva Pulse でどのようなことができるのか確認していきたいと思います。 アプリを起動すると以下 URL からアクセスする pulse サイトに遷移しました。 https://pulse.viva.cloud.microsoft/ まずはパルスの送信ボタンを押してみましょう。 すると、スプラッシュで利用方法が表示されました。 Pulse の名前の通りアンケートシステムと書かれていますね。 パルス作成の流れはテンプレートを選んでカスタマイズし、誰に対して送るか選ぶという形です。 テンプレートはマネージ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議のスケジュール編）]]></title>
+        <id>https://art-break.net/tech/?p=18959</id>
+        <link href="https://art-break.net/tech/?p=18959"/>
+        <updated>2023-08-22T04:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams の会議で参加メンバー全員が閲覧・編集できる議事録などメモを取る時、今までは「会議のメモ」が備わっていたけど実体は Wiki なのでもう廃止決定の機能です。他には OneNote を使う人も … "Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議のスケジュール編）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge サイドバーに Skype が増えています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/22/032255</id>
@@ -96,11 +116,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャットの引用返信がちょっと楽になった]]></title>
+        <title type="html"><![CDATA[Microsoft Teams ：チャットの引用返信と自分のメッセージの編集がちょっと楽になった]]></title>
         <id>https://art-break.net/tech/?p=18902</id>
         <link href="https://art-break.net/tech/?p=18902"/>
         <updated>2023-08-16T05:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Teams のチームのチャネルの投稿ではスレッドに対して返信ができるけど、チャットに関しては過去を遡ると、なぜかモバイルアプリからしか返信ができない時代が長く、２年前の 2021年9月あたりにようやく … "Microsoft Teams ：チャットの引用返信がちょっと楽になった" の続きを読む]]></summary>
+        <summary type="html"><![CDATA[※記事投稿時には「引用返信」しか気が付いていませんでしたが、その後自分のメッセージの「編集」もちょっと楽になっていたので、本記事の下部に追記しています。 チャットの引用返信がちょっと楽になった Microsoft Tea … "Microsoft Teams ：チャットの引用返信と自分のメッセージの編集がちょっと楽になった" の続きを読む]]></summary>
         <author>
             <name>TAICHI</name>
         </author>
@@ -346,16 +366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Forms ： PowerPoint のスライドにフォームを埋め込めるようになった（ライブアンケートがしやすく）]]></title>
-        <id>https://art-break.net/tech/?p=18811</id>
-        <link href="https://art-break.net/tech/?p=18811"/>
-        <updated>2023-07-28T01:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 の数々のアプリの中では利用率は高い方であろう Microsoft Forms 。アンケートやちょっとしたテストをするには使い勝手が良いですよね。社内だけじゃなく社外の人にも回答してもらうのも非 … "Microsoft Forms ： PowerPoint のスライドにフォームを埋め込めるようになった（ライブアンケートがしやすく）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Edge ショッピングアプリがパワーアップしています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/07/28/023949</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/28/023949"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/25/023101"/>
         <updated>2023-07-24T17:31:01.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 メッセージセンターにて Power Platform の SKU 名が 2023 年 8 月 1 日より変更になることが発表されていました。 Power Apps の Per User という SKU が Premium per user になり、 Power Automate の Attended RPA per user が Premium per user に変わって金額も下がるという内容ですね。 しかし、この内容だとどこがどう変化するのかよくわからないですよね、、、 SKU は以下の Learn を見ると一覧が載っています。 Web の内容だとわかりにくいの…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23506 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/24/013121</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/24/013121"/>
-        <updated>2023-07-23T16:31:21.000Z</updated>
-        <summary type="html"><![CDATA[今週は Dev Channel の週だったのか、 Dev Channel と Beta Channel の 2 つが更新対象となっていました。 ちなみに Dev Channel は 22H2 のままですね。 今回は Dev Channel で Microsoft Entra ID を利用したパスワードレスサインインのポリシーが利用できるようになったとアナウンスされていました。 手軽に試すには Intune を利用するのがよいでしょう。 デバイス - 構成プロファイル - プロファイルの作成からプラットフォームとして Windows 10 以降を選んでプロファイルの種類を設定カタログにすることで…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
