@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-23T00:33:56.798Z</id>
+    <id>urn:2023-08-24T00:34:00.062Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T00:33:56.798Z</updated>
+    <updated>2023-08-24T00:34:00.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 SharePoint Online 上で html ファイルを表示させるには]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/24/015715</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/24/015715"/>
+        <updated>2023-08-23T16:57:15.000Z</updated>
+        <summary type="html"><![CDATA[SharePoint Online で HTML を表示させたいという要望は過去よりあり、特に既存で運営していたサイトを撤廃したいという要望から、そのまま移植できないか。という話が時折上がってくるのですが、 SharePoint の仕様としてそのままでは対応が行えないようになっています。 以下のコマンドレットを実行して PowerShell で設定を変更してから HTML ファイルの拡張子を aspx に変更してアップロードすることでようやく HTML ファイルを aspx ファイルとしてブラウザーから表示させることができるようになります。 Connect-SPOService -Url ht…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議中に使ってみる編）]]></title>
+        <id>https://art-break.net/tech/?p=18998</id>
+        <link href="https://art-break.net/tech/?p=18998"/>
+        <updated>2023-08-23T01:58:53.000Z</updated>
+        <summary type="html"><![CDATA[昨日は会議のスケジュールするところから会議前までの会議のメモの挙動について色々試してみました。まだ読んでない方はそちらから先に読むと良いと思います。 Loop コンポーネントファイルの保存先など割と大事な事も書いているの … "Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議中に使ってみる編）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Viva Pulse を見てみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/23/030834</id>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャットリストのメッセージプレビュー表示・非表示が正しく動作するようになった]]></title>
-        <id>https://art-break.net/tech/?p=18833</id>
-        <link href="https://art-break.net/tech/?p=18833"/>
-        <updated>2023-08-08T00:09:43.000Z</updated>
-        <summary type="html"><![CDATA[色々多忙で1週間以上更新滞ってしまいました。こんなに滞らせたの久しぶりかも。ってことで記事ネタはたくさんあるけど緩く再開！ Microsoft Teams でチャットを開いた時の左側のチャットリストにそれぞれのチャットル … "Microsoft Teams ：チャットリストのメッセージプレビュー表示・非表示が正しく動作するようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Azure Open AI DALL-E が動作するようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/08/025132</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/08/025132"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/26/022401"/>
         <updated>2023-07-25T17:24:01.000Z</updated>
         <summary type="html"><![CDATA[SharePoint Online の画面を見ていたら何やら違和感が、、、 今回はぱっとわからなかったのですが、どうも SharePoint 標準部品のデザインに変更が入ったようです。 Windows 11 関係のデザインといいますか、 Edge でも Build 2023 を終えたころから行われている、角をとった丸まったデザインに移行が行われているようです。 こんな感じですね。 そして、 Web パーツ編集画面については画面のイメージだけでなく、動作が軽快になっている感があります。 以下は Web パーツをポイントしたところ、枠が表示され、場所が分かりやすくなった画面です。 パーツ編集時のメ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Platform SKU の名称が一部変更となるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/25/023101</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/25/023101"/>
-        <updated>2023-07-24T17:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 メッセージセンターにて Power Platform の SKU 名が 2023 年 8 月 1 日より変更になることが発表されていました。 Power Apps の Per User という SKU が Premium per user になり、 Power Automate の Attended RPA per user が Premium per user に変わって金額も下がるという内容ですね。 しかし、この内容だとどこがどう変化するのかよくわからないですよね、、、 SKU は以下の Learn を見ると一覧が載っています。 Web の内容だとわかりにくいの…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
