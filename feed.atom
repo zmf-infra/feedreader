@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-24T00:34:00.062Z</id>
+    <id>urn:2023-08-25T00:34:32.339Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T00:34:00.062Z</updated>
+    <updated>2023-08-25T00:34:32.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams 編集可能な議題機能は活用していますか？]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/25/031628</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/25/031628"/>
+        <updated>2023-08-24T18:16:28.000Z</updated>
+        <summary type="html"><![CDATA[皆さん Teams の会議作成は通常どこから行っていますか？ Microsoft 365 の会議作成は様々なやり方があるため、お気に入りの方法がある方も多いのではないでしょうか。 こんかいはそのなかで、お薦めの方法を紹介します。 それは、 Teams のカレンダーから設定する方法です。 やり方は簡単で、カレンダーアプリから会議したい時間を選択するだけです。 この Teams での会議を推す理由は、この機能からだと編集可能な議題を追加できるんですよね。 じつはこれ、 Loop のメモとなっておりリアルタイムに編集内容が確認できるようになっているんですよね。もちろん会議参加者に編集権限付きで共有さ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 SharePoint Online 上で html ファイルを表示させるには]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/24/015715</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/27/023443"/>
         <updated>2023-07-26T17:34:43.000Z</updated>
         <summary type="html"><![CDATA[Windows メールとカレンダーを開いていたところ、 2024 年にアプリが Outlook ベースに入れ替わることを知らせるアナウンスが表示されるようになっていました。 今までは以下のようにトグルスイッチだけだったので意向を加速させるための準備に入ったということなのでしょう。 2024 年と、アナウンスからあと半年はある状況ですが危機感を持ちやすくなるのはよいことですね。 詳細情報のリンクは以下につながっています。 https://support.microsoft.com/en-us/office/773ecb94-5b16-4155-96e1-bc9afdc08e31?WT.mc_id…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 SharePoint のデザインに微修正が入りました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/26/022401</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/26/022401"/>
-        <updated>2023-07-25T17:24:01.000Z</updated>
-        <summary type="html"><![CDATA[SharePoint Online の画面を見ていたら何やら違和感が、、、 今回はぱっとわからなかったのですが、どうも SharePoint 標準部品のデザインに変更が入ったようです。 Windows 11 関係のデザインといいますか、 Edge でも Build 2023 を終えたころから行われている、角をとった丸まったデザインに移行が行われているようです。 こんな感じですね。 そして、 Web パーツ編集画面については画面のイメージだけでなく、動作が軽快になっている感があります。 以下は Web パーツをポイントしたところ、枠が表示され、場所が分かりやすくなった画面です。 パーツ編集時のメ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
