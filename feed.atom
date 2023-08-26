@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T00:34:32.339Z</id>
+    <id>urn:2023-08-26T00:32:48.932Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-25T00:34:32.339Z</updated>
+    <updated>2023-08-26T00:32:48.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams の管理センターを覗いてみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/26/025259</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/26/025259"/>
+        <updated>2023-08-25T17:52:59.000Z</updated>
+        <summary type="html"><![CDATA[最近の Microsoft 365 は動作も安定しており、また、大きな機能追加などがないため一度設定を行ってからは触っていないという方も多いのではないでしょうか。 かくいう私も、最近はあまり操作していなかった一人なのですが、たまに見に行くと親と思う機能が追加されていたりします。 その一つが Teams 管理センターのプランニングにある Teams アドバイザーです。 その場所は以下のアドレスなのですが、機能展開時に行っておくとよいことがいくつかにまとめられてアナウンスされている機能となっています。 https://admin.teams.microsoft.com/teams-deployme…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams 編集可能な議題機能は活用していますか？]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/25/031628</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/28/023949"/>
         <updated>2023-07-27T17:39:49.000Z</updated>
         <summary type="html"><![CDATA[最近 Edge のサイドバーにあるアプリの進化が止まらないようです。 Windows Copilot が Bing Chat に連動したこともありますが、そのほかのアプリもかなり変わっているようです。 その一つにショッピングアプリの更新がありました。 主に Amazon との連動なのかなと思ったのですが、国内の EC サイトも対象となるみたいです。 対象サイトの一覧などがあればよかったのですが、ざっと探してみたところそういったものはなさそうです。 アプリの関連サイトは以下なので、この辺りに追加してもらいたいところなのですが、、、 https://www.microsoft.com/ja-jp/…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 メールとカレンダーの Outlook 化がアナウンスされるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/27/023443</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/27/023443"/>
-        <updated>2023-07-26T17:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Windows メールとカレンダーを開いていたところ、 2024 年にアプリが Outlook ベースに入れ替わることを知らせるアナウンスが表示されるようになっていました。 今までは以下のようにトグルスイッチだけだったので意向を加速させるための準備に入ったということなのでしょう。 2024 年と、アナウンスからあと半年はある状況ですが危機感を持ちやすくなるのはよいことですね。 詳細情報のリンクは以下につながっています。 https://support.microsoft.com/en-us/office/773ecb94-5b16-4155-96e1-bc9afdc08e31?WT.mc_id…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
