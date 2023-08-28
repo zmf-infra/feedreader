@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-27T00:36:37.192Z</id>
+    <id>urn:2023-08-28T00:35:26.537Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T00:36:37.192Z</updated>
+    <updated>2023-08-28T00:35:26.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23531 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/28/024635</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/28/024635"/>
+        <updated>2023-08-27T17:46:35.000Z</updated>
+        <summary type="html"><![CDATA[今週の Windows 11 Insider Program は 3 つの Channel で更新が行われました。 Canary Channel : Build 25936 Dev Channel : Build 23531 Beta Channel : Build 22621/31.2262 Beta Channel ではいつも通り Dev Channel で取り上げられた機能の展開が行われています。 設定アプリのホーム画面の導入が Beta Channel でも開始さて多とのこと。 そのなかで一つ認識違いをしていたのですが、この機能は Home と Pro のエディションで組織管理されてい…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsft 365 Apps ファイルメニューにアドイン取得ボタンが追加されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/27/023222</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/30/021312"/>
         <updated>2023-07-29T17:13:12.000Z</updated>
         <summary type="html"><![CDATA[2023 年に入り、運営方針の変更であたりをにぎわせた Twitter ですが、利用規約が SharePoint 上の Web パーツにそぐわなくなったということで 2023 年 9 月での EOS が決まったようです。 情報の集約に利用していた人は一定数いたと思うので、この決定は残念ですね。 案内は Microsoft 365 メッセージセンターにあったのですが、内容は Web パーツ一覧からの削除とサポートの終了。ということなので、パーツ自体をアンインストールするイメージではなく、今後配置ができないように入口をふさぐという方向になったようです。 ほしい情報が表示されるかは状況次第になってい…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 PowerPoint のカメオがレリーフという機能に変わっていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/29/014918</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/29/014918"/>
-        <updated>2023-07-28T16:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 Apps 版の Power Point では、ユーザーの顔写真や動画をカメオという形で挿入することができる機能が搭載されています。 Teams で画面共有しながら打合せするときに表示する機能と同じようなものなのですが、挿入リボンのカメラグループに、レリーフという名前に変化していました。 確か前はカメオという名前だったはず。。。 上部の機能検索で表示させると同じアイコンで出てくるので間違いないでしょう。 いつの間にかに名前が変わったのですね。 このレリーフでは、複数のスライドに対し同時にカメオを設定することができるようになったようです。 ページ番号の挿入と同じようなイ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
