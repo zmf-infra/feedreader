@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-28T00:35:26.537Z</id>
+    <id>urn:2023-08-29T00:35:02.882Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T00:35:26.537Z</updated>
+    <updated>2023-08-29T00:35:02.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 メール フローで DLP 処理の一部が利用できなくなる日程が決まったようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/29/032031</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/29/032031"/>
+        <updated>2023-08-28T18:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 では、その機能の動向を開設するため、メッセージセンターで日々開発している機能の動向を説明してくれています。 今回はその中で Exchnage メールフローの DLP 処理の一部が利用できなくなるというアナウンスが出ていたのでその内容を見ていきたいと思います。 2023 年の 11 月半ばに DLP 関連のアクションが一部削除されるという内容となっていました。 アクションは送信者への通知で、機密情報である場合、送信者の上書きの条件が無効になるみたいです。 というか、全体としては主に Exchange のルールを活用した設定はサポートを外れており、早期に Purview…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23531 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/28/024635</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/07/31/012754"/>
         <updated>2023-07-30T16:27:54.000Z</updated>
         <summary type="html"><![CDATA[今週の Insider Program は以下の 3 Channel に更新が入りました。 Beta Channel : Build 22621/31.2115 Dev Channel : Build 23511 Canary Channel : Build 25915 Beta Channel はいつも通り、前回までの取り込みが行われています。中国語に対する手書き入力の強化が新機能として挙げられていました。 Canary Channel では Windows メールの Outlook 化が取り上げられています。こちらは Dev Channel で先に提供されていた感があるので追随した感じです…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 SharePoint の Twitter アプリの EOS が確定しました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/30/021312</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/30/021312"/>
-        <updated>2023-07-29T17:13:12.000Z</updated>
-        <summary type="html"><![CDATA[2023 年に入り、運営方針の変更であたりをにぎわせた Twitter ですが、利用規約が SharePoint 上の Web パーツにそぐわなくなったということで 2023 年 9 月での EOS が決まったようです。 情報の集約に利用していた人は一定数いたと思うので、この決定は残念ですね。 案内は Microsoft 365 メッセージセンターにあったのですが、内容は Web パーツ一覧からの削除とサポートの終了。ということなので、パーツ自体をアンインストールするイメージではなく、今後配置ができないように入口をふさぐという方向になったようです。 ほしい情報が表示されるかは状況次第になってい…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
