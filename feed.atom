@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-29T00:35:02.882Z</id>
+    <id>urn:2023-08-30T00:34:41.556Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-29T00:35:02.882Z</updated>
+    <updated>2023-08-30T00:34:41.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams に作業場所設定機能が追加されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/30/025901</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/30/025901"/>
+        <updated>2023-08-29T17:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Teams を利用していたら、久々にポップアップアナウンスが行われました。 今回の更新は何かなと見ていたのですが、作業場所の設定ですね。 この機能を使うことで、現在地を都度伝えずとも済むという機能となっています。 設定は右にあるユーザーアイコンをクリックすると出てくる + マークから行います。 最初はポップアップで機能説明が表示されるようになっています。 選べる場所はオフィスとリモートの 2 つのみとなっていました。 この辺りは追加できるようになってほしいところです。 オフィスに設定すると、、、ビルのアイコンですね。 ユーザーの詳細カードをみるとオフィス内という記載になっています。 リモートに…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bing Chat Enterprise ：プレビュー版が既定で有効になったようです]]></title>
+        <id>https://art-break.net/tech/?p=19029</id>
+        <link href="https://art-break.net/tech/?p=19029"/>
+        <updated>2023-08-29T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[※正直、諸事情により僕の持っている環境では十分な確認ができないので、最終的には皆さんの環境で確認してください。 あ、先に言っておきますが、僕個人的には Bing Chat ( Enterprise ) はあまり興味ありま … "Bing Chat Enterprise ：プレビュー版が既定で有効になったようです" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 メール フローで DLP 処理の一部が利用できなくなる日程が決まったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/29/032031</id>
@@ -296,16 +316,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Whiteboard ：カラーピッカーが追加され色々な色を使えるようになった]]></title>
-        <id>https://art-break.net/tech/?p=18842</id>
-        <link href="https://art-break.net/tech/?p=18842"/>
-        <updated>2023-08-09T01:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Whiteboard 使っていますか？（っていつもこれ言ってしまう…） Microsoft Whiteboard って地味にアップデート結構あるんですよね。ここ最近ではコメント機能とかUI変更とか…あ … "Microsoft Whiteboard ：カラーピッカーが追加され色々な色を使えるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft MVP サイトがリニューアルされました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/09/024342</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/09/024342"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/01/024256"/>
         <updated>2023-07-31T17:42:56.000Z</updated>
         <summary type="html"><![CDATA[最近、 Microsoft 365 Apps のツールバーが更新されたことをご存じでしょうか。 この辺りは Channel によってはまだリリースされていないかもしれませんが、ちょっと動作に気になるところがあったので今回取り上げておきたいと思います。 ツールバーはクイックアクセスと呼ばれる部分で、自動保存を筆頭にいくつか表示されるアイコン集です。 これ、カスタマイズより新しいモードに変更できるようになったのです。 ツールバーのカスタマイズにあるレイアウトでツール バーという項目を選びましょう。ここから変更を行えます。 変更するとツールバーに入る項目が大きく変わるので注意しておきましょう。 クラ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23511 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/07/31/012754</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/07/31/012754"/>
-        <updated>2023-07-30T16:27:54.000Z</updated>
-        <summary type="html"><![CDATA[今週の Insider Program は以下の 3 Channel に更新が入りました。 Beta Channel : Build 22621/31.2115 Dev Channel : Build 23511 Canary Channel : Build 25915 Beta Channel はいつも通り、前回までの取り込みが行われています。中国語に対する手書き入力の強化が新機能として挙げられていました。 Canary Channel では Windows メールの Outlook 化が取り上げられています。こちらは Dev Channel で先に提供されていた感があるので追随した感じです…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

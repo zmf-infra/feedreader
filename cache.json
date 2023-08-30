@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/08/30/025901",
+          "author": null,
+          "description": "Teams を利用していたら、久々にポップアップアナウンスが行われました。 今回の更新は何かなと見ていたのですが、作業場所の設定ですね。 この機能を使うことで、現在地を都度伝えずとも済むという機能となっています。 設定は右にあるユーザーアイコンをクリックすると出てくる + マークから行います。 最初はポップアップで機能説明が表示されるようになっています。 選べる場所はオフィスとリモートの 2 つのみとなっていました。 この辺りは追加できるようになってほしいところです。 オフィスに設定すると、、、ビルのアイコンですね。 ユーザーの詳細カードをみるとオフィス内という記載になっています。 リモートに…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/08/30/025901",
+          "publishedOn": "2023-08-29T17:59:01.000Z",
+          "wordCount": 633,
+          "title": "Microsoft 365 Teams に作業場所設定機能が追加されました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230822/20230822085408.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/08/29/032031",
           "author": null,
           "description": "Microsoft 365 では、その機能の動向を開設するため、メッセージセンターで日々開発している機能の動向を説明してくれています。 今回はその中で Exchnage メールフローの DLP 処理の一部が利用できなくなるというアナウンスが出ていたのでその内容を見ていきたいと思います。 2023 年の 11 月半ばに DLP 関連のアクションが一部削除されるという内容となっていました。 アクションは送信者への通知で、機密情報である場合、送信者の上書きの条件が無効になるみたいです。 というか、全体としては主に Exchange のルールを活用した設定はサポートを外れており、早期に Purview…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/29/032031",
           "publishedOn": "2023-08-28T18:20:31.000Z",
-          "wordCount": 648,
+          "wordCount": 653,
           "title": "Microsoft 365 メール フローで DLP 処理の一部が利用できなくなる日程が決まったようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230829/20230829030155.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 629,
           "title": "Microsoft 365 Apps ツールバーの更新には気を付けましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230712/20230712011632.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/07/31/012754",
-          "author": null,
-          "description": "今週の Insider Program は以下の 3 Channel に更新が入りました。 Beta Channel : Build 22621/31.2115 Dev Channel : Build 23511 Canary Channel : Build 25915 Beta Channel はいつも通り、前回までの取り込みが行われています。中国語に対する手書き入力の強化が新機能として挙げられていました。 Canary Channel では Windows メールの Outlook 化が取り上げられています。こちらは Dev Channel で先に提供されていた感があるので追随した感じです…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/07/31/012754",
-          "publishedOn": "2023-07-30T16:27:54.000Z",
-          "wordCount": 718,
-          "title": "Windows 11 Insider Preview Build 23511 リリース",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230730/20230730141110.png"
         }
       ]
     },
@@ -313,12 +313,27 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=19029",
+          "author": "TAICHI",
+          "description": "※正直、諸事情により僕の持っている環境では十分な確認ができないので、最終的には皆さんの環境で確認してください。 あ、先に言っておきますが、僕個人的には Bing Chat ( Enterprise ) はあまり興味ありま … \"Bing Chat Enterprise ：プレビュー版が既定で有効になったようです\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19029",
+          "publishedOn": "2023-08-29T02:57:00.000Z",
+          "wordCount": 1795,
+          "title": "Bing Chat Enterprise ：プレビュー版が既定で有効になったようです",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230829.jpg",
+            "length": "37424",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230829.jpg"
+        },
+        {
           "id": "https://art-break.net/tech/?p=18998",
           "author": "TAICHI",
           "description": "昨日は会議のスケジュールするところから会議前までの会議のメモの挙動について色々試してみました。まだ読んでない方はそちらから先に読むと良いと思います。 Loop コンポーネントファイルの保存先など割と大事な事も書いているの … \"Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議中に使ってみる編）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18998",
           "publishedOn": "2023-08-23T01:58:53.000Z",
-          "wordCount": 1745,
+          "wordCount": 1749,
           "title": "Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議中に使ってみる編）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230823-1.png",
@@ -333,7 +348,7 @@
           "description": "Microsoft Teams の会議で参加メンバー全員が閲覧・編集できる議事録などメモを取る時、今までは「会議のメモ」が備わっていたけど実体は Wiki なのでもう廃止決定の機能です。他には OneNote を使う人も … \"Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議のスケジュール編）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18959",
           "publishedOn": "2023-08-22T04:40:55.000Z",
-          "wordCount": 1796,
+          "wordCount": 1795,
           "title": "Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議のスケジュール編）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230823.png",
@@ -348,7 +363,7 @@
           "description": "※僕には珍しくネガティブな雰囲気で書いています。 Microsoft Stream が Classic から on SharePoint に移行されていますが、移行開始の頃はむしろデグレードされた感じで、こっちが不安に思 … \"Microsoft Stream ：モバイルアプリからビデオのアップロードができるようになった（ iOS ）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18940",
           "publishedOn": "2023-08-21T09:13:12.000Z",
-          "wordCount": 1791,
+          "wordCount": 1790,
           "title": "Microsoft Stream ：モバイルアプリからビデオのアップロードができるようになった（ iOS ）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230821.png",
@@ -363,7 +378,7 @@
           "description": "今朝ブラウザーで Microsoft To Do を開いたらこんな吹き出しが出てきました。 ▼右上にグループ化についての吹き出し 特に事前にアナウンスはなかったと思うし、半年前の Microsoft To Do の記事内 … \"Microsoft To Do ：カテゴリ別にタスクをグループ化\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18919",
           "publishedOn": "2023-08-18T06:39:21.000Z",
-          "wordCount": 1730,
+          "wordCount": 1729,
           "title": "Microsoft To Do ：カテゴリ別にタスクをグループ化",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230818.png",
@@ -378,7 +393,7 @@
           "description": "※僕は Android のモバイルデバイスは持っていないので iPhone のみの話です。 僕はモバイルアプリのアップデートは自動アップデートにはしていません。毎日数回アップデートを確認してアップデート内容を確認したいか … \"Microsoft Teams ： iPhone のモバイルアプリがランドスケープモード（横向き表示）に対応された\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18912",
           "publishedOn": "2023-08-17T05:31:10.000Z",
-          "wordCount": 1676,
+          "wordCount": 1675,
           "title": "Microsoft Teams ： iPhone のモバイルアプリがランドスケープモード（横向き表示）に対応された",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230817.png",
@@ -393,7 +408,7 @@
           "description": "※記事投稿時には「引用返信」しか気が付いていませんでしたが、その後自分のメッセージの「編集」もちょっと楽になっていたので、本記事の下部に追記しています。 チャットの引用返信がちょっと楽になった Microsoft Tea … \"Microsoft Teams ：チャットの引用返信と自分のメッセージの編集がちょっと楽になった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18902",
           "publishedOn": "2023-08-16T05:10:01.000Z",
-          "wordCount": 1684,
+          "wordCount": 1683,
           "title": "Microsoft Teams ：チャットの引用返信と自分のメッセージの編集がちょっと楽になった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230816-1.png",
@@ -408,7 +423,7 @@
           "description": "今朝、 SharePoint を触っていたら違和感を覚えました。 ▼ ページ・ニュースのWebパーツの追加 違和感の正体は記事タイトルの通り、「 Stream (クラシック)」Webパーツが消えている点です。 実は僕の環 … \"SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加できなくなった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18896",
           "publishedOn": "2023-08-16T02:41:13.000Z",
-          "wordCount": 1727,
+          "wordCount": 1726,
           "title": "SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加できなくなった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230816.png",
@@ -423,7 +438,7 @@
           "description": "※本記事ではオジサンの僕の顔にメイクが施されているスクショは出さないので安心してください！ ゴリゴリのオジサンの僕でも「メイベリン」と聞けばお化粧品のメーカーかな？くらいは漠然と知っていますが、数カ月前にメイベリンから  … \"Microsoft Teams ：会議でバーチャルメイクを！「 Maybelline Beauty App 」\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18877",
           "publishedOn": "2023-08-15T01:07:10.000Z",
-          "wordCount": 1706,
+          "wordCount": 1705,
           "title": "Microsoft Teams ：会議でバーチャルメイクを！「 Maybelline Beauty App 」",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230815.png",
@@ -438,7 +453,7 @@
           "description": "ここ数週間多忙だったためブログの更新が滞っていましたが、 Microsoft 365 のアップデートは待ってくれません。という事で少し情報としては遅れてしまっていますがのんびりやります。 前回の記事でも Microsof … \"Microsoft Whiteboard ：ユーザーインターフェースが変わった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=18862",
           "publishedOn": "2023-08-14T09:03:45.000Z",
-          "wordCount": 1684,
+          "wordCount": 1683,
           "title": "Microsoft Whiteboard ：ユーザーインターフェースが変わった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230814.png",
@@ -446,21 +461,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230814.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=18842",
-          "author": "TAICHI",
-          "description": "Microsoft Whiteboard 使っていますか？（っていつもこれ言ってしまう…） Microsoft Whiteboard って地味にアップデート結構あるんですよね。ここ最近ではコメント機能とかUI変更とか…あ … \"Microsoft Whiteboard ：カラーピッカーが追加され色々な色を使えるようになった\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=18842",
-          "publishedOn": "2023-08-09T01:19:12.000Z",
-          "wordCount": 1675,
-          "title": "Microsoft Whiteboard ：カラーピッカーが追加され色々な色を使えるようになった",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230809.png",
-            "length": "19352",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230809.png"
         }
       ]
     }
