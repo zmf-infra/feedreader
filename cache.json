@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/08/31/021136",
+          "author": null,
+          "description": "Teams でフォルダーを作ろうとしたところ、見慣れないダイアログが表示されました。 今までは名前を入力して終わりだったはずなのですが、その下にフォルダーの色という項目が追加されていました。 8 個の色が 2 段の計 16 色の設定ができるようになっていますね。 紫色で作成してみたところ、このようにアイコンに色がついてくれました。 ほかの色でもいくつか作ってみたところです。また見た目の問題かもしれませんが、淡色に見えるような色もあれば、ビビッドに見えるものもあり面白い感じです。 原色系は単色に近く映る形ですかね。 ちなみにこの Teams のフォルダーを SharePoint Online で…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/08/31/021136",
+          "publishedOn": "2023-08-30T17:11:36.000Z",
+          "wordCount": 635,
+          "title": "Microsoft 365 Teams のファイルフォルダーに色を付けられるようになりました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230831/20230831005815.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/08/30/025901",
           "author": null,
           "description": "Teams を利用していたら、久々にポップアップアナウンスが行われました。 今回の更新は何かなと見ていたのですが、作業場所の設定ですね。 この機能を使うことで、現在地を都度伝えずとも済むという機能となっています。 設定は右にあるユーザーアイコンをクリックすると出てくる + マークから行います。 最初はポップアップで機能説明が表示されるようになっています。 選べる場所はオフィスとリモートの 2 つのみとなっていました。 この辺りは追加できるようになってほしいところです。 オフィスに設定すると、、、ビルのアイコンですね。 ユーザーの詳細カードをみるとオフィス内という記載になっています。 リモートに…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/30/025901",
           "publishedOn": "2023-08-29T17:59:01.000Z",
-          "wordCount": 633,
+          "wordCount": 638,
           "title": "Microsoft 365 Teams に作業場所設定機能が追加されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230822/20230822085408.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 656,
           "title": "Microsoft 365 Clipchamp がビジネスエディションに追加されています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230801/20230801225947.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/08/01/024256",
-          "author": null,
-          "description": "最近、 Microsoft 365 Apps のツールバーが更新されたことをご存じでしょうか。 この辺りは Channel によってはまだリリースされていないかもしれませんが、ちょっと動作に気になるところがあったので今回取り上げておきたいと思います。 ツールバーはクイックアクセスと呼ばれる部分で、自動保存を筆頭にいくつか表示されるアイコン集です。 これ、カスタマイズより新しいモードに変更できるようになったのです。 ツールバーのカスタマイズにあるレイアウトでツール バーという項目を選びましょう。ここから変更を行えます。 変更するとツールバーに入る項目が大きく変わるので注意しておきましょう。 クラ…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/08/01/024256",
-          "publishedOn": "2023-07-31T17:42:56.000Z",
-          "wordCount": 629,
-          "title": "Microsoft 365 Apps ツールバーの更新には気を付けましょう",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230712/20230712011632.png"
         }
       ]
     },
@@ -313,12 +313,42 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=19058",
+          "author": "TAICHI",
+          "description": "すでに対象指定リリース環境では少し前から確認できていたんだけど、今朝確認したら標準リリース環境でも展開を確認しました。 2023/08/24 付けで Microsoft 365 管理センターのメッセージセンターに以下のメ … \"OneDrive for Business ／ SharePoint ：フォルダーに色を付けられるようになった\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19058",
+          "publishedOn": "2023-08-30T06:38:00.000Z",
+          "wordCount": 1793,
+          "title": "OneDrive for Business ／ SharePoint ：フォルダーに色を付けられるようになった",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230830_2.jpg",
+            "length": "51214",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230830_2.jpg"
+        },
+        {
+          "id": "https://art-break.net/tech/?p=19043",
+          "author": "TAICHI",
+          "description": "Microsoft Forms のスタートページを開くと、 ▼変わりましたね ▼URLも「 DesignPageV2.aspx」に変わってる（前の忘れたけど） これ標準リリース環境でも変わっていたのですでに多くの人が変わ … \"Microsoft Forms ：スタートページが変わったね\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19043",
+          "publishedOn": "2023-08-30T01:03:57.000Z",
+          "wordCount": 1693,
+          "title": "Microsoft Forms ：スタートページが変わったね",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230830.jpg",
+            "length": "28491",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230830.jpg"
+        },
+        {
           "id": "https://art-break.net/tech/?p=19029",
           "author": "TAICHI",
           "description": "※正直、諸事情により僕の持っている環境では十分な確認ができないので、最終的には皆さんの環境で確認してください。 あ、先に言っておきますが、僕個人的には Bing Chat ( Enterprise ) はあまり興味ありま … \"Bing Chat Enterprise ：プレビュー版が既定で有効になったようです\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19029",
           "publishedOn": "2023-08-29T02:57:00.000Z",
-          "wordCount": 1795,
+          "wordCount": 1799,
           "title": "Bing Chat Enterprise ：プレビュー版が既定で有効になったようです",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230829.jpg",
@@ -431,36 +461,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230816.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=18877",
-          "author": "TAICHI",
-          "description": "※本記事ではオジサンの僕の顔にメイクが施されているスクショは出さないので安心してください！ ゴリゴリのオジサンの僕でも「メイベリン」と聞けばお化粧品のメーカーかな？くらいは漠然と知っていますが、数カ月前にメイベリンから  … \"Microsoft Teams ：会議でバーチャルメイクを！「 Maybelline Beauty App 」\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=18877",
-          "publishedOn": "2023-08-15T01:07:10.000Z",
-          "wordCount": 1705,
-          "title": "Microsoft Teams ：会議でバーチャルメイクを！「 Maybelline Beauty App 」",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230815.png",
-            "length": "52356",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230815.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=18862",
-          "author": "TAICHI",
-          "description": "ここ数週間多忙だったためブログの更新が滞っていましたが、 Microsoft 365 のアップデートは待ってくれません。という事で少し情報としては遅れてしまっていますがのんびりやります。 前回の記事でも Microsof … \"Microsoft Whiteboard ：ユーザーインターフェースが変わった\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=18862",
-          "publishedOn": "2023-08-14T09:03:45.000Z",
-          "wordCount": 1683,
-          "title": "Microsoft Whiteboard ：ユーザーインターフェースが変わった",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230814.png",
-            "length": "13393",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230814.png"
         }
       ]
     }

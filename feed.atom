@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-30T00:34:41.556Z</id>
+    <id>urn:2023-08-31T00:34:53.531Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T00:34:41.556Z</updated>
+    <updated>2023-08-31T00:34:53.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams のファイルフォルダーに色を付けられるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/08/31/021136</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/08/31/021136"/>
+        <updated>2023-08-30T17:11:36.000Z</updated>
+        <summary type="html"><![CDATA[Teams でフォルダーを作ろうとしたところ、見慣れないダイアログが表示されました。 今までは名前を入力して終わりだったはずなのですが、その下にフォルダーの色という項目が追加されていました。 8 個の色が 2 段の計 16 色の設定ができるようになっていますね。 紫色で作成してみたところ、このようにアイコンに色がついてくれました。 ほかの色でもいくつか作ってみたところです。また見た目の問題かもしれませんが、淡色に見えるような色もあれば、ビビッドに見えるものもあり面白い感じです。 原色系は単色に近く映る形ですかね。 ちなみにこの Teams のフォルダーを SharePoint Online で…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDrive for Business ／ SharePoint ：フォルダーに色を付けられるようになった]]></title>
+        <id>https://art-break.net/tech/?p=19058</id>
+        <link href="https://art-break.net/tech/?p=19058"/>
+        <updated>2023-08-30T06:38:00.000Z</updated>
+        <summary type="html"><![CDATA[すでに対象指定リリース環境では少し前から確認できていたんだけど、今朝確認したら標準リリース環境でも展開を確認しました。 2023/08/24 付けで Microsoft 365 管理センターのメッセージセンターに以下のメ … "OneDrive for Business ／ SharePoint ：フォルダーに色を付けられるようになった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Forms ：スタートページが変わったね]]></title>
+        <id>https://art-break.net/tech/?p=19043</id>
+        <link href="https://art-break.net/tech/?p=19043"/>
+        <updated>2023-08-30T01:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Forms のスタートページを開くと、 ▼変わりましたね ▼URLも「 DesignPageV2.aspx」に変わってる（前の忘れたけど） これ標準リリース環境でも変わっていたのですでに多くの人が変わ … "Microsoft Forms ：スタートページが変わったね" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams に作業場所設定機能が追加されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/30/025901</id>
@@ -236,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：会議でバーチャルメイクを！「 Maybelline Beauty App 」]]></title>
-        <id>https://art-break.net/tech/?p=18877</id>
-        <link href="https://art-break.net/tech/?p=18877"/>
-        <updated>2023-08-15T01:07:10.000Z</updated>
-        <summary type="html"><![CDATA[※本記事ではオジサンの僕の顔にメイクが施されているスクショは出さないので安心してください！ ゴリゴリのオジサンの僕でも「メイベリン」と聞けばお化粧品のメーカーかな？くらいは漠然と知っていますが、数カ月前にメイベリンから  … "Microsoft Teams ：会議でバーチャルメイクを！「 Maybelline Beauty App 」" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 iOS 15 以前のバージョンに対する EOS がアナウンスされました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/15/013716</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/15/013716"/>
@@ -253,16 +273,6 @@
         <summary type="html"><![CDATA[早いもので、 2023 年ももうすぐ 9 月です。 9 月といえば、 Apple iOS のバージョンアップ時期ということで、 Microsoft 365 管理センターにて、 iOS 15 以前に対するサポートに注意アナウンスが行われました。 この情報では iOS 17 が 9 月頃に発表されるかも。という程度なのですが、サポートの話なので、公式のアナウンスを待ってからでは遅いということなのでしょうね。実際組織内のスマートフォンのバージョンアップは、アナウンスベースで行うことがほとんどだと思うのですが、一筋縄ではいかないんですよね、、、 ちなみに Microsoft 365 のサポートについて…]]></summary>
         <author>
             <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Whiteboard ：ユーザーインターフェースが変わった]]></title>
-        <id>https://art-break.net/tech/?p=18862</id>
-        <link href="https://art-break.net/tech/?p=18862"/>
-        <updated>2023-08-14T09:03:45.000Z</updated>
-        <summary type="html"><![CDATA[ここ数週間多忙だったためブログの更新が滞っていましたが、 Microsoft 365 のアップデートは待ってくれません。という事で少し情報としては遅れてしまっていますがのんびりやります。 前回の記事でも Microsof … "Microsoft Whiteboard ：ユーザーインターフェースが変わった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
         </author>
     </entry>
     <entry>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/02/011946"/>
         <updated>2023-08-01T16:19:46.000Z</updated>
         <summary type="html"><![CDATA[Clipchamp をご存じでしょうか？ Windows 11 のリリースに合わせて搭載された動画編集ソフトなのですが、有料版は別で用意がされていました。 この有料版が Microsoft 365 のビジネスエディションに組み込まれることが決まったようです。 https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/31/introducing-microsoft-clipchamp-unlock-the-power-of-video-at-work/?WT.mc_id=M365-MVP-5002496 なんとスタートは 2023 年…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Apps ツールバーの更新には気を付けましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/01/024256</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/01/024256"/>
-        <updated>2023-07-31T17:42:56.000Z</updated>
-        <summary type="html"><![CDATA[最近、 Microsoft 365 Apps のツールバーが更新されたことをご存じでしょうか。 この辺りは Channel によってはまだリリースされていないかもしれませんが、ちょっと動作に気になるところがあったので今回取り上げておきたいと思います。 ツールバーはクイックアクセスと呼ばれる部分で、自動保存を筆頭にいくつか表示されるアイコン集です。 これ、カスタマイズより新しいモードに変更できるようになったのです。 ツールバーのカスタマイズにあるレイアウトでツール バーという項目を選びましょう。ここから変更を行えます。 変更するとツールバーに入る項目が大きく変わるので注意しておきましょう。 クラ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
