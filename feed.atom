@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-31T00:34:53.531Z</id>
+    <id>urn:2023-09-01T00:37:26.852Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T00:34:53.531Z</updated>
+    <updated>2023-09-01T00:37:26.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開されたか不明…）]]></title>
+        <id>https://art-break.net/tech/?p=19093</id>
+        <link href="https://art-break.net/tech/?p=19093"/>
+        <updated>2023-08-31T23:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Stream が Stream ( Classic ) から Stream ( on SharePoint )　に変わってきて、スタートページも１年以上前に新しく変わったけど、新しいスタートページに大 … "Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開されたか不明…）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 SharePoint で HTML を見るためのビューワーが実装されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/01/030153</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/01/030153"/>
+        <updated>2023-08-31T18:01:53.000Z</updated>
+        <summary type="html"><![CDATA[SharePoint のドキュメントライブラリでの HTML の扱いは、ちょっと前まで直接表示することはできず HTML がダウンロードできるだけとなっていました。 しかしながら 2023 年 8 月にどうもビューワーでの表示が解禁されているみたいです。 具体的には以下を見てください。 ドキュメントライブラリに index.html を配置してみた後に、そのファイルをクリックしてみました。 すると、 PNG など写真を見るビューワーと同様の機能が立ち上がり、ブラウザのように HTML を見ることができるようになったようです。 表示はテーブルなどをサポートしており、リンクも飛べるようにはなってい…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams のファイルフォルダーに色を付けられるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/31/021136</id>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加できなくなった]]></title>
-        <id>https://art-break.net/tech/?p=18896</id>
-        <link href="https://art-break.net/tech/?p=18896"/>
-        <updated>2023-08-16T02:41:13.000Z</updated>
-        <summary type="html"><![CDATA[今朝、 SharePoint を触っていたら違和感を覚えました。 ▼ ページ・ニュースのWebパーツの追加 違和感の正体は記事タイトルの通り、「 Stream (クラシック)」Webパーツが消えている点です。 実は僕の環 … "SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加できなくなった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 サービス正常性画面が日本語化されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/16/024527</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/16/024527"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/03/021753"/>
         <updated>2023-08-02T17:17:53.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Teams のチャットのやり取りを主に管理するチャネルですが、今まで共有チャネルと標準チャネル、合わせて 200 までが作成上限という仕様がありました。 この仕様、なんと一気に拡大され、 1,000 チャネルまで作成できるように上限緩和が行われることになったようです。 https://learn.microsoft.com/ja-jp/microsoftteams/limits-specifications-teams?WT.mc_id=M365-MVP-5002496#teams-and-channels この Learn にあるチームごとのチャネル数が増えるということで…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Clipchamp がビジネスエディションに追加されています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/02/011946</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/02/011946"/>
-        <updated>2023-08-01T16:19:46.000Z</updated>
-        <summary type="html"><![CDATA[Clipchamp をご存じでしょうか？ Windows 11 のリリースに合わせて搭載された動画編集ソフトなのですが、有料版は別で用意がされていました。 この有料版が Microsoft 365 のビジネスエディションに組み込まれることが決まったようです。 https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/31/introducing-microsoft-clipchamp-unlock-the-power-of-video-at-work/?WT.mc_id=M365-MVP-5002496 なんとスタートは 2023 年…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
