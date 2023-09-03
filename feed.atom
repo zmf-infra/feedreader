@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-02T00:33:25.729Z</id>
+    <id>urn:2023-09-03T00:36:55.395Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T00:33:25.729Z</updated>
+    <updated>2023-09-03T00:36:55.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 SharePoint Online ページ作成時のプライベート化が提供されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/03/031805</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/03/031805"/>
+        <updated>2023-09-02T18:18:05.000Z</updated>
+        <summary type="html"><![CDATA[SharePoint Online のページ作成に、プライベートドラフト機能が追加されていました。 今までは投稿に関して、公開するか否かの選択肢くらいしかなかったと思うので、下書き状態でも作成者以外に編集権限をもっている人でも見ることができたんですよね。 この機能のためにページテンプレートを選択する画面にある作成ボタンのわきにチェックボックスが増えていますね。 チェックを入れて作成すると、画面上に以下のスプラッシュが現れました。 詳細情報には以下のサポートへのリンクが付いています。 https://support.microsoft.com/ja-jp/office/e9aa12cc-1ced…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 デバイスマネージャーのハードウェア再スキャンをコマンドから実行してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/02/024242</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/05/024849"/>
         <updated>2023-08-04T17:48:49.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 で利用する ID である Azure AD は 2023 年 7 月 12 日より Microsoft Entra ID に名称変更されたことが伝えられていますが、すでにその変更が様々なところで見えるようになってきたようです。 特に新しいアイコンがどうなるかというのは気になるところかと思いますが、 Microsoft 365 管理センターからその片鱗を確認することができるようになっていました。 以下管理センターから ID を選択してみましょう。 https://admin.microsoft.com/ 遷移先は以下に変わっていました。 Microsoft Entra…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows  11 TLS 1.0 と 1.1 がサポート対象外となるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/04/024738</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/04/024738"/>
-        <updated>2023-08-03T17:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Office 365 関連のセキュリティは度重なるアップデートによって担保されています。 その一環で TLS 1.2 以前のサポートを終了させてきました。 同様に Edge や Internet Explorer でも TLS 1.1 までのバージョンをサポート対象外にしてセキュリティを担保してきました。 その流れの一環として、 Windows でも TLS 1.1 までをサポート終了としていくようです。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/tls-1-0-and-tls-1-1-soon-to-be-disab…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
