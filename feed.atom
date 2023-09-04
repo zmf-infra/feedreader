@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-03T00:36:55.395Z</id>
+    <id>urn:2023-09-04T00:35:37.000Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-03T00:36:55.395Z</updated>
+    <updated>2023-09-04T00:35:37.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23536 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/04/024552</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/04/024552"/>
+        <updated>2023-09-03T17:45:52.000Z</updated>
+        <summary type="html"><![CDATA[今週も Windows Insider Program は元気に動き続けています。 9 月に入り、そろそろ 23H2 の影もちらつき始めるこの頃ですが、今週の更新を見ていきたいと思います。 今週の更新は以下の 3 点でした。 Canary Channel: Build 25941 Dev Channel: Build 23536 Beta Channel: Build 22621/31.2265 まず Beta Channel ですが、 Win + . で起動する絵文字のフォント種が変わったようです。その変化によって絵文字が立体的になっています。 手元の Dev Channel でも確認できな…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 SharePoint Online ページ作成時のプライベート化が提供されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/03/031805</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/06/030631"/>
         <updated>2023-08-05T18:06:31.000Z</updated>
         <summary type="html"><![CDATA[2023 年 4 月頃に申請を出していたのですが、ようやく GPT-4 が利用できるようになったので利用してみたいと思います。 当時の申請 ID は 8 万 3 千番台だったのですが、 7 月中旬に申請 ID を見たときには 18 万 4 千番台だったのでかなり処理がひっ迫している中でもなかなかたどり着かない感じがうかがえます。 ちなみに Outlook on the Web で、 Congratulations という文字が見つかると、パーティーモードを発動してくれるようです。 ポイントしたら紙吹雪が笑 早速中身を見てみましょう。 既存デプロイ済みの環境があったので、 Open AI Stu…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Entra の管理センターで Microsoft Entra ID の新しいアイコンを見ることができました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/05/024849</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/05/024849"/>
-        <updated>2023-08-04T17:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 で利用する ID である Azure AD は 2023 年 7 月 12 日より Microsoft Entra ID に名称変更されたことが伝えられていますが、すでにその変更が様々なところで見えるようになってきたようです。 特に新しいアイコンがどうなるかというのは気になるところかと思いますが、 Microsoft 365 管理センターからその片鱗を確認することができるようになっていました。 以下管理センターから ID を選択してみましょう。 https://admin.microsoft.com/ 遷移先は以下に変わっていました。 Microsoft Entra…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
