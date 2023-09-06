@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-05T00:34:21.696Z</id>
+    <id>urn:2023-09-06T00:34:50.792Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-05T00:34:21.696Z</updated>
+    <updated>2023-09-06T00:34:50.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams 2.0 がブラウザーから利用できるようになっていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/06/023827</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/06/023827"/>
+        <updated>2023-09-05T17:38:27.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 9 月といえば、 Microsoft Teams が新しい UI になり、大量のチームでも快適に動作するようになるはず！ということで待ち望まれている方が多いのではないでしょうか。そんな Teams ですが、 Microsoft 365 Portal サイトメニューからも起動できるようになり、手軽にアクセスできるようになったのはよいけど Web 版は旧 UI なんだよなぁと思っていたらなんと新しい UI で利用できるようになっていたようです。 いつのまに、、、という感じですが、 Teams アプリ版と同じように左側に新しい Teams を試すトグルスイッチが用意されてるようになって…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Loop ：Loop コンポーネントのタスク リストが Microsoft Planner ・ Microsoft To Do と同期]]></title>
+        <id>https://art-break.net/tech/?p=19102</id>
+        <link href="https://art-break.net/tech/?p=19102"/>
+        <updated>2023-09-05T07:24:10.000Z</updated>
+        <summary type="html"><![CDATA[すでに 2023/08/23 に Microsoft Teams の会議のメモが Loop コンポーネントになった記事で記載しているので、やや今更感とダブっている感じはあるけど、一応アレはアレ、コレはコレで記事にします。 … "Microsoft Loop ：Loop コンポーネントのタスク リストが Microsoft Planner ・ Microsoft To Do と同期" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Program 向けのアプリ更新について]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/05/023703</id>
@@ -296,16 +316,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャットの引用返信と自分のメッセージの編集がちょっと楽になった]]></title>
-        <id>https://art-break.net/tech/?p=18902</id>
-        <link href="https://art-break.net/tech/?p=18902"/>
-        <updated>2023-08-16T05:10:01.000Z</updated>
-        <summary type="html"><![CDATA[※記事投稿時には「引用返信」しか気が付いていませんでしたが、その後自分のメッセージの「編集」もちょっと楽になっていたので、本記事の下部に追記しています。 チャットの引用返信がちょっと楽になった Microsoft Tea … "Microsoft Teams ：チャットの引用返信と自分のメッセージの編集がちょっと楽になった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 サービス正常性画面が日本語化されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/16/024527</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/16/024527"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/08/025132"/>
         <updated>2023-08-07T17:51:32.000Z</updated>
         <summary type="html"><![CDATA[2023 年 8 月、今まで承認を取らないと利用できなかった DALL-E が Preview として利用できるようになっていました。 思いもよらず。というタイミングでしたが、プレイグラウンドのところに Preview という形で現れたので間違いないでしょう。 早速押してみると、、、 East US でのみ利用できるようです。 https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models?WT.mc_id=M365-MVP-5002496#dall-e-models-preview Learn を見ると確か…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23516 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/07/022629</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/07/022629"/>
-        <updated>2023-08-06T17:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 の Insider Program は今週も意欲的に活動が続いています。久々のバグバッシュも今週実施がありました。米太平洋時間で 2023 年 8 月 7 日いっぱいまでなので、まだ参加していない方はぜひフィードバックハブから参加してみましょう。 というわけで今週は以下三種類が更新されています。 Dev Channel : 23516 Beta Channel : 22621/31.2129 Canary Channel : 25921 特に大きな点は、 Beta Channel で Windows Copilot が提供されたことでしょう。 これによって Edge のサ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
