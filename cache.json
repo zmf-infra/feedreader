@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/09/07/032236",
+          "author": null,
+          "description": "皆さん、 Booking は活用されていますか？ この機能は主に美容室のようなサービスを提供する側がその施設やサービス提供者の空き時間を知らせるためのもののように見られているケースが多く、自分にはあまり関係ないものとして有効活用していなかったケースも多かったのではないでしょうか。 しかし、 Booking は使い方を工夫すればかなり有用なツールとすることができます。 例えば組織外の方と予定を調整するときに活用すれば、かなり頻用するツールとなると思います。 今回はそんな利用ケースを見ていきます。 まず、 Booking のサイトで会議に参加させたい組織内のユーザーを含めた予定を作成します。 以下…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/09/07/032236",
+          "publishedOn": "2023-09-06T18:22:36.000Z",
+          "wordCount": 653,
+          "title": "Microsoft 365 Booking で外部に空き時間を公開してみましょう",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230901/20230901022518.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/09/06/023827",
           "author": null,
           "description": "2023 年 9 月といえば、 Microsoft Teams が新しい UI になり、大量のチームでも快適に動作するようになるはず！ということで待ち望まれている方が多いのではないでしょうか。そんな Teams ですが、 Microsoft 365 Portal サイトメニューからも起動できるようになり、手軽にアクセスできるようになったのはよいけど Web 版は旧 UI なんだよなぁと思っていたらなんと新しい UI で利用できるようになっていたようです。 いつのまに、、、という感じですが、 Teams アプリ版と同じように左側に新しい Teams を試すトグルスイッチが用意されてるようになって…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/06/023827",
           "publishedOn": "2023-09-05T17:38:27.000Z",
-          "wordCount": 660,
+          "wordCount": 666,
           "title": "Microsoft 365 Teams 2.0 がブラウザーから利用できるようになっていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230906/20230906021516.png"
         },
@@ -21,7 +31,7 @@
           "description": "Windows Insider に関するアップデートには OS 自体だけでなく、関連する Microsoft アプリストアで配信されたものにも更新が入るケースがあります。今回はその中から 2 アップデートを説明していきたいと思います。 まず一つ目はメモ帳です。 いわずと知れたメモ帳ですが、最近は System32 に入っているものから、 Microsoft Store アプリに鞍替えしてきているのはご存じでしょうか。 その中で、保存を行っていなくても Windows のシャットダウン後に起動するとデータが残るようになっていたことに気が付いている人は多いと思います。 その機能はどちらかというと …",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/05/023703",
           "publishedOn": "2023-09-04T17:37:03.000Z",
-          "wordCount": 735,
+          "wordCount": 736,
           "title": "Windows 11 Insider Program 向けのアプリ更新について",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230905/20230905015011.png"
         },
@@ -31,7 +41,7 @@
           "description": "今週も Windows Insider Program は元気に動き続けています。 9 月に入り、そろそろ 23H2 の影もちらつき始めるこの頃ですが、今週の更新を見ていきたいと思います。 今週の更新は以下の 3 点でした。 Canary Channel: Build 25941 Dev Channel: Build 23536 Beta Channel: Build 22621/31.2265 まず Beta Channel ですが、 Win + . で起動する絵文字のフォント種が変わったようです。その変化によって絵文字が立体的になっています。 手元の Dev Channel でも確認できな…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/04/024552",
           "publishedOn": "2023-09-03T17:45:52.000Z",
-          "wordCount": 719,
+          "wordCount": 720,
           "title": "Windows 11 Insider Preview Build 23536 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230903/20230903092919.png"
         },
@@ -41,7 +51,7 @@
           "description": "SharePoint Online のページ作成に、プライベートドラフト機能が追加されていました。 今までは投稿に関して、公開するか否かの選択肢くらいしかなかったと思うので、下書き状態でも作成者以外に編集権限をもっている人でも見ることができたんですよね。 この機能のためにページテンプレートを選択する画面にある作成ボタンのわきにチェックボックスが増えていますね。 チェックを入れて作成すると、画面上に以下のスプラッシュが現れました。 詳細情報には以下のサポートへのリンクが付いています。 https://support.microsoft.com/ja-jp/office/e9aa12cc-1ced…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/03/031805",
           "publishedOn": "2023-09-02T18:18:05.000Z",
-          "wordCount": 622,
+          "wordCount": 623,
           "title": "Microsoft 365 SharePoint Online ページ作成時のプライベート化が提供されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230830/20230830020313.png"
         },
@@ -51,7 +61,7 @@
           "description": "最近 PC の調子が悪く、スリープ後に Wi-Fi が動作しなくなったりします。 色々調べるとどうもデバイスが読み込まれていない場合やエラーとなっているケースがほとんどで、今までは Ctrl + X でデバイス マネージャーを起動して対処していました。 こんな感じに選択したうえでボタンを押す必要があり、なかなか手間がかかっていたのです。 そこで、手数を減らすべく、 PowerShell での実行を考えました。 実行だけであれば、以下のコマンドレットを打つだけでこの機能を利用できるのですが、管理者権限の PowerShell を起動してから打ち込む必要もあり、バッチ化を行えないかとみてみました。…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/02/024242",
           "publishedOn": "2023-09-01T17:42:42.000Z",
-          "wordCount": 671,
+          "wordCount": 672,
           "title": "Windows 11 デバイスマネージャーのハードウェア再スキャンをコマンドから実行してみましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230826/20230826023410.png"
         },
@@ -61,7 +71,7 @@
           "description": "SharePoint のドキュメントライブラリでの HTML の扱いは、ちょっと前まで直接表示することはできず HTML がダウンロードできるだけとなっていました。 しかしながら 2023 年 8 月にどうもビューワーでの表示が解禁されているみたいです。 具体的には以下を見てください。 ドキュメントライブラリに index.html を配置してみた後に、そのファイルをクリックしてみました。 すると、 PNG など写真を見るビューワーと同様の機能が立ち上がり、ブラウザのように HTML を見ることができるようになったようです。 表示はテーブルなどをサポートしており、リンクも飛べるようにはなってい…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/01/030153",
           "publishedOn": "2023-08-31T18:01:53.000Z",
-          "wordCount": 677,
+          "wordCount": 678,
           "title": "Microsoft 365 SharePoint で HTML を見るためのビューワーが実装されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230824/20230824020703.png"
         },
@@ -71,7 +81,7 @@
           "description": "Teams でフォルダーを作ろうとしたところ、見慣れないダイアログが表示されました。 今までは名前を入力して終わりだったはずなのですが、その下にフォルダーの色という項目が追加されていました。 8 個の色が 2 段の計 16 色の設定ができるようになっていますね。 紫色で作成してみたところ、このようにアイコンに色がついてくれました。 ほかの色でもいくつか作ってみたところです。また見た目の問題かもしれませんが、淡色に見えるような色もあれば、ビビッドに見えるものもあり面白い感じです。 原色系は単色に近く映る形ですかね。 ちなみにこの Teams のフォルダーを SharePoint Online で…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/31/021136",
           "publishedOn": "2023-08-30T17:11:36.000Z",
-          "wordCount": 645,
+          "wordCount": 646,
           "title": "Microsoft 365 Teams のファイルフォルダーに色を付けられるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230831/20230831005815.png"
         },
@@ -81,7 +91,7 @@
           "description": "Teams を利用していたら、久々にポップアップアナウンスが行われました。 今回の更新は何かなと見ていたのですが、作業場所の設定ですね。 この機能を使うことで、現在地を都度伝えずとも済むという機能となっています。 設定は右にあるユーザーアイコンをクリックすると出てくる + マークから行います。 最初はポップアップで機能説明が表示されるようになっています。 選べる場所はオフィスとリモートの 2 つのみとなっていました。 この辺りは追加できるようになってほしいところです。 オフィスに設定すると、、、ビルのアイコンですね。 ユーザーの詳細カードをみるとオフィス内という記載になっています。 リモートに…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/30/025901",
           "publishedOn": "2023-08-29T17:59:01.000Z",
-          "wordCount": 641,
+          "wordCount": 642,
           "title": "Microsoft 365 Teams に作業場所設定機能が追加されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230822/20230822085408.png"
         },
@@ -91,7 +101,7 @@
           "description": "Microsoft 365 では、その機能の動向を開設するため、メッセージセンターで日々開発している機能の動向を説明してくれています。 今回はその中で Exchnage メールフローの DLP 処理の一部が利用できなくなるというアナウンスが出ていたのでその内容を見ていきたいと思います。 2023 年の 11 月半ばに DLP 関連のアクションが一部削除されるという内容となっていました。 アクションは送信者への通知で、機密情報である場合、送信者の上書きの条件が無効になるみたいです。 というか、全体としては主に Exchange のルールを活用した設定はサポートを外れており、早期に Purview…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/29/032031",
           "publishedOn": "2023-08-28T18:20:31.000Z",
-          "wordCount": 656,
+          "wordCount": 657,
           "title": "Microsoft 365 メール フローで DLP 処理の一部が利用できなくなる日程が決まったようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230829/20230829030155.png"
         },
@@ -101,7 +111,7 @@
           "description": "今週の Windows 11 Insider Program は 3 つの Channel で更新が行われました。 Canary Channel : Build 25936 Dev Channel : Build 23531 Beta Channel : Build 22621/31.2262 Beta Channel ではいつも通り Dev Channel で取り上げられた機能の展開が行われています。 設定アプリのホーム画面の導入が Beta Channel でも開始さて多とのこと。 そのなかで一つ認識違いをしていたのですが、この機能は Home と Pro のエディションで組織管理されてい…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/28/024635",
           "publishedOn": "2023-08-27T17:46:35.000Z",
-          "wordCount": 726,
+          "wordCount": 727,
           "title": "Windows 11 Insider Preview Build 23531 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230828/20230828011948.png"
         },
@@ -111,7 +121,7 @@
           "description": "Microsoft 365 Apps はどんどん新機能が追加されていくため、その機能を押さえて有効活用することが生産性向上に一役買うことになっていきます。 そのため、利用していない機能も時折確認を入れ、業務に使えないかチェックしていくことが重要なのですが、今回はちょっと目につきやすい M365 Apps のファイルメニューに機能が追加されたお話です。 Word 、 Excel 、 PowerPoint のファイルメニューの情報ボタンの上に「アドインを取得」という項目が追加されていました。 それぞれ動作は同じ形になっており、クリックすると Office アドインダイアログが開き、人気のある Of…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/27/023222",
           "publishedOn": "2023-08-26T17:32:22.000Z",
-          "wordCount": 683,
+          "wordCount": 684,
           "title": "Microsft 365 Apps ファイルメニューにアドイン取得ボタンが追加されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230827/20230827012329.png"
         },
@@ -121,7 +131,7 @@
           "description": "最近の Microsoft 365 は動作も安定しており、また、大きな機能追加などがないため一度設定を行ってからは触っていないという方も多いのではないでしょうか。 かくいう私も、最近はあまり操作していなかった一人なのですが、たまに見に行くと親と思う機能が追加されていたりします。 その一つが Teams 管理センターのプランニングにある Teams アドバイザーです。 その場所は以下のアドレスなのですが、機能展開時に行っておくとよいことがいくつかにまとめられてアナウンスされている機能となっています。 https://admin.teams.microsoft.com/teams-deployme…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/26/025259",
           "publishedOn": "2023-08-25T17:52:59.000Z",
-          "wordCount": 667,
+          "wordCount": 668,
           "title": "Microsoft 365 Teams の管理センターを覗いてみましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230819/20230819013737.png"
         },
@@ -131,7 +141,7 @@
           "description": "皆さん Teams の会議作成は通常どこから行っていますか？ Microsoft 365 の会議作成は様々なやり方があるため、お気に入りの方法がある方も多いのではないでしょうか。 こんかいはそのなかで、お薦めの方法を紹介します。 それは、 Teams のカレンダーから設定する方法です。 やり方は簡単で、カレンダーアプリから会議したい時間を選択するだけです。 この Teams での会議を推す理由は、この機能からだと編集可能な議題を追加できるんですよね。 じつはこれ、 Loop のメモとなっておりリアルタイムに編集内容が確認できるようになっているんですよね。もちろん会議参加者に編集権限付きで共有さ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/25/031628",
           "publishedOn": "2023-08-24T18:16:28.000Z",
-          "wordCount": 655,
+          "wordCount": 656,
           "title": "Microsoft 365 Teams 編集可能な議題機能は活用していますか？",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230825/20230825030833.png"
         },
@@ -141,7 +151,7 @@
           "description": "SharePoint Online で HTML を表示させたいという要望は過去よりあり、特に既存で運営していたサイトを撤廃したいという要望から、そのまま移植できないか。という話が時折上がってくるのですが、 SharePoint の仕様としてそのままでは対応が行えないようになっています。 以下のコマンドレットを実行して PowerShell で設定を変更してから HTML ファイルの拡張子を aspx に変更してアップロードすることでようやく HTML ファイルを aspx ファイルとしてブラウザーから表示させることができるようになります。 Connect-SPOService -Url ht…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/24/015715",
           "publishedOn": "2023-08-23T16:57:15.000Z",
-          "wordCount": 680,
+          "wordCount": 681,
           "title": "Microsoft 365 SharePoint Online 上で html ファイルを表示させるには",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230811/20230811154618.png"
         },
@@ -151,7 +161,7 @@
           "description": "手元のテスト環境で Viva Pulse が利用できるようになっていました。 今回はこの Viva Pulse でどのようなことができるのか確認していきたいと思います。 アプリを起動すると以下 URL からアクセスする pulse サイトに遷移しました。 https://pulse.viva.cloud.microsoft/ まずはパルスの送信ボタンを押してみましょう。 すると、スプラッシュで利用方法が表示されました。 Pulse の名前の通りアンケートシステムと書かれていますね。 パルス作成の流れはテンプレートを選んでカスタマイズし、誰に対して送るか選ぶという形です。 テンプレートはマネージ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/23/030834",
           "publishedOn": "2023-08-22T18:08:34.000Z",
-          "wordCount": 667,
+          "wordCount": 668,
           "title": "Microsoft 365 Viva Pulse を見てみましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230802/20230802001916.png"
         },
@@ -161,7 +171,7 @@
           "description": "Skype for Business は Microsoft Teams になり、コンシューマー版の Skype も、 Windows 標準付属のチャットツールとしての役割を終え、 Teams に統合されてからというもの、 Skype の文字を見ることはとんとなくなったかと思っていたのですが、先ごろ Microsoft Edge のサイドバーに Skype という文字が、、、 英語圏を中心にサービスは続いていると聞いていましたが、日本でも標準状態でお目にかかることができるようになったようです。 早速オンにしてみると、懐かしいアイコンがサイドバーに追加されました。 Microsoft のサービス…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/22/032255",
           "publishedOn": "2023-08-21T18:22:55.000Z",
-          "wordCount": 696,
+          "wordCount": 697,
           "title": "Microsoft Edge サイドバーに Skype が増えています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230822/20230822024619.png"
         },
@@ -171,7 +181,7 @@
           "description": "今週、日本は夏休みがあった組織が多かったのではないかと思いますが、 Windows Insider Program には関係なしとばかりに、今週も新しい Build がリリースされました。 Canary Channel Build 25931 Dev Channel Build 23526 Beta Channel Build 22621/31.2199 といった具合です。 今回は Dev Channel と Canary Channel で別の更新が行われているようでした。まずは Dev Channel の更新から見ていきたいと思います。 一つ目はキャストの機能です。 Win + K のキャ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/21/021723",
           "publishedOn": "2023-08-20T17:17:23.000Z",
-          "wordCount": 734,
+          "wordCount": 735,
           "title": "Windows 11 Insider Preview Build 23526 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230821/20230821001942.png"
         },
@@ -181,7 +191,7 @@
           "description": "Microsoft 365 Apps は Microsoft 365 上のデータを効率的に処理するための機能が様々提供されていますが、最近はその淘汰も進んできているようです。 というわけで、今回は Word 内の ホームリボンにある ファイルを再利用する 機能が 2024 年 1 月でサービス終了となります。 この機能は利用がしやすい機能かというとちょっと微妙だったのかもしれません。過去に操作していた Word ファイルを検索し、使える文脈があればコピーして利用するための機能となっていました。 以下がその操作イメージです。 まずこのボタンを押すとファイルを探して～ということで、検索ボックスが表…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/20/022939",
           "publishedOn": "2023-08-19T17:29:39.000Z",
-          "wordCount": 678,
+          "wordCount": 679,
           "title": "Microsoft 365 Apps Word のファイル再使用が EOS となるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230820/20230820020127.png"
         },
@@ -191,7 +201,7 @@
           "description": "2023 年 10 月、 Windows 2012 および R2 のサポートが終了となることはご存じでしょうか。 過去、 Windows Server 2008 でも行われたように、サポートの終了時期がさ待ってきています。 今回はあまり大々的にアナウンスされていな感もあるのですが、これは Windows Server 2008 の EOS 時に同様に伝えていたからなのかと思われます。 そんな私も、もうそれを意識しない時期に来ているという感覚があまりなかったので自分への戒めも込めて今回はこの内容を取り上げておきます。 今年の EOS は以下のサイトにあるように、 Windows Server 2…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/19/022250",
           "publishedOn": "2023-08-18T17:22:50.000Z",
-          "wordCount": 721,
+          "wordCount": 722,
           "title": "Windows Server 2012 2023 年 10 月 10 日でサポート終了となることに注意しておきましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230818/20230818015707.png"
         },
@@ -201,7 +211,7 @@
           "description": "本日 Microsoft Teams を起動したところ、新機能についてのスプラッシュが表示されるようになっていました。 今回表示されたものは 2023 年 7 月の新機能一覧でした。 このスプラッシュでは 10 件の更新が記されていました。 この内容はすべてサポートのページに記されている内容となっています。 https://support.microsoft.com/ja-jp/office/03f99a8a-0ba9-477c-af88-389d294425c3?WT.mc_id=M365-MVP-5002496 例えばですが、新しい Teams で過去の Teams のような見た目にしたい…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/18/022342",
           "publishedOn": "2023-08-17T17:23:42.000Z",
-          "wordCount": 652,
+          "wordCount": 653,
           "title": "Microsoft 365 Teams 新機能の説明がポップアップで表示されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230817/20230817011406.png"
         },
@@ -211,7 +221,7 @@
           "description": "昨今、ランサムウェアの被害が世界的に増えており、日本でも工場の操業が止まるなどの被害が相次いで発生しています。 これらの問題はコンピューターウイルスによってパソコンやサーバー内のデータが自身の意に反して暗号化されてしまうために発生するのですが、 Microsoft 365 を利用していれば、これらのうちパソコン内のデータ暗号化に対策することができることはご存じでしょうか。 それは OneDrive for Business に置いたファイルの復元機能を利用することで実現できるようになっています。 OneDrive for Business はクラウド上のストレージですが、 OneDrive ア…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/17/040706",
           "publishedOn": "2023-08-16T19:07:06.000Z",
-          "wordCount": 652,
+          "wordCount": 653,
           "title": "Microsoft 365 OneDrive for Business の復元機能を使い方を覚えておきましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230730/20230730132719.png"
         },
@@ -221,7 +231,7 @@
           "description": "Microsoft 365 管理センターを眺めていたところ、 サービス正常性の表示が日本語になっていることに気が付きました。 ちょっと前までは英語表記だったのですが、以下のようにダッシュボード上で日本語が見えたので気が付きました。 サービス正常性の画面上でも日本語になっていることを確認することができます。 以下がアドレスですが、こんな感じですね。 https://admin.microsoft.com/#/servicehealth 問題の詳細も日本語で表示され、また、英語に切り替えるためのボタンも用意されています。 一覧側で英語に切り替えたときは以下のような表示になりました。 問題の種類や状…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/16/024527",
           "publishedOn": "2023-08-15T17:45:27.000Z",
-          "wordCount": 616,
+          "wordCount": 617,
           "title": "Microsoft 365 サービス正常性画面が日本語化されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230816/20230816013407.png"
         },
@@ -231,7 +241,7 @@
           "description": "早いもので、 2023 年ももうすぐ 9 月です。 9 月といえば、 Apple iOS のバージョンアップ時期ということで、 Microsoft 365 管理センターにて、 iOS 15 以前に対するサポートに注意アナウンスが行われました。 この情報では iOS 17 が 9 月頃に発表されるかも。という程度なのですが、サポートの話なので、公式のアナウンスを待ってからでは遅いということなのでしょうね。実際組織内のスマートフォンのバージョンアップは、アナウンスベースで行うことがほとんどだと思うのですが、一筋縄ではいかないんですよね、、、 ちなみに Microsoft 365 のサポートについて…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/15/013716",
           "publishedOn": "2023-08-14T16:37:16.000Z",
-          "wordCount": 687,
+          "wordCount": 688,
           "title": "Microsoft 365 iOS 15 以前のバージョンに対する EOS がアナウンスされました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230815/20230815010408.png"
         },
@@ -241,7 +251,7 @@
           "description": "今週の Windows Insider はフルセットでの更新となっています。 更新バージョンは以下の通り。 Beta Channel までの Insider は新機能導入がいくつか行われています。 Canary Channel Build 25926 Dev Channel Build 23521 Beta Channel Build 22621/31.2191 Release Preview Channel は機能追従とバグフィックスが中心となっています。 この機能追従はどこまで行っても悩ましいですね。結局細部が更新されていくなら最新版を入れてしまったほうが良い。という方針になりがちなのです…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/14/020351",
           "publishedOn": "2023-08-13T17:03:51.000Z",
-          "wordCount": 775,
+          "wordCount": 776,
           "title": "Windows 11 Insider Preview Build 23521 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230813/20230813231034.png"
         },
@@ -251,7 +261,7 @@
           "description": "Microsoft 365 E5 を利用していると Power BI Pro のライセンスがユーザーに割り当てられるため、利用している人も多くいるのではないかと推測しています。 この Power BI ですが、今までは Power BI Desktop をインストールして表示するか、 Web 版のデプロイをりようするかの 2 択だったのですが、最近 Power BI Desktop のファイルをそのまま Web で表示する Viewer 機能が提供され始めています。 これは現在プレビューで、利用したい人だけが使えるようになっていますが、 2023 年 10 月より誰でも利用できるように機能が更…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/13/020335",
           "publishedOn": "2023-08-12T17:03:35.000Z",
-          "wordCount": 696,
+          "wordCount": 697,
           "title": "Microsoft 365 Power BI ファイルのプレビューを設定しましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230813/20230813015456.png"
         },
@@ -261,7 +271,7 @@
           "description": "2023 年 8 月上旬にチェックした際はまだなかったと思うのですが、 8 月も中旬になりいつの間にか GPT-4 でもプレイグラウンド上に Deploy to の文字が表示されるようになっていました。 行えるのは Web アプリを用意することのみとなっています。 作成ボタンを押すと以下のような Web App を簡単に作るためのメニューが表示されました。 入力内容はほとんど何もないようなものなので、簡易に作る分にはこれでことが済みそうなレベルですね。 一番最後の承諾の横に、 View Pricing に遷移するリンクがあるのですが、以下の Learn になっているため価格はわからないんですよ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/12/022916",
           "publishedOn": "2023-08-11T17:29:16.000Z",
-          "wordCount": 687,
+          "wordCount": 688,
           "title": "Azure Open AI Studio Deploy to ボタンが東日本の GPT-4 でも表示されるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230811/20230811011905.png"
         },
@@ -271,7 +281,7 @@
           "description": "Windows 11 の Insider Program では Canary Channel が不定期に長期ロード向けの更新を行い、 Dev Channel が次期バージョンなどに向けた新機能を試すための場所となっています。そのためお薦め Channel としては Dev Channel が良いと定義がされています。 https://blogs.windows.com/windows-insider/2023/03/06/whats-coming-for-the-windows-insider-program-in-2023/?WT.mc_id=WDIT-MVP-5002496 この辺りの更新…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/11/010623",
           "publishedOn": "2023-08-10T16:06:23.000Z",
-          "wordCount": 773,
+          "wordCount": 774,
           "title": "Windows 11 Insider Preview Canary Channel を Dev Channel に変更しましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230702/20230702143310.png"
         },
@@ -281,7 +291,7 @@
           "description": "Insider Program で提供されている Dynamic Lighting という機能をご存じでしょうか。 この機能はゲーミングデバイスによくある光るものを制御するための機能となっています。 設定アプリの中にある個人用設定にこの項目が追加されていました。 リリース投書を一部ユーザーのみ表示となっていたので、ようやく私の環境にもやってきたという感じですね。 設定項目はこんな感じになっています。 利用の有無からフォアグラウンド、バックグラウンドの設定、そして明るさ、色の種類を選択できます。 色の種類は以下の ６ 種類ですね。この辺りは今後増えていくのかもしれませんが、進化の方向性は気になる…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/10/024352",
           "publishedOn": "2023-08-09T17:43:52.000Z",
-          "wordCount": 642,
+          "wordCount": 643,
           "title": "Windows 11 Dynamic Lighting 機能が見えるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230810/20230810015120.png"
         },
@@ -291,19 +301,9 @@
           "description": "2023 年 8 月 9 日、 Microsoft MVP のランディングサイトがリニューアルされました。 https://mvp.microsoft.com/ja-JP/mvp 今までとコンテンツには大差ないのですが、カルーセルを取り入れるなど、近年の Web サイトによくあるモダンな構成に入れかわった感じです。 といっても Microsoft MVP というものを知らない人も多いと思うのですが、コミュニティで活躍している人を表彰する仕組みで、今年で 30 周年になる歴史のある賞です。 詳細は以下を見てもらうとイメージが付くと思います。 https://mvp.microsoft.com/j…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/09/024342",
           "publishedOn": "2023-08-08T17:43:42.000Z",
-          "wordCount": 679,
+          "wordCount": 680,
           "title": "Microsoft MVP サイトがリニューアルされました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230809/20230809022502.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/08/08/025132",
-          "author": null,
-          "description": "2023 年 8 月、今まで承認を取らないと利用できなかった DALL-E が Preview として利用できるようになっていました。 思いもよらず。というタイミングでしたが、プレイグラウンドのところに Preview という形で現れたので間違いないでしょう。 早速押してみると、、、 East US でのみ利用できるようです。 https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models?WT.mc_id=M365-MVP-5002496#dall-e-models-preview Learn を見ると確か…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/08/08/025132",
-          "publishedOn": "2023-08-07T17:51:32.000Z",
-          "wordCount": 670,
-          "title": "Azure Open AI DALL-E が動作するようになりました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230804/20230804114204.png"
         }
       ]
     },

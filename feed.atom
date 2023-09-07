@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-06T00:34:50.792Z</id>
+    <id>urn:2023-09-07T00:34:25.263Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T00:34:50.792Z</updated>
+    <updated>2023-09-07T00:34:25.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Booking で外部に空き時間を公開してみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/07/032236</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/07/032236"/>
+        <updated>2023-09-06T18:22:36.000Z</updated>
+        <summary type="html"><![CDATA[皆さん、 Booking は活用されていますか？ この機能は主に美容室のようなサービスを提供する側がその施設やサービス提供者の空き時間を知らせるためのもののように見られているケースが多く、自分にはあまり関係ないものとして有効活用していなかったケースも多かったのではないでしょうか。 しかし、 Booking は使い方を工夫すればかなり有用なツールとすることができます。 例えば組織外の方と予定を調整するときに活用すれば、かなり頻用するツールとなると思います。 今回はそんな利用ケースを見ていきます。 まず、 Booking のサイトで会議に参加させたい組織内のユーザーを含めた予定を作成します。 以下…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams 2.0 がブラウザーから利用できるようになっていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/06/023827</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/09/024342"/>
         <updated>2023-08-08T17:43:42.000Z</updated>
         <summary type="html"><![CDATA[2023 年 8 月 9 日、 Microsoft MVP のランディングサイトがリニューアルされました。 https://mvp.microsoft.com/ja-JP/mvp 今までとコンテンツには大差ないのですが、カルーセルを取り入れるなど、近年の Web サイトによくあるモダンな構成に入れかわった感じです。 といっても Microsoft MVP というものを知らない人も多いと思うのですが、コミュニティで活躍している人を表彰する仕組みで、今年で 30 周年になる歴史のある賞です。 詳細は以下を見てもらうとイメージが付くと思います。 https://mvp.microsoft.com/j…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Open AI DALL-E が動作するようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/08/025132</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/08/025132"/>
-        <updated>2023-08-07T17:51:32.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 8 月、今まで承認を取らないと利用できなかった DALL-E が Preview として利用できるようになっていました。 思いもよらず。というタイミングでしたが、プレイグラウンドのところに Preview という形で現れたので間違いないでしょう。 早速押してみると、、、 East US でのみ利用できるようです。 https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models?WT.mc_id=M365-MVP-5002496#dall-e-models-preview Learn を見ると確か…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
