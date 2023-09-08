@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-07T00:34:25.263Z</id>
+    <id>urn:2023-09-08T00:34:38.045Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T00:34:25.263Z</updated>
+    <updated>2023-09-08T00:34:38.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Micosoft Ignite 2023 今年も登録が開始されました！]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/08/030751</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/08/030751"/>
+        <updated>2023-09-07T18:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft の年次イベントで ITPro 向けの情報発表会、 Ignite が今年もやってきます。 今年は 11 月 14 日から 17 日までの 4 日間の開催となっています。オンラインはそのうち 15 日と 16 日の 2 日間ですね。 https://ignite.microsoft.com/en-US/home 今年は年間を通して AI の年となっていますが、 Ignite も AI 一色になりそうなページ構成です笑 登録は上記サイトの Register now から行うのですが、シアトルでの現地開催も用意されています。 2023 年 10 月 11 日までは特別料金、なぜか …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Stream ：スタートページの「＋追加先」ってなんだろう？（今後に期待…）]]></title>
+        <id>https://art-break.net/tech/?p=19144</id>
+        <link href="https://art-break.net/tech/?p=19144"/>
+        <updated>2023-09-07T08:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Stream のスタートページについては先日もグリッド表示にいつの間に対応してくれた記事を書きました。 Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開 … "Microsoft Stream ：スタートページの「＋追加先」ってなんだろう？（今後に期待…）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Booking で外部に空き時間を公開してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/07/032236</id>
@@ -306,16 +326,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ： iPhone のモバイルアプリがランドスケープモード（横向き表示）に対応された]]></title>
-        <id>https://art-break.net/tech/?p=18912</id>
-        <link href="https://art-break.net/tech/?p=18912"/>
-        <updated>2023-08-17T05:31:10.000Z</updated>
-        <summary type="html"><![CDATA[※僕は Android のモバイルデバイスは持っていないので iPhone のみの話です。 僕はモバイルアプリのアップデートは自動アップデートにはしていません。毎日数回アップデートを確認してアップデート内容を確認したいか … "Microsoft Teams ： iPhone のモバイルアプリがランドスケープモード（横向き表示）に対応された" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 OneDrive for Business の復元機能を使い方を覚えておきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/17/040706</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/17/040706"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/10/024352"/>
         <updated>2023-08-09T17:43:52.000Z</updated>
         <summary type="html"><![CDATA[Insider Program で提供されている Dynamic Lighting という機能をご存じでしょうか。 この機能はゲーミングデバイスによくある光るものを制御するための機能となっています。 設定アプリの中にある個人用設定にこの項目が追加されていました。 リリース投書を一部ユーザーのみ表示となっていたので、ようやく私の環境にもやってきたという感じですね。 設定項目はこんな感じになっています。 利用の有無からフォアグラウンド、バックグラウンドの設定、そして明るさ、色の種類を選択できます。 色の種類は以下の ６ 種類ですね。この辺りは今後増えていくのかもしれませんが、進化の方向性は気になる…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft MVP サイトがリニューアルされました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/09/024342</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/09/024342"/>
-        <updated>2023-08-08T17:43:42.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 8 月 9 日、 Microsoft MVP のランディングサイトがリニューアルされました。 https://mvp.microsoft.com/ja-JP/mvp 今までとコンテンツには大差ないのですが、カルーセルを取り入れるなど、近年の Web サイトによくあるモダンな構成に入れかわった感じです。 といっても Microsoft MVP というものを知らない人も多いと思うのですが、コミュニティで活躍している人を表彰する仕組みで、今年で 30 周年になる歴史のある賞です。 詳細は以下を見てもらうとイメージが付くと思います。 https://mvp.microsoft.com/j…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
