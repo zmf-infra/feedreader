@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-08T00:34:38.045Z</id>
+    <id>urn:2023-09-09T00:33:41.691Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T00:34:38.045Z</updated>
+    <updated>2023-09-09T00:33:41.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Micosoft Edge 検索の推論が行われるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/09/010147</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/09/010147"/>
+        <updated>2023-09-08T16:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Edge で検索を行っていたところ今まで見たことのないメッセージが表示されることに気が付きました。 長文の検索文字を入力していたところ、、、別の項目を見つけてくれるように。 これ、 Bing などの検索エンジンでもあるような入力ミスなどをチェックしてくれる機能に似ていますね。検索エンジンの機能には大いに助けられているので、うれしい機能の一つですね。 次の項目のリンクを押すとその単語が検索ボックスに移動し、そのまま検索される動きとなるようです。 ここで表示される推論は、ページ内の文字を見ているようです。 同じ検索でも、対象ページに置き換えるべき単語があるかどうかで出す出さない…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint ：「ビデオコレクション」というページが実はある]]></title>
+        <id>https://art-break.net/tech/?p=19164</id>
+        <link href="https://art-break.net/tech/?p=19164"/>
+        <updated>2023-09-08T09:52:40.000Z</updated>
+        <summary type="html"><![CDATA[ふとビデオコレクションページを思い出したんだけど、当ブログに記事にしていなかったようです。なので今更だけど記事にします。（本機能は去年2022年7月～8月中旬にかけて展開されたアップデートです。） このアップデートで、サ … "SharePoint ：「ビデオコレクション」というページが実はある" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Micosoft Ignite 2023 今年も登録が開始されました！]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/08/030751</id>
@@ -306,16 +326,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft To Do ：カテゴリ別にタスクをグループ化]]></title>
-        <id>https://art-break.net/tech/?p=18919</id>
-        <link href="https://art-break.net/tech/?p=18919"/>
-        <updated>2023-08-18T06:39:21.000Z</updated>
-        <summary type="html"><![CDATA[今朝ブラウザーで Microsoft To Do を開いたらこんな吹き出しが出てきました。 ▼右上にグループ化についての吹き出し 特に事前にアナウンスはなかったと思うし、半年前の Microsoft To Do の記事内 … "Microsoft To Do ：カテゴリ別にタスクをグループ化" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams 新機能の説明がポップアップで表示されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/18/022342</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/18/022342"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/11/010623"/>
         <updated>2023-08-10T16:06:23.000Z</updated>
         <summary type="html"><![CDATA[Windows 11 の Insider Program では Canary Channel が不定期に長期ロード向けの更新を行い、 Dev Channel が次期バージョンなどに向けた新機能を試すための場所となっています。そのためお薦め Channel としては Dev Channel が良いと定義がされています。 https://blogs.windows.com/windows-insider/2023/03/06/whats-coming-for-the-windows-insider-program-in-2023/?WT.mc_id=WDIT-MVP-5002496 この辺りの更新…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Dynamic Lighting 機能が見えるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/10/024352</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/10/024352"/>
-        <updated>2023-08-09T17:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Insider Program で提供されている Dynamic Lighting という機能をご存じでしょうか。 この機能はゲーミングデバイスによくある光るものを制御するための機能となっています。 設定アプリの中にある個人用設定にこの項目が追加されていました。 リリース投書を一部ユーザーのみ表示となっていたので、ようやく私の環境にもやってきたという感じですね。 設定項目はこんな感じになっています。 利用の有無からフォアグラウンド、バックグラウンドの設定、そして明るさ、色の種類を選択できます。 色の種類は以下の ６ 種類ですね。この辺りは今後増えていくのかもしれませんが、進化の方向性は気になる…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
