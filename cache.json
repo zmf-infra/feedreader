@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/09/10/022555",
+          "author": null,
+          "description": "前にも Windows 11 のメールと予定表が 2024 年には Outlook に切り替わっていくという話は行いましたが、その時は私の環境ではうまく動作しなかったのですが、また案内の形が変わっていたので試してみました。 結果、切り替えることができるようになっていました。 切り替えを行うとこのような形で事前設定が走っていきます。 データを Outlook に委ねる。とあるように、新しい Outlook は Outlook on the Web の仕組みとなっているようですね。データは Outlook.com 内にとどまる形をとるようです。 わかりにくいのですが、このスプラッシュは下のほうにス…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/09/10/022555",
+          "publishedOn": "2023-09-09T17:25:55.000Z",
+          "wordCount": 692,
+          "title": "Windows 11 メールと予定表が Outlook に変更できるようになりました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230903/20230903022328.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/09/09/010147",
           "author": null,
           "description": "Microsoft Edge で検索を行っていたところ今まで見たことのないメッセージが表示されることに気が付きました。 長文の検索文字を入力していたところ、、、別の項目を見つけてくれるように。 これ、 Bing などの検索エンジンでもあるような入力ミスなどをチェックしてくれる機能に似ていますね。検索エンジンの機能には大いに助けられているので、うれしい機能の一つですね。 次の項目のリンクを押すとその単語が検索ボックスに移動し、そのまま検索される動きとなるようです。 ここで表示される推論は、ページ内の文字を見ているようです。 同じ検索でも、対象ページに置き換えるべき単語があるかどうかで出す出さない…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/09/010147",
           "publishedOn": "2023-09-08T16:01:47.000Z",
-          "wordCount": 623,
+          "wordCount": 629,
           "title": "Micosoft Edge 検索の推論が行われるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230902/20230902024432.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 683,
           "title": "Azure Open AI Studio Deploy to ボタンが東日本の GPT-4 でも表示されるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230811/20230811011905.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/08/11/010623",
-          "author": null,
-          "description": "Windows 11 の Insider Program では Canary Channel が不定期に長期ロード向けの更新を行い、 Dev Channel が次期バージョンなどに向けた新機能を試すための場所となっています。そのためお薦め Channel としては Dev Channel が良いと定義がされています。 https://blogs.windows.com/windows-insider/2023/03/06/whats-coming-for-the-windows-insider-program-in-2023/?WT.mc_id=WDIT-MVP-5002496 この辺りの更新…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/08/11/010623",
-          "publishedOn": "2023-08-10T16:06:23.000Z",
-          "wordCount": 769,
-          "title": "Windows 11 Insider Preview Canary Channel を Dev Channel に変更しましょう",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230702/20230702143310.png"
         }
       ]
     },
