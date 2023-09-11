@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-10T00:37:12.156Z</id>
+    <id>urn:2023-09-11T00:35:33.533Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-10T00:37:12.156Z</updated>
+    <updated>2023-09-11T00:35:33.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23541 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/11/020222</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/11/020222"/>
+        <updated>2023-09-10T17:02:22.000Z</updated>
+        <summary type="html"><![CDATA[今週も Windows 11 の Insider Program は動き続けています。 今回は Beta Channel までの 3 チャネルが更新されていました。 Canary Channel: Build 25947 Dev Channel: Build 23541 Beta Channel: Build 22621/31.2271 今回は更新といっても Beta Channel で設定アプリの手書き入力が一時的に休止されたり、 Canary Channel でカラーフォントを利用した絵文字が使えなくなったりと、調整の行われた週となっていました。 そんなバグフィックスに焦点を置いた週でした…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 メールと予定表が Outlook に変更できるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/10/022555</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/13/020335"/>
         <updated>2023-08-12T17:03:35.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 E5 を利用していると Power BI Pro のライセンスがユーザーに割り当てられるため、利用している人も多くいるのではないかと推測しています。 この Power BI ですが、今までは Power BI Desktop をインストールして表示するか、 Web 版のデプロイをりようするかの 2 択だったのですが、最近 Power BI Desktop のファイルをそのまま Web で表示する Viewer 機能が提供され始めています。 これは現在プレビューで、利用したい人だけが使えるようになっていますが、 2023 年 10 月より誰でも利用できるように機能が更…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Open AI Studio Deploy to ボタンが東日本の GPT-4 でも表示されるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/12/022916</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/12/022916"/>
-        <updated>2023-08-11T17:29:16.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 8 月上旬にチェックした際はまだなかったと思うのですが、 8 月も中旬になりいつの間にか GPT-4 でもプレイグラウンド上に Deploy to の文字が表示されるようになっていました。 行えるのは Web アプリを用意することのみとなっています。 作成ボタンを押すと以下のような Web App を簡単に作るためのメニューが表示されました。 入力内容はほとんど何もないようなものなので、簡易に作る分にはこれでことが済みそうなレベルですね。 一番最後の承諾の横に、 View Pricing に遷移するリンクがあるのですが、以下の Learn になっているため価格はわからないんですよ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
