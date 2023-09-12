@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-11T00:35:33.533Z</id>
+    <id>urn:2023-09-12T00:34:00.599Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T00:35:33.533Z</updated>
+    <updated>2023-09-12T00:34:00.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 ペイントに背景削除機能が付きました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/12/014112</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/12/014112"/>
+        <updated>2023-09-11T16:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 Insider Dev と Canary Channel に提供されているペイントアプリに背景の削除機能が加わりました。 リボンの左側に小さいアイコンで存在しているので若干気が付きにくいかもしれません。 搭載は 11.2306.30.0 からとなっています。右上の設定ボタンからバージョンをチェックすることが可能です。 さて、この背景の削除ですが、どの程度使えるものなのか見ていきたいと思います。 まずこんな写真を用意してみました。 この写真をプリントアプリに張り付けて、ボタンを押すと、、、 計算が始まります。時間がかかるわけではないのですが、何ら設定もなく動き始めるのはやや…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23541 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/11/020222</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/14/020351"/>
         <updated>2023-08-13T17:03:51.000Z</updated>
         <summary type="html"><![CDATA[今週の Windows Insider はフルセットでの更新となっています。 更新バージョンは以下の通り。 Beta Channel までの Insider は新機能導入がいくつか行われています。 Canary Channel Build 25926 Dev Channel Build 23521 Beta Channel Build 22621/31.2191 Release Preview Channel は機能追従とバグフィックスが中心となっています。 この機能追従はどこまで行っても悩ましいですね。結局細部が更新されていくなら最新版を入れてしまったほうが良い。という方針になりがちなのです…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Power BI ファイルのプレビューを設定しましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/13/020335</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/13/020335"/>
-        <updated>2023-08-12T17:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 E5 を利用していると Power BI Pro のライセンスがユーザーに割り当てられるため、利用している人も多くいるのではないかと推測しています。 この Power BI ですが、今までは Power BI Desktop をインストールして表示するか、 Web 版のデプロイをりようするかの 2 択だったのですが、最近 Power BI Desktop のファイルをそのまま Web で表示する Viewer 機能が提供され始めています。 これは現在プレビューで、利用したい人だけが使えるようになっていますが、 2023 年 10 月より誰でも利用できるように機能が更…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
