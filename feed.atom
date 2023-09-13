@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T00:34:00.599Z</id>
+    <id>urn:2023-09-13T00:35:18.652Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T00:34:00.599Z</updated>
+    <updated>2023-09-13T00:35:18.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Answers in Viva のリリースが間近となっています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/13/012015</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/13/012015"/>
+        <updated>2023-09-12T16:20:15.000Z</updated>
+        <summary type="html"><![CDATA[LLM は文章を理解できる機械学習の機能として、最近は大いに市民権を得ることができたのかと思います。 多くの組織では、その潜在力を認めつつも実用まであと一歩のところで実証検証されているケースが多いのではないでしょうか。 そんな状況を打破すべくか、 Microsoft 365 Viva にAnswers in Viva が加わることになりました。 これは Viva エンゲージの追加機能となっており、今までオプションのなかった Viva エンゲージの意味のある有料オプションです。 これを利用すると、入力した内容を要約して付与すべきタグを最大 3 つ自動で見つけてくれるようになるのです。 Micro…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint ：新しい Stream Web パーツ が登場]]></title>
+        <id>https://art-break.net/tech/?p=19181</id>
+        <link href="https://art-break.net/tech/?p=19181"/>
+        <updated>2023-09-12T06:49:40.000Z</updated>
+        <summary type="html"><![CDATA[先月2023/08/15 に Stream (クラシック) Webパーツが新規追加できなくなりました。 SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加 … "SharePoint ：新しい Stream Web パーツ が登場" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 ペイントに背景削除機能が付きました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/12/014112</id>
@@ -316,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Stream ：モバイルアプリからビデオのアップロードができるようになった（ iOS ）]]></title>
-        <id>https://art-break.net/tech/?p=18940</id>
-        <link href="https://art-break.net/tech/?p=18940"/>
-        <updated>2023-08-21T09:13:12.000Z</updated>
-        <summary type="html"><![CDATA[※僕には珍しくネガティブな雰囲気で書いています。 Microsoft Stream が Classic から on SharePoint に移行されていますが、移行開始の頃はむしろデグレードされた感じで、こっちが不安に思 … "Microsoft Stream ：モバイルアプリからビデオのアップロードができるようになった（ iOS ）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23526 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/21/021723</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/21/021723"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/15/013716"/>
         <updated>2023-08-14T16:37:16.000Z</updated>
         <summary type="html"><![CDATA[早いもので、 2023 年ももうすぐ 9 月です。 9 月といえば、 Apple iOS のバージョンアップ時期ということで、 Microsoft 365 管理センターにて、 iOS 15 以前に対するサポートに注意アナウンスが行われました。 この情報では iOS 17 が 9 月頃に発表されるかも。という程度なのですが、サポートの話なので、公式のアナウンスを待ってからでは遅いということなのでしょうね。実際組織内のスマートフォンのバージョンアップは、アナウンスベースで行うことがほとんどだと思うのですが、一筋縄ではいかないんですよね、、、 ちなみに Microsoft 365 のサポートについて…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23521 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/14/020351</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/14/020351"/>
-        <updated>2023-08-13T17:03:51.000Z</updated>
-        <summary type="html"><![CDATA[今週の Windows Insider はフルセットでの更新となっています。 更新バージョンは以下の通り。 Beta Channel までの Insider は新機能導入がいくつか行われています。 Canary Channel Build 25926 Dev Channel Build 23521 Beta Channel Build 22621/31.2191 Release Preview Channel は機能追従とバグフィックスが中心となっています。 この機能追従はどこまで行っても悩ましいですね。結局細部が更新されていくなら最新版を入れてしまったほうが良い。という方針になりがちなのです…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
