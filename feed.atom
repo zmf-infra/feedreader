@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-13T00:35:18.652Z</id>
+    <id>urn:2023-09-14T00:35:07.580Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T00:35:18.652Z</updated>
+    <updated>2023-09-14T00:35:07.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 メールアプリの更新は忘れずに行いましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/14/022548</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/14/022548"/>
+        <updated>2023-09-13T17:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Windows メールの新リリース版となっている Outlook ですが、タスクバーのバッヂにあまり見ないマークがついていました。 上向きの矢印ということで何かのアップロード？と思って色々チェックをしてみました。 結果、アイコンをポイントすると表示されるビューに理由が書かれていました。 再起動して更新 - Outlook ということで、バージョンアップが行える状態になっていた形ですね。 とってもわかりにくかったので、どこかほかに書いてあるところがあるのかなーと見渡してみたのですが、トップ画面からは読み取ることができないという、、、 この辺りは Microsoft Edge のように、ちょっと見…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 ：アプリバーにピン留めできるようになって便利]]></title>
+        <id>https://art-break.net/tech/?p=19226</id>
+        <link href="https://art-break.net/tech/?p=19226"/>
+        <updated>2023-09-13T06:03:56.000Z</updated>
+        <summary type="html"><![CDATA[そもそも本記事の「アプリバー」って何を指しているか？ですが、 Microsoft 365 にサインインした後に出てくる Microsoft 365 ホームの、 ▼ Microsoft 365 ホームの左の縦長のバーです  … "Microsoft 365 ：アプリバーにピン留めできるようになって便利" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Answers in Viva のリリースが間近となっています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/13/012015</id>
@@ -316,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議のスケジュール編）]]></title>
-        <id>https://art-break.net/tech/?p=18959</id>
-        <link href="https://art-break.net/tech/?p=18959"/>
-        <updated>2023-08-22T04:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Teams の会議で参加メンバー全員が閲覧・編集できる議事録などメモを取る時、今までは「会議のメモ」が備わっていたけど実体は Wiki なのでもう廃止決定の機能です。他には OneNote を使う人も … "Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議のスケジュール編）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Edge サイドバーに Skype が増えています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/22/032255</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/22/032255"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/16/024527"/>
         <updated>2023-08-15T17:45:27.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 管理センターを眺めていたところ、 サービス正常性の表示が日本語になっていることに気が付きました。 ちょっと前までは英語表記だったのですが、以下のようにダッシュボード上で日本語が見えたので気が付きました。 サービス正常性の画面上でも日本語になっていることを確認することができます。 以下がアドレスですが、こんな感じですね。 https://admin.microsoft.com/#/servicehealth 問題の詳細も日本語で表示され、また、英語に切り替えるためのボタンも用意されています。 一覧側で英語に切り替えたときは以下のような表示になりました。 問題の種類や状…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 iOS 15 以前のバージョンに対する EOS がアナウンスされました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/15/013716</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/15/013716"/>
-        <updated>2023-08-14T16:37:16.000Z</updated>
-        <summary type="html"><![CDATA[早いもので、 2023 年ももうすぐ 9 月です。 9 月といえば、 Apple iOS のバージョンアップ時期ということで、 Microsoft 365 管理センターにて、 iOS 15 以前に対するサポートに注意アナウンスが行われました。 この情報では iOS 17 が 9 月頃に発表されるかも。という程度なのですが、サポートの話なので、公式のアナウンスを待ってからでは遅いということなのでしょうね。実際組織内のスマートフォンのバージョンアップは、アナウンスベースで行うことがほとんどだと思うのですが、一筋縄ではいかないんですよね、、、 ちなみに Microsoft 365 のサポートについて…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/09/14/022548",
+          "author": null,
+          "description": "Windows メールの新リリース版となっている Outlook ですが、タスクバーのバッヂにあまり見ないマークがついていました。 上向きの矢印ということで何かのアップロード？と思って色々チェックをしてみました。 結果、アイコンをポイントすると表示されるビューに理由が書かれていました。 再起動して更新 - Outlook ということで、バージョンアップが行える状態になっていた形ですね。 とってもわかりにくかったので、どこかほかに書いてあるところがあるのかなーと見渡してみたのですが、トップ画面からは読み取ることができないという、、、 この辺りは Microsoft Edge のように、ちょっと見…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/09/14/022548",
+          "publishedOn": "2023-09-13T17:25:48.000Z",
+          "wordCount": 642,
+          "title": "Windows 11 メールアプリの更新は忘れずに行いましょう",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230909/20230909163606.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/09/13/012015",
           "author": null,
           "description": "LLM は文章を理解できる機械学習の機能として、最近は大いに市民権を得ることができたのかと思います。 多くの組織では、その潜在力を認めつつも実用まであと一歩のところで実証検証されているケースが多いのではないでしょうか。 そんな状況を打破すべくか、 Microsoft 365 Viva にAnswers in Viva が加わることになりました。 これは Viva エンゲージの追加機能となっており、今までオプションのなかった Viva エンゲージの意味のある有料オプションです。 これを利用すると、入力した内容を要約して付与すべきタグを最大 3 つ自動で見つけてくれるようになるのです。 Micro…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/13/012015",
           "publishedOn": "2023-09-12T16:20:15.000Z",
-          "wordCount": 652,
+          "wordCount": 656,
           "title": "Microsoft 365 Answers in Viva のリリースが間近となっています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230907/20230907030946.png"
         },
@@ -241,7 +251,7 @@
           "description": "今週、日本は夏休みがあった組織が多かったのではないかと思いますが、 Windows Insider Program には関係なしとばかりに、今週も新しい Build がリリースされました。 Canary Channel Build 25931 Dev Channel Build 23526 Beta Channel Build 22621/31.2199 といった具合です。 今回は Dev Channel と Canary Channel で別の更新が行われているようでした。まずは Dev Channel の更新から見ていきたいと思います。 一つ目はキャストの機能です。 Win + K のキャ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/08/21/021723",
           "publishedOn": "2023-08-20T17:17:23.000Z",
-          "wordCount": 733,
+          "wordCount": 730,
           "title": "Windows 11 Insider Preview Build 23526 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230821/20230821001942.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 615,
           "title": "Microsoft 365 サービス正常性画面が日本語化されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230816/20230816013407.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/08/15/013716",
-          "author": null,
-          "description": "早いもので、 2023 年ももうすぐ 9 月です。 9 月といえば、 Apple iOS のバージョンアップ時期ということで、 Microsoft 365 管理センターにて、 iOS 15 以前に対するサポートに注意アナウンスが行われました。 この情報では iOS 17 が 9 月頃に発表されるかも。という程度なのですが、サポートの話なので、公式のアナウンスを待ってからでは遅いということなのでしょうね。実際組織内のスマートフォンのバージョンアップは、アナウンスベースで行うことがほとんどだと思うのですが、一筋縄ではいかないんですよね、、、 ちなみに Microsoft 365 のサポートについて…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/08/15/013716",
-          "publishedOn": "2023-08-14T16:37:16.000Z",
-          "wordCount": 686,
-          "title": "Microsoft 365 iOS 15 以前のバージョンに対する EOS がアナウンスされました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230815/20230815010408.png"
         }
       ]
     },
@@ -313,12 +313,27 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=19226",
+          "author": "TAICHI",
+          "description": "そもそも本記事の「アプリバー」って何を指しているか？ですが、 Microsoft 365 にサインインした後に出てくる Microsoft 365 ホームの、 ▼ Microsoft 365 ホームの左の縦長のバーです  … \"Microsoft 365 ：アプリバーにピン留めできるようになって便利\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19226",
+          "publishedOn": "2023-09-13T06:03:56.000Z",
+          "wordCount": 1767,
+          "title": "Microsoft 365 ：アプリバーにピン留めできるようになって便利",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230913.png",
+            "length": "29118",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/09/230913.png"
+        },
+        {
           "id": "https://art-break.net/tech/?p=19181",
           "author": "TAICHI",
           "description": "先月2023/08/15 に Stream (クラシック) Webパーツが新規追加できなくなりました。 SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加 … \"SharePoint ：新しい Stream Web パーツ が登場\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19181",
           "publishedOn": "2023-09-12T06:49:40.000Z",
-          "wordCount": 1839,
+          "wordCount": 1843,
           "title": "SharePoint ：新しい Stream Web パーツ が登場",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230912.png",
@@ -446,21 +461,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230823-1.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=18959",
-          "author": "TAICHI",
-          "description": "Microsoft Teams の会議で参加メンバー全員が閲覧・編集できる議事録などメモを取る時、今までは「会議のメモ」が備わっていたけど実体は Wiki なのでもう廃止決定の機能です。他には OneNote を使う人も … \"Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議のスケジュール編）\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=18959",
-          "publishedOn": "2023-08-22T04:40:55.000Z",
-          "wordCount": 1800,
-          "title": "Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議のスケジュール編）",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230823.png",
-            "length": "21428",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230823.png"
         }
       ]
     }
