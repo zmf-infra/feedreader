@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-14T00:35:07.580Z</id>
+    <id>urn:2023-09-15T00:35:32.337Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-14T00:35:07.580Z</updated>
+    <updated>2023-09-15T00:35:32.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Bing 検索結果に Bing Chat が付くようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/15/022304</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/15/022304"/>
+        <updated>2023-09-14T17:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Bing は Chat GPT との連携が発表されて以来利用が急増している検索エンジンとなっています。 しかしながら、通常の検索とチャットは別のくくりとなっていて、検索上部のチャットを押して利用するのが自然言語検索においては必要な操作となっていました。 https://www.bing.com/ しかしながら最近になってこの辺りの動作にも変更が加わったようで、検索したら Bing Chat が自動起動するようになっていました。 例えば SharePoint とはと検索してみると、、、 右側に Bing Chat の枠が出てきました。 しばらくすると内容が書かれ始め、最終的に…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 メールアプリの更新は忘れずに行いましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/14/022548</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/17/040706"/>
         <updated>2023-08-16T19:07:06.000Z</updated>
         <summary type="html"><![CDATA[昨今、ランサムウェアの被害が世界的に増えており、日本でも工場の操業が止まるなどの被害が相次いで発生しています。 これらの問題はコンピューターウイルスによってパソコンやサーバー内のデータが自身の意に反して暗号化されてしまうために発生するのですが、 Microsoft 365 を利用していれば、これらのうちパソコン内のデータ暗号化に対策することができることはご存じでしょうか。 それは OneDrive for Business に置いたファイルの復元機能を利用することで実現できるようになっています。 OneDrive for Business はクラウド上のストレージですが、 OneDrive ア…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 サービス正常性画面が日本語化されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/16/024527</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/16/024527"/>
-        <updated>2023-08-15T17:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 管理センターを眺めていたところ、 サービス正常性の表示が日本語になっていることに気が付きました。 ちょっと前までは英語表記だったのですが、以下のようにダッシュボード上で日本語が見えたので気が付きました。 サービス正常性の画面上でも日本語になっていることを確認することができます。 以下がアドレスですが、こんな感じですね。 https://admin.microsoft.com/#/servicehealth 問題の詳細も日本語で表示され、また、英語に切り替えるためのボタンも用意されています。 一覧側で英語に切り替えたときは以下のような表示になりました。 問題の種類や状…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
