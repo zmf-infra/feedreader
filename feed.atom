@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-15T00:35:32.337Z</id>
+    <id>urn:2023-09-16T00:34:16.872Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T00:35:32.337Z</updated>
+    <updated>2023-09-16T00:34:16.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge 収益ツールキットを覗いてみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/16/051829</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/16/051829"/>
+        <updated>2023-09-15T20:18:29.000Z</updated>
+        <summary type="html"><![CDATA[皆さんは Microsoft Edge に収益ツールキットという機能があるのをご存じでしょうか。 最初に言っておくと、収益とかツールとか一般で利用する言葉とイメージがずれている機能となっています。 実態は Microsoft Edge における ” はじめに ” に当たる機能となっており、チュートリアルなのですが、今回はこの内容を見ておきたいと思います。 まず、三点リーダーよりその他のツールを選びます。 その中にあるのが収益ツールキットですね。 起動するとこんな感じになっており、下のほうに書かれている 5 つの機能を調べることができるようになっています。 上部の日本語もかぶっていて読みづらくな…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Bing 検索結果に Bing Chat が付くようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/15/022304</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/18/022342"/>
         <updated>2023-08-17T17:23:42.000Z</updated>
         <summary type="html"><![CDATA[本日 Microsoft Teams を起動したところ、新機能についてのスプラッシュが表示されるようになっていました。 今回表示されたものは 2023 年 7 月の新機能一覧でした。 このスプラッシュでは 10 件の更新が記されていました。 この内容はすべてサポートのページに記されている内容となっています。 https://support.microsoft.com/ja-jp/office/03f99a8a-0ba9-477c-af88-389d294425c3?WT.mc_id=M365-MVP-5002496 例えばですが、新しい Teams で過去の Teams のような見た目にしたい…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 OneDrive for Business の復元機能を使い方を覚えておきましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/17/040706</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/17/040706"/>
-        <updated>2023-08-16T19:07:06.000Z</updated>
-        <summary type="html"><![CDATA[昨今、ランサムウェアの被害が世界的に増えており、日本でも工場の操業が止まるなどの被害が相次いで発生しています。 これらの問題はコンピューターウイルスによってパソコンやサーバー内のデータが自身の意に反して暗号化されてしまうために発生するのですが、 Microsoft 365 を利用していれば、これらのうちパソコン内のデータ暗号化に対策することができることはご存じでしょうか。 それは OneDrive for Business に置いたファイルの復元機能を利用することで実現できるようになっています。 OneDrive for Business はクラウド上のストレージですが、 OneDrive ア…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
