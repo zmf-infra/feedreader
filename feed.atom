@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-19T00:35:56.610Z</id>
+    <id>urn:2023-09-20T00:35:25.401Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T00:35:56.610Z</updated>
+    <updated>2023-09-20T00:35:25.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Bing サードパーティ Cookie の利用を見ておきましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/20/014410</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/20/014410"/>
+        <updated>2023-09-19T16:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Bing.com にアクセスすると最近画面上部に情報バーが表示されるようになったのはお気づきでしょうか？ https://www.bing.com/ 私がずっと気が付いていなかっただけなのかもしれませんが、昨今の情報開示の流れに沿って、 Cookie を利用して取得しているものは何か、情報を提供してくれているバーとなっています。 個人的にはここまで細かく Cookie の利用を説明しているケースを認識していなかったので、きれいに説明している例として紹介しておきたいと思います。 その紹介は情報バー内の左側のリンクです。これをクリックすると以下のサイトに遷移します。 ここでは、一般的にまとめられた…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint ：ページ共有機能]]></title>
+        <id>https://art-break.net/tech/?p=19255</id>
+        <link href="https://art-break.net/tech/?p=19255"/>
+        <updated>2023-09-19T09:28:52.000Z</updated>
+        <summary type="html"><![CDATA[細かい単位でまでアクセス権を設定できるのは良いけど、僕は15年以上前の SharePoint を触りだした頃から一貫して（アクセス権も含めて）「シンプルイズベスト」という考えを貫いているので、この機能も使い方次第では良し … "SharePoint ：ページ共有機能" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Micosoft 365 Intune の管理ポータルアドレスが変更になります]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/19/021956</id>
@@ -366,16 +386,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議中に使ってみる編）]]></title>
-        <id>https://art-break.net/tech/?p=18998</id>
-        <link href="https://art-break.net/tech/?p=18998"/>
-        <updated>2023-08-23T01:58:53.000Z</updated>
-        <summary type="html"><![CDATA[昨日は会議のスケジュールするところから会議前までの会議のメモの挙動について色々試してみました。まだ読んでない方はそちらから先に読むと良いと思います。 Loop コンポーネントファイルの保存先など割と大事な事も書いているの … "Microsoft Teams ：会議のメモが Loop コンポーネントになった（会議中に使ってみる編）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Viva Pulse を見てみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/23/030834</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/23/030834"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/22/032255"/>
         <updated>2023-08-21T18:22:55.000Z</updated>
         <summary type="html"><![CDATA[Skype for Business は Microsoft Teams になり、コンシューマー版の Skype も、 Windows 標準付属のチャットツールとしての役割を終え、 Teams に統合されてからというもの、 Skype の文字を見ることはとんとなくなったかと思っていたのですが、先ごろ Microsoft Edge のサイドバーに Skype という文字が、、、 英語圏を中心にサービスは続いていると聞いていましたが、日本でも標準状態でお目にかかることができるようになったようです。 早速オンにしてみると、懐かしいアイコンがサイドバーに追加されました。 Microsoft のサービス…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23526 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/21/021723</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/21/021723"/>
-        <updated>2023-08-20T17:17:23.000Z</updated>
-        <summary type="html"><![CDATA[今週、日本は夏休みがあった組織が多かったのではないかと思いますが、 Windows Insider Program には関係なしとばかりに、今週も新しい Build がリリースされました。 Canary Channel Build 25931 Dev Channel Build 23526 Beta Channel Build 22621/31.2199 といった具合です。 今回は Dev Channel と Canary Channel で別の更新が行われているようでした。まずは Dev Channel の更新から見ていきたいと思います。 一つ目はキャストの機能です。 Win + K のキャ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
