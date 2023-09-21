@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-20T00:35:25.401Z</id>
+    <id>urn:2023-09-21T00:35:17.262Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T00:35:25.401Z</updated>
+    <updated>2023-09-21T00:35:17.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 悪質なサインインを見極められようになるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/21/030104</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/21/030104"/>
+        <updated>2023-09-20T18:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 はクラウドシステムなので、論理的にはいつだれがサインインを試みるか判断することが難しくなっています。 そのため、 Microsoft Authenticator などのサインイン難化のソリューションを用いて、できる限りの不正アクセスを行わせないようにセキュア化していく動きが重要です。 例えば Microsoft Authenticator を利用するときも以下のようにサインインを行った場所を表示させるなどで間違えたサインインを行わないように設定を行ったりします。 これ、例えばアメリカからサインインがされそうになっても表示されるというものだったのですが、 2023 年…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint ：ニュースをメールで配信できるテンプレートが登場]]></title>
+        <id>https://art-break.net/tech/?p=19302</id>
+        <link href="https://art-break.net/tech/?p=19302"/>
+        <updated>2023-09-20T06:56:37.000Z</updated>
+        <summary type="html"><![CDATA[■機能の話の前に ※機能だけを知りたい方は読むの大変なのでこの章はスキップしてください。ただ、僕としてはその前の大事な話をするつもりです。 15年以上前から SharePoint に関わってきましたが、昔からよく聞く変わ … "SharePoint ：ニュースをメールで配信できるテンプレートが登場" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Bing サードパーティ Cookie の利用を見ておきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/20/014410</id>
@@ -316,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bing Chat Enterprise ：プレビュー版が既定で有効になったようです]]></title>
-        <id>https://art-break.net/tech/?p=19029</id>
-        <link href="https://art-break.net/tech/?p=19029"/>
-        <updated>2023-08-29T02:57:00.000Z</updated>
-        <summary type="html"><![CDATA[※正直、諸事情により僕の持っている環境では十分な確認ができないので、最終的には皆さんの環境で確認してください。 あ、先に言っておきますが、僕個人的には Bing Chat ( Enterprise ) はあまり興味ありま … "Bing Chat Enterprise ：プレビュー版が既定で有効になったようです" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 メール フローで DLP 処理の一部が利用できなくなる日程が決まったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/08/29/032031</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/29/032031"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/23/030834"/>
         <updated>2023-08-22T18:08:34.000Z</updated>
         <summary type="html"><![CDATA[手元のテスト環境で Viva Pulse が利用できるようになっていました。 今回はこの Viva Pulse でどのようなことができるのか確認していきたいと思います。 アプリを起動すると以下 URL からアクセスする pulse サイトに遷移しました。 https://pulse.viva.cloud.microsoft/ まずはパルスの送信ボタンを押してみましょう。 すると、スプラッシュで利用方法が表示されました。 Pulse の名前の通りアンケートシステムと書かれていますね。 パルス作成の流れはテンプレートを選んでカスタマイズし、誰に対して送るか選ぶという形です。 テンプレートはマネージ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge サイドバーに Skype が増えています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/22/032255</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/22/032255"/>
-        <updated>2023-08-21T18:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Skype for Business は Microsoft Teams になり、コンシューマー版の Skype も、 Windows 標準付属のチャットツールとしての役割を終え、 Teams に統合されてからというもの、 Skype の文字を見ることはとんとなくなったかと思っていたのですが、先ごろ Microsoft Edge のサイドバーに Skype という文字が、、、 英語圏を中心にサービスは続いていると聞いていましたが、日本でも標準状態でお目にかかることができるようになったようです。 早速オンにしてみると、懐かしいアイコンがサイドバーに追加されました。 Microsoft のサービス…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
