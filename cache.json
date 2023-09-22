@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/09/22/025811",
+          "author": null,
+          "description": "2023 年 9 月 21 日、ニューヨークで Microsoft Copilot のイベントが行われたようで、その中で Microsoft 365 Copilot のリリース日程が発表されました。 なんと 2023 年 11 月 1 日という、あと一か月ちょっとで利用できるようになるというところまで来ていたようです。 発表の全体概要は以下のサイトに内容が詳しく書かれています。 https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availa…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/09/22/025811",
+          "publishedOn": "2023-09-21T17:58:11.000Z",
+          "wordCount": 741,
+          "title": "Microsoft 365 Copilot のリリース日程が決定しました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230922/20230922022346.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/09/21/030104",
           "author": null,
           "description": "Microsoft 365 はクラウドシステムなので、論理的にはいつだれがサインインを試みるか判断することが難しくなっています。 そのため、 Microsoft Authenticator などのサインイン難化のソリューションを用いて、できる限りの不正アクセスを行わせないようにセキュア化していく動きが重要です。 例えば Microsoft Authenticator を利用するときも以下のようにサインインを行った場所を表示させるなどで間違えたサインインを行わないように設定を行ったりします。 これ、例えばアメリカからサインインがされそうになっても表示されるというものだったのですが、 2023 年…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/21/030104",
           "publishedOn": "2023-09-20T18:01:04.000Z",
-          "wordCount": 625,
+          "wordCount": 630,
           "title": "Microsoft 365 悪質なサインインを見極められようになるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230916/20230916182608.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 678,
           "title": "Microsoft 365 SharePoint Online 上で html ファイルを表示させるには",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230811/20230811154618.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/08/23/030834",
-          "author": null,
-          "description": "手元のテスト環境で Viva Pulse が利用できるようになっていました。 今回はこの Viva Pulse でどのようなことができるのか確認していきたいと思います。 アプリを起動すると以下 URL からアクセスする pulse サイトに遷移しました。 https://pulse.viva.cloud.microsoft/ まずはパルスの送信ボタンを押してみましょう。 すると、スプラッシュで利用方法が表示されました。 Pulse の名前の通りアンケートシステムと書かれていますね。 パルス作成の流れはテンプレートを選んでカスタマイズし、誰に対して送るか選ぶという形です。 テンプレートはマネージ…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/08/23/030834",
-          "publishedOn": "2023-08-22T18:08:34.000Z",
-          "wordCount": 665,
-          "title": "Microsoft 365 Viva Pulse を見てみましょう",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230802/20230802001916.png"
         }
       ]
     },
@@ -313,12 +313,72 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=19412",
+          "author": "TAICHI",
+          "description": "今日は OneDrive for Business （ 以下 ODfB ）のアップデート情報4記事を投稿します。4つ目の記事です。一人ブログマラソンをやっていますが、諸事情で今日のうちにやっておきたかったんです。 前の記 … \"OneDrive for Business ：「ユーザー」カットでファイルを参照するビュー\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19412",
+          "publishedOn": "2023-09-21T06:45:01.000Z",
+          "wordCount": 1676,
+          "title": "OneDrive for Business ：「ユーザー」カットでファイルを参照するビュー",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230921_4.png",
+            "length": "9816",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/09/230921_4.png"
+        },
+        {
+          "id": "https://art-break.net/tech/?p=19396",
+          "author": "TAICHI",
+          "description": "今日は OneDrive for Business （ 以下 ODfB ）のアップデート情報4記事を投稿します。3つ目の記事です。 2023/07/19 付けで Microsoft 365 管理センターのメッセージセンタ … \"OneDrive for Business ：「会議」カットでファイルを参照するビュー\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19396",
+          "publishedOn": "2023-09-21T05:59:25.000Z",
+          "wordCount": 1687,
+          "title": "OneDrive for Business ：「会議」カットでファイルを参照するビュー",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230921_3.png",
+            "length": "10830",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/09/230921_3.png"
+        },
+        {
+          "id": "https://art-break.net/tech/?p=19385",
+          "author": "TAICHI",
+          "description": "今日は OneDrive for Business （ 以下 ODfB ）のアップデート情報4記事を投稿します。2つ目の記事です。 2023/07/21 付けで Microsoft 365 管理センターのメッセージセンタ … \"OneDrive for Business ：ホームに推奨ファイルが表示\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19385",
+          "publishedOn": "2023-09-21T04:44:39.000Z",
+          "wordCount": 1693,
+          "title": "OneDrive for Business ：ホームに推奨ファイルが表示",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230921_2.png",
+            "length": "23543",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/09/230921_2.png"
+        },
+        {
+          "id": "https://art-break.net/tech/?p=19367",
+          "author": "TAICHI",
+          "description": "OneDrive for Business （以下 ODfB ）のここ最近のアップデートが細かいのも含めて多い気がします。僕の標準リリース環境でも展開されはじめているので今日はまとめて4つくらい記事を出していこうと計画し … \"OneDrive for Business ：デザイン・ナビゲーションの変更\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19367",
+          "publishedOn": "2023-09-21T00:40:41.000Z",
+          "wordCount": 1721,
+          "title": "OneDrive for Business ：デザイン・ナビゲーションの変更",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230921.png",
+            "length": "17602",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/09/230921.png"
+        },
+        {
           "id": "https://art-break.net/tech/?p=19302",
           "author": "TAICHI",
           "description": "■機能の話の前に ※機能だけを知りたい方は読むの大変なのでこの章はスキップしてください。ただ、僕としてはその前の大事な話をするつもりです。 15年以上前から SharePoint に関わってきましたが、昔からよく聞く変わ … \"SharePoint ：ニュースをメールで配信できるテンプレートが登場\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19302",
           "publishedOn": "2023-09-20T06:56:37.000Z",
-          "wordCount": 1845,
+          "wordCount": 1853,
           "title": "SharePoint ：ニュースをメールで配信できるテンプレートが登場",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230920.png",
@@ -333,7 +393,7 @@
           "description": "細かい単位でまでアクセス権を設定できるのは良いけど、僕は15年以上前の SharePoint を触りだした頃から一貫して（アクセス権も含めて）「シンプルイズベスト」という考えを貫いているので、この機能も使い方次第では良し … \"SharePoint ：ページ共有機能\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19255",
           "publishedOn": "2023-09-19T09:28:52.000Z",
-          "wordCount": 1753,
+          "wordCount": 1756,
           "title": "SharePoint ：ページ共有機能",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230919.png",
@@ -348,7 +408,7 @@
           "description": "そもそも本記事の「アプリバー」って何を指しているか？ですが、 Microsoft 365 にサインインした後に出てくる Microsoft 365 ホームの、 ▼ Microsoft 365 ホームの左の縦長のバーです  … \"Microsoft 365 ：アプリバーにピン留めできるようになって便利\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19226",
           "publishedOn": "2023-09-13T06:03:56.000Z",
-          "wordCount": 1759,
+          "wordCount": 1762,
           "title": "Microsoft 365 ：アプリバーにピン留めできるようになって便利",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230913.png",
@@ -363,7 +423,7 @@
           "description": "先月2023/08/15 に Stream (クラシック) Webパーツが新規追加できなくなりました。 SharePoint ／ Microsoft Stream ： Stream (クラシック) Webパーツが新規追加 … \"SharePoint ：新しい Stream Web パーツ が登場\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19181",
           "publishedOn": "2023-09-12T06:49:40.000Z",
-          "wordCount": 1832,
+          "wordCount": 1835,
           "title": "SharePoint ：新しい Stream Web パーツ が登場",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230912.png",
@@ -378,7 +438,7 @@
           "description": "ふとビデオコレクションページを思い出したんだけど、当ブログに記事にしていなかったようです。なので今更だけど記事にします。（本機能は去年2022年7月～8月中旬にかけて展開されたアップデートです。） このアップデートで、サ … \"SharePoint ：「ビデオコレクション」というページが実はある\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19164",
           "publishedOn": "2023-09-08T09:52:40.000Z",
-          "wordCount": 1700,
+          "wordCount": 1703,
           "title": "SharePoint ：「ビデオコレクション」というページが実はある",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230908.png",
@@ -393,7 +453,7 @@
           "description": "Microsoft Stream のスタートページについては先日もグリッド表示にいつの間に対応してくれた記事を書きました。 Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開 … \"Microsoft Stream ：スタートページの「＋追加先」ってなんだろう？（今後に期待…）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19144",
           "publishedOn": "2023-09-07T08:57:47.000Z",
-          "wordCount": 1744,
+          "wordCount": 1747,
           "title": "Microsoft Stream ：スタートページの「＋追加先」ってなんだろう？（今後に期待…）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230907.png",
@@ -401,66 +461,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/09/230907.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19102",
-          "author": "TAICHI",
-          "description": "すでに 2023/08/23 に Microsoft Teams の会議のメモが Loop コンポーネントになった記事で記載しているので、やや今更感とダブっている感じはあるけど、一応アレはアレ、コレはコレで記事にします。 … \"Microsoft Loop ：Loop コンポーネントのタスク リストが Microsoft Planner ・ Microsoft To Do と同期\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19102",
-          "publishedOn": "2023-09-05T07:24:10.000Z",
-          "wordCount": 2068,
-          "title": "Microsoft Loop ：Loop コンポーネントのタスク リストが Microsoft Planner ・ Microsoft To Do と同期",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230905.png",
-            "length": "18235",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/09/230905.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19093",
-          "author": "TAICHI",
-          "description": "Microsoft Stream が Stream ( Classic ) から Stream ( on SharePoint )　に変わってきて、スタートページも１年以上前に新しく変わったけど、新しいスタートページに大 … \"Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開されたか不明…）\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19093",
-          "publishedOn": "2023-08-31T23:30:53.000Z",
-          "wordCount": 1671,
-          "title": "Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開されたか不明…）",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/09/230901.png",
-            "length": "14756",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/09/230901.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19058",
-          "author": "TAICHI",
-          "description": "すでに対象指定リリース環境では少し前から確認できていたんだけど、今朝確認したら標準リリース環境でも展開を確認しました。 2023/08/24 付けで Microsoft 365 管理センターのメッセージセンターに以下のメ … \"OneDrive for Business ／ SharePoint ：フォルダーに色を付けられるようになった\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19058",
-          "publishedOn": "2023-08-30T06:38:00.000Z",
-          "wordCount": 1791,
-          "title": "OneDrive for Business ／ SharePoint ：フォルダーに色を付けられるようになった",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230830_2.jpg",
-            "length": "51214",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230830_2.jpg"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19043",
-          "author": "TAICHI",
-          "description": "Microsoft Forms のスタートページを開くと、 ▼変わりましたね ▼URLも「 DesignPageV2.aspx」に変わってる（前の忘れたけど） これ標準リリース環境でも変わっていたのですでに多くの人が変わ … \"Microsoft Forms ：スタートページが変わったね\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19043",
-          "publishedOn": "2023-08-30T01:03:57.000Z",
-          "wordCount": 1687,
-          "title": "Microsoft Forms ：スタートページが変わったね",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/08/230830.jpg",
-            "length": "28491",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/08/230830.jpg"
         }
       ]
     }

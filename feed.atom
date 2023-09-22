@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T00:35:17.262Z</id>
+    <id>urn:2023-09-22T00:35:33.958Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T00:35:17.262Z</updated>
+    <updated>2023-09-22T00:35:33.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot のリリース日程が決定しました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/22/025811</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/22/025811"/>
+        <updated>2023-09-21T17:58:11.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 9 月 21 日、ニューヨークで Microsoft Copilot のイベントが行われたようで、その中で Microsoft 365 Copilot のリリース日程が発表されました。 なんと 2023 年 11 月 1 日という、あと一か月ちょっとで利用できるようになるというところまで来ていたようです。 発表の全体概要は以下のサイトに内容が詳しく書かれています。 https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availa…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDrive for Business ：「ユーザー」カットでファイルを参照するビュー]]></title>
+        <id>https://art-break.net/tech/?p=19412</id>
+        <link href="https://art-break.net/tech/?p=19412"/>
+        <updated>2023-09-21T06:45:01.000Z</updated>
+        <summary type="html"><![CDATA[今日は OneDrive for Business （ 以下 ODfB ）のアップデート情報4記事を投稿します。4つ目の記事です。一人ブログマラソンをやっていますが、諸事情で今日のうちにやっておきたかったんです。 前の記 … "OneDrive for Business ：「ユーザー」カットでファイルを参照するビュー" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDrive for Business ：「会議」カットでファイルを参照するビュー]]></title>
+        <id>https://art-break.net/tech/?p=19396</id>
+        <link href="https://art-break.net/tech/?p=19396"/>
+        <updated>2023-09-21T05:59:25.000Z</updated>
+        <summary type="html"><![CDATA[今日は OneDrive for Business （ 以下 ODfB ）のアップデート情報4記事を投稿します。3つ目の記事です。 2023/07/19 付けで Microsoft 365 管理センターのメッセージセンタ … "OneDrive for Business ：「会議」カットでファイルを参照するビュー" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDrive for Business ：ホームに推奨ファイルが表示]]></title>
+        <id>https://art-break.net/tech/?p=19385</id>
+        <link href="https://art-break.net/tech/?p=19385"/>
+        <updated>2023-09-21T04:44:39.000Z</updated>
+        <summary type="html"><![CDATA[今日は OneDrive for Business （ 以下 ODfB ）のアップデート情報4記事を投稿します。2つ目の記事です。 2023/07/21 付けで Microsoft 365 管理センターのメッセージセンタ … "OneDrive for Business ：ホームに推奨ファイルが表示" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDrive for Business ：デザイン・ナビゲーションの変更]]></title>
+        <id>https://art-break.net/tech/?p=19367</id>
+        <link href="https://art-break.net/tech/?p=19367"/>
+        <updated>2023-09-21T00:40:41.000Z</updated>
+        <summary type="html"><![CDATA[OneDrive for Business （以下 ODfB ）のここ最近のアップデートが細かいのも含めて多い気がします。僕の標準リリース環境でも展開されはじめているので今日はまとめて4つくらい記事を出していこうと計画し … "OneDrive for Business ：デザイン・ナビゲーションの変更" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 悪質なサインインを見極められようになるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/21/030104</id>
@@ -226,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Loop ：Loop コンポーネントのタスク リストが Microsoft Planner ・ Microsoft To Do と同期]]></title>
-        <id>https://art-break.net/tech/?p=19102</id>
-        <link href="https://art-break.net/tech/?p=19102"/>
-        <updated>2023-09-05T07:24:10.000Z</updated>
-        <summary type="html"><![CDATA[すでに 2023/08/23 に Microsoft Teams の会議のメモが Loop コンポーネントになった記事で記載しているので、やや今更感とダブっている感じはあるけど、一応アレはアレ、コレはコレで記事にします。 … "Microsoft Loop ：Loop コンポーネントのタスク リストが Microsoft Planner ・ Microsoft To Do と同期" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Program 向けのアプリ更新について]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/05/023703</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/05/023703"/>
@@ -276,16 +316,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開されたか不明…）]]></title>
-        <id>https://art-break.net/tech/?p=19093</id>
-        <link href="https://art-break.net/tech/?p=19093"/>
-        <updated>2023-08-31T23:30:53.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Stream が Stream ( Classic ) から Stream ( on SharePoint )　に変わってきて、スタートページも１年以上前に新しく変わったけど、新しいスタートページに大 … "Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開されたか不明…）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 SharePoint で HTML を見るためのビューワーが実装されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/01/030153</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/01/030153"/>
@@ -303,26 +333,6 @@
         <summary type="html"><![CDATA[Teams でフォルダーを作ろうとしたところ、見慣れないダイアログが表示されました。 今までは名前を入力して終わりだったはずなのですが、その下にフォルダーの色という項目が追加されていました。 8 個の色が 2 段の計 16 色の設定ができるようになっていますね。 紫色で作成してみたところ、このようにアイコンに色がついてくれました。 ほかの色でもいくつか作ってみたところです。また見た目の問題かもしれませんが、淡色に見えるような色もあれば、ビビッドに見えるものもあり面白い感じです。 原色系は単色に近く映る形ですかね。 ちなみにこの Teams のフォルダーを SharePoint Online で…]]></summary>
         <author>
             <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneDrive for Business ／ SharePoint ：フォルダーに色を付けられるようになった]]></title>
-        <id>https://art-break.net/tech/?p=19058</id>
-        <link href="https://art-break.net/tech/?p=19058"/>
-        <updated>2023-08-30T06:38:00.000Z</updated>
-        <summary type="html"><![CDATA[すでに対象指定リリース環境では少し前から確認できていたんだけど、今朝確認したら標準リリース環境でも展開を確認しました。 2023/08/24 付けで Microsoft 365 管理センターのメッセージセンターに以下のメ … "OneDrive for Business ／ SharePoint ：フォルダーに色を付けられるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Forms ：スタートページが変わったね]]></title>
-        <id>https://art-break.net/tech/?p=19043</id>
-        <link href="https://art-break.net/tech/?p=19043"/>
-        <updated>2023-08-30T01:03:57.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Forms のスタートページを開くと、 ▼変わりましたね ▼URLも「 DesignPageV2.aspx」に変わってる（前の忘れたけど） これ標準リリース環境でも変わっていたのですでに多くの人が変わ … "Microsoft Forms ：スタートページが変わったね" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
         </author>
     </entry>
     <entry>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/24/015715"/>
         <updated>2023-08-23T16:57:15.000Z</updated>
         <summary type="html"><![CDATA[SharePoint Online で HTML を表示させたいという要望は過去よりあり、特に既存で運営していたサイトを撤廃したいという要望から、そのまま移植できないか。という話が時折上がってくるのですが、 SharePoint の仕様としてそのままでは対応が行えないようになっています。 以下のコマンドレットを実行して PowerShell で設定を変更してから HTML ファイルの拡張子を aspx に変更してアップロードすることでようやく HTML ファイルを aspx ファイルとしてブラウザーから表示させることができるようになります。 Connect-SPOService -Url ht…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Viva Pulse を見てみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/23/030834</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/23/030834"/>
-        <updated>2023-08-22T18:08:34.000Z</updated>
-        <summary type="html"><![CDATA[手元のテスト環境で Viva Pulse が利用できるようになっていました。 今回はこの Viva Pulse でどのようなことができるのか確認していきたいと思います。 アプリを起動すると以下 URL からアクセスする pulse サイトに遷移しました。 https://pulse.viva.cloud.microsoft/ まずはパルスの送信ボタンを押してみましょう。 すると、スプラッシュで利用方法が表示されました。 Pulse の名前の通りアンケートシステムと書かれていますね。 パルス作成の流れはテンプレートを選んでカスタマイズし、誰に対して送るか選ぶという形です。 テンプレートはマネージ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
