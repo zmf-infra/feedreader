@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T00:35:33.958Z</id>
+    <id>urn:2023-09-23T00:34:12.629Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-22T00:35:33.958Z</updated>
+    <updated>2023-09-23T00:34:12.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Planner の Preview に Loop 対応が追加されるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/23/005628</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/23/005628"/>
+        <updated>2023-09-22T15:56:28.000Z</updated>
+        <summary type="html"><![CDATA[メールや Teams に追加された Loop を利用されている方は多くいらっしゃると思いますが、実は Loop にはアプリ化される計画があるのはご存じでしょうか。 前にここでもお伝えしたことがあるので、すでに使ったことがある方もいるかもしれません。 以下の図は Outlook on the Web の Loop コンポーネントの一覧ですが、このコンポーネントをそのままアプリとして活用できるのが Loop アプリというわけです。 そんな Loop ですが、まだリリースされていないため Preview でどんどん開発が進んでおり、 Microsoft Planner をそのまま Loop にする機…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot の一般提供開始日が発表された]]></title>
+        <id>https://art-break.net/tech/?p=19426</id>
+        <link href="https://art-break.net/tech/?p=19426"/>
+        <updated>2023-09-22T02:18:07.000Z</updated>
+        <summary type="html"><![CDATA[基本的に当ブログは実際に展開された機能を実際に触ってみた事を書く内容が大半ですが、たまに今後の話も書きます。今回も。 先に記事タイトルに対する現時点の情報。 2023/11/01 に Microsoft 365 Copi … "Microsoft 365 Copilot の一般提供開始日が発表された" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot のリリース日程が決定しました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/22/025811</id>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Stream ：スタートページの「＋追加先」ってなんだろう？（今後に期待…）]]></title>
-        <id>https://art-break.net/tech/?p=19144</id>
-        <link href="https://art-break.net/tech/?p=19144"/>
-        <updated>2023-09-07T08:57:47.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Stream のスタートページについては先日もグリッド表示にいつの間に対応してくれた記事を書きました。 Microsoft Stream ：地味だけどうれしいスタートページのグリッド表示（いつ機能展開 … "Microsoft Stream ：スタートページの「＋追加先」ってなんだろう？（今後に期待…）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Booking で外部に空き時間を公開してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/07/032236</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/07/032236"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/25/031628"/>
         <updated>2023-08-24T18:16:28.000Z</updated>
         <summary type="html"><![CDATA[皆さん Teams の会議作成は通常どこから行っていますか？ Microsoft 365 の会議作成は様々なやり方があるため、お気に入りの方法がある方も多いのではないでしょうか。 こんかいはそのなかで、お薦めの方法を紹介します。 それは、 Teams のカレンダーから設定する方法です。 やり方は簡単で、カレンダーアプリから会議したい時間を選択するだけです。 この Teams での会議を推す理由は、この機能からだと編集可能な議題を追加できるんですよね。 じつはこれ、 Loop のメモとなっておりリアルタイムに編集内容が確認できるようになっているんですよね。もちろん会議参加者に編集権限付きで共有さ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 SharePoint Online 上で html ファイルを表示させるには]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/24/015715</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/24/015715"/>
-        <updated>2023-08-23T16:57:15.000Z</updated>
-        <summary type="html"><![CDATA[SharePoint Online で HTML を表示させたいという要望は過去よりあり、特に既存で運営していたサイトを撤廃したいという要望から、そのまま移植できないか。という話が時折上がってくるのですが、 SharePoint の仕様としてそのままでは対応が行えないようになっています。 以下のコマンドレットを実行して PowerShell で設定を変更してから HTML ファイルの拡張子を aspx に変更してアップロードすることでようやく HTML ファイルを aspx ファイルとしてブラウザーから表示させることができるようになります。 Connect-SPOService -Url ht…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
