@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-23T00:34:12.629Z</id>
+    <id>urn:2023-09-24T00:37:35.008Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T00:34:12.629Z</updated>
+    <updated>2023-09-24T00:37:35.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 ペイントアプリがさらに進化を始めています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/24/021357</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/24/021357"/>
+        <updated>2023-09-23T17:13:57.000Z</updated>
+        <summary type="html"><![CDATA[最近キャンバスが中央に表示されるようになった Windows 11 のペイントアプリですが、なんだか最近機能追加が止まらなくなっているようです。 私はキャプチャを取るために主に利用しているのですが、リボンを見るとレイヤーという機能が、、、 グラフィックを取り扱うソフトを利用している方にはおなじみすぎる機能ですが、レイヤーを使うと書いた絵図を階層状にして管理することができるようになります。 例えば顔を書く時を思い浮かべるとよいのですが、顔の肌色を背景レイヤーにして、目や鼻、口をその上のレイヤーに書けば書き直しが顔のパーツだけ行えるようになる。そういった機能です。昔のアニメのセル画が近い概念ですね…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Planner の Preview に Loop 対応が追加されるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/23/005628</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/26/025259"/>
         <updated>2023-08-25T17:52:59.000Z</updated>
         <summary type="html"><![CDATA[最近の Microsoft 365 は動作も安定しており、また、大きな機能追加などがないため一度設定を行ってからは触っていないという方も多いのではないでしょうか。 かくいう私も、最近はあまり操作していなかった一人なのですが、たまに見に行くと親と思う機能が追加されていたりします。 その一つが Teams 管理センターのプランニングにある Teams アドバイザーです。 その場所は以下のアドレスなのですが、機能展開時に行っておくとよいことがいくつかにまとめられてアナウンスされている機能となっています。 https://admin.teams.microsoft.com/teams-deployme…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams 編集可能な議題機能は活用していますか？]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/25/031628</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/25/031628"/>
-        <updated>2023-08-24T18:16:28.000Z</updated>
-        <summary type="html"><![CDATA[皆さん Teams の会議作成は通常どこから行っていますか？ Microsoft 365 の会議作成は様々なやり方があるため、お気に入りの方法がある方も多いのではないでしょうか。 こんかいはそのなかで、お薦めの方法を紹介します。 それは、 Teams のカレンダーから設定する方法です。 やり方は簡単で、カレンダーアプリから会議したい時間を選択するだけです。 この Teams での会議を推す理由は、この機能からだと編集可能な議題を追加できるんですよね。 じつはこれ、 Loop のメモとなっておりリアルタイムに編集内容が確認できるようになっているんですよね。もちろん会議参加者に編集権限付きで共有さ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
