@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-24T00:37:35.008Z</id>
+    <id>urn:2023-09-25T00:36:11.204Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T00:37:35.008Z</updated>
+    <updated>2023-09-25T00:36:11.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23550 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/25/013439</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/25/013439"/>
+        <updated>2023-09-24T16:34:39.000Z</updated>
+        <summary type="html"><![CDATA[今週の Windows Insider Program は 2023 年 9 月 21 日に発表された Microsoft Copilot in Windows ( Windows Copilot ) などの話題が豊富にあるのですが OS の更新という視点では追随させない方向を取ったようで、大きなバージョンアップはありませんでした。 以下の Blog にも記載されているように 9 月 26 日 （日本時間の場合は 27 日でしょうか）にリリースバージョンを更新するという話なのでそちらにパワーが刺されているに違いありません。 https://blogs.microsoft.com/blog/20…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 ペイントアプリがさらに進化を始めています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/24/021357</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/27/023222"/>
         <updated>2023-08-26T17:32:22.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 Apps はどんどん新機能が追加されていくため、その機能を押さえて有効活用することが生産性向上に一役買うことになっていきます。 そのため、利用していない機能も時折確認を入れ、業務に使えないかチェックしていくことが重要なのですが、今回はちょっと目につきやすい M365 Apps のファイルメニューに機能が追加されたお話です。 Word 、 Excel 、 PowerPoint のファイルメニューの情報ボタンの上に「アドインを取得」という項目が追加されていました。 それぞれ動作は同じ形になっており、クリックすると Office アドインダイアログが開き、人気のある Of…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams の管理センターを覗いてみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/26/025259</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/26/025259"/>
-        <updated>2023-08-25T17:52:59.000Z</updated>
-        <summary type="html"><![CDATA[最近の Microsoft 365 は動作も安定しており、また、大きな機能追加などがないため一度設定を行ってからは触っていないという方も多いのではないでしょうか。 かくいう私も、最近はあまり操作していなかった一人なのですが、たまに見に行くと親と思う機能が追加されていたりします。 その一つが Teams 管理センターのプランニングにある Teams アドバイザーです。 その場所は以下のアドレスなのですが、機能展開時に行っておくとよいことがいくつかにまとめられてアナウンスされている機能となっています。 https://admin.teams.microsoft.com/teams-deployme…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
