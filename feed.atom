@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-25T00:36:11.204Z</id>
+    <id>urn:2023-09-26T00:36:02.092Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T00:36:11.204Z</updated>
+    <updated>2023-09-26T00:36:02.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Exchange Web Services の サポート終了がアナウンスされました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/26/022303</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/26/022303"/>
+        <updated>2023-09-25T17:23:03.000Z</updated>
+        <summary type="html"><![CDATA[2018 年に機能追加を終えた Exchange Online 向けの EWS （ Exchange Web Services ）ですが、なんと 2026 年 10 月 1 日に Outlook など Microsoft のアプリからの接続以外をブロックする方針となったようです。 以下のコミュニティブログ内に詳細が書かれていました。 https://techcommunity.microsoft.com/t5/exchange-team-blog/retirement-of-exchange-web-services-in-exchange-online/ba-p/3924440?WT.mc_…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23550 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/25/013439</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/28/024635"/>
         <updated>2023-08-27T17:46:35.000Z</updated>
         <summary type="html"><![CDATA[今週の Windows 11 Insider Program は 3 つの Channel で更新が行われました。 Canary Channel : Build 25936 Dev Channel : Build 23531 Beta Channel : Build 22621/31.2262 Beta Channel ではいつも通り Dev Channel で取り上げられた機能の展開が行われています。 設定アプリのホーム画面の導入が Beta Channel でも開始さて多とのこと。 そのなかで一つ認識違いをしていたのですが、この機能は Home と Pro のエディションで組織管理されてい…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsft 365 Apps ファイルメニューにアドイン取得ボタンが追加されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/27/023222</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/27/023222"/>
-        <updated>2023-08-26T17:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 Apps はどんどん新機能が追加されていくため、その機能を押さえて有効活用することが生産性向上に一役買うことになっていきます。 そのため、利用していない機能も時折確認を入れ、業務に使えないかチェックしていくことが重要なのですが、今回はちょっと目につきやすい M365 Apps のファイルメニューに機能が追加されたお話です。 Word 、 Excel 、 PowerPoint のファイルメニューの情報ボタンの上に「アドインを取得」という項目が追加されていました。 それぞれ動作は同じ形になっており、クリックすると Office アドインダイアログが開き、人気のある Of…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
