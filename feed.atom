@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T00:35:36.499Z</id>
+    <id>urn:2023-09-29T00:35:37.813Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T00:35:36.499Z</updated>
+    <updated>2023-09-29T00:35:37.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 PowerShell でライセンスを見るためには]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/29/021459</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/29/021459"/>
+        <updated>2023-09-28T17:14:59.000Z</updated>
+        <summary type="html"><![CDATA[先日説明した Bing Chat Enterprise の SKU をチェックした方法ですが、最近 Microsoft Graph の PowerShell SDK を利用していなかったこともありどのようにアクセスするか忘れていました。 そんな忘れっぽい人は私くらいかもしれませんが、 PowerShell を用いて Microsoft 365 の情報にアクセスしたい人は私以外にもいるはず！ ということで、今回は PowerShell で Microsoft 365 にアクセスする方法を見ていきたいと思います。 過去に何度か紹介したかもしれませんが、おさらいということで。 まず行うことはリモート…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Clipchamp がついに Microsoft 365 に登場！]]></title>
+        <id>https://art-break.net/tech/?p=19464</id>
+        <link href="https://art-break.net/tech/?p=19464"/>
+        <updated>2023-09-28T08:57:49.000Z</updated>
+        <summary type="html"><![CDATA[※本記事の Microsoft 365 とは商用ライセンスの方を示しています。 待望の新しいアプリが Microsoft 365 に追加されはじめてきました。動画作成・編集アプリ「 Microsoft Clipchamp … "Microsoft Clipchamp がついに Microsoft 365 に登場！" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 大規模機能リリースが行われました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/28/024106</id>
@@ -246,16 +266,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft 365 ：アプリバーにピン留めできるようになって便利]]></title>
-        <id>https://art-break.net/tech/?p=19226</id>
-        <link href="https://art-break.net/tech/?p=19226"/>
-        <updated>2023-09-13T06:03:56.000Z</updated>
-        <summary type="html"><![CDATA[そもそも本記事の「アプリバー」って何を指しているか？ですが、 Microsoft 365 にサインインした後に出てくる Microsoft 365 ホームの、 ▼ Microsoft 365 ホームの左の縦長のバーです  … "Microsoft 365 ：アプリバーにピン留めできるようになって便利" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Answers in Viva のリリースが間近となっています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/13/012015</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/13/012015"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/08/31/021136"/>
         <updated>2023-08-30T17:11:36.000Z</updated>
         <summary type="html"><![CDATA[Teams でフォルダーを作ろうとしたところ、見慣れないダイアログが表示されました。 今までは名前を入力して終わりだったはずなのですが、その下にフォルダーの色という項目が追加されていました。 8 個の色が 2 段の計 16 色の設定ができるようになっていますね。 紫色で作成してみたところ、このようにアイコンに色がついてくれました。 ほかの色でもいくつか作ってみたところです。また見た目の問題かもしれませんが、淡色に見えるような色もあれば、ビビッドに見えるものもあり面白い感じです。 原色系は単色に近く映る形ですかね。 ちなみにこの Teams のフォルダーを SharePoint Online で…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams に作業場所設定機能が追加されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/30/025901</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/30/025901"/>
-        <updated>2023-08-29T17:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Teams を利用していたら、久々にポップアップアナウンスが行われました。 今回の更新は何かなと見ていたのですが、作業場所の設定ですね。 この機能を使うことで、現在地を都度伝えずとも済むという機能となっています。 設定は右にあるユーザーアイコンをクリックすると出てくる + マークから行います。 最初はポップアップで機能説明が表示されるようになっています。 選べる場所はオフィスとリモートの 2 つのみとなっていました。 この辺りは追加できるようになってほしいところです。 オフィスに設定すると、、、ビルのアイコンですね。 ユーザーの詳細カードをみるとオフィス内という記載になっています。 リモートに…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
