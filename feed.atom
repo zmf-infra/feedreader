@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-29T00:35:37.813Z</id>
+    <id>urn:2023-09-30T00:34:37.518Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T00:35:37.813Z</updated>
+    <updated>2023-09-30T00:34:37.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Outlook のカレンダーに共有情報の更新通知機能が用意されます]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/09/30/005122</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/09/30/005122"/>
+        <updated>2023-09-29T15:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Outlook は Microsoft 365 Apps の中でも古くから利用されているアプリのため、最近はあまり大きな更新が聞かれなくなってきました。 しかしながら小さな改善はいまだ意欲的に続いています。 今回はそんな機能の一つを紹介します。 Microsoft メッセージセンターに投稿されていた 2023 年 11 月にリリース予定の共有予定表の更新通知機能がそれにあたります。 これは Outlook の共有予定表のイメージが分からないと伝わらないかもしれません。 Outlook の世界では、予定表は自分の予定と他人の予定、そして他人と共有している予定の 3 種類が大枠となっています。 そ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Clipchamp ：様々な場所から開始＆保存場所を知っておくの大事かも]]></title>
+        <id>https://art-break.net/tech/?p=19526</id>
+        <link href="https://art-break.net/tech/?p=19526"/>
+        <updated>2023-09-29T08:17:05.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は商用ライセンスの Microsoft 365 の Microsoft Clipchamp （以下 Clipchamp ）についてです。 昨日の記事で追加されたてでサクって触ってみたところを記事にしました。 Mi … "Microsoft Clipchamp ：様々な場所から開始＆保存場所を知っておくの大事かも" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 PowerShell でライセンスを見るためには]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/29/021459</id>
@@ -196,16 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SharePoint ：ページ共有機能]]></title>
-        <id>https://art-break.net/tech/?p=19255</id>
-        <link href="https://art-break.net/tech/?p=19255"/>
-        <updated>2023-09-19T09:28:52.000Z</updated>
-        <summary type="html"><![CDATA[細かい単位でまでアクセス権を設定できるのは良いけど、僕は15年以上前の SharePoint を触りだした頃から一貫して（アクセス権も含めて）「シンプルイズベスト」という考えを貫いているので、この機能も使い方次第では良し … "SharePoint ：ページ共有機能" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Micosoft 365 Intune の管理ポータルアドレスが変更になります]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/19/021956</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/19/021956"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/01/030153"/>
         <updated>2023-08-31T18:01:53.000Z</updated>
         <summary type="html"><![CDATA[SharePoint のドキュメントライブラリでの HTML の扱いは、ちょっと前まで直接表示することはできず HTML がダウンロードできるだけとなっていました。 しかしながら 2023 年 8 月にどうもビューワーでの表示が解禁されているみたいです。 具体的には以下を見てください。 ドキュメントライブラリに index.html を配置してみた後に、そのファイルをクリックしてみました。 すると、 PNG など写真を見るビューワーと同様の機能が立ち上がり、ブラウザのように HTML を見ることができるようになったようです。 表示はテーブルなどをサポートしており、リンクも飛べるようにはなってい…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams のファイルフォルダーに色を付けられるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/08/31/021136</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/08/31/021136"/>
-        <updated>2023-08-30T17:11:36.000Z</updated>
-        <summary type="html"><![CDATA[Teams でフォルダーを作ろうとしたところ、見慣れないダイアログが表示されました。 今までは名前を入力して終わりだったはずなのですが、その下にフォルダーの色という項目が追加されていました。 8 個の色が 2 段の計 16 色の設定ができるようになっていますね。 紫色で作成してみたところ、このようにアイコンに色がついてくれました。 ほかの色でもいくつか作ってみたところです。また見た目の問題かもしれませんが、淡色に見えるような色もあれば、ビビッドに見えるものもあり面白い感じです。 原色系は単色に近く映る形ですかね。 ちなみにこの Teams のフォルダーを SharePoint Online で…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
