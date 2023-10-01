@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-30T00:34:37.518Z</id>
+    <id>urn:2023-10-01T00:40:58.042Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T00:34:37.518Z</updated>
+    <updated>2023-10-01T00:40:58.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 ポータルの URL はどれを利用していますか？]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/01/030532</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/01/030532"/>
+        <updated>2023-09-30T18:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 を利用されている皆さんは、利用のスタート時に利用しているサイトのアドレスはどのようにしているでしょうか。 じつは Microsoft 365 には複数の URL が定義されていて、今はそのどれもが同じサイトにつながるようになっています。 一例は以下の URL ですね。 https://portal.office.com/ https://portal.office365.com/ https://www.office.com/ https://www.microsoft365.com/ どれも同じ動きをしており、以下のサイトに接続される動きになっています。 最近では…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Outlook のカレンダーに共有情報の更新通知機能が用意されます]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/30/005122</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/02/024242"/>
         <updated>2023-09-01T17:42:42.000Z</updated>
         <summary type="html"><![CDATA[最近 PC の調子が悪く、スリープ後に Wi-Fi が動作しなくなったりします。 色々調べるとどうもデバイスが読み込まれていない場合やエラーとなっているケースがほとんどで、今までは Ctrl + X でデバイス マネージャーを起動して対処していました。 こんな感じに選択したうえでボタンを押す必要があり、なかなか手間がかかっていたのです。 そこで、手数を減らすべく、 PowerShell での実行を考えました。 実行だけであれば、以下のコマンドレットを打つだけでこの機能を利用できるのですが、管理者権限の PowerShell を起動してから打ち込む必要もあり、バッチ化を行えないかとみてみました。…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 SharePoint で HTML を見るためのビューワーが実装されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/01/030153</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/01/030153"/>
-        <updated>2023-08-31T18:01:53.000Z</updated>
-        <summary type="html"><![CDATA[SharePoint のドキュメントライブラリでの HTML の扱いは、ちょっと前まで直接表示することはできず HTML がダウンロードできるだけとなっていました。 しかしながら 2023 年 8 月にどうもビューワーでの表示が解禁されているみたいです。 具体的には以下を見てください。 ドキュメントライブラリに index.html を配置してみた後に、そのファイルをクリックしてみました。 すると、 PNG など写真を見るビューワーと同様の機能が立ち上がり、ブラウザのように HTML を見ることができるようになったようです。 表示はテーブルなどをサポートしており、リンクも飛べるようにはなってい…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
