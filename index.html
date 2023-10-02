@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-01 datetime="2023-10-01T16:14:50.000Z">2023-10-01</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-01 datetime="2023-10-01T16:14:50.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >（）のブログ</button>
+                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2023/10/02/011450"
+                        open
+                      >
+                        <summary class="article-expander__title">Windows 11 Insider Preview Build 23555 リリース</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2023/10/02/011450">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231001/20231001223215.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>先週は Windows 11 の 22H2 に超大型アップデートのプレビューがやってきており、世間がざわついていたかと思います。 一応月末の通うという扱いなので、通常のパッチチューズデーとは異なる扱いとなるので、本番は 10 月 10 日（日本時間は 11 日）の通常 Windows Update となりそうです。 そんな Windows 11 の Insider Program でしたが、 Dev Channel と Release Preview Channel はそれぞれ何事もないようにバージョンアップがなされていました。 Dev Channel : Build 23555 Releas…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-09-30 datetime="2023-09-30T18:05:32.000Z">2023-09-30</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-09-30 datetime="2023-09-30T18:05:32.000Z"></time>
           </button>
@@ -1705,58 +1753,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-09-01 datetime="2023-09-01T17:42:42.000Z">2023-09-01</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-09-01 datetime="2023-09-01T17:42:42.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >（）のブログ</button>
-                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2023/09/02/024242"
-                        open
-                      >
-                        <summary class="article-expander__title">Windows 11 デバイスマネージャーのハードウェア再スキャンをコマンドから実行してみましょう</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2023/09/02/024242">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230826/20230826023410.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>最近 PC の調子が悪く、スリープ後に Wi-Fi が動作しなくなったりします。 色々調べるとどうもデバイスが読み込まれていない場合やエラーとなっているケースがほとんどで、今までは Ctrl + X でデバイス マネージャーを起動して対処していました。 こんな感じに選択したうえでボタンを押す必要があり、なかなか手間がかかっていたのです。 そこで、手数を減らすべく、 PowerShell での実行を考えました。 実行だけであれば、以下のコマンドレットを打つだけでこの機能を利用できるのですが、管理者権限の PowerShell を起動してから打ち込む必要もあり、バッチ化を行えないかとみてみました。…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/6366724655">
-        <time id="build-timestamp" datetime="2023-10-01T00:40:58.006Z">2023-10-01T00:40:58.006Z</time>
+      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/6374457632">
+        <time id="build-timestamp" datetime="2023-10-02T00:36:08.473Z">2023-10-02T00:36:08.473Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
