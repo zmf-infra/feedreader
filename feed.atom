@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T00:36:08.506Z</id>
+    <id>urn:2023-10-03T00:36:05.443Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T00:36:08.506Z</updated>
+    <updated>2023-10-03T00:36:05.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Bing ダークモードのサポートが開始されています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/03/020526</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/03/020526"/>
+        <updated>2023-10-02T17:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Bing.com で検索を行っていたところ、画面左側に見慣れないダイアログが表示されるようになっていました。 その内容が以下のダーク テーマを試してみようというものでした。 最近はどの機能をとってもダークモードサポートがキーワードになってきていますよね。というわけで早速試してみました。 いい感じにBingサイトが黒くなってくれました。 Rewards のバッジも色が変わっていますね。 見ての通りではあるのですが、、左側に今度はオフにするためのダイアログが出現しています。 こちらを押すと簡単に元の状態に戻すことができました。 ちなみにこのオンオフは Bing サイト内のハンバーガーメニューから外…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23555 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/02/011450</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/04/024552"/>
         <updated>2023-09-03T17:45:52.000Z</updated>
         <summary type="html"><![CDATA[今週も Windows Insider Program は元気に動き続けています。 9 月に入り、そろそろ 23H2 の影もちらつき始めるこの頃ですが、今週の更新を見ていきたいと思います。 今週の更新は以下の 3 点でした。 Canary Channel: Build 25941 Dev Channel: Build 23536 Beta Channel: Build 22621/31.2265 まず Beta Channel ですが、 Win + . で起動する絵文字のフォント種が変わったようです。その変化によって絵文字が立体的になっています。 手元の Dev Channel でも確認できな…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 SharePoint Online ページ作成時のプライベート化が提供されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/03/031805</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/03/031805"/>
-        <updated>2023-09-02T18:18:05.000Z</updated>
-        <summary type="html"><![CDATA[SharePoint Online のページ作成に、プライベートドラフト機能が追加されていました。 今までは投稿に関して、公開するか否かの選択肢くらいしかなかったと思うので、下書き状態でも作成者以外に編集権限をもっている人でも見ることができたんですよね。 この機能のためにページテンプレートを選択する画面にある作成ボタンのわきにチェックボックスが増えていますね。 チェックを入れて作成すると、画面上に以下のスプラッシュが現れました。 詳細情報には以下のサポートへのリンクが付いています。 https://support.microsoft.com/ja-jp/office/e9aa12cc-1ced…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

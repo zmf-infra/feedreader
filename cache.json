@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/10/03/020526",
+          "author": null,
+          "description": "Bing.com で検索を行っていたところ、画面左側に見慣れないダイアログが表示されるようになっていました。 その内容が以下のダーク テーマを試してみようというものでした。 最近はどの機能をとってもダークモードサポートがキーワードになってきていますよね。というわけで早速試してみました。 いい感じにBingサイトが黒くなってくれました。 Rewards のバッジも色が変わっていますね。 見ての通りではあるのですが、、左側に今度はオフにするためのダイアログが出現しています。 こちらを押すと簡単に元の状態に戻すことができました。 ちなみにこのオンオフは Bing サイト内のハンバーガーメニューから外…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/10/03/020526",
+          "publishedOn": "2023-10-02T17:05:26.000Z",
+          "wordCount": 647,
+          "title": "Microsoft Bing ダークモードのサポートが開始されています",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230921/20230921165657.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/10/02/011450",
           "author": null,
           "description": "先週は Windows 11 の 22H2 に超大型アップデートのプレビューがやってきており、世間がざわついていたかと思います。 一応月末の通うという扱いなので、通常のパッチチューズデーとは異なる扱いとなるので、本番は 10 月 10 日（日本時間は 11 日）の通常 Windows Update となりそうです。 そんな Windows 11 の Insider Program でしたが、 Dev Channel と Release Preview Channel はそれぞれ何事もないようにバージョンアップがなされていました。 Dev Channel : Build 23555 Releas…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/10/02/011450",
           "publishedOn": "2023-10-01T16:14:50.000Z",
-          "wordCount": 740,
+          "wordCount": 744,
           "title": "Windows 11 Insider Preview Build 23555 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231001/20231001223215.png"
         },
@@ -211,7 +221,7 @@
           "description": "Windows 11 Insider Dev と Canary Channel に提供されているペイントアプリに背景の削除機能が加わりました。 リボンの左側に小さいアイコンで存在しているので若干気が付きにくいかもしれません。 搭載は 11.2306.30.0 からとなっています。右上の設定ボタンからバージョンをチェックすることが可能です。 さて、この背景の削除ですが、どの程度使えるものなのか見ていきたいと思います。 まずこんな写真を用意してみました。 この写真をプリントアプリに張り付けて、ボタンを押すと、、、 計算が始まります。時間がかかるわけではないのですが、何ら設定もなく動き始めるのはやや…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/09/12/014112",
           "publishedOn": "2023-09-11T16:41:12.000Z",
-          "wordCount": 635,
+          "wordCount": 638,
           "title": "Windows 11 ペイントに背景削除機能が付きました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230912/20230912002038.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 723,
           "title": "Windows 11 Insider Preview Build 23536 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230903/20230903092919.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/09/03/031805",
-          "author": null,
-          "description": "SharePoint Online のページ作成に、プライベートドラフト機能が追加されていました。 今までは投稿に関して、公開するか否かの選択肢くらいしかなかったと思うので、下書き状態でも作成者以外に編集権限をもっている人でも見ることができたんですよね。 この機能のためにページテンプレートを選択する画面にある作成ボタンのわきにチェックボックスが増えていますね。 チェックを入れて作成すると、画面上に以下のスプラッシュが現れました。 詳細情報には以下のサポートへのリンクが付いています。 https://support.microsoft.com/ja-jp/office/e9aa12cc-1ced…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/09/03/031805",
-          "publishedOn": "2023-09-02T18:18:05.000Z",
-          "wordCount": 623,
-          "title": "Microsoft 365 SharePoint Online ページ作成時のプライベート化が提供されていました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230830/20230830020313.png"
         }
       ]
     },
