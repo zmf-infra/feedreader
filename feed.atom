@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T00:36:05.443Z</id>
+    <id>urn:2023-10-04T00:36:16.835Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T00:36:05.443Z</updated>
+    <updated>2023-10-04T00:36:16.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Purview の監査ログ保持期間が 180 日に拡大されます]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/04/022449</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/04/022449"/>
+        <updated>2023-10-03T17:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 の監査ログは通常 90 日分のデータを蓄え、問題発生に対処する考え方となっています。 しかしながらこの 90 日は長いようで短く、大抵の場合別でログを回収しておくような仕組みを用意することが多かったのではないでしょうか。 費用が許せば 1 年のプレミアム監査を有効にするか、さらにオプションの 10 年保管機能を使うというケースもありますが、なかなか手を出すに至らないケースも多いのかと思います。 そんな絶妙な 90 日だった監査ログですが、なんと 180 日に拡大されることが決まったようです。 https://www.microsoft.com/ja-jp/micro…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：「 Planner および To Do の Tasks 」アプリのロゴが変わった]]></title>
+        <id>https://art-break.net/tech/?p=19553</id>
+        <link href="https://art-break.net/tech/?p=19553"/>
+        <updated>2023-10-03T02:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 側もだいぶ迷走…じゃなくて試行錯誤中なんでしょうか。 ■まずは歴史を振り返る Microsoft 365 でタスク管理と言えば Microsoft Planner と Microsoft To Do  … "Microsoft Teams ：「 Planner および To Do の Tasks 」アプリのロゴが変わった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Bing ダークモードのサポートが開始されています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/03/020526</id>
@@ -226,16 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SharePoint ：ニュースをメールで配信できるテンプレートが登場]]></title>
-        <id>https://art-break.net/tech/?p=19302</id>
-        <link href="https://art-break.net/tech/?p=19302"/>
-        <updated>2023-09-20T06:56:37.000Z</updated>
-        <summary type="html"><![CDATA[■機能の話の前に ※機能だけを知りたい方は読むの大変なのでこの章はスキップしてください。ただ、僕としてはその前の大事な話をするつもりです。 15年以上前から SharePoint に関わってきましたが、昔からよく聞く変わ … "SharePoint ：ニュースをメールで配信できるテンプレートが登場" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Bing サードパーティ Cookie の利用を見ておきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/20/014410</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/20/014410"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/05/023703"/>
         <updated>2023-09-04T17:37:03.000Z</updated>
         <summary type="html"><![CDATA[Windows Insider に関するアップデートには OS 自体だけでなく、関連する Microsoft アプリストアで配信されたものにも更新が入るケースがあります。今回はその中から 2 アップデートを説明していきたいと思います。 まず一つ目はメモ帳です。 いわずと知れたメモ帳ですが、最近は System32 に入っているものから、 Microsoft Store アプリに鞍替えしてきているのはご存じでしょうか。 その中で、保存を行っていなくても Windows のシャットダウン後に起動するとデータが残るようになっていたことに気が付いている人は多いと思います。 その機能はどちらかというと …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23536 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/04/024552</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/04/024552"/>
-        <updated>2023-09-03T17:45:52.000Z</updated>
-        <summary type="html"><![CDATA[今週も Windows Insider Program は元気に動き続けています。 9 月に入り、そろそろ 23H2 の影もちらつき始めるこの頃ですが、今週の更新を見ていきたいと思います。 今週の更新は以下の 3 点でした。 Canary Channel: Build 25941 Dev Channel: Build 23536 Beta Channel: Build 22621/31.2265 まず Beta Channel ですが、 Win + . で起動する絵文字のフォント種が変わったようです。その変化によって絵文字が立体的になっています。 手元の Dev Channel でも確認できな…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
