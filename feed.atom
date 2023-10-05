@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T00:36:16.835Z</id>
+    <id>urn:2023-10-05T00:35:41.914Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T00:36:16.835Z</updated>
+    <updated>2023-10-05T00:35:41.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 OneDrive の UI が新しくなるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/05/024218</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/05/024218"/>
+        <updated>2023-10-04T17:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 Copilot の発表を皮切りになのか、近頃、今まで安定していた Microsoft 365 に関する更新の話題が止まらくなかったように感じますよね。 というわけで今度は OneDrive for Business の UI 変更の話が上がってきていました。 以下のコミュニティブログに今後 2024 年にかけて徐々に更新されていく機能が書かれているのですが、そういえば今日 OneDrive を開いたときに若干違和感があったんだよなあと思ってみてみると、ホーム画面はもうすでに新しいものに置き換わりつつある感じになっているんですよね。 https://techcommu…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Purview の監査ログ保持期間が 180 日に拡大されます]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/04/022449</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/06/023827"/>
         <updated>2023-09-05T17:38:27.000Z</updated>
         <summary type="html"><![CDATA[2023 年 9 月といえば、 Microsoft Teams が新しい UI になり、大量のチームでも快適に動作するようになるはず！ということで待ち望まれている方が多いのではないでしょうか。そんな Teams ですが、 Microsoft 365 Portal サイトメニューからも起動できるようになり、手軽にアクセスできるようになったのはよいけど Web 版は旧 UI なんだよなぁと思っていたらなんと新しい UI で利用できるようになっていたようです。 いつのまに、、、という感じですが、 Teams アプリ版と同じように左側に新しい Teams を試すトグルスイッチが用意されてるようになって…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Program 向けのアプリ更新について]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/05/023703</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/05/023703"/>
-        <updated>2023-09-04T17:37:03.000Z</updated>
-        <summary type="html"><![CDATA[Windows Insider に関するアップデートには OS 自体だけでなく、関連する Microsoft アプリストアで配信されたものにも更新が入るケースがあります。今回はその中から 2 アップデートを説明していきたいと思います。 まず一つ目はメモ帳です。 いわずと知れたメモ帳ですが、最近は System32 に入っているものから、 Microsoft Store アプリに鞍替えしてきているのはご存じでしょうか。 その中で、保存を行っていなくても Windows のシャットダウン後に起動するとデータが残るようになっていたことに気が付いている人は多いと思います。 その機能はどちらかというと …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
