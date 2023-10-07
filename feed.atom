@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T00:35:44.578Z</id>
+    <id>urn:2023-10-07T00:35:09.227Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T00:35:44.578Z</updated>
+    <updated>2023-10-07T00:35:09.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsof 365 Teams 2.0 がリリースとなりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/07/031716</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/07/031716"/>
+        <updated>2023-10-06T18:17:16.000Z</updated>
+        <summary type="html"><![CDATA[当初 2023 年 9 月頃のリリースを目指すといわれていた Teams 2.0 ですが、ほぼ予定通りの 10 月 5 日付けで Microsoft Teams 2.0 がリリースとなりました。 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/announcing-general-availability-of-the-new-microsoft-teams-app/ba-p/3934603?WT.mc_id=M365-MVP-5002496 上記にもあるように、一番の目玉は高速化とフットプリント（メモリ使用量）の削減です…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams Live Event がリリース終了となり Town Halls がリリースされます]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/06/021315</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/08/030751"/>
         <updated>2023-09-07T18:07:51.000Z</updated>
         <summary type="html"><![CDATA[Microsoft の年次イベントで ITPro 向けの情報発表会、 Ignite が今年もやってきます。 今年は 11 月 14 日から 17 日までの 4 日間の開催となっています。オンラインはそのうち 15 日と 16 日の 2 日間ですね。 https://ignite.microsoft.com/en-US/home 今年は年間を通して AI の年となっていますが、 Ignite も AI 一色になりそうなページ構成です笑 登録は上記サイトの Register now から行うのですが、シアトルでの現地開催も用意されています。 2023 年 10 月 11 日までは特別料金、なぜか …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Booking で外部に空き時間を公開してみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/07/032236</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/07/032236"/>
-        <updated>2023-09-06T18:22:36.000Z</updated>
-        <summary type="html"><![CDATA[皆さん、 Booking は活用されていますか？ この機能は主に美容室のようなサービスを提供する側がその施設やサービス提供者の空き時間を知らせるためのもののように見られているケースが多く、自分にはあまり関係ないものとして有効活用していなかったケースも多かったのではないでしょうか。 しかし、 Booking は使い方を工夫すればかなり有用なツールとすることができます。 例えば組織外の方と予定を調整するときに活用すれば、かなり頻用するツールとなると思います。 今回はそんな利用ケースを見ていきます。 まず、 Booking のサイトで会議に参加させたい組織内のユーザーを含めた予定を作成します。 以下…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
