@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-07T00:35:09.227Z</id>
+    <id>urn:2023-10-08T00:38:29.701Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T00:35:09.227Z</updated>
+    <updated>2023-10-08T00:38:29.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Security Center を活用してみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/08/014117</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/08/014117"/>
+        <updated>2023-10-07T16:41:17.000Z</updated>
+        <summary type="html"><![CDATA[実は最近 Microsoft 365 E5 が利用できるようになりまして、今まであまり見えていなかったセキュリティやコンプライアンスの機能の世界に足を踏み入れられるようになりました。 これからはそちらの機能もチェックしていけたらなと思っているのですが、まずは最近こくないでも増えているセキュリティ事案に対応させるため、 Microsoft 365 Defender 関連の機能に焦点を当ててみていきたいと思います。 Microsoft 365 のセキュリティ周りはセキュリティセンターと呼ばれていた以下のサイトから様々な管理を行うことになっています。まずは触ってみましょう。 https://secu…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsof 365 Teams 2.0 がリリースとなりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/07/031716</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/09/010147"/>
         <updated>2023-09-08T16:01:47.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Edge で検索を行っていたところ今まで見たことのないメッセージが表示されることに気が付きました。 長文の検索文字を入力していたところ、、、別の項目を見つけてくれるように。 これ、 Bing などの検索エンジンでもあるような入力ミスなどをチェックしてくれる機能に似ていますね。検索エンジンの機能には大いに助けられているので、うれしい機能の一つですね。 次の項目のリンクを押すとその単語が検索ボックスに移動し、そのまま検索される動きとなるようです。 ここで表示される推論は、ページ内の文字を見ているようです。 同じ検索でも、対象ページに置き換えるべき単語があるかどうかで出す出さない…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micosoft Ignite 2023 今年も登録が開始されました！]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/08/030751</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/08/030751"/>
-        <updated>2023-09-07T18:07:51.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft の年次イベントで ITPro 向けの情報発表会、 Ignite が今年もやってきます。 今年は 11 月 14 日から 17 日までの 4 日間の開催となっています。オンラインはそのうち 15 日と 16 日の 2 日間ですね。 https://ignite.microsoft.com/en-US/home 今年は年間を通して AI の年となっていますが、 Ignite も AI 一色になりそうなページ構成です笑 登録は上記サイトの Register now から行うのですが、シアトルでの現地開催も用意されています。 2023 年 10 月 11 日までは特別料金、なぜか …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
