@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-08T00:38:29.701Z</id>
+    <id>urn:2023-10-09T00:36:10.029Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T00:38:29.701Z</updated>
+    <updated>2023-10-09T00:36:10.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23560 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/09/011520</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/09/011520"/>
+        <updated>2023-10-08T16:15:20.000Z</updated>
+        <summary type="html"><![CDATA[今週の Windows 11 Insider Program Update は 2 つの Channel で行われました。 Canary Channel : Build 25967 Dev Channel : Build 23560 先週 23H2 が Release Preview Channel に上がっているかと思いますが、そのあたりは Dev Channel には回ってきていないようでまだバージョンは 22H2 のままとなっていました。これは変わってくると思ったんですけどねー。残念！ 今週は大きな変化はなく、 Canary Channel では設定アプリにホームが付くようになったという…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Security Center を活用してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/08/014117</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/10/022555"/>
         <updated>2023-09-09T17:25:55.000Z</updated>
         <summary type="html"><![CDATA[前にも Windows 11 のメールと予定表が 2024 年には Outlook に切り替わっていくという話は行いましたが、その時は私の環境ではうまく動作しなかったのですが、また案内の形が変わっていたので試してみました。 結果、切り替えることができるようになっていました。 切り替えを行うとこのような形で事前設定が走っていきます。 データを Outlook に委ねる。とあるように、新しい Outlook は Outlook on the Web の仕組みとなっているようですね。データは Outlook.com 内にとどまる形をとるようです。 わかりにくいのですが、このスプラッシュは下のほうにス…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micosoft Edge 検索の推論が行われるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/09/010147</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/09/010147"/>
-        <updated>2023-09-08T16:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Edge で検索を行っていたところ今まで見たことのないメッセージが表示されることに気が付きました。 長文の検索文字を入力していたところ、、、別の項目を見つけてくれるように。 これ、 Bing などの検索エンジンでもあるような入力ミスなどをチェックしてくれる機能に似ていますね。検索エンジンの機能には大いに助けられているので、うれしい機能の一つですね。 次の項目のリンクを押すとその単語が検索ボックスに移動し、そのまま検索される動きとなるようです。 ここで表示される推論は、ページ内の文字を見ているようです。 同じ検索でも、対象ページに置き換えるべき単語があるかどうかで出す出さない…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
