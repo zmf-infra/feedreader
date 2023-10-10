@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-09T00:36:10.029Z</id>
+    <id>urn:2023-10-10T00:35:34.530Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T00:36:10.029Z</updated>
+    <updated>2023-10-10T00:35:34.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot のセットアップウィザードが展開されるようになっていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/10/003159</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/10/003159"/>
+        <updated>2023-10-09T15:31:59.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 11 月 1 日より開始される Microsoft 365 Copilot の GA に向けて、情報やら環境やらが強化されている Microsoft 365 ですが、管理センターに Microsoft 365 Copilot セットアップガイドという機能が追加されたようです。 以下がそのアドレスとなっているのですが、今回はその中身を見ていきたいと思います。 https://admin.microsoft.com/Adminportal/Home?Q=learndocs#/modernonboarding/microsoft365copilotsetupguide まずこのガイドで…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23560 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/09/011520</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/11/020222"/>
         <updated>2023-09-10T17:02:22.000Z</updated>
         <summary type="html"><![CDATA[今週も Windows 11 の Insider Program は動き続けています。 今回は Beta Channel までの 3 チャネルが更新されていました。 Canary Channel: Build 25947 Dev Channel: Build 23541 Beta Channel: Build 22621/31.2271 今回は更新といっても Beta Channel で設定アプリの手書き入力が一時的に休止されたり、 Canary Channel でカラーフォントを利用した絵文字が使えなくなったりと、調整の行われた週となっていました。 そんなバグフィックスに焦点を置いた週でした…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 メールと予定表が Outlook に変更できるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/10/022555</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/10/022555"/>
-        <updated>2023-09-09T17:25:55.000Z</updated>
-        <summary type="html"><![CDATA[前にも Windows 11 のメールと予定表が 2024 年には Outlook に切り替わっていくという話は行いましたが、その時は私の環境ではうまく動作しなかったのですが、また案内の形が変わっていたので試してみました。 結果、切り替えることができるようになっていました。 切り替えを行うとこのような形で事前設定が走っていきます。 データを Outlook に委ねる。とあるように、新しい Outlook は Outlook on the Web の仕組みとなっているようですね。データは Outlook.com 内にとどまる形をとるようです。 わかりにくいのですが、このスプラッシュは下のほうにス…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
