@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-11 datetime="2023-10-11T17:42:19.000Z">2023-10-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-11 datetime="2023-10-11T17:42:19.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >（）のブログ</button>
+                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2023/10/12/024219"
+                        open
+                      >
+                        <summary class="article-expander__title">Microsoft 365 Exchange Online で外部メール受信遅延が起きています</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2023/10/12/024219">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231012/20231012013516.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>2023 年 10 月 11 日は久々に大きめな問題が Microsoft 365 内で発生していました。 実は同日、全銀ネットで大規模障害が発生していたためか、あまり大きな話題になっていない感があります。 しかしながらかなり影響が大きい問題で、なんと外部メールの受信が行えなくなるという内容だったんですよね。 というわけで、今回の問題は Microsoft 365 管理センターの正常性ダッシュボード上に日本語で案内が行われていました。今までのマイクロソフトは障害などでもまずは英語で情報提供を心掛けていたように思えたのですが、このスピード感はすごいですね。 というわけでメール受信の遅延となってい…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-10-10 datetime="2023-10-10T16:48:24.000Z">2023-10-10</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-10-10 datetime="2023-10-10T16:48:24.000Z"></time>
           </button>
@@ -1705,58 +1753,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-09-11 datetime="2023-09-11T16:41:12.000Z">2023-09-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-09-11 datetime="2023-09-11T16:41:12.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >（）のブログ</button>
-                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2023/09/12/014112"
-                        open
-                      >
-                        <summary class="article-expander__title">Windows 11 ペイントに背景削除機能が付きました</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2023/09/12/014112">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230912/20230912002038.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Windows 11 Insider Dev と Canary Channel に提供されているペイントアプリに背景の削除機能が加わりました。 リボンの左側に小さいアイコンで存在しているので若干気が付きにくいかもしれません。 搭載は 11.2306.30.0 からとなっています。右上の設定ボタンからバージョンをチェックすることが可能です。 さて、この背景の削除ですが、どの程度使えるものなのか見ていきたいと思います。 まずこんな写真を用意してみました。 この写真をプリントアプリに張り付けて、ボタンを押すと、、、 計算が始まります。時間がかかるわけではないのですが、何ら設定もなく動き始めるのはやや…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/6476406068">
-        <time id="build-timestamp" datetime="2023-10-11T00:35:36.634Z">2023-10-11T00:35:36.634Z</time>
+      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/6489668417">
+        <time id="build-timestamp" datetime="2023-10-12T00:34:04.158Z">2023-10-12T00:34:04.158Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

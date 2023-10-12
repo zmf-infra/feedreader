@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-11T00:35:36.661Z</id>
+    <id>urn:2023-10-12T00:34:04.190Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T00:35:36.661Z</updated>
+    <updated>2023-10-12T00:34:04.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Exchange Online で外部メール受信遅延が起きています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/12/024219</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/12/024219"/>
+        <updated>2023-10-11T17:42:19.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 10 月 11 日は久々に大きめな問題が Microsoft 365 内で発生していました。 実は同日、全銀ネットで大規模障害が発生していたためか、あまり大きな話題になっていない感があります。 しかしながらかなり影響が大きい問題で、なんと外部メールの受信が行えなくなるという内容だったんですよね。 というわけで、今回の問題は Microsoft 365 管理センターの正常性ダッシュボード上に日本語で案内が行われていました。今までのマイクロソフトは障害などでもまずは英語で情報提供を心掛けていたように思えたのですが、このスピード感はすごいですね。 というわけでメール受信の遅延となってい…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 VBScript が非推奨の機能となりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/11/014824</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/13/012015"/>
         <updated>2023-09-12T16:20:15.000Z</updated>
         <summary type="html"><![CDATA[LLM は文章を理解できる機械学習の機能として、最近は大いに市民権を得ることができたのかと思います。 多くの組織では、その潜在力を認めつつも実用まであと一歩のところで実証検証されているケースが多いのではないでしょうか。 そんな状況を打破すべくか、 Microsoft 365 Viva にAnswers in Viva が加わることになりました。 これは Viva エンゲージの追加機能となっており、今までオプションのなかった Viva エンゲージの意味のある有料オプションです。 これを利用すると、入力した内容を要約して付与すべきタグを最大 3 つ自動で見つけてくれるようになるのです。 Micro…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 ペイントに背景削除機能が付きました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/12/014112</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/12/014112"/>
-        <updated>2023-09-11T16:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 Insider Dev と Canary Channel に提供されているペイントアプリに背景の削除機能が加わりました。 リボンの左側に小さいアイコンで存在しているので若干気が付きにくいかもしれません。 搭載は 11.2306.30.0 からとなっています。右上の設定ボタンからバージョンをチェックすることが可能です。 さて、この背景の削除ですが、どの程度使えるものなのか見ていきたいと思います。 まずこんな写真を用意してみました。 この写真をプリントアプリに張り付けて、ボタンを押すと、、、 計算が始まります。時間がかかるわけではないのですが、何ら設定もなく動き始めるのはやや…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
