@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-12T00:34:04.190Z</id>
+    <id>urn:2023-10-13T00:36:49.088Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T00:34:04.190Z</updated>
+    <updated>2023-10-13T00:36:49.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams アプリ内の Planner がカラフルに生まれ変わっています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/13/015736</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/13/015736"/>
+        <updated>2023-10-12T16:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams でアプリを検索していたところ、見慣れない色のアイコンが目に飛び込んできたので今回はこれを取り上げてみたいと思います。 これ。というのは Planner のアプリなのですが、以下のようにアプリ一覧から Planner を検索すると赤と青のグラデーションでできたアイコンが表示されるのです。 見ての通り、形は Planner のそれなのですが、 To Do タスクの成分が混ざってこのイメージになったのかなという感じです。 Planner および To Do タスク Tasks という名前なので Planner とは異なるということをイメージしているのかもしれません。し…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：新しい Teams アプリに切り替えるトグルスイッチが表示されはじめた]]></title>
+        <id>https://art-break.net/tech/?p=19595</id>
+        <link href="https://art-break.net/tech/?p=19595"/>
+        <updated>2023-10-12T08:19:04.000Z</updated>
+        <summary type="html"><![CDATA[※本記事はトグルスイッチの話で New Teams アプリ自体の話はあまりありません。 従来の2倍速いと Microsoft が自称する New Microsoft Teams アプリがパブリックプレビュー開始されたのが … "Microsoft Teams ：新しい Teams アプリに切り替えるトグルスイッチが表示されはじめた" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Forms ：グループフォームのファイルアップロードの保存場所]]></title>
+        <id>https://art-break.net/tech/?p=19568</id>
+        <link href="https://art-break.net/tech/?p=19568"/>
+        <updated>2023-10-12T05:29:20.000Z</updated>
+        <summary type="html"><![CDATA[以前こんな相談を受けた事があります。 「 Microsoft Forms で回答者にファイルをアップロードしてもらうフォームを作ったけど、アップロードしてもらったファイルが自分の OneDrive for Busines … "Microsoft Forms ：グループフォームのファイルアップロードの保存場所" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Exchange Online で外部メール受信遅延が起きています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/12/024219</id>
@@ -296,26 +326,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OneDrive for Business ：ホームに推奨ファイルが表示]]></title>
-        <id>https://art-break.net/tech/?p=19385</id>
-        <link href="https://art-break.net/tech/?p=19385"/>
-        <updated>2023-09-21T04:44:39.000Z</updated>
-        <summary type="html"><![CDATA[今日は OneDrive for Business （ 以下 ODfB ）のアップデート情報4記事を投稿します。2つ目の記事です。 2023/07/21 付けで Microsoft 365 管理センターのメッセージセンタ … "OneDrive for Business ：ホームに推奨ファイルが表示" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneDrive for Business ：デザイン・ナビゲーションの変更]]></title>
-        <id>https://art-break.net/tech/?p=19367</id>
-        <link href="https://art-break.net/tech/?p=19367"/>
-        <updated>2023-09-21T00:40:41.000Z</updated>
-        <summary type="html"><![CDATA[OneDrive for Business （以下 ODfB ）のここ最近のアップデートが細かいのも含めて多い気がします。僕の標準リリース環境でも展開されはじめているので今日はまとめて4つくらい記事を出していこうと計画し … "OneDrive for Business ：デザイン・ナビゲーションの変更" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 悪質なサインインを見極められようになるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/21/030104</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/21/030104"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/14/022548"/>
         <updated>2023-09-13T17:25:48.000Z</updated>
         <summary type="html"><![CDATA[Windows メールの新リリース版となっている Outlook ですが、タスクバーのバッヂにあまり見ないマークがついていました。 上向きの矢印ということで何かのアップロード？と思って色々チェックをしてみました。 結果、アイコンをポイントすると表示されるビューに理由が書かれていました。 再起動して更新 - Outlook ということで、バージョンアップが行える状態になっていた形ですね。 とってもわかりにくかったので、どこかほかに書いてあるところがあるのかなーと見渡してみたのですが、トップ画面からは読み取ることができないという、、、 この辺りは Microsoft Edge のように、ちょっと見…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Answers in Viva のリリースが間近となっています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/13/012015</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/13/012015"/>
-        <updated>2023-09-12T16:20:15.000Z</updated>
-        <summary type="html"><![CDATA[LLM は文章を理解できる機械学習の機能として、最近は大いに市民権を得ることができたのかと思います。 多くの組織では、その潜在力を認めつつも実用まであと一歩のところで実証検証されているケースが多いのではないでしょうか。 そんな状況を打破すべくか、 Microsoft 365 Viva にAnswers in Viva が加わることになりました。 これは Viva エンゲージの追加機能となっており、今までオプションのなかった Viva エンゲージの意味のある有料オプションです。 これを利用すると、入力した内容を要約して付与すべきタグを最大 3 つ自動で見つけてくれるようになるのです。 Micro…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
