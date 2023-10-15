@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-14T00:34:45.205Z</id>
+    <id>urn:2023-10-15T00:38:37.835Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T00:34:45.205Z</updated>
+    <updated>2023-10-15T00:38:37.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Azure Internet Access がデフォルトゲートウェイから行えなくなるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/15/005602</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/15/005602"/>
+        <updated>2023-10-14T15:56:02.000Z</updated>
+        <summary type="html"><![CDATA[今回はあまり取り上げることのない Azure についてみていきたいと思います。 というもの、 2025 年 9 月 30 日以降、既定の外部インターネットアクセスの入口が閉ざされることになったようなのです。 https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access?WT.mc_id=M365-MVP-5002496 この記載を見ると、既定の外部インターネットアクセスはそもそも推奨されていないようで、まあそれもそのはず、既定の外部インターネットアクセスは、パブリック IP…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge Bing Chat で生成画像が作れるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/14/022017</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/16/051829"/>
         <updated>2023-09-15T20:18:29.000Z</updated>
         <summary type="html"><![CDATA[皆さんは Microsoft Edge に収益ツールキットという機能があるのをご存じでしょうか。 最初に言っておくと、収益とかツールとか一般で利用する言葉とイメージがずれている機能となっています。 実態は Microsoft Edge における ” はじめに ” に当たる機能となっており、チュートリアルなのですが、今回はこの内容を見ておきたいと思います。 まず、三点リーダーよりその他のツールを選びます。 その中にあるのが収益ツールキットですね。 起動するとこんな感じになっており、下のほうに書かれている 5 つの機能を調べることができるようになっています。 上部の日本語もかぶっていて読みづらくな…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Bing 検索結果に Bing Chat が付くようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/15/022304</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/15/022304"/>
-        <updated>2023-09-14T17:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Bing は Chat GPT との連携が発表されて以来利用が急増している検索エンジンとなっています。 しかしながら、通常の検索とチャットは別のくくりとなっていて、検索上部のチャットを押して利用するのが自然言語検索においては必要な操作となっていました。 https://www.bing.com/ しかしながら最近になってこの辺りの動作にも変更が加わったようで、検索したら Bing Chat が自動起動するようになっていました。 例えば SharePoint とはと検索してみると、、、 右側に Bing Chat の枠が出てきました。 しばらくすると内容が書かれ始め、最終的に…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
