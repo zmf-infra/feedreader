@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-15T00:38:37.835Z</id>
+    <id>urn:2023-10-16T00:36:49.581Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T00:38:37.836Z</updated>
+    <updated>2023-10-16T00:36:49.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23565 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/16/013251</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/16/013251"/>
+        <updated>2023-10-15T16:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Windows Insider Preview は今週もきっちりリリースされてきました。 ここ 1 年ほどは予定通りリリースが進んでいるように見えるのでとても安定している状況ですね。（ただし Canary Channel は思った以上に更新されていないので、いろいろ問題を抱えているのかもしれません。） というわけで今週は以下のバージョンアップが案内されていました。 Dev Channel : Build 23565 Beta Channel : Build 22635.2419 , 22635.2483 Release Preview Channel : 22621.2500 特筆すべきは B…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Azure Internet Access がデフォルトゲートウェイから行えなくなるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/15/005602</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/17/014917"/>
         <updated>2023-09-16T16:49:17.000Z</updated>
         <summary type="html"><![CDATA[Windows Copilot が利用できるようになった当初、 Copilot ボタンを押すと画面の右側に Copilot が表示されるのですが、同時に Edge の Bing Chat ボタンを押しても同様の動作になるという状態が続いていました。 以下の PRE のマークと、、、 Bing Chat のボタンですね。どちらも同じ動きをしていたのです。 その動作がいつの間にか変更されており、 2023 年 9 月時点では Windows Copilot を起動している状態で Bing Chat を開くことができるようになっていました。 こんな感じですね。両方開いているとブラウザーは画面の半分く…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge 収益ツールキットを覗いてみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/16/051829</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/16/051829"/>
-        <updated>2023-09-15T20:18:29.000Z</updated>
-        <summary type="html"><![CDATA[皆さんは Microsoft Edge に収益ツールキットという機能があるのをご存じでしょうか。 最初に言っておくと、収益とかツールとか一般で利用する言葉とイメージがずれている機能となっています。 実態は Microsoft Edge における ” はじめに ” に当たる機能となっており、チュートリアルなのですが、今回はこの内容を見ておきたいと思います。 まず、三点リーダーよりその他のツールを選びます。 その中にあるのが収益ツールキットですね。 起動するとこんな感じになっており、下のほうに書かれている 5 つの機能を調べることができるようになっています。 上部の日本語もかぶっていて読みづらくな…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
