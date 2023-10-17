@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/10/17/023312",
+          "author": null,
+          "description": "2023 年現在の SharePoint はほぼポータルサイトとファイル共有の機能で成り立っているのですが、オンプレの時代にはデータを一点に集めてデータベースのような使い方をするという構想がありました。 実際は速度が遅くて実用にはつらかったのですが、 2023 年まで機能自体は使えるようになっていたのです。 しかしながらここにきて、この周りの再構築が検討され始めたようで、 Business Connectivity Services を終了させる話が出てきているようです。 Learn によると 2024 年 9 月 30 日の EOS を目指しスケジュールを作っているとのこと。 https:/…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/10/17/023312",
+          "publishedOn": "2023-10-16T17:33:12.000Z",
+          "wordCount": 688,
+          "title": "Microsoft 365 Business Connectivity サービスのリタイヤが決定したようです",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231008/20231008102803.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/10/16/013251",
           "author": null,
           "description": "Windows Insider Preview は今週もきっちりリリースされてきました。 ここ 1 年ほどは予定通りリリースが進んでいるように見えるのでとても安定している状況ですね。（ただし Canary Channel は思った以上に更新されていないので、いろいろ問題を抱えているのかもしれません。） というわけで今週は以下のバージョンアップが案内されていました。 Dev Channel : Build 23565 Beta Channel : Build 22635.2419 , 22635.2483 Release Preview Channel : 22621.2500 特筆すべきは B…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/10/16/013251",
           "publishedOn": "2023-10-15T16:32:51.000Z",
-          "wordCount": 737,
+          "wordCount": 743,
           "title": "Windows 11 Insider Preview Build 23565 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231015/20231015160337.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 725,
           "title": "Windows 11 Insider Preview Build 23545 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230917/20230917161244.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/09/17/014917",
-          "author": null,
-          "description": "Windows Copilot が利用できるようになった当初、 Copilot ボタンを押すと画面の右側に Copilot が表示されるのですが、同時に Edge の Bing Chat ボタンを押しても同様の動作になるという状態が続いていました。 以下の PRE のマークと、、、 Bing Chat のボタンですね。どちらも同じ動きをしていたのです。 その動作がいつの間にか変更されており、 2023 年 9 月時点では Windows Copilot を起動している状態で Bing Chat を開くことができるようになっていました。 こんな感じですね。両方開いているとブラウザーは画面の半分く…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/09/17/014917",
-          "publishedOn": "2023-09-16T16:49:17.000Z",
-          "wordCount": 685,
-          "title": "Windows 11 Copilot が着々と進化を遂げているようです",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230913/20230913004001.png"
         }
       ]
     },
