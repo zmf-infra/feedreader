@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-17T00:36:11.643Z</id>
+    <id>urn:2023-10-18T00:36:03.525Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T00:36:11.643Z</updated>
+    <updated>2023-10-18T00:36:03.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 管理センターに Windows のリリースの正常性機能が追加されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/18/030256</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/18/030256"/>
+        <updated>2023-10-17T18:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 管理センターにまた新たな機能が追加されていたようです。 それは Windows のリリース正常性というものです。 正常性メニュー内に配置されていました。 これをクリックすると、 Windows 10 以降でサポートされているバージョンの一覧が表示されました。 このバージョンに対する不具合一覧というわけですね。 一覧内のバージョンわきにある表示ボタンを押すとフィルターされた状態で基地の問題や履歴を見ることができるようになっています。 こんな感じですね。 ただ気になったのはこの画面に見えているのは 4 件の問題となっています。 一方、 Learn にある既知の問題を確認…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Business Connectivity サービスのリタイヤが決定したようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/17/023312</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/19/021956"/>
         <updated>2023-09-18T17:19:56.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Entra ID の発表など Microsoft の 2023 年は製品名称の最適化を行いたい年だったのかもしれません。 その一環なのか Intune の管理ポータルのアドレスが entpoint.microsoft から intune.microsoft に変更されるアナウンスが行われていました。 Intune は 2010 年ころからあるのでここにきての名称変更は、この名前が一定の理解を得られたと判断したからかもしれませんね。 現時点ではどちらのアドレスも同じページ内容が表示されるようになっています。 https://intune.microsoft.com/#home…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23545 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/18/025318</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/18/025318"/>
-        <updated>2023-09-17T17:53:18.000Z</updated>
-        <summary type="html"><![CDATA[今週も Insider Program はバグ改修に余念がないようです。 今回はすべての Channel に更新が行われています。 Release Preview Channel : Build 22621.2359 Release Preview Channel : Build 22000.2479 こちらは中国の文字コードである GB18030-2022 への対応がなされています。 22H1 となる 22621.2359 においてはスタートメニューに Web サイトが表示されるようにもなっています。 Beta Channel : Build 22621/31.2338 GB18030-20…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
