@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-18T00:36:03.525Z</id>
+    <id>urn:2023-10-19T00:35:51.343Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T00:36:03.525Z</updated>
+    <updated>2023-10-19T00:35:51.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge マウス ジェスチャのアナウンスが表示されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/19/020038</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/19/020038"/>
+        <updated>2023-10-18T17:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Edge でマウス ジェスチャが使えることを皆さんご存じでしたでしょうか。 私は、はっきりとは覚えていませんでした。あまり使う機会がないなーと思ってオフにした記憶はあったのですが。 そんなジェスチャですが、 Edge を利用していたらナビゲーションの案内が左上に表示されました。 設定で有効にするをクリックするとマウス ジェスチャの構成に移動し、即利用できるようになりました。 ここにあるように、それぞれのジェスチャをマウスの右ボタンを押しながら行うことで様々なアクションを行うことができます。 例えば以下のような感じで左から右に一本線を引くことでページを進ませることができます。…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 管理センターに Windows のリリースの正常性機能が追加されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/18/030256</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/20/014410"/>
         <updated>2023-09-19T16:44:10.000Z</updated>
         <summary type="html"><![CDATA[Bing.com にアクセスすると最近画面上部に情報バーが表示されるようになったのはお気づきでしょうか？ https://www.bing.com/ 私がずっと気が付いていなかっただけなのかもしれませんが、昨今の情報開示の流れに沿って、 Cookie を利用して取得しているものは何か、情報を提供してくれているバーとなっています。 個人的にはここまで細かく Cookie の利用を説明しているケースを認識していなかったので、きれいに説明している例として紹介しておきたいと思います。 その紹介は情報バー内の左側のリンクです。これをクリックすると以下のサイトに遷移します。 ここでは、一般的にまとめられた…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micosoft 365 Intune の管理ポータルアドレスが変更になります]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/19/021956</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/19/021956"/>
-        <updated>2023-09-18T17:19:56.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Entra ID の発表など Microsoft の 2023 年は製品名称の最適化を行いたい年だったのかもしれません。 その一環なのか Intune の管理ポータルのアドレスが entpoint.microsoft から intune.microsoft に変更されるアナウンスが行われていました。 Intune は 2010 年ころからあるのでここにきての名称変更は、この名前が一定の理解を得られたと判断したからかもしれませんね。 現時点ではどちらのアドレスも同じページ内容が表示されるようになっています。 https://intune.microsoft.com/#home…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
