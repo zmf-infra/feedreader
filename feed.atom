@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-19T00:35:51.343Z</id>
+    <id>urn:2023-10-20T00:35:50.550Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T00:35:51.343Z</updated>
+    <updated>2023-10-20T00:35:50.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：新しい Teams アプリのチャネルについて【その2】 時系列を上下逆に]]></title>
+        <id>https://art-break.net/tech/?p=19668</id>
+        <link href="https://art-break.net/tech/?p=19668"/>
+        <updated>2023-10-19T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「 Microsoft Teams のチャネルで時の流れを逆にできる！」なんて言ったら…ちょっと頭おかしくなっちゃったのかな？って思われるかもしれませんが、言い方は微妙ですが世迷言ではありません。 本記事は「新しい Te … "Microsoft Teams ：新しい Teams アプリのチャネルについて【その2】 時系列を上下逆に" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Service Request を電話で受ける場合、 PIN 番号が必要となるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/20/012650</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/20/012650"/>
+        <updated>2023-10-19T16:26:50.000Z</updated>
+        <summary type="html"><![CDATA[MFA の波はアプリの世界を超え、電話の世界にも入り込んでくることが決まったようです。 2023 年 11 月 1 日以降は SR への電話問い合わせを行ったときに、電話連絡者のメールまたは電話番号に、 PIN 番号が一緒に送付されることで、問い合わせ者が電話通話者と同一であるかどうかを確認するためのフローが加わることになったとのことです。 SR は Microsoft 365 Portal などにある右上の ？ マークから行うサポート依頼を指しますが、ここからの問い合わせの折り返しとして電話を選んだ場合の動作が変わるということですね。 サポート内容を入力して下部に表示されるサポートへの問い合…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：新しい Teams アプリのチャネルについて【その1】 チャネル情報]]></title>
+        <id>https://art-break.net/tech/?p=19649</id>
+        <link href="https://art-break.net/tech/?p=19649"/>
+        <updated>2023-10-19T06:20:13.000Z</updated>
+        <summary type="html"><![CDATA[新しい Teams アプリに切り替えた後に初めてチャネルを開いた時、違和感を覚えた人も多いんじゃないかと思って記事にします。 Microsoft Teams に詳しい人なら「新しいチャネル エクスペリエンス」についての話 … "Microsoft Teams ：新しい Teams アプリのチャネルについて【その1】 チャネル情報" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge マウス ジェスチャのアナウンスが表示されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/19/020038</id>
@@ -356,16 +386,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft 365 Copilot の一般提供開始日が発表された]]></title>
-        <id>https://art-break.net/tech/?p=19426</id>
-        <link href="https://art-break.net/tech/?p=19426"/>
-        <updated>2023-09-22T02:18:07.000Z</updated>
-        <summary type="html"><![CDATA[基本的に当ブログは実際に展開された機能を実際に触ってみた事を書く内容が大半ですが、たまに今後の話も書きます。今回も。 先に記事タイトルに対する現時点の情報。 2023/11/01 に Microsoft 365 Copi … "Microsoft 365 Copilot の一般提供開始日が発表された" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot のリリース日程が決定しました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/22/025811</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/22/025811"/>
@@ -376,31 +396,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OneDrive for Business ：「ユーザー」カットでファイルを参照するビュー]]></title>
-        <id>https://art-break.net/tech/?p=19412</id>
-        <link href="https://art-break.net/tech/?p=19412"/>
-        <updated>2023-09-21T06:45:01.000Z</updated>
-        <summary type="html"><![CDATA[今日は OneDrive for Business （ 以下 ODfB ）のアップデート情報4記事を投稿します。4つ目の記事です。一人ブログマラソンをやっていますが、諸事情で今日のうちにやっておきたかったんです。 前の記 … "OneDrive for Business ：「ユーザー」カットでファイルを参照するビュー" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 悪質なサインインを見極められようになるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/09/21/030104</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/21/030104"/>
         <updated>2023-09-20T18:01:04.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 はクラウドシステムなので、論理的にはいつだれがサインインを試みるか判断することが難しくなっています。 そのため、 Microsoft Authenticator などのサインイン難化のソリューションを用いて、できる限りの不正アクセスを行わせないようにセキュア化していく動きが重要です。 例えば Microsoft Authenticator を利用するときも以下のようにサインインを行った場所を表示させるなどで間違えたサインインを行わないように設定を行ったりします。 これ、例えばアメリカからサインインがされそうになっても表示されるというものだったのですが、 2023 年…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Bing サードパーティ Cookie の利用を見ておきましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/20/014410</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/20/014410"/>
-        <updated>2023-09-19T16:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Bing.com にアクセスすると最近画面上部に情報バーが表示されるようになったのはお気づきでしょうか？ https://www.bing.com/ 私がずっと気が付いていなかっただけなのかもしれませんが、昨今の情報開示の流れに沿って、 Cookie を利用して取得しているものは何か、情報を提供してくれているバーとなっています。 個人的にはここまで細かく Cookie の利用を説明しているケースを認識していなかったので、きれいに説明している例として紹介しておきたいと思います。 その紹介は情報バー内の左側のリンクです。これをクリックすると以下のサイトに遷移します。 ここでは、一般的にまとめられた…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
