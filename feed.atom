@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T00:35:50.550Z</id>
+    <id>urn:2023-10-21T00:34:37.269Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-20T00:35:50.550Z</updated>
+    <updated>2023-10-21T00:34:37.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge プロファイルの位置が変わり、ウォレットが加わりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/21/011558</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/21/011558"/>
+        <updated>2023-10-20T16:15:58.000Z</updated>
+        <summary type="html"><![CDATA[現在私は Microsoft Edge については早期に機能を試せるプログラムである Microsoft Edge の Beta Channel を利用しているのですが、 Insider Program Dev Channel を利用している方は同じ状態になっているものと思います。 そんな Microsoft Edge なのですがころころとインターフェースが変更されているのは周知の事実ではないでしょうか。 今回そんな IF 変更がいくつか行われていたので見ていきたいと思います。 まずはとても分かりやすいところなのですが、ユーザープロファイルのアイコンが左上になっているのはお気づきでしょうか。 …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Teams ：新しい Teams アプリのチャネルについて【その2】 時系列を上下逆に]]></title>
         <id>https://art-break.net/tech/?p=19668</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/22/025811"/>
         <updated>2023-09-21T17:58:11.000Z</updated>
         <summary type="html"><![CDATA[2023 年 9 月 21 日、ニューヨークで Microsoft Copilot のイベントが行われたようで、その中で Microsoft 365 Copilot のリリース日程が発表されました。 なんと 2023 年 11 月 1 日という、あと一か月ちょっとで利用できるようになるというところまで来ていたようです。 発表の全体概要は以下のサイトに内容が詳しく書かれています。 https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availa…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 悪質なサインインを見極められようになるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/21/030104</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/21/030104"/>
-        <updated>2023-09-20T18:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 はクラウドシステムなので、論理的にはいつだれがサインインを試みるか判断することが難しくなっています。 そのため、 Microsoft Authenticator などのサインイン難化のソリューションを用いて、できる限りの不正アクセスを行わせないようにセキュア化していく動きが重要です。 例えば Microsoft Authenticator を利用するときも以下のようにサインインを行った場所を表示させるなどで間違えたサインインを行わないように設定を行ったりします。 これ、例えばアメリカからサインインがされそうになっても表示されるというものだったのですが、 2023 年…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
