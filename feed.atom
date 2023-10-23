@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-22T00:38:33.090Z</id>
+    <id>urn:2023-10-23T00:36:05.097Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T00:38:33.090Z</updated>
+    <updated>2023-10-23T00:36:05.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23570 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/23/012500</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/23/012500"/>
+        <updated>2023-10-22T16:25:00.000Z</updated>
+        <summary type="html"><![CDATA[今週も Windows 11 Insider Program は平常運転となっていました。 最近の Microsoft は AI を軸にした戦略を打ち出しているので Windows 自体にも Copilot が組み込まれはしましたがそこから先の展望があまり見えてこないので、そろそろ Windows へのテコ入れもお願いしたいところです。もちろん Copilot はすごいので使える機能を拡張していくなどでもよいのでパワーアップを待ちたいですね。 というわけで、今週は Release Preview Channel の Windows 11 以外が更新されていました。 今週は Canary Cha…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Azure サブスクリプションに追加ユーザーの紐づけを行うには]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/22/014646</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/24/021357"/>
         <updated>2023-09-23T17:13:57.000Z</updated>
         <summary type="html"><![CDATA[最近キャンバスが中央に表示されるようになった Windows 11 のペイントアプリですが、なんだか最近機能追加が止まらなくなっているようです。 私はキャプチャを取るために主に利用しているのですが、リボンを見るとレイヤーという機能が、、、 グラフィックを取り扱うソフトを利用している方にはおなじみすぎる機能ですが、レイヤーを使うと書いた絵図を階層状にして管理することができるようになります。 例えば顔を書く時を思い浮かべるとよいのですが、顔の肌色を背景レイヤーにして、目や鼻、口をその上のレイヤーに書けば書き直しが顔のパーツだけ行えるようになる。そういった機能です。昔のアニメのセル画が近い概念ですね…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Planner の Preview に Loop 対応が追加されるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/23/005628</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/23/005628"/>
-        <updated>2023-09-22T15:56:28.000Z</updated>
-        <summary type="html"><![CDATA[メールや Teams に追加された Loop を利用されている方は多くいらっしゃると思いますが、実は Loop にはアプリ化される計画があるのはご存じでしょうか。 前にここでもお伝えしたことがあるので、すでに使ったことがある方もいるかもしれません。 以下の図は Outlook on the Web の Loop コンポーネントの一覧ですが、このコンポーネントをそのままアプリとして活用できるのが Loop アプリというわけです。 そんな Loop ですが、まだリリースされていないため Preview でどんどん開発が進んでおり、 Microsoft Planner をそのまま Loop にする機…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
