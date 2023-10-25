@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T00:35:56.425Z</id>
+    <id>urn:2023-10-25T00:35:44.010Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T00:35:56.425Z</updated>
+    <updated>2023-10-25T00:35:44.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Syntex に様々な機能が追加リリースされていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/25/023251</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/25/023251"/>
+        <updated>2023-10-24T17:32:51.000Z</updated>
+        <summary type="html"><![CDATA[最近、個人的にふとした理由から Microsoft Syntex 熱が高くなっており、どうしたらいろいろな方が触ってくれるかなぁとおぼろげに考えていたのですが、考えるよりもさわらせろ！と言わんばかりに Syntex に様々な追加機能が 2023 年 10 月に増えていました。 https://techcommunity.microsoft.com/t5/microsoft-syntex-blog/microsoft-syntex-adds-taxonomy-and-image-tagging-ocr-content/ba-p/3951811?WT.mc_id=M365-MVP-5002496 …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Teams ：新しい Teams アプリのチャネルについて【その4】 スレッドを新しいウィンドウで開く]]></title>
         <id>https://art-break.net/tech/?p=19710</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/26/022303"/>
         <updated>2023-09-25T17:23:03.000Z</updated>
         <summary type="html"><![CDATA[2018 年に機能追加を終えた Exchange Online 向けの EWS （ Exchange Web Services ）ですが、なんと 2026 年 10 月 1 日に Outlook など Microsoft のアプリからの接続以外をブロックする方針となったようです。 以下のコミュニティブログ内に詳細が書かれていました。 https://techcommunity.microsoft.com/t5/exchange-team-blog/retirement-of-exchange-web-services-in-exchange-online/ba-p/3924440?WT.mc_…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23550 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/25/013439</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/25/013439"/>
-        <updated>2023-09-24T16:34:39.000Z</updated>
-        <summary type="html"><![CDATA[今週の Windows Insider Program は 2023 年 9 月 21 日に発表された Microsoft Copilot in Windows ( Windows Copilot ) などの話題が豊富にあるのですが OS の更新という視点では追随させない方向を取ったようで、大きなバージョンアップはありませんでした。 以下の Blog にも記載されているように 9 月 26 日 （日本時間の場合は 27 日でしょうか）にリリースバージョンを更新するという話なのでそちらにパワーが刺されているに違いありません。 https://blogs.microsoft.com/blog/20…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
