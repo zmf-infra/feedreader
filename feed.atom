@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T00:34:31.222Z</id>
+    <id>urn:2023-10-29T00:38:10.221Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T00:34:31.222Z</updated>
+    <updated>2023-10-29T00:38:10.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Viva Engage プライベートメッセージを抑止する機能が追加されるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/29/022641</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/29/022641"/>
+        <updated>2023-10-28T17:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Viva Engage の全身だった Yammer は、 Microsoft の中でも買収後長期的に利用されてきた数少ないシステムでした。 そのため、独自に進化した機能がなかなか切れずに 2012 年に Microsoft 傘下となった後も 2023 年に至るまで 11 年間も手が加わらなかったものも当然のように存在しています。 そんな状態の中、 2023 年 11 月、プライベートメッセージを利用できなくするための機能がリリースすることになったようです。 プライベートメッセージはその名の通り、 Yammer （ Viva Engage ）ネットワーク上でのみやり取りできるメッセージで、ちょう…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 仮想会議室を利用した Teams 会議はモバイルの Web ブラウザーから参加できるようになっていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/28/021045</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/09/30/005122"/>
         <updated>2023-09-29T15:51:22.000Z</updated>
         <summary type="html"><![CDATA[Outlook は Microsoft 365 Apps の中でも古くから利用されているアプリのため、最近はあまり大きな更新が聞かれなくなってきました。 しかしながら小さな改善はいまだ意欲的に続いています。 今回はそんな機能の一つを紹介します。 Microsoft メッセージセンターに投稿されていた 2023 年 11 月にリリース予定の共有予定表の更新通知機能がそれにあたります。 これは Outlook の共有予定表のイメージが分からないと伝わらないかもしれません。 Outlook の世界では、予定表は自分の予定と他人の予定、そして他人と共有している予定の 3 種類が大枠となっています。 そ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 PowerShell でライセンスを見るためには]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/29/021459</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/29/021459"/>
-        <updated>2023-09-28T17:14:59.000Z</updated>
-        <summary type="html"><![CDATA[先日説明した Bing Chat Enterprise の SKU をチェックした方法ですが、最近 Microsoft Graph の PowerShell SDK を利用していなかったこともありどのようにアクセスするか忘れていました。 そんな忘れっぽい人は私くらいかもしれませんが、 PowerShell を用いて Microsoft 365 の情報にアクセスしたい人は私以外にもいるはず！ ということで、今回は PowerShell で Microsoft 365 にアクセスする方法を見ていきたいと思います。 過去に何度か紹介したかもしれませんが、おさらいということで。 まず行うことはリモート…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

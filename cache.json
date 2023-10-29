@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/10/29/022641",
+          "author": null,
+          "description": "Viva Engage の全身だった Yammer は、 Microsoft の中でも買収後長期的に利用されてきた数少ないシステムでした。 そのため、独自に進化した機能がなかなか切れずに 2012 年に Microsoft 傘下となった後も 2023 年に至るまで 11 年間も手が加わらなかったものも当然のように存在しています。 そんな状態の中、 2023 年 11 月、プライベートメッセージを利用できなくするための機能がリリースすることになったようです。 プライベートメッセージはその名の通り、 Yammer （ Viva Engage ）ネットワーク上でのみやり取りできるメッセージで、ちょう…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/10/29/022641",
+          "publishedOn": "2023-10-28T17:26:41.000Z",
+          "wordCount": 679,
+          "title": "Microsoft 365 Viva Engage プライベートメッセージを抑止する機能が追加されるようです",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231024/20231024004125.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/10/28/021045",
           "author": null,
           "description": "Microsoft Teams を利用しているなかで唯一残念な点として挙げておきたいのが、モバイル端末でのアクセス性の悪さでした。 モバイルから Web 会議に参加しようとする場合、必ず Teams アプリが起動が必要という仕様となっていて、気軽な利用というのができなかったんですよね。 しかし、近年そこにもメスが入っていたようで、 Teams アプリの一つである仮想予定を用いることで、モバイルからも Web ブラウザー経由で Web 会議にアクセスできるようにする口が用意されるようになっていました。 仮想予定はアプリ検索を行えば出てきます。 これ、前に一度お伝えしたことがあったかと思うのですが…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/10/28/021045",
           "publishedOn": "2023-10-27T17:10:45.000Z",
-          "wordCount": 684,
+          "wordCount": 690,
           "title": "Microsoft 365 仮想会議室を利用した Teams 会議はモバイルの Web ブラウザーから参加できるようになっていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231022/20231022115440.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 650,
           "title": "Microsoft 365 Outlook のカレンダーに共有情報の更新通知機能が用意されます",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230920/20230920004604.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/09/29/021459",
-          "author": null,
-          "description": "先日説明した Bing Chat Enterprise の SKU をチェックした方法ですが、最近 Microsoft Graph の PowerShell SDK を利用していなかったこともありどのようにアクセスするか忘れていました。 そんな忘れっぽい人は私くらいかもしれませんが、 PowerShell を用いて Microsoft 365 の情報にアクセスしたい人は私以外にもいるはず！ ということで、今回は PowerShell で Microsoft 365 にアクセスする方法を見ていきたいと思います。 過去に何度か紹介したかもしれませんが、おさらいということで。 まず行うことはリモート…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/09/29/021459",
-          "publishedOn": "2023-09-28T17:14:59.000Z",
-          "wordCount": 703,
-          "title": "Microsoft 365 PowerShell でライセンスを見るためには",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230929/20230929015228.png"
         }
       ]
     },
