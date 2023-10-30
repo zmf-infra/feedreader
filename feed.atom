@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-29T00:38:10.221Z</id>
+    <id>urn:2023-10-30T00:36:11.467Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T00:38:10.221Z</updated>
+    <updated>2023-10-30T00:36:11.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23575 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/30/022105</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/30/022105"/>
+        <updated>2023-10-29T17:21:05.000Z</updated>
+        <summary type="html"><![CDATA[今週も Windows Insider Program はいつものように新しいバージョンをリリースしています。最近の傾向としては残念ながら新機能よりもバグフィックスに焦点が当たっている感があり寂しい限りですが、 OS の本分は問題なく動くことだと思うのでこれも一つなのかもしれません。 というわけで、今週は以下のバージョンが更新されています。 Canary Channel : Build 25982 Dev Channel : Build 23575 Beta Channel : Build 22635.2552 Release Preview Channel : Build 22631.250…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Viva Engage プライベートメッセージを抑止する機能が追加されるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/29/022641</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/01/030532"/>
         <updated>2023-09-30T18:05:32.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 を利用されている皆さんは、利用のスタート時に利用しているサイトのアドレスはどのようにしているでしょうか。 じつは Microsoft 365 には複数の URL が定義されていて、今はそのどれもが同じサイトにつながるようになっています。 一例は以下の URL ですね。 https://portal.office.com/ https://portal.office365.com/ https://www.office.com/ https://www.microsoft365.com/ どれも同じ動きをしており、以下のサイトに接続される動きになっています。 最近では…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Outlook のカレンダーに共有情報の更新通知機能が用意されます]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/09/30/005122</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/09/30/005122"/>
-        <updated>2023-09-29T15:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Outlook は Microsoft 365 Apps の中でも古くから利用されているアプリのため、最近はあまり大きな更新が聞かれなくなってきました。 しかしながら小さな改善はいまだ意欲的に続いています。 今回はそんな機能の一つを紹介します。 Microsoft メッセージセンターに投稿されていた 2023 年 11 月にリリース予定の共有予定表の更新通知機能がそれにあたります。 これは Outlook の共有予定表のイメージが分からないと伝わらないかもしれません。 Outlook の世界では、予定表は自分の予定と他人の予定、そして他人と共有している予定の 3 種類が大枠となっています。 そ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
