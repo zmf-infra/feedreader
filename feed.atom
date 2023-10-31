@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-30T00:36:11.467Z</id>
+    <id>urn:2023-10-31T00:36:15.647Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T00:36:11.467Z</updated>
+    <updated>2023-10-31T00:36:15.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Insider MVP アワードが Microsoft MVP に統合されるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/10/31/023152</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/10/31/023152"/>
+        <updated>2023-10-30T17:31:52.000Z</updated>
+        <summary type="html"><![CDATA[まだ公式なアナウンスは見当たらなかったのですが、 Windows Insider MVP が Microsoft MVP に統合されるという話が上がっていました。 https://www.theregister.com/2023/10/30/windows_insider_mvp_ends Windows Insider MVP とはフィードバックハブを通じて OS のバグを見つけたり、新しい Windows の機能について紹介したり繰り返していると Microsoft の担当者さんを通じてノミネートされ、受賞できる Microsoft の部外者表彰制度です。 すでに 9 年にわたってアワード…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23575 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/30/022105</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/02/011450"/>
         <updated>2023-10-01T16:14:50.000Z</updated>
         <summary type="html"><![CDATA[先週は Windows 11 の 22H2 に超大型アップデートのプレビューがやってきており、世間がざわついていたかと思います。 一応月末の通うという扱いなので、通常のパッチチューズデーとは異なる扱いとなるので、本番は 10 月 10 日（日本時間は 11 日）の通常 Windows Update となりそうです。 そんな Windows 11 の Insider Program でしたが、 Dev Channel と Release Preview Channel はそれぞれ何事もないようにバージョンアップがなされていました。 Dev Channel : Build 23555 Releas…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 ポータルの URL はどれを利用していますか？]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/01/030532</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/01/030532"/>
-        <updated>2023-09-30T18:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 を利用されている皆さんは、利用のスタート時に利用しているサイトのアドレスはどのようにしているでしょうか。 じつは Microsoft 365 には複数の URL が定義されていて、今はそのどれもが同じサイトにつながるようになっています。 一例は以下の URL ですね。 https://portal.office.com/ https://portal.office365.com/ https://www.office.com/ https://www.microsoft365.com/ どれも同じ動きをしており、以下のサイトに接続される動きになっています。 最近では…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
