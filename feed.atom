@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-31T00:36:15.647Z</id>
+    <id>urn:2023-11-01T00:38:25.316Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T00:36:15.647Z</updated>
+    <updated>2023-11-01T00:38:25.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge サイドバーの動作が大きく変わっていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/01/023021</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/01/023021"/>
+        <updated>2023-10-31T17:30:21.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 11 月。今月より Microsoft 365 Copilot が正式にリリースされ、一部の大規模組織のユーザーから利用できるようになりつつあるようです。 このタイミングで Bing Chat Enterprise なども GA するからなのかわかりませんが、 Edge 上のサイドバーが大きく変容していました。 まずサイドバーにアプリを追加するためのボタンだった + を押したところです。 なんとアプリを追加するためのトグルスイッチがなくなっており、すべてのアプリが一律検索対象となったようです。 サイドバーの ＋ ボタンの上にセクション区切りがあるのですが、ピン留めすると上のセクシ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Insider MVP アワードが Microsoft MVP に統合されるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/31/023152</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/03/020526"/>
         <updated>2023-10-02T17:05:26.000Z</updated>
         <summary type="html"><![CDATA[Bing.com で検索を行っていたところ、画面左側に見慣れないダイアログが表示されるようになっていました。 その内容が以下のダーク テーマを試してみようというものでした。 最近はどの機能をとってもダークモードサポートがキーワードになってきていますよね。というわけで早速試してみました。 いい感じにBingサイトが黒くなってくれました。 Rewards のバッジも色が変わっていますね。 見ての通りではあるのですが、、左側に今度はオフにするためのダイアログが出現しています。 こちらを押すと簡単に元の状態に戻すことができました。 ちなみにこのオンオフは Bing サイト内のハンバーガーメニューから外…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23555 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/02/011450</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/02/011450"/>
-        <updated>2023-10-01T16:14:50.000Z</updated>
-        <summary type="html"><![CDATA[先週は Windows 11 の 22H2 に超大型アップデートのプレビューがやってきており、世間がざわついていたかと思います。 一応月末の通うという扱いなので、通常のパッチチューズデーとは異なる扱いとなるので、本番は 10 月 10 日（日本時間は 11 日）の通常 Windows Update となりそうです。 そんな Windows 11 の Insider Program でしたが、 Dev Channel と Release Preview Channel はそれぞれ何事もないようにバージョンアップがなされていました。 Dev Channel : Build 23555 Releas…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

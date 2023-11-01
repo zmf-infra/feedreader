@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/11/01/023021",
+          "author": null,
+          "description": "2023 年 11 月。今月より Microsoft 365 Copilot が正式にリリースされ、一部の大規模組織のユーザーから利用できるようになりつつあるようです。 このタイミングで Bing Chat Enterprise なども GA するからなのかわかりませんが、 Edge 上のサイドバーが大きく変容していました。 まずサイドバーにアプリを追加するためのボタンだった + を押したところです。 なんとアプリを追加するためのトグルスイッチがなくなっており、すべてのアプリが一律検索対象となったようです。 サイドバーの ＋ ボタンの上にセクション区切りがあるのですが、ピン留めすると上のセクシ…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/11/01/023021",
+          "publishedOn": "2023-10-31T17:30:21.000Z",
+          "wordCount": 674,
+          "title": "Microsoft Edge サイドバーの動作が大きく変わっていました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231101/20231101015357.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/10/31/023152",
           "author": null,
           "description": "まだ公式なアナウンスは見当たらなかったのですが、 Windows Insider MVP が Microsoft MVP に統合されるという話が上がっていました。 https://www.theregister.com/2023/10/30/windows_insider_mvp_ends Windows Insider MVP とはフィードバックハブを通じて OS のバグを見つけたり、新しい Windows の機能について紹介したり繰り返していると Microsoft の担当者さんを通じてノミネートされ、受賞できる Microsoft の部外者表彰制度です。 すでに 9 年にわたってアワード…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/10/31/023152",
           "publishedOn": "2023-10-30T17:31:52.000Z",
-          "wordCount": 714,
+          "wordCount": 718,
           "title": "Windows Insider MVP アワードが Microsoft MVP に統合されるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231031/20231031013351.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 660,
           "title": "Microsoft Bing ダークモードのサポートが開始されています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20230921/20230921165657.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/10/02/011450",
-          "author": null,
-          "description": "先週は Windows 11 の 22H2 に超大型アップデートのプレビューがやってきており、世間がざわついていたかと思います。 一応月末の通うという扱いなので、通常のパッチチューズデーとは異なる扱いとなるので、本番は 10 月 10 日（日本時間は 11 日）の通常 Windows Update となりそうです。 そんな Windows 11 の Insider Program でしたが、 Dev Channel と Release Preview Channel はそれぞれ何事もないようにバージョンアップがなされていました。 Dev Channel : Build 23555 Releas…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/10/02/011450",
-          "publishedOn": "2023-10-01T16:14:50.000Z",
-          "wordCount": 752,
-          "title": "Windows 11 Insider Preview Build 23555 リリース",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231001/20231001223215.png"
         }
       ]
     },
