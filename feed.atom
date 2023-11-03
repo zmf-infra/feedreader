@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-02T00:35:51.225Z</id>
+    <id>urn:2023-11-03T00:36:07.598Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T00:35:51.225Z</updated>
+    <updated>2023-11-03T00:36:07.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams のポリシーで外部の会議チャットを利用できないよう設定できるようになったようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/03/012143</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/03/012143"/>
+        <updated>2023-11-02T16:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 のアクセスコントロールは基本的に自身のテナントを起点とした管理を行うつくりとなっています。 これは、ユーザーが属しているテナント内での出来事を管理するのもであり、他社のテナントでの活動には大きな制限を持たないというポリシーが前提の仕組みであると勝手ながら理解していたのですが、最近はその考え方を改め始めているようです。 というわけでその一部として Teams の外部の会議チャットの利用可否を自身のテナントで設定できるようになっていたようです。 この機能 2023 年 7 月にリリースしていたのですが、気が付いていませんでした。 会議ポリシーの中にある設定にこの項目があ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot ：11月1日一般提供開始だけど多くの人はまだ使えなさそう]]></title>
+        <id>https://art-break.net/tech/?p=19744</id>
+        <link href="https://art-break.net/tech/?p=19744"/>
+        <updated>2023-11-02T00:49:39.000Z</updated>
+        <summary type="html"><![CDATA[「熱くなっていたら一旦冷静になってみましょうか！」 先日急遽宣伝した10月31日開催した某弊社のウェビナーで Microsoft 365 Copilot の情報を話す前にこんな切り口でスタートしました。本当にそうで、実際 … "Microsoft 365 Copilot ：11月1日一般提供開始だけど多くの人はまだ使えなさそう" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot ランディングページが用意されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/02/032305</id>
@@ -381,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/05/024218"/>
         <updated>2023-10-04T17:42:18.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 Copilot の発表を皮切りになのか、近頃、今まで安定していた Microsoft 365 に関する更新の話題が止まらくなかったように感じますよね。 というわけで今度は OneDrive for Business の UI 変更の話が上がってきていました。 以下のコミュニティブログに今後 2024 年にかけて徐々に更新されていく機能が書かれているのですが、そういえば今日 OneDrive を開いたときに若干違和感があったんだよなあと思ってみてみると、ホーム画面はもうすでに新しいものに置き換わりつつある感じになっているんですよね。 https://techcommu…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Purview の監査ログ保持期間が 180 日に拡大されます]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/04/022449</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/04/022449"/>
-        <updated>2023-10-03T17:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 の監査ログは通常 90 日分のデータを蓄え、問題発生に対処する考え方となっています。 しかしながらこの 90 日は長いようで短く、大抵の場合別でログを回収しておくような仕組みを用意することが多かったのではないでしょうか。 費用が許せば 1 年のプレミアム監査を有効にするか、さらにオプションの 10 年保管機能を使うというケースもありますが、なかなか手を出すに至らないケースも多いのかと思います。 そんな絶妙な 90 日だった監査ログですが、なんと 180 日に拡大されることが決まったようです。 https://www.microsoft.com/ja-jp/micro…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
