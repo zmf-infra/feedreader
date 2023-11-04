@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T00:36:07.598Z</id>
+    <id>urn:2023-11-04T00:35:40.961Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T00:36:07.598Z</updated>
+    <updated>2023-11-04T00:35:40.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Bing と Copilot in Edge が連動動作するようになっていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/04/045330</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/04/045330"/>
+        <updated>2023-11-03T19:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Bing Chat のリリース以降、 Bing 検索エンジンの利用者が大きく跳ね上がったという話は皆さんも聞いたことがあるかと思います。 その Bing も利用者が増えたことに起因してか、どんどん機能拡張で姿かたちが変わっていっているようです。 以下は単純に「マイクロソフト」を Bing 検索した結果なのですが、途中に「他の人はこちらも質問」というセクションが織り込まれるようになっていました。 このセクション、質問という言葉からもわかるように、 Bing Chat へ情報を流してやり取りを簡単にしてくれる機能となっているようなのです。 上部の太字をポイントすると、 Bing AI に尋ねるとい…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams のポリシーで外部の会議チャットを利用できないよう設定できるようになったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/03/012143</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/06/021315"/>
         <updated>2023-10-05T17:13:15.000Z</updated>
         <summary type="html"><![CDATA[現在 Teams は 新しい UI を浸透させる活動を進めていっているのですが、その一環なのか、 Teams Live Event が 2024 年 9 月 30 日をもって終了となることがアナウンスされました。 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-town-halls-in-microsoft-teams-and-retiring-microsoft/ba-p/3925739?WT.mc_id=M365-MVP-5002496 そのため 10 月 5 日より、 Town Halls と…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 OneDrive の UI が新しくなるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/05/024218</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/05/024218"/>
-        <updated>2023-10-04T17:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 Copilot の発表を皮切りになのか、近頃、今まで安定していた Microsoft 365 に関する更新の話題が止まらくなかったように感じますよね。 というわけで今度は OneDrive for Business の UI 変更の話が上がってきていました。 以下のコミュニティブログに今後 2024 年にかけて徐々に更新されていく機能が書かれているのですが、そういえば今日 OneDrive を開いたときに若干違和感があったんだよなあと思ってみてみると、ホーム画面はもうすでに新しいものに置き換わりつつある感じになっているんですよね。 https://techcommu…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/11/04/045330",
+          "author": null,
+          "description": "Bing Chat のリリース以降、 Bing 検索エンジンの利用者が大きく跳ね上がったという話は皆さんも聞いたことがあるかと思います。 その Bing も利用者が増えたことに起因してか、どんどん機能拡張で姿かたちが変わっていっているようです。 以下は単純に「マイクロソフト」を Bing 検索した結果なのですが、途中に「他の人はこちらも質問」というセクションが織り込まれるようになっていました。 このセクション、質問という言葉からもわかるように、 Bing Chat へ情報を流してやり取りを簡単にしてくれる機能となっているようなのです。 上部の太字をポイントすると、 Bing AI に尋ねるとい…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/11/04/045330",
+          "publishedOn": "2023-11-03T19:53:30.000Z",
+          "wordCount": 671,
+          "title": "Microsoft Bing と Copilot in Edge が連動動作するようになっていました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231104/20231104011424.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/11/03/012143",
           "author": null,
           "description": "Microsoft 365 のアクセスコントロールは基本的に自身のテナントを起点とした管理を行うつくりとなっています。 これは、ユーザーが属しているテナント内での出来事を管理するのもであり、他社のテナントでの活動には大きな制限を持たないというポリシーが前提の仕組みであると勝手ながら理解していたのですが、最近はその考え方を改め始めているようです。 というわけでその一部として Teams の外部の会議チャットの利用可否を自身のテナントで設定できるようになっていたようです。 この機能 2023 年 7 月にリリースしていたのですが、気が付いていませんでした。 会議ポリシーの中にある設定にこの項目があ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/03/012143",
           "publishedOn": "2023-11-02T16:21:43.000Z",
-          "wordCount": 610,
+          "wordCount": 618,
           "title": "Microsoft 365 Teams のポリシーで外部の会議チャットを利用できないよう設定できるようになったようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231025/20231025012628.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 721,
           "title": "Microsoft 365 Teams Live Event がリリース終了となり Town Halls がリリースされます",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231001/20231001235626.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/10/05/024218",
-          "author": null,
-          "description": "Microsoft 365 Copilot の発表を皮切りになのか、近頃、今まで安定していた Microsoft 365 に関する更新の話題が止まらくなかったように感じますよね。 というわけで今度は OneDrive for Business の UI 変更の話が上がってきていました。 以下のコミュニティブログに今後 2024 年にかけて徐々に更新されていく機能が書かれているのですが、そういえば今日 OneDrive を開いたときに若干違和感があったんだよなあと思ってみてみると、ホーム画面はもうすでに新しいものに置き換わりつつある感じになっているんですよね。 https://techcommu…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/10/05/024218",
-          "publishedOn": "2023-10-04T17:42:18.000Z",
-          "wordCount": 688,
-          "title": "Microsoft 365 OneDrive の UI が新しくなるようです",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231005/20231005020753.png"
         }
       ]
     },
