@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-05T00:39:14.272Z</id>
+    <id>urn:2023-11-06T00:37:13.176Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T00:39:14.272Z</updated>
+    <updated>2023-11-06T00:37:13.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23580 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/06/002027</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/06/002027"/>
+        <updated>2023-11-05T15:20:27.000Z</updated>
+        <summary type="html"><![CDATA[今週も Windows Insider Program は元気に活動しています。 以下 3 Channel が更新となりました。 Canary Channel : Build 25987 Dev Channel : Build 23580 Beta Channel : Build 22635.2700 Dev Channel では Copilot in Windows をローカルユーザーでも利用できるように改良が加わったとのこと。 ただし、利用回数には制限があるようなので MSA で Windows にサインインするのがお薦めです。 そのほか、近距離共有の速度が上がる変更が加わったようです。 …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams Workflow がアップデートしています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/05/014251</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/08/014117"/>
         <updated>2023-10-07T16:41:17.000Z</updated>
         <summary type="html"><![CDATA[実は最近 Microsoft 365 E5 が利用できるようになりまして、今まであまり見えていなかったセキュリティやコンプライアンスの機能の世界に足を踏み入れられるようになりました。 これからはそちらの機能もチェックしていけたらなと思っているのですが、まずは最近こくないでも増えているセキュリティ事案に対応させるため、 Microsoft 365 Defender 関連の機能に焦点を当ててみていきたいと思います。 Microsoft 365 のセキュリティ周りはセキュリティセンターと呼ばれていた以下のサイトから様々な管理を行うことになっています。まずは触ってみましょう。 https://secu…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsof 365 Teams 2.0 がリリースとなりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/07/031716</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/07/031716"/>
-        <updated>2023-10-06T18:17:16.000Z</updated>
-        <summary type="html"><![CDATA[当初 2023 年 9 月頃のリリースを目指すといわれていた Teams 2.0 ですが、ほぼ予定通りの 10 月 5 日付けで Microsoft Teams 2.0 がリリースとなりました。 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/announcing-general-availability-of-the-new-microsoft-teams-app/ba-p/3934603?WT.mc_id=M365-MVP-5002496 上記にもあるように、一番の目玉は高速化とフットプリント（メモリ使用量）の削減です…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
