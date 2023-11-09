@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/11/09/025719",
+          "author": null,
+          "description": "Teams 2.0 がリリースされて早 1 か月。 チーム間の移動がスムーズになった状況を多くの方が味わえているのではないでしょうか。 しかし VDI を利用している場合、インストーラーの関係や VDI 向けの特殊モジュールのリリースが後手になっていることから、まだ Teams 2.0 の利用ができていないケースも多くあるように感じます。 そんな VDI 向けの状況でしたが、ようやく実際に利用できるモジュールが提供されて始めていました。 Learn で手順とモジュールが公開されているため、早速適用を目指してみたいと思います。一般的には以下の方法を用いれば VDI 環境にインストールできます。（…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/11/09/025719",
+          "publishedOn": "2023-11-08T17:57:19.000Z",
+          "wordCount": 705,
+          "title": "Microsoft 365 Teams 2.0 の VDI インストーラーができていたのでインストールしてみましょう",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231109/20231109022651.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/11/08/023653",
           "author": null,
           "description": "皆さんは Microsoft Syntex をご存じでしょうか。 Microsoft Syntex は SharePoint の一部となる機能で、有料オプションとして提供されています。 Syntex のライセンスはもともとユーザーライセンスだったのですが、最近 Azure の従量課金に変わったので、利用の間口はかなり広くなったのではないかと思われます。 というわけで、 SharePoint のドキュメントライブラリからこの Syntex を利用する準備を行ってみたいと思います。 まず、ドキュメントライブラリに入り、三点リーダーより「分類と抽出」をクリックします。 するとモデルの適用というダイア…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/08/023653",
           "publishedOn": "2023-11-07T17:36:53.000Z",
-          "wordCount": 659,
+          "wordCount": 667,
           "title": "Microsoft Syntex 分類と抽出を利用してみましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231103/20231103171459.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 694,
           "title": "Windows 11 VBScript が非推奨の機能となりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231011/20231011011101.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/10/10/003159",
-          "author": null,
-          "description": "2023 年 11 月 1 日より開始される Microsoft 365 Copilot の GA に向けて、情報やら環境やらが強化されている Microsoft 365 ですが、管理センターに Microsoft 365 Copilot セットアップガイドという機能が追加されたようです。 以下がそのアドレスとなっているのですが、今回はその中身を見ていきたいと思います。 https://admin.microsoft.com/Adminportal/Home?Q=learndocs#/modernonboarding/microsoft365copilotsetupguide まずこのガイドで…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/10/10/003159",
-          "publishedOn": "2023-10-09T15:31:59.000Z",
-          "wordCount": 695,
-          "title": "Microsoft 365 Copilot のセットアップウィザードが展開されるようになっていました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231009/20231009120124.png"
         }
       ]
     },
