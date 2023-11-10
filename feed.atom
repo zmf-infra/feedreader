@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-09T00:36:15.327Z</id>
+    <id>urn:2023-11-10T00:36:29.669Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T00:36:15.327Z</updated>
+    <updated>2023-11-10T00:36:29.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Apps Excel Office Script を利用して Azure Open AI を呼び出してみました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/10/023145</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/10/023145"/>
+        <updated>2023-11-09T17:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Azure Open AI がリリースされてから Open AI Studio で日々どのようなときに Chat GPT が有効となるか検証している人は多いのではないでしょうか。 私も時間ができたときやアイデアが出てきたときに起動してかくにんしていたのですが、これを簡易化できないか考えていたところ、 Microsoft 365 Apps の Excel を利用して Office Script で実行させる方法が良いのではないかと思い至りました。 今回は実際に対応した方法を見ていきたいと思います。 まず、接続先を確認するため Open AI Studio に入ります。 この中からチャット プレイ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Forms ：「プレゼンテーション」が進化していた]]></title>
+        <id>https://art-break.net/tech/?p=19820</id>
+        <link href="https://art-break.net/tech/?p=19820"/>
+        <updated>2023-11-09T04:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Forms にプレゼンテーション機能が登場したのが、今年2023年5月でした。 Microsoft Forms ：「プレゼンテーション」って機能が出た！アンケート結果をその場で発表しやすくなる！ その … "Microsoft Forms ：「プレゼンテーション」が進化していた" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams 2.0 の VDI インストーラーができていたのでインストールしてみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/09/025719</id>
@@ -366,16 +386,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：ライブイベントの代わりとなる「タウンホール」が使えるようになった（イベント作成編）]]></title>
-        <id>https://art-break.net/tech/?p=19607</id>
-        <link href="https://art-break.net/tech/?p=19607"/>
-        <updated>2023-10-13T12:59:22.000Z</updated>
-        <summary type="html"><![CDATA[先月末 2023/09/28 に Microsoft から Microsoft Teams のライブイベントが廃止される予定と、その代替となる「タウンホール」の発表がありました。 Introducing Town Hal … "Microsoft Teams ：ライブイベントの代わりとなる「タウンホール」が使えるようになった（イベント作成編）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams アプリ内の Planner がカラフルに生まれ変わっています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/13/015736</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/13/015736"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/12/024219"/>
         <updated>2023-10-11T17:42:19.000Z</updated>
         <summary type="html"><![CDATA[2023 年 10 月 11 日は久々に大きめな問題が Microsoft 365 内で発生していました。 実は同日、全銀ネットで大規模障害が発生していたためか、あまり大きな話題になっていない感があります。 しかしながらかなり影響が大きい問題で、なんと外部メールの受信が行えなくなるという内容だったんですよね。 というわけで、今回の問題は Microsoft 365 管理センターの正常性ダッシュボード上に日本語で案内が行われていました。今までのマイクロソフトは障害などでもまずは英語で情報提供を心掛けていたように思えたのですが、このスピード感はすごいですね。 というわけでメール受信の遅延となってい…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 VBScript が非推奨の機能となりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/11/014824</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/11/014824"/>
-        <updated>2023-10-10T16:48:24.000Z</updated>
-        <summary type="html"><![CDATA[Windows を利用していると様々な機能が UI ベースで用意されており、何度も行うような操作にはちょっとしたスクリプトを書きたいと思った方は多くいらっしゃったのではないでしょうか。 そんな時に活躍したのが VBScript というVisual Basic をベースにした機能です。 これを使うとメモ帳一つでブラウジングの自動化などができたので重宝したんです。 この VBScript が 2023 年 10 月 10 日に行われた非推奨機能一覧更新の中に入ってきてしまったのです。 https://learn.microsoft.com/en-us/windows/whats-new/depre…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
