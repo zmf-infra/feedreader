@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T00:36:29.669Z</id>
+    <id>urn:2023-11-11T00:35:54.413Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T00:36:29.669Z</updated>
+    <updated>2023-11-11T00:35:54.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Outlook のブラウザー拡張機能がサービス終了となるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/11/022900</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/11/022900"/>
+        <updated>2023-11-10T17:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Outlook といえば、アプリや on the Web を利用するケースがほとんどだと思いますが、実はブラウザーから閲覧するための拡張機能が提供されていたことをご存じの方はどれくらいいるでしょうか。 on the Web のようにきちんと開いてメールを確認するのではなく、ちょっと見たいときに活用するため、 Chrome 拡張機能ストアにて配信されている機能が存在するのです。 そんな拡張機能版の Outlook ですが、その役割を Edge のサイドバーに託して、 2023 年 11 月 30 日以降順次サービス終了とすることが決まったようです。 拡張機能は以下の URL からインストールでき…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Clipchamp ：「プレミアム」のストック素材は使っても良いのか？]]></title>
+        <id>https://art-break.net/tech/?p=19846</id>
+        <link href="https://art-break.net/tech/?p=19846"/>
+        <updated>2023-11-10T02:02:27.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 先日、 Clipchamp にストック動画・画像・音楽などストック素材が使えるようになった記事を書きました。 Micr … "Microsoft Clipchamp ：「プレミアム」のストック素材は使っても良いのか？" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Apps Excel Office Script を利用して Azure Open AI を呼び出してみました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/10/023145</id>
@@ -316,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：新しい Teams アプリのチャネルについて【その1】 チャネル情報]]></title>
-        <id>https://art-break.net/tech/?p=19649</id>
-        <link href="https://art-break.net/tech/?p=19649"/>
-        <updated>2023-10-19T06:20:13.000Z</updated>
-        <summary type="html"><![CDATA[新しい Teams アプリに切り替えた後に初めてチャネルを開いた時、違和感を覚えた人も多いんじゃないかと思って記事にします。 Microsoft Teams に詳しい人なら「新しいチャネル エクスペリエンス」についての話 … "Microsoft Teams ：新しい Teams アプリのチャネルについて【その1】 チャネル情報" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Edge マウス ジェスチャのアナウンスが表示されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/19/020038</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/19/020038"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/13/015736"/>
         <updated>2023-10-12T16:57:36.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Teams でアプリを検索していたところ、見慣れない色のアイコンが目に飛び込んできたので今回はこれを取り上げてみたいと思います。 これ。というのは Planner のアプリなのですが、以下のようにアプリ一覧から Planner を検索すると赤と青のグラデーションでできたアイコンが表示されるのです。 見ての通り、形は Planner のそれなのですが、 To Do タスクの成分が混ざってこのイメージになったのかなという感じです。 Planner および To Do タスク Tasks という名前なので Planner とは異なるということをイメージしているのかもしれません。し…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Exchange Online で外部メール受信遅延が起きています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/12/024219</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/12/024219"/>
-        <updated>2023-10-11T17:42:19.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 10 月 11 日は久々に大きめな問題が Microsoft 365 内で発生していました。 実は同日、全銀ネットで大規模障害が発生していたためか、あまり大きな話題になっていない感があります。 しかしながらかなり影響が大きい問題で、なんと外部メールの受信が行えなくなるという内容だったんですよね。 というわけで、今回の問題は Microsoft 365 管理センターの正常性ダッシュボード上に日本語で案内が行われていました。今までのマイクロソフトは障害などでもまずは英語で情報提供を心掛けていたように思えたのですが、このスピード感はすごいですね。 というわけでメール受信の遅延となってい…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
