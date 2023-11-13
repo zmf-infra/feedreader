@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-12T00:39:20.129Z</id>
+    <id>urn:2023-11-13T00:37:52.015Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T00:39:20.129Z</updated>
+    <updated>2023-11-13T00:37:52.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23585 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/13/012957</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/13/012957"/>
+        <updated>2023-11-12T16:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Ignite 2023 前の最後の週となりますが、今週も Windows 11 Insider Program は元気に活動中です。 今週は以下 2 つの Channel で更新が行われました。 Dev Channel : Build 23585 Canary Channel : Build 25992 Canary Channel では今週も引き続き SMB 関連の更新が行われています。 ファイル共有をオンにするとファイアウォール設定が自動で変更されるのですが、その変更内容から NetBIOS ポートが削除されたようです。ポート番号でいうと 137 - 139 の受信側が…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Ignite Japan の開催が決定したようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/12/032701</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/15/005602"/>
         <updated>2023-10-14T15:56:02.000Z</updated>
         <summary type="html"><![CDATA[今回はあまり取り上げることのない Azure についてみていきたいと思います。 というもの、 2025 年 9 月 30 日以降、既定の外部インターネットアクセスの入口が閉ざされることになったようなのです。 https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access?WT.mc_id=M365-MVP-5002496 この記載を見ると、既定の外部インターネットアクセスはそもそも推奨されていないようで、まあそれもそのはず、既定の外部インターネットアクセスは、パブリック IP…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge Bing Chat で生成画像が作れるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/14/022017</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/14/022017"/>
-        <updated>2023-10-13T17:20:17.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 10 月に入り、 Microsoft の生成 AI 周りは目まぐるしく機能増強が行われています。 今度は Bing Chat に画像生成機能が追加されたということで、その機能を試してみたいと思います。 まずは Edge を起動して、 Bing Chat を起動してみました。 なんかまたアイコンが変わっていますね。 Enterprise は盾のマークがつくようになり、より視覚的にデータが保護されていることが分かりやすくなっています。 で、ここのチャットフォームに絵を描いてほしい旨を入力してみると、作成しようとしている文面が！ が、実際は一時的に利用できません。と出て作成まで至りませ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
