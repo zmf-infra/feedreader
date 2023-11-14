@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-13T00:37:52.015Z</id>
+    <id>urn:2023-11-14T00:36:43.176Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T00:37:52.015Z</updated>
+    <updated>2023-11-14T00:36:43.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Micosoft 365 Apple 端末からの SSO が行えなくなる事象が発生しているようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/14/004914</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/14/004914"/>
+        <updated>2023-11-13T15:49:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 の管理センターを見ていたところ、ポータルトップに気になるインシデントが表示されていたので今回はこれを見ておきたいと思います。 インシデントナンバーは MO688912 ということで、 Microsoft Online 全体にかかる話となっています。 どんな内容かというと、 iOS のバージョンアップによって SSO 周りの機能の一部が動作しなくなったという、シングルサインオンに関連するものでした。 これによると、影響を受けるのは以下の環境となっています。 2023 年 11 月中旬における最新のバージョンですね。 iOS/iPadOS 17.1.x MacOS 14…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23585 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/13/012957</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/16/013251"/>
         <updated>2023-10-15T16:32:51.000Z</updated>
         <summary type="html"><![CDATA[Windows Insider Preview は今週もきっちりリリースされてきました。 ここ 1 年ほどは予定通りリリースが進んでいるように見えるのでとても安定している状況ですね。（ただし Canary Channel は思った以上に更新されていないので、いろいろ問題を抱えているのかもしれません。） というわけで今週は以下のバージョンアップが案内されていました。 Dev Channel : Build 23565 Beta Channel : Build 22635.2419 , 22635.2483 Release Preview Channel : 22621.2500 特筆すべきは B…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Azure Internet Access がデフォルトゲートウェイから行えなくなるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/15/005602</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/15/005602"/>
-        <updated>2023-10-14T15:56:02.000Z</updated>
-        <summary type="html"><![CDATA[今回はあまり取り上げることのない Azure についてみていきたいと思います。 というもの、 2025 年 9 月 30 日以降、既定の外部インターネットアクセスの入口が閉ざされることになったようなのです。 https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access?WT.mc_id=M365-MVP-5002496 この記載を見ると、既定の外部インターネットアクセスはそもそも推奨されていないようで、まあそれもそのはず、既定の外部インターネットアクセスは、パブリック IP…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
