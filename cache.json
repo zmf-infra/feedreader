@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/11/16/081801",
+          "author": null,
+          "description": "OneDrive for Business 関連のアプリについて、新たな機能追加がアナウンスされていました。 Teams 上の File が OneDrive 化するといったアナウンスは過去にも行われていた記憶があるのですが、このファイルオープンを Web から行える機能がリリースされるとは思いませんでした。 https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/unveiling-the-next-generation-of-onedrive/ba-p/3935612?WT.mc_id=M365-MVP-5002496 …",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/11/16/081801",
+          "publishedOn": "2023-11-15T23:18:01.000Z",
+          "wordCount": 670,
+          "title": "Microsot 365 OneDrive で一般アプリからのファイルオープンがサポートされます",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231115/20231115021504.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/11/15/002826",
           "author": null,
           "description": "Microsoft 365 メッセージセンターを眺めていたところ、 Private Line という機能が 2023 年 12 月中旬までにリリースするという話題が載っていました。 Private Line って何だろうと思い、いろいろ調べてみたところ以下の 365 ロードマップに記事が載っていました。 2023 年 10 月にロードマップに追加されたばかりの機能だったようです。 https://www.microsoft.com/ja-jp/microsoft-365/roadmap?WT.mc_id=M365-MVP-5002496&filters=&searchterms=181616 …",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/15/002826",
           "publishedOn": "2023-11-14T15:28:26.000Z",
-          "wordCount": 644,
+          "wordCount": 649,
           "title": "Microsoft 365 Teams に個別電話番号機能がやってくるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231106/20231106002045.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 691,
           "title": "Microsoft 365 管理センターに Windows のリリースの正常性機能が追加されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231013/20231013004042.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/10/17/023312",
-          "author": null,
-          "description": "2023 年現在の SharePoint はほぼポータルサイトとファイル共有の機能で成り立っているのですが、オンプレの時代にはデータを一点に集めてデータベースのような使い方をするという構想がありました。 実際は速度が遅くて実用にはつらかったのですが、 2023 年まで機能自体は使えるようになっていたのです。 しかしながらここにきて、この周りの再構築が検討され始めたようで、 Business Connectivity Services を終了させる話が出てきているようです。 Learn によると 2024 年 9 月 30 日の EOS を目指しスケジュールを作っているとのこと。 https:/…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/10/17/023312",
-          "publishedOn": "2023-10-16T17:33:12.000Z",
-          "wordCount": 694,
-          "title": "Microsoft 365 Business Connectivity サービスのリタイヤが決定したようです",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231008/20231008102803.png"
         }
       ]
     },
