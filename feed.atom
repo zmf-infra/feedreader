@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-16T00:38:14.997Z</id>
+    <id>urn:2023-11-17T00:37:47.779Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T00:38:14.997Z</updated>
+    <updated>2023-11-17T00:37:47.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsof Ignite Book of News が公開されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/17/024110</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/17/024110"/>
+        <updated>2023-11-16T17:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Ignite 2023 が始まっていますが、今年も開始早々に Book of News がリリースされています。 Microsoft の技術体系はかなり幅が広いためすべてを押さえるのは至難の業ですが、この資料を読んでおくことで大筋を見ておくことができます。 https://news.microsoft.com/ignite-2023-book-of-news/ja/?WT_mc_id=M365-MVP-5002496 というわけで、まずは目次から見ていきたいと思います。 例年と比べて構成が大きく変わっていますね。 特に 5 の Copilot は Build 2023 と比…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsot 365 OneDrive で一般アプリからのファイルオープンがサポートされます]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/16/081801</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/19/020038"/>
         <updated>2023-10-18T17:00:38.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Edge でマウス ジェスチャが使えることを皆さんご存じでしたでしょうか。 私は、はっきりとは覚えていませんでした。あまり使う機会がないなーと思ってオフにした記憶はあったのですが。 そんなジェスチャですが、 Edge を利用していたらナビゲーションの案内が左上に表示されました。 設定で有効にするをクリックするとマウス ジェスチャの構成に移動し、即利用できるようになりました。 ここにあるように、それぞれのジェスチャをマウスの右ボタンを押しながら行うことで様々なアクションを行うことができます。 例えば以下のような感じで左から右に一本線を引くことでページを進ませることができます。…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 管理センターに Windows のリリースの正常性機能が追加されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/18/030256</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/18/030256"/>
-        <updated>2023-10-17T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 管理センターにまた新たな機能が追加されていたようです。 それは Windows のリリース正常性というものです。 正常性メニュー内に配置されていました。 これをクリックすると、 Windows 10 以降でサポートされているバージョンの一覧が表示されました。 このバージョンに対する不具合一覧というわけですね。 一覧内のバージョンわきにある表示ボタンを押すとフィルターされた状態で基地の問題や履歴を見ることができるようになっています。 こんな感じですね。 ただ気になったのはこの画面に見えているのは 4 件の問題となっています。 一方、 Learn にある既知の問題を確認…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
