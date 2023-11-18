@@ -294,16 +294,6 @@
           "wordCount": 648,
           "title": "Microsoft 365 Service Request を電話で受ける場合、 PIN 番号が必要となるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231020/20231020010041.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/10/19/020038",
-          "author": null,
-          "description": "Microsoft Edge でマウス ジェスチャが使えることを皆さんご存じでしたでしょうか。 私は、はっきりとは覚えていませんでした。あまり使う機会がないなーと思ってオフにした記憶はあったのですが。 そんなジェスチャですが、 Edge を利用していたらナビゲーションの案内が左上に表示されました。 設定で有効にするをクリックするとマウス ジェスチャの構成に移動し、即利用できるようになりました。 ここにあるように、それぞれのジェスチャをマウスの右ボタンを押しながら行うことで様々なアクションを行うことができます。 例えば以下のような感じで左から右に一本線を引くことでページを進ませることができます。…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/10/19/020038",
-          "publishedOn": "2023-10-18T17:00:38.000Z",
-          "wordCount": 646,
-          "title": "Microsoft Edge マウス ジェスチャのアナウンスが表示されました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231015/20231015161955.png"
         }
       ]
     },
@@ -313,12 +303,27 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=19855",
+          "author": "TAICHI",
+          "description": "Microsoft 界隈では昨日から Microsoft Ignite 2023 という大きなイベントが開催されているので、それに合わせて非常に膨大な情報の洪水が押し寄せてきていますが、みなさんはいかがですか？洪水を丸呑 … \"Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19855",
+          "publishedOn": "2023-11-17T04:39:26.000Z",
+          "wordCount": 2036,
+          "title": "Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231117.jpg",
+            "length": "23959",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231117.jpg"
+        },
+        {
           "id": "https://art-break.net/tech/?p=19846",
           "author": "TAICHI",
           "description": "※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 先日、 Clipchamp にストック動画・画像・音楽などストック素材が使えるようになった記事を書きました。 Micr … \"Microsoft Clipchamp ：「プレミアム」のストック素材は使っても良いのか？\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19846",
           "publishedOn": "2023-11-10T02:02:27.000Z",
-          "wordCount": 1851,
+          "wordCount": 1862,
           "title": "Microsoft Clipchamp ：「プレミアム」のストック素材は使っても良いのか？",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231110.jpg",
@@ -333,7 +338,7 @@
           "description": "Microsoft Forms にプレゼンテーション機能が登場したのが、今年2023年5月でした。 Microsoft Forms ：「プレゼンテーション」って機能が出た！アンケート結果をその場で発表しやすくなる！ その … \"Microsoft Forms ：「プレゼンテーション」が進化していた\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19820",
           "publishedOn": "2023-11-09T04:46:26.000Z",
-          "wordCount": 1886,
+          "wordCount": 1889,
           "title": "Microsoft Forms ：「プレゼンテーション」が進化していた",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231109.jpg",
@@ -348,7 +353,7 @@
           "description": "※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 僕の対象指定リリース環境では2023年9月末に Clipchamp が登場しました。 Microsoft Clipch … \"Microsoft Clipchamp ：ストック動画・画像・音楽などが使えるようになった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19801",
           "publishedOn": "2023-11-07T22:26:03.000Z",
-          "wordCount": 1900,
+          "wordCount": 1903,
           "title": "Microsoft Clipchamp ：ストック動画・画像・音楽などが使えるようになった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231107.jpg",
@@ -363,7 +368,7 @@
           "description": "Microsoft Lists のラクなところの一つに、追加したい列を種類から選択できるところもポイントかと思います。 Excel だと列の定義を後から色々しますが、 Microsoft Lists の場合は先に絞られた … \"Microsoft Lists ：列の種類に「平均評価」が追加された\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19762",
           "publishedOn": "2023-11-06T07:08:59.000Z",
-          "wordCount": 1944,
+          "wordCount": 1947,
           "title": "Microsoft Lists ：列の種類に「平均評価」が追加された",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231106.jpg",
@@ -378,7 +383,7 @@
           "description": "「熱くなっていたら一旦冷静になってみましょうか！」 先日急遽宣伝した10月31日開催した某弊社のウェビナーで Microsoft 365 Copilot の情報を話す前にこんな切り口でスタートしました。本当にそうで、実際 … \"Microsoft 365 Copilot ：11月1日一般提供開始だけど多くの人はまだ使えなさそう\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19744",
           "publishedOn": "2023-11-02T00:49:39.000Z",
-          "wordCount": 2029,
+          "wordCount": 2032,
           "title": "Microsoft 365 Copilot ：11月1日一般提供開始だけど多くの人はまだ使えなさそう",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231102.png",
@@ -393,7 +398,7 @@
           "description": "ウッカリしていて急な宣伝で申し訳ありませんが、10月31日（火）のランチタイムに某弊社のウェビナーで登壇します！ ▼画像をクリックすると申し込みページにリンクします Microsoft 365 Copilot についての … \"【宣伝】ハロウィン企画 Microsoft 365 に関するウェビナーで登壇します！\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19739",
           "publishedOn": "2023-10-27T01:58:05.000Z",
-          "wordCount": 1735,
+          "wordCount": 1738,
           "title": "【宣伝】ハロウィン企画 Microsoft 365 に関するウェビナーで登壇します！",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/10/image-1.png",
@@ -408,7 +413,7 @@
           "description": "SharePoint のリストがパワーアップして1つのサービスとして切り出された Microsoft Lists 。当ブログの過去記事を読むと、2020年の Microsoft Inspire というイベントで発表され、 … \"Microsoft Lists ：同時編集！タブ！リストが大きく変わっています\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19727",
           "publishedOn": "2023-10-26T23:01:37.000Z",
-          "wordCount": 1903,
+          "wordCount": 1906,
           "title": "Microsoft Lists ：同時編集！タブ！リストが大きく変わっています",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/10/231027.png",
@@ -423,7 +428,7 @@
           "description": "文字のコミュニケーションは複雑化しやすいので、優先度やリアルタイム度の高いトピックを固定してなるべくフォーカスしたい場合、そのトピックのみ別ウィンドウという手法で切り離し特別な存在にさせるのも一つの方法ですよね。 本記事 … \"Microsoft Teams ：新しい Teams アプリのチャネルについて【その4】 スレッドを新しいウィンドウで開く\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19710",
           "publishedOn": "2023-10-24T00:00:32.000Z",
-          "wordCount": 1896,
+          "wordCount": 1899,
           "title": "Microsoft Teams ：新しい Teams アプリのチャネルについて【その4】 スレッドを新しいウィンドウで開く",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/10/231024.png",
@@ -438,7 +443,7 @@
           "description": "新しい Teams アプリへの切り替えトグルスイッチがだいぶ多くのユーザーに表示されるようになってきたと思います。おそらく多くの Microsoft 365 ユーザー企業では、 Microsoft 365 のアップデート … \"Microsoft Teams ：新しい Teams アプリのチャネルについて【その3】 スレッドの件名大事\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19682",
           "publishedOn": "2023-10-23T05:43:02.000Z",
-          "wordCount": 2023,
+          "wordCount": 2026,
           "title": "Microsoft Teams ：新しい Teams アプリのチャネルについて【その3】 スレッドの件名大事",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/10/231023.png",
@@ -446,21 +451,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/10/231023.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19668",
-          "author": "TAICHI",
-          "description": "「 Microsoft Teams のチャネルで時の流れを逆にできる！」なんて言ったら…ちょっと頭おかしくなっちゃったのかな？って思われるかもしれませんが、言い方は微妙ですが世迷言ではありません。 本記事は「新しい Te … \"Microsoft Teams ：新しい Teams アプリのチャネルについて【その2】 時系列を上下逆に\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19668",
-          "publishedOn": "2023-10-19T23:00:00.000Z",
-          "wordCount": 1882,
-          "title": "Microsoft Teams ：新しい Teams アプリのチャネルについて【その2】 時系列を上下逆に",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/10/231020.png",
-            "length": "22940",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/10/231020.png"
         }
       ]
     }
