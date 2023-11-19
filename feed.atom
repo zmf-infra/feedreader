@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-18T00:36:55.148Z</id>
+    <id>urn:2023-11-19T00:40:40.656Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T00:36:55.148Z</updated>
+    <updated>2023-11-19T00:40:40.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Apps Excel の Python 機能をチェックしておきましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/19/021121</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/19/021121"/>
+        <updated>2023-11-18T17:11:21.000Z</updated>
+        <summary type="html"><![CDATA[生成 AI が台頭してきたことで、過去より AI と言われていたディープラーニング系で使われてきた Python の立ち位置はどうなってしまうのか。と一時期考えていたことがありました。しかし、最近の Python はそれにとどまらない活躍の場が与えられているのです。 というわけで今回は Microsoft 365 Apps の Excel に用意された Python の挿入機能を見ていきたいと思います。 Excel を利用して Python のコードを簡単に書ける状態になるということは、 VBA の代わりとなる Office Script と双璧でカスタム関数側の強化が行われるということなので…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 WebDAV サービスが非推奨になっています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/18/231314</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/18/231314"/>
+        <updated>2023-11-18T14:13:14.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと前に Windows 11 で VBScript が非推奨となった話題を取り上げましたが、それから 1 か月余りでかなりの機能に非推奨のマークが付けられたようです。 https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features?WT.mc_id=WDIT-MVP-5002496 この中では WebDAV のクライアントサービスが非推奨になっています。 これは SharePoint のエクスプローラーで表示ボタンに関連するサービスで、 Web サイトのファイルサービスをエクスプローラーで表示するための機能と…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？]]></title>
         <id>https://art-break.net/tech/?p=19855</id>
@@ -381,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/21/011558"/>
         <updated>2023-10-20T16:15:58.000Z</updated>
         <summary type="html"><![CDATA[現在私は Microsoft Edge については早期に機能を試せるプログラムである Microsoft Edge の Beta Channel を利用しているのですが、 Insider Program Dev Channel を利用している方は同じ状態になっているものと思います。 そんな Microsoft Edge なのですがころころとインターフェースが変更されているのは周知の事実ではないでしょうか。 今回そんな IF 変更がいくつか行われていたので見ていきたいと思います。 まずはとても分かりやすいところなのですが、ユーザープロファイルのアイコンが左上になっているのはお気づきでしょうか。 …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Service Request を電話で受ける場合、 PIN 番号が必要となるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/20/012650</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/20/012650"/>
-        <updated>2023-10-19T16:26:50.000Z</updated>
-        <summary type="html"><![CDATA[MFA の波はアプリの世界を超え、電話の世界にも入り込んでくることが決まったようです。 2023 年 11 月 1 日以降は SR への電話問い合わせを行ったときに、電話連絡者のメールまたは電話番号に、 PIN 番号が一緒に送付されることで、問い合わせ者が電話通話者と同一であるかどうかを確認するためのフローが加わることになったとのことです。 SR は Microsoft 365 Portal などにある右上の ？ マークから行うサポート依頼を指しますが、ここからの問い合わせの折り返しとして電話を選んだ場合の動作が変わるということですね。 サポート内容を入力して下部に表示されるサポートへの問い合…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
