@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-19T00:40:40.656Z</id>
+    <id>urn:2023-11-20T00:38:40.749Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T00:40:40.656Z</updated>
+    <updated>2023-11-20T00:38:40.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23590 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/20/013952</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/20/013952"/>
+        <updated>2023-11-19T16:39:52.000Z</updated>
+        <summary type="html"><![CDATA[今週は Ignite 2023 があり、シアトルは大盛況だったようです。 ただ、発表の中心は AI 関連で、 Windows に関することは多くは出てこなかったのが残念な点でした。 Windows 365 での GPU サポート開始と、オートスケールなどがインパクトの大きい発表だったかなと。 そんな Windows 界隈ですが、 Insider Program は Ignite の週も止まりませんでした。 なんだか最近はどんな時も順調にリリースを繰り返しておりうれしい限りです。 今週の更新は以下 6 種となっています。 Canary Channel : Build 25997 Dev Chan…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Apps Excel の Python 機能をチェックしておきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/19/021121</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/22/014646"/>
         <updated>2023-10-21T16:46:46.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 を利用している中でも特に Entra ID 周りなど Azure にアクセスしなくてはならないことが最近増えてきているのですが、 Azure も常日頃利用を行っていないとよくわからないですよね。 そういうわけで今回は Azure のサブスクリプションに対して権限を持ったユーザーを追加する方法を見ていきたいと思います。 まずは Azure ポータルからサブスクリプションを選択していきましょう。 このサブスクリプションは課金の単位となっていて、組織によってはこれがいくつもあるケースもあるので、権限を付けたい課金対象がどれか意識しておくようにしましょう。 イメージとしては…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge プロファイルの位置が変わり、ウォレットが加わりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/21/011558</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/21/011558"/>
-        <updated>2023-10-20T16:15:58.000Z</updated>
-        <summary type="html"><![CDATA[現在私は Microsoft Edge については早期に機能を試せるプログラムである Microsoft Edge の Beta Channel を利用しているのですが、 Insider Program Dev Channel を利用している方は同じ状態になっているものと思います。 そんな Microsoft Edge なのですがころころとインターフェースが変更されているのは周知の事実ではないでしょうか。 今回そんな IF 変更がいくつか行われていたので見ていきたいと思います。 まずはとても分かりやすいところなのですが、ユーザープロファイルのアイコンが左上になっているのはお気づきでしょうか。 …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
