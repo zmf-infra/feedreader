@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-20T00:38:40.749Z</id>
+    <id>urn:2023-11-21T00:38:31.041Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T00:38:40.749Z</updated>
+    <updated>2023-11-21T00:38:31.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 Copilot などの新機能追加の方法を見てみよう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/21/025514</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/21/025514"/>
+        <updated>2023-11-20T17:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10 で Copilot を提供するという話題が久々の Windows 10 に関連するトピックとして Ignite 2023 をにぎわせていましたが、早くもインストールに関する制御方法がコミュニティブログにて公開されていました。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/enable-optional-updates-for-windows-10-devices/ba-p/3983927?WT.mc_id=WDIT-MVP-5002496 この資料によると、グループポリシーを作成することで新機能の追加…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Loop ：一般提供開始されました！]]></title>
+        <id>https://art-break.net/tech/?p=19919</id>
+        <link href="https://art-break.net/tech/?p=19919"/>
+        <updated>2023-11-20T04:22:21.000Z</updated>
+        <summary type="html"><![CDATA[2023/11/15 付けで公開されている以下の Microsoft からの記事で、 Microsoft Loop が一般提供開始されるアナウンスがありました。 Microsoft Loop: built for the … "Microsoft Loop ：一般提供開始されました！" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法]]></title>
+        <id>https://art-break.net/tech/?p=19911</id>
+        <link href="https://art-break.net/tech/?p=19911"/>
+        <updated>2023-11-20T01:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 の機能・アプリ・サービスなどの追加がある際に、ライセンス次第で使える・使えないが良く出てくるようになったけど、はたして自分は会社から何のライセンスを付与されているのか？がわからない人も多いと思 … "Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23590 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/20/013952</id>
@@ -356,16 +386,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：新しい Teams アプリのチャネルについて【その4】 スレッドを新しいウィンドウで開く]]></title>
-        <id>https://art-break.net/tech/?p=19710</id>
-        <link href="https://art-break.net/tech/?p=19710"/>
-        <updated>2023-10-24T00:00:32.000Z</updated>
-        <summary type="html"><![CDATA[文字のコミュニケーションは複雑化しやすいので、優先度やリアルタイム度の高いトピックを固定してなるべくフォーカスしたい場合、そのトピックのみ別ウィンドウという手法で切り離し特別な存在にさせるのも一つの方法ですよね。 本記事 … "Microsoft Teams ：新しい Teams アプリのチャネルについて【その4】 スレッドを新しいウィンドウで開く" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 White Board にテンプレートなどの機能が追加されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/24/020411</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/24/020411"/>
@@ -376,31 +396,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：新しい Teams アプリのチャネルについて【その3】 スレッドの件名大事]]></title>
-        <id>https://art-break.net/tech/?p=19682</id>
-        <link href="https://art-break.net/tech/?p=19682"/>
-        <updated>2023-10-23T05:43:02.000Z</updated>
-        <summary type="html"><![CDATA[新しい Teams アプリへの切り替えトグルスイッチがだいぶ多くのユーザーに表示されるようになってきたと思います。おそらく多くの Microsoft 365 ユーザー企業では、 Microsoft 365 のアップデート … "Microsoft Teams ：新しい Teams アプリのチャネルについて【その3】 スレッドの件名大事" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23570 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/10/23/012500</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/23/012500"/>
         <updated>2023-10-22T16:25:00.000Z</updated>
         <summary type="html"><![CDATA[今週も Windows 11 Insider Program は平常運転となっていました。 最近の Microsoft は AI を軸にした戦略を打ち出しているので Windows 自体にも Copilot が組み込まれはしましたがそこから先の展望があまり見えてこないので、そろそろ Windows へのテコ入れもお願いしたいところです。もちろん Copilot はすごいので使える機能を拡張していくなどでもよいのでパワーアップを待ちたいですね。 というわけで、今週は Release Preview Channel の Windows 11 以外が更新されていました。 今週は Canary Cha…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Azure サブスクリプションに追加ユーザーの紐づけを行うには]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/22/014646</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/22/014646"/>
-        <updated>2023-10-21T16:46:46.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 を利用している中でも特に Entra ID 周りなど Azure にアクセスしなくてはならないことが最近増えてきているのですが、 Azure も常日頃利用を行っていないとよくわからないですよね。 そういうわけで今回は Azure のサブスクリプションに対して権限を持ったユーザーを追加する方法を見ていきたいと思います。 まずは Azure ポータルからサブスクリプションを選択していきましょう。 このサブスクリプションは課金の単位となっていて、組織によってはこれがいくつもあるケースもあるので、権限を付けたい課金対象がどれか意識しておくようにしましょう。 イメージとしては…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

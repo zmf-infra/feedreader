@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/11/21/025514",
+          "author": null,
+          "description": "Windows 10 で Copilot を提供するという話題が久々の Windows 10 に関連するトピックとして Ignite 2023 をにぎわせていましたが、早くもインストールに関する制御方法がコミュニティブログにて公開されていました。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/enable-optional-updates-for-windows-10-devices/ba-p/3983927?WT.mc_id=WDIT-MVP-5002496 この資料によると、グループポリシーを作成することで新機能の追加…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/11/21/025514",
+          "publishedOn": "2023-11-20T17:55:14.000Z",
+          "wordCount": 695,
+          "title": "Windows 10 Copilot などの新機能追加の方法を見てみよう",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231121/20231121021253.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/11/20/013952",
           "author": null,
           "description": "今週は Ignite 2023 があり、シアトルは大盛況だったようです。 ただ、発表の中心は AI 関連で、 Windows に関することは多くは出てこなかったのが残念な点でした。 Windows 365 での GPU サポート開始と、オートスケールなどがインパクトの大きい発表だったかなと。 そんな Windows 界隈ですが、 Insider Program は Ignite の週も止まりませんでした。 なんだか最近はどんな時も順調にリリースを繰り返しておりうれしい限りです。 今週の更新は以下 6 種となっています。 Canary Channel : Build 25997 Dev Chan…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/20/013952",
           "publishedOn": "2023-11-19T16:39:52.000Z",
-          "wordCount": 807,
+          "wordCount": 812,
           "title": "Windows 11 Insider Preview Build 23590 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231120/20231120002245.png"
         },
@@ -171,7 +181,7 @@
           "description": "Bing Chat のリリース以降、 Bing 検索エンジンの利用者が大きく跳ね上がったという話は皆さんも聞いたことがあるかと思います。 その Bing も利用者が増えたことに起因してか、どんどん機能拡張で姿かたちが変わっていっているようです。 以下は単純に「マイクロソフト」を Bing 検索した結果なのですが、途中に「他の人はこちらも質問」というセクションが織り込まれるようになっていました。 このセクション、質問という言葉からもわかるように、 Bing Chat へ情報を流してやり取りを簡単にしてくれる機能となっているようなのです。 上部の太字をポイントすると、 Bing AI に尋ねるとい…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/04/045330",
           "publishedOn": "2023-11-03T19:53:30.000Z",
-          "wordCount": 680,
+          "wordCount": 679,
           "title": "Microsoft Bing と Copilot in Edge が連動動作するようになっていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231104/20231104011424.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 738,
           "title": "Windows 11 Insider Preview Build 23570 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231022/20231022134049.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/10/22/014646",
-          "author": null,
-          "description": "Microsoft 365 を利用している中でも特に Entra ID 周りなど Azure にアクセスしなくてはならないことが最近増えてきているのですが、 Azure も常日頃利用を行っていないとよくわからないですよね。 そういうわけで今回は Azure のサブスクリプションに対して権限を持ったユーザーを追加する方法を見ていきたいと思います。 まずは Azure ポータルからサブスクリプションを選択していきましょう。 このサブスクリプションは課金の単位となっていて、組織によってはこれがいくつもあるケースもあるので、権限を付けたい課金対象がどれか意識しておくようにしましょう。 イメージとしては…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/10/22/014646",
-          "publishedOn": "2023-10-21T16:46:46.000Z",
-          "wordCount": 679,
-          "title": "Microsoft Azure サブスクリプションに追加ユーザーの紐づけを行うには",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231018/20231018023914.png"
         }
       ]
     },
@@ -313,12 +313,42 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=19919",
+          "author": "TAICHI",
+          "description": "2023/11/15 付けで公開されている以下の Microsoft からの記事で、 Microsoft Loop が一般提供開始されるアナウンスがありました。 Microsoft Loop: built for the … \"Microsoft Loop ：一般提供開始されました！\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19919",
+          "publishedOn": "2023-11-20T04:22:21.000Z",
+          "wordCount": 2224,
+          "title": "Microsoft Loop ：一般提供開始されました！",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231120.jpg",
+            "length": "11537",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231120.jpg"
+        },
+        {
+          "id": "https://art-break.net/tech/?p=19911",
+          "author": "TAICHI",
+          "description": "Microsoft 365 の機能・アプリ・サービスなどの追加がある際に、ライセンス次第で使える・使えないが良く出てくるようになったけど、はたして自分は会社から何のライセンスを付与されているのか？がわからない人も多いと思 … \"Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19911",
+          "publishedOn": "2023-11-20T01:05:48.000Z",
+          "wordCount": 1845,
+          "title": "Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231120_01.jpg",
+            "length": "14131",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231120_01.jpg"
+        },
+        {
           "id": "https://art-break.net/tech/?p=19855",
           "author": "TAICHI",
           "description": "Microsoft 界隈では昨日から Microsoft Ignite 2023 という大きなイベントが開催されているので、それに合わせて非常に膨大な情報の洪水が押し寄せてきていますが、みなさんはいかがですか？洪水を丸呑 … \"Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19855",
           "publishedOn": "2023-11-17T04:39:26.000Z",
-          "wordCount": 2036,
+          "wordCount": 2040,
           "title": "Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231117.jpg",
@@ -431,36 +461,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/10/231027.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19710",
-          "author": "TAICHI",
-          "description": "文字のコミュニケーションは複雑化しやすいので、優先度やリアルタイム度の高いトピックを固定してなるべくフォーカスしたい場合、そのトピックのみ別ウィンドウという手法で切り離し特別な存在にさせるのも一つの方法ですよね。 本記事 … \"Microsoft Teams ：新しい Teams アプリのチャネルについて【その4】 スレッドを新しいウィンドウで開く\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19710",
-          "publishedOn": "2023-10-24T00:00:32.000Z",
-          "wordCount": 1899,
-          "title": "Microsoft Teams ：新しい Teams アプリのチャネルについて【その4】 スレッドを新しいウィンドウで開く",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/10/231024.png",
-            "length": "19058",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/10/231024.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19682",
-          "author": "TAICHI",
-          "description": "新しい Teams アプリへの切り替えトグルスイッチがだいぶ多くのユーザーに表示されるようになってきたと思います。おそらく多くの Microsoft 365 ユーザー企業では、 Microsoft 365 のアップデート … \"Microsoft Teams ：新しい Teams アプリのチャネルについて【その3】 スレッドの件名大事\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19682",
-          "publishedOn": "2023-10-23T05:43:02.000Z",
-          "wordCount": 2026,
-          "title": "Microsoft Teams ：新しい Teams アプリのチャネルについて【その3】 スレッドの件名大事",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/10/231023.png",
-            "length": "17339",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/10/231023.png"
         }
       ]
     }
