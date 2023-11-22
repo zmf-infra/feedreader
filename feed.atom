@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T00:38:31.041Z</id>
+    <id>urn:2023-11-22T00:39:48.126Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T00:38:31.041Z</updated>
+    <updated>2023-11-22T00:39:48.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 セキュリティ対策を強化し、攻撃を防いでいきましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/22/024939</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/22/024939"/>
+        <updated>2023-11-21T17:49:39.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと古い記事なのですが、とても興味深い内容が書かれていたので共有していきたいと思います。 その記事は 基本的なセキュリティ対策で 99% の攻撃を防ぐとことができることを示した内容となっています。 https://www.microsoft.com/en-us/security/business/security-insider/threat-briefs/cyber-resilience-hygiene-guide/?WT.mc_id=M365-MVP-5002496 この記事によると以下の 5 要素を意識して環境を構築することでほとんどの攻撃を防ぐことができるとのこと。 一般的にセキュ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10 Copilot などの新機能追加の方法を見てみよう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/21/025514</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/24/020411"/>
         <updated>2023-10-23T17:04:11.000Z</updated>
         <summary type="html"><![CDATA[Windows で手書きを行うときに重宝していた White Board ですが、 Windows 11 にはアプリ版 White Board は搭載されておらず、この手の利用は OneNote に移行しつつあったのですが、久々に Microsoft 365 の White Board を触ってみたところ、大幅に進化していたので紹介しておきたいと思います。 一番最初に驚いたのは、ホワイトな状態から使わなくてよいように、テンプレートが大量に提供されていたことです。 しかも本物のホワイトボードを利用するときによくあるやつという感じになっており、同時に複数人がリモートで操作できる特性を合わせれば、 …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23570 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/23/012500</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/23/012500"/>
-        <updated>2023-10-22T16:25:00.000Z</updated>
-        <summary type="html"><![CDATA[今週も Windows 11 Insider Program は平常運転となっていました。 最近の Microsoft は AI を軸にした戦略を打ち出しているので Windows 自体にも Copilot が組み込まれはしましたがそこから先の展望があまり見えてこないので、そろそろ Windows へのテコ入れもお願いしたいところです。もちろん Copilot はすごいので使える機能を拡張していくなどでもよいのでパワーアップを待ちたいですね。 というわけで、今週は Release Preview Channel の Windows 11 以外が更新されていました。 今週は Canary Cha…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
