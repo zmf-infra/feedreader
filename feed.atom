@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-22T00:39:48.126Z</id>
+    <id>urn:2023-11-23T00:37:44.368Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T00:39:48.126Z</updated>
+    <updated>2023-11-23T00:37:44.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 管理センターの Edge 項目にオーバービューが用意されるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/23/025409</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/23/025409"/>
+        <updated>2023-11-22T17:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Copilot が Microsoft の中心的な商材になりつつある中、それを搭載している Edge は今やなくてはならないものとして扱いが飛躍的によくなっています。 Windows XP のころの Internet Explorer のような位置づけになってきている感が出てきていますが、利用環境をよりよくしていく動きの中で、 Microsoft 365 管理センターにある Edge 設定画面も進化していました。 ページとしては以下のリンクから遷移する画面ですね。今まではなかった Overview が追加さるようになっています。 https://admin.microsoft.com/#/Ed…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 セキュリティ対策を強化し、攻撃を防いでいきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/22/024939</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/25/023251"/>
         <updated>2023-10-24T17:32:51.000Z</updated>
         <summary type="html"><![CDATA[最近、個人的にふとした理由から Microsoft Syntex 熱が高くなっており、どうしたらいろいろな方が触ってくれるかなぁとおぼろげに考えていたのですが、考えるよりもさわらせろ！と言わんばかりに Syntex に様々な追加機能が 2023 年 10 月に増えていました。 https://techcommunity.microsoft.com/t5/microsoft-syntex-blog/microsoft-syntex-adds-taxonomy-and-image-tagging-ocr-content/ba-p/3951811?WT.mc_id=M365-MVP-5002496 …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 White Board にテンプレートなどの機能が追加されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/24/020411</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/24/020411"/>
-        <updated>2023-10-23T17:04:11.000Z</updated>
-        <summary type="html"><![CDATA[Windows で手書きを行うときに重宝していた White Board ですが、 Windows 11 にはアプリ版 White Board は搭載されておらず、この手の利用は OneNote に移行しつつあったのですが、久々に Microsoft 365 の White Board を触ってみたところ、大幅に進化していたので紹介しておきたいと思います。 一番最初に驚いたのは、ホワイトな状態から使わなくてよいように、テンプレートが大量に提供されていたことです。 しかも本物のホワイトボードを利用するときによくあるやつという感じになっており、同時に複数人がリモートで操作できる特性を合わせれば、 …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
