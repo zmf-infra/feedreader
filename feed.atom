@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-23T00:37:44.368Z</id>
+    <id>urn:2023-11-24T00:36:46.410Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T00:37:44.368Z</updated>
+    <updated>2023-11-24T00:36:46.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 MS純正のファイル署名サービスが始まっています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/24/025054</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/24/025054"/>
+        <updated>2023-11-23T17:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft は今まで戦略的に優位に立てる状態が見えてきた場合、パートナーと協業してすみ分けていた範囲であっても果敢に勝負を挑み結果を残してきた歴史があります。最近ではハードウェアの Surface やウィルス対策の Defender といったところがこの内容に該当するのですが、この歴史に新たに署名というものが加わりそうです。 署名とは、ファイルの作成者と作成日を第三者と共有することで、そのファイルに書かれていたことを否認できないようにする仕組みなのですが、今までは専門の少数の事業者で構成されていた分野でした。 この分野に Microsoft Syntex ブランドで eSignatur…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 管理センターの Edge 項目にオーバービューが用意されるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/23/025409</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/26/012322"/>
         <updated>2023-10-25T16:23:22.000Z</updated>
         <summary type="html"><![CDATA[最近のマイクロソフトは生成 AI を活用した Copilot に注力していますが、その中でも中核となっているのが GitHub Copilot と Microsoft Copilot です。 しかしながらこれらは一般ユーザー向けの Copilot で、管理者向けの機能ではなかったんですよね。 そんな Copilot を組織管理者向けに調整した Security Copilot が早期アクセスプログラムとして一般組織への開放が行われ始めたようです。 https://news.microsoft.com/ja-jp/2023/10/25/231025-microsoft-security-copi…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Syntex に様々な機能が追加リリースされていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/25/023251</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/25/023251"/>
-        <updated>2023-10-24T17:32:51.000Z</updated>
-        <summary type="html"><![CDATA[最近、個人的にふとした理由から Microsoft Syntex 熱が高くなっており、どうしたらいろいろな方が触ってくれるかなぁとおぼろげに考えていたのですが、考えるよりもさわらせろ！と言わんばかりに Syntex に様々な追加機能が 2023 年 10 月に増えていました。 https://techcommunity.microsoft.com/t5/microsoft-syntex-blog/microsoft-syntex-adds-taxonomy-and-image-tagging-ocr-content/ba-p/3951811?WT.mc_id=M365-MVP-5002496 …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
