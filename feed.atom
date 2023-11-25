@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-24T00:36:46.410Z</id>
+    <id>urn:2023-11-25T00:36:02.346Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-24T00:36:46.410Z</updated>
+    <updated>2023-11-25T00:36:02.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Apps ライセンス切り替えとライセンス更新が分離されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/25/033501</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/25/033501"/>
+        <updated>2023-11-24T18:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 Apps のアカウント設定画面ですが皆さんチェックされていますでしょうか。 一度設定してしまうとあまり来なくてもよい画面なのでそんなに見る機会が多くはないのですが、こういった画面も使いやすくするために更新がかかったりするようです。 今回はいつの間にかライセンスの更新というボタンが追加されていたので見ておきたいと思います。 こんな感じに今までアカウントの管理とライセンスの切り替えだけだったボタンに、ライセンスの更新というものが追加されているのです。 このボタンを押すとサブスクリプションの確認のためサインインせよという案内が出てきます。 案内の通りにサインインを行い、、…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 MS純正のファイル署名サービスが始まっています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/24/025054</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/27/020052"/>
         <updated>2023-10-26T17:00:52.000Z</updated>
         <summary type="html"><![CDATA[どうも Microsoft Edge Stable では先に更新されていたようなのですが、私の利用している Beta Channel の Edge においても Bing Chat のアイコン更新が行われていました。 今までは吹き出しに b のマークでしたが、正式に決まった Copilot のマークに入れ替わっていました。 ただ、環境によってちょっと考え方が異なっているようで、 Bing Chat は青色ベースのアイコンとなっていますが、、、 Bing Chat Enterprise は今のところサイドバーのアイコンだけ更新されており、中のアイコンは盾のマークのままのようです。 ちなみに Mic…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Security Copilot への早期アクセスプログラムが開始されたようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/26/012322</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/26/012322"/>
-        <updated>2023-10-25T16:23:22.000Z</updated>
-        <summary type="html"><![CDATA[最近のマイクロソフトは生成 AI を活用した Copilot に注力していますが、その中でも中核となっているのが GitHub Copilot と Microsoft Copilot です。 しかしながらこれらは一般ユーザー向けの Copilot で、管理者向けの機能ではなかったんですよね。 そんな Copilot を組織管理者向けに調整した Security Copilot が早期アクセスプログラムとして一般組織への開放が行われ始めたようです。 https://news.microsoft.com/ja-jp/2023/10/25/231025-microsoft-security-copi…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
