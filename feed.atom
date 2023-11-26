@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-25T00:36:02.346Z</id>
+    <id>urn:2023-11-26T00:40:14.825Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T00:36:02.346Z</updated>
+    <updated>2023-11-26T00:40:14.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot の名称が変更されています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/26/014433</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/26/014433"/>
+        <updated>2023-11-25T16:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Ignite 2023 にて Microsoft 365 Copilot などの名称変更が行われたことをご存じの方は多いかと存じます。そのことを示したページが追加されています。 このページのタブを見るとわかるのですが、 Copilot with Data Protection という項目ができていますね。 これは Bing Chat Enterprise を指す内容の Data Protection が加わったという言い方ですね。実は Bing Chat と Bing Chat Enterprise どちらも Microsoft Copilot という言葉に統合されてしまったこともあり差を伝え…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Apps ライセンス切り替えとライセンス更新が分離されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/25/033501</id>
@@ -371,36 +381,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/28/021045"/>
         <updated>2023-10-27T17:10:45.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Teams を利用しているなかで唯一残念な点として挙げておきたいのが、モバイル端末でのアクセス性の悪さでした。 モバイルから Web 会議に参加しようとする場合、必ず Teams アプリが起動が必要という仕様となっていて、気軽な利用というのができなかったんですよね。 しかし、近年そこにもメスが入っていたようで、 Teams アプリの一つである仮想予定を用いることで、モバイルからも Web ブラウザー経由で Web 会議にアクセスできるようにする口が用意されるようになっていました。 仮想予定はアプリ検索を行えば出てきます。 これ、前に一度お伝えしたことがあったかと思うのですが…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【宣伝】ハロウィン企画 Microsoft 365 に関するウェビナーで登壇します！]]></title>
-        <id>https://art-break.net/tech/?p=19739</id>
-        <link href="https://art-break.net/tech/?p=19739"/>
-        <updated>2023-10-27T01:58:05.000Z</updated>
-        <summary type="html"><![CDATA[ウッカリしていて急な宣伝で申し訳ありませんが、10月31日（火）のランチタイムに某弊社のウェビナーで登壇します！ ▼画像をクリックすると申し込みページにリンクします Microsoft 365 Copilot についての … "【宣伝】ハロウィン企画 Microsoft 365 に関するウェビナーで登壇します！" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Lists ：同時編集！タブ！リストが大きく変わっています]]></title>
-        <id>https://art-break.net/tech/?p=19727</id>
-        <link href="https://art-break.net/tech/?p=19727"/>
-        <updated>2023-10-26T23:01:37.000Z</updated>
-        <summary type="html"><![CDATA[SharePoint のリストがパワーアップして1つのサービスとして切り出された Microsoft Lists 。当ブログの過去記事を読むと、2020年の Microsoft Inspire というイベントで発表され、 … "Microsoft Lists ：同時編集！タブ！リストが大きく変わっています" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Edge Bing Chat のアイコンが更新されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/27/020052</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/27/020052"/>
-        <updated>2023-10-26T17:00:52.000Z</updated>
-        <summary type="html"><![CDATA[どうも Microsoft Edge Stable では先に更新されていたようなのですが、私の利用している Beta Channel の Edge においても Bing Chat のアイコン更新が行われていました。 今までは吹き出しに b のマークでしたが、正式に決まった Copilot のマークに入れ替わっていました。 ただ、環境によってちょっと考え方が異なっているようで、 Bing Chat は青色ベースのアイコンとなっていますが、、、 Bing Chat Enterprise は今のところサイドバーのアイコンだけ更新されており、中のアイコンは盾のマークのままのようです。 ちなみに Mic…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

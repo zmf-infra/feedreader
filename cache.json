@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/11/26/014433",
+          "author": null,
+          "description": "Ignite 2023 にて Microsoft 365 Copilot などの名称変更が行われたことをご存じの方は多いかと存じます。そのことを示したページが追加されています。 このページのタブを見るとわかるのですが、 Copilot with Data Protection という項目ができていますね。 これは Bing Chat Enterprise を指す内容の Data Protection が加わったという言い方ですね。実は Bing Chat と Bing Chat Enterprise どちらも Microsoft Copilot という言葉に統合されてしまったこともあり差を伝え…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/11/26/014433",
+          "publishedOn": "2023-11-25T16:44:33.000Z",
+          "wordCount": 676,
+          "title": "Microsoft 365 Copilot の名称が変更されています",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231122/20231122014549.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/11/25/033501",
           "author": null,
           "description": "Microsoft 365 Apps のアカウント設定画面ですが皆さんチェックされていますでしょうか。 一度設定してしまうとあまり来なくてもよい画面なのでそんなに見る機会が多くはないのですが、こういった画面も使いやすくするために更新がかかったりするようです。 今回はいつの間にかライセンスの更新というボタンが追加されていたので見ておきたいと思います。 こんな感じに今までアカウントの管理とライセンスの切り替えだけだったボタンに、ライセンスの更新というものが追加されているのです。 このボタンを押すとサブスクリプションの確認のためサインインせよという案内が出てきます。 案内の通りにサインインを行い、、…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/25/033501",
           "publishedOn": "2023-11-24T18:35:01.000Z",
-          "wordCount": 628,
+          "wordCount": 633,
           "title": "Microsoft 365 Apps ライセンス切り替えとライセンス更新が分離されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231125/20231125012206.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 685,
           "title": "Microsoft 365 仮想会議室を利用した Teams 会議はモバイルの Web ブラウザーから参加できるようになっていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231022/20231022115440.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/10/27/020052",
-          "author": null,
-          "description": "どうも Microsoft Edge Stable では先に更新されていたようなのですが、私の利用している Beta Channel の Edge においても Bing Chat のアイコン更新が行われていました。 今までは吹き出しに b のマークでしたが、正式に決まった Copilot のマークに入れ替わっていました。 ただ、環境によってちょっと考え方が異なっているようで、 Bing Chat は青色ベースのアイコンとなっていますが、、、 Bing Chat Enterprise は今のところサイドバーのアイコンだけ更新されており、中のアイコンは盾のマークのままのようです。 ちなみに Mic…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/10/27/020052",
-          "publishedOn": "2023-10-26T17:00:52.000Z",
-          "wordCount": 710,
-          "title": "Microsoft 365 Edge Bing Chat のアイコンが更新されました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231027/20231027005944.png"
         }
       ]
     },
@@ -431,36 +431,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231102.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19739",
-          "author": "TAICHI",
-          "description": "ウッカリしていて急な宣伝で申し訳ありませんが、10月31日（火）のランチタイムに某弊社のウェビナーで登壇します！ ▼画像をクリックすると申し込みページにリンクします Microsoft 365 Copilot についての … \"【宣伝】ハロウィン企画 Microsoft 365 に関するウェビナーで登壇します！\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19739",
-          "publishedOn": "2023-10-27T01:58:05.000Z",
-          "wordCount": 1738,
-          "title": "【宣伝】ハロウィン企画 Microsoft 365 に関するウェビナーで登壇します！",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/10/image-1.png",
-            "length": "61362",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/10/image-1.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19727",
-          "author": "TAICHI",
-          "description": "SharePoint のリストがパワーアップして1つのサービスとして切り出された Microsoft Lists 。当ブログの過去記事を読むと、2020年の Microsoft Inspire というイベントで発表され、 … \"Microsoft Lists ：同時編集！タブ！リストが大きく変わっています\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19727",
-          "publishedOn": "2023-10-26T23:01:37.000Z",
-          "wordCount": 1906,
-          "title": "Microsoft Lists ：同時編集！タブ！リストが大きく変わっています",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/10/231027.png",
-            "length": "14077",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/10/231027.png"
         }
       ]
     }
