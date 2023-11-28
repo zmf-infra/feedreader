@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-27T00:38:25.604Z</id>
+    <id>urn:2023-11-28T00:38:30.174Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-27T00:38:25.604Z</updated>
+    <updated>2023-11-28T00:38:30.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Test Base の特典が発表されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/28/022646</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/28/022646"/>
+        <updated>2023-11-27T17:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 に新機能が追加されるタイミングは Ignite などの大規模イベント前が多いのですが、すべてがそのタイミングになるというわけでもありません。というわけで Microsoft 365 管理センターを眺めていたところ、機能の追加が一つアナウンスされ提案した。 Test Base for Microsoft 365 の利用が 500 H 分無料になるベネフィットということのようです。 Test Base 自体は 2 年くらい前に発表された仕組みで、 WaaS に向けたサービスとなっており簡単に言うとテストを行うための環境を用意してくれるという内容と思えばよいでしょう。 詳…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10 Insider Preview にて Copilot が利用できるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/27/015548</id>
@@ -371,16 +381,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/30/022105"/>
         <updated>2023-10-29T17:21:05.000Z</updated>
         <summary type="html"><![CDATA[今週も Windows Insider Program はいつものように新しいバージョンをリリースしています。最近の傾向としては残念ながら新機能よりもバグフィックスに焦点が当たっている感があり寂しい限りですが、 OS の本分は問題なく動くことだと思うのでこれも一つなのかもしれません。 というわけで、今週は以下のバージョンが更新されています。 Canary Channel : Build 25982 Dev Channel : Build 23575 Beta Channel : Build 22635.2552 Release Preview Channel : Build 22631.250…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Viva Engage プライベートメッセージを抑止する機能が追加されるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/29/022641</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/29/022641"/>
-        <updated>2023-10-28T17:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Viva Engage の全身だった Yammer は、 Microsoft の中でも買収後長期的に利用されてきた数少ないシステムでした。 そのため、独自に進化した機能がなかなか切れずに 2012 年に Microsoft 傘下となった後も 2023 年に至るまで 11 年間も手が加わらなかったものも当然のように存在しています。 そんな状態の中、 2023 年 11 月、プライベートメッセージを利用できなくするための機能がリリースすることになったようです。 プライベートメッセージはその名の通り、 Yammer （ Viva Engage ）ネットワーク上でのみやり取りできるメッセージで、ちょう…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

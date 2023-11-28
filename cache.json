@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/11/28/022646",
+          "author": null,
+          "description": "Microsoft 365 に新機能が追加されるタイミングは Ignite などの大規模イベント前が多いのですが、すべてがそのタイミングになるというわけでもありません。というわけで Microsoft 365 管理センターを眺めていたところ、機能の追加が一つアナウンスされ提案した。 Test Base for Microsoft 365 の利用が 500 H 分無料になるベネフィットということのようです。 Test Base 自体は 2 年くらい前に発表された仕組みで、 WaaS に向けたサービスとなっており簡単に言うとテストを行うための環境を用意してくれるという内容と思えばよいでしょう。 詳…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/11/28/022646",
+          "publishedOn": "2023-11-27T17:26:46.000Z",
+          "wordCount": 686,
+          "title": "Microsoft 365 Test Base の特典が発表されていました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231128/20231128015438.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/11/27/015548",
           "author": null,
           "description": "Ignite 2023 を終えて 1 週間。今週は Windows 11 に関する Insider Program の更新はありませんでした。 しかしながら、 Windows 10 において Release Preview Channel が Build 19045.3757 に更新され、 Copilot が利用できるように進化したようなので、手元の仮想環境を Insider 化してその動きを試してみたいと思います。 まずは設定アプリから Insider Program に入ります。 過去、 2015 年ころには何度もやっていましたが、最近は Windows 10 の Insider に触るこ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/27/015548",
           "publishedOn": "2023-11-26T16:55:48.000Z",
-          "wordCount": 727,
+          "wordCount": 733,
           "title": "Windows 10 Insider Preview にて Copilot が利用できるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231127/20231127002816.png"
         },
@@ -241,7 +251,7 @@
           "description": "Bing Chat のリリース以降、 Bing 検索エンジンの利用者が大きく跳ね上がったという話は皆さんも聞いたことがあるかと思います。 その Bing も利用者が増えたことに起因してか、どんどん機能拡張で姿かたちが変わっていっているようです。 以下は単純に「マイクロソフト」を Bing 検索した結果なのですが、途中に「他の人はこちらも質問」というセクションが織り込まれるようになっていました。 このセクション、質問という言葉からもわかるように、 Bing Chat へ情報を流してやり取りを簡単にしてくれる機能となっているようなのです。 上部の太字をポイントすると、 Bing AI に尋ねるとい…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/04/045330",
           "publishedOn": "2023-11-03T19:53:30.000Z",
-          "wordCount": 674,
+          "wordCount": 673,
           "title": "Microsoft Bing と Copilot in Edge が連動動作するようになっていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231104/20231104011424.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 766,
           "title": "Windows 11 Insider Preview Build 23575 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231030/20231030010952.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/10/29/022641",
-          "author": null,
-          "description": "Viva Engage の全身だった Yammer は、 Microsoft の中でも買収後長期的に利用されてきた数少ないシステムでした。 そのため、独自に進化した機能がなかなか切れずに 2012 年に Microsoft 傘下となった後も 2023 年に至るまで 11 年間も手が加わらなかったものも当然のように存在しています。 そんな状態の中、 2023 年 11 月、プライベートメッセージを利用できなくするための機能がリリースすることになったようです。 プライベートメッセージはその名の通り、 Yammer （ Viva Engage ）ネットワーク上でのみやり取りできるメッセージで、ちょう…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/10/29/022641",
-          "publishedOn": "2023-10-28T17:26:41.000Z",
-          "wordCount": 686,
-          "title": "Microsoft 365 Viva Engage プライベートメッセージを抑止する機能が追加されるようです",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231024/20231024004125.png"
         }
       ]
     },
