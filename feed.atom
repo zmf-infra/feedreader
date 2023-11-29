@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T00:38:30.174Z</id>
+    <id>urn:2023-11-29T00:38:15.695Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T00:38:30.174Z</updated>
+    <updated>2023-11-29T00:38:15.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Studio が利用できるようになったようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/29/024248</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/29/024248"/>
+        <updated>2023-11-28T17:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Ignite 2023 でリリースアナウンスのあった Microsoft Copilot Studio ですが早々に利用可能となったようです。 以下のアドレスからアクセスすることができます。 Microsoft Copilot Studio はその名の通り、 Copilot を作るためのツールで、言い換えるとチャットボットの生成器となっています。 Power Virtual Agents ジャン！と思った方はその通りで、元の Virtual Agents に生成 AI を連携して、より的確な応答を得られることを目指した仕組みとなっています。 ここで面白いのがよくある無料で試すボタンの横に、デモ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 ：タグでコンテンツを整理できるようになった]]></title>
+        <id>https://art-break.net/tech/?p=19935</id>
+        <link href="https://art-break.net/tech/?p=19935"/>
+        <updated>2023-11-28T05:59:01.000Z</updated>
+        <summary type="html"><![CDATA[いやぁ、最近色々と忙しくて更新が滞りがちです。前回の投稿から1週間以上空けてしまいました。投稿ネタはたくさんあるんですけどね。忙しい事は良い事だけど、ブログを書く余裕は常に持っていたいです。 今回は僕の観測した限りだと  … "Microsoft 365 ：タグでコンテンツを整理できるようになった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Test Base の特典が発表されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/28/022646</id>
@@ -371,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/10/31/023152"/>
         <updated>2023-10-30T17:31:52.000Z</updated>
         <summary type="html"><![CDATA[まだ公式なアナウンスは見当たらなかったのですが、 Windows Insider MVP が Microsoft MVP に統合されるという話が上がっていました。 https://www.theregister.com/2023/10/30/windows_insider_mvp_ends Windows Insider MVP とはフィードバックハブを通じて OS のバグを見つけたり、新しい Windows の機能について紹介したり繰り返していると Microsoft の担当者さんを通じてノミネートされ、受賞できる Microsoft の部外者表彰制度です。 すでに 9 年にわたってアワード…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23575 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/30/022105</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/30/022105"/>
-        <updated>2023-10-29T17:21:05.000Z</updated>
-        <summary type="html"><![CDATA[今週も Windows Insider Program はいつものように新しいバージョンをリリースしています。最近の傾向としては残念ながら新機能よりもバグフィックスに焦点が当たっている感があり寂しい限りですが、 OS の本分は問題なく動くことだと思うのでこれも一つなのかもしれません。 というわけで、今週は以下のバージョンが更新されています。 Canary Channel : Build 25982 Dev Channel : Build 23575 Beta Channel : Build 22635.2552 Release Preview Channel : Build 22631.250…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
