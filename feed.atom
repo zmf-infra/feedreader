@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-29T00:38:15.695Z</id>
+    <id>urn:2023-11-30T00:37:58.623Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T00:38:15.695Z</updated>
+    <updated>2023-11-30T00:37:58.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot in Edge に GPT-4対応スイッチが追加されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/11/30/032440</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/11/30/032440"/>
+        <updated>2023-11-29T18:24:40.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 11 月、 Open AI の GPT-4 turbo が発表され今年の頭に発表された情報がすでに古くなるというスピード感で物事が動いている生成 AI 界隈ですが、 Microsoft もその動きに追随するようにどんどんと新しい機能を投入しているようです。 というわけで今回は Microsoft Copilot in Edge に追加された GPT-4 スイッチを見ていきたいと思います。 いつも通り Copilot ボタンを押してサイドパネルを開いたところ Copilot の中央部分にスイッチが追加されていました。 このスイッチを有効にすると、、、 背景色が変わり、 2000 文…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Studio が利用できるようになったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/29/024248</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/01/023021"/>
         <updated>2023-10-31T17:30:21.000Z</updated>
         <summary type="html"><![CDATA[2023 年 11 月。今月より Microsoft 365 Copilot が正式にリリースされ、一部の大規模組織のユーザーから利用できるようになりつつあるようです。 このタイミングで Bing Chat Enterprise なども GA するからなのかわかりませんが、 Edge 上のサイドバーが大きく変容していました。 まずサイドバーにアプリを追加するためのボタンだった + を押したところです。 なんとアプリを追加するためのトグルスイッチがなくなっており、すべてのアプリが一律検索対象となったようです。 サイドバーの ＋ ボタンの上にセクション区切りがあるのですが、ピン留めすると上のセクシ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Insider MVP アワードが Microsoft MVP に統合されるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/10/31/023152</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/10/31/023152"/>
-        <updated>2023-10-30T17:31:52.000Z</updated>
-        <summary type="html"><![CDATA[まだ公式なアナウンスは見当たらなかったのですが、 Windows Insider MVP が Microsoft MVP に統合されるという話が上がっていました。 https://www.theregister.com/2023/10/30/windows_insider_mvp_ends Windows Insider MVP とはフィードバックハブを通じて OS のバグを見つけたり、新しい Windows の機能について紹介したり繰り返していると Microsoft の担当者さんを通じてノミネートされ、受賞できる Microsoft の部外者表彰制度です。 すでに 9 年にわたってアワード…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
