@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-01T00:41:31.126Z</id>
+    <id>urn:2023-12-02T00:36:56.699Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T00:41:31.126Z</updated>
+    <updated>2023-12-02T00:36:56.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Outlook と Windows メールの Outlook は同一のものに収束されていくようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/02/013059</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/02/013059"/>
+        <updated>2023-12-01T16:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft は数年周期で Windows 標準メールアプリを変更している感じがしますが、 Windows 11 にて 2023 年から 2024 年には Windows メールから Outlook に切り替わることがアナウンスされています。 今まで Outlook Express など似た名前はあったのですが、 とうとう Microsoft 365 Apps の Outlook と同名のアプリになることに。 同名だけであればまだしもな感じだったのですが、どうもどちらも同じものを指しているのではないかという感じがしています。 こんな感じにメール、 Outlook 、 Outlook (n…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：「会議」アプリ登場したけど便利そう？]]></title>
+        <id>https://art-break.net/tech/?p=19973</id>
+        <link href="https://art-break.net/tech/?p=19973"/>
+        <updated>2023-12-01T09:40:47.000Z</updated>
+        <summary type="html"><![CDATA[12月になりましたね。年末まで更に忙しくなり、どんどんブログ記事のネタが貯まってしまっています。なるべく鮮度良く発信していきたいけど仕方ないですね。そんな今回のネタも展開されたのは11月上旬あたりです。 Microsof … "Microsoft Teams ：「会議」アプリ登場したけど便利そう？" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Stream Classic の EOS に向けた準備は進んでいますか]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/01/023957</id>
@@ -371,26 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/03/012143"/>
         <updated>2023-11-02T16:21:43.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 のアクセスコントロールは基本的に自身のテナントを起点とした管理を行うつくりとなっています。 これは、ユーザーが属しているテナント内での出来事を管理するのもであり、他社のテナントでの活動には大きな制限を持たないというポリシーが前提の仕組みであると勝手ながら理解していたのですが、最近はその考え方を改め始めているようです。 というわけでその一部として Teams の外部の会議チャットの利用可否を自身のテナントで設定できるようになっていたようです。 この機能 2023 年 7 月にリリースしていたのですが、気が付いていませんでした。 会議ポリシーの中にある設定にこの項目があ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Copilot ：11月1日一般提供開始だけど多くの人はまだ使えなさそう]]></title>
-        <id>https://art-break.net/tech/?p=19744</id>
-        <link href="https://art-break.net/tech/?p=19744"/>
-        <updated>2023-11-02T00:49:39.000Z</updated>
-        <summary type="html"><![CDATA[「熱くなっていたら一旦冷静になってみましょうか！」 先日急遽宣伝した10月31日開催した某弊社のウェビナーで Microsoft 365 Copilot の情報を話す前にこんな切り口でスタートしました。本当にそうで、実際 … "Microsoft 365 Copilot ：11月1日一般提供開始だけど多くの人はまだ使えなさそう" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Copilot ランディングページが用意されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/02/032305</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/02/032305"/>
-        <updated>2023-11-01T18:23:05.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 11 月 1 日、 Microsoft 365 Copilot がようやくリリースされました。 それと同時にランディングページを通じて利用のアナウンスを始めたようです。 https://adoption.microsoft.com/ja-jp/copilot/ このサイトでは、 Microsoft 365 Copilot だけでなく、 Microsoft Copilot 全般のアナウンスを行うサイトとなっていました。 実際には以下のように過去にリリースされたブログなどへのリンクとなっているので、これからどのようにコンテンツを追加していけるのかが普及のカギになるのでしょうね。 Co…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
