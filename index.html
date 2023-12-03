@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-02 datetime="2023-12-02T17:38:38.000Z">2023-12-02</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-02 datetime="2023-12-02T17:38:38.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >（）のブログ</button>
+                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2023/12/03/023838"
+                        open
+                      >
+                        <summary class="article-expander__title">Microsoft 365 Outlook on the Web に Teams のチャットが連携されるようになりました</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2023/12/03/023838">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231127/20231127011236.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>最近 Outlook on the Web をあまり開く機会がなかったのですが、開いてみたら画面上部のメニューにちょっと違和感が、、、 Teams 関連の項目が追加されているようです。 Teams で通話ボタンを押すと Teams が起動します。 自分の名前で会議が開いたので、今すぐ会議と同等の動きになるようですね。 これは外部の人からのメールを見て、緊急的に連絡を取りたい。といったオペレーションで利用しそうな感じですね。十分ありなシチュエーションです。 もう一つ横にある会話マークのボタンは押下するとチャットという画面が開きました。 この表示は Teams のチャットの並びとも違っているのです…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-01 datetime="2023-12-01T16:30:59.000Z">2023-12-01</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-01 datetime="2023-12-01T16:30:59.000Z"></time>
           </button>
@@ -1685,58 +1733,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-02 datetime="2023-11-02T16:21:43.000Z">2023-11-02</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-02 datetime="2023-11-02T16:21:43.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >（）のブログ</button>
-                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2023/11/03/012143"
-                        open
-                      >
-                        <summary class="article-expander__title">Microsoft 365 Teams のポリシーで外部の会議チャットを利用できないよう設定できるようになったようです</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2023/11/03/012143">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231025/20231025012628.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Microsoft 365 のアクセスコントロールは基本的に自身のテナントを起点とした管理を行うつくりとなっています。 これは、ユーザーが属しているテナント内での出来事を管理するのもであり、他社のテナントでの活動には大きな制限を持たないというポリシーが前提の仕組みであると勝手ながら理解していたのですが、最近はその考え方を改め始めているようです。 というわけでその一部として Teams の外部の会議チャットの利用可否を自身のテナントで設定できるようになっていたようです。 この機能 2023 年 7 月にリリースしていたのですが、気が付いていませんでした。 会議ポリシーの中にある設定にこの項目があ…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/7066782201">
-        <time id="build-timestamp" datetime="2023-12-02T00:36:56.681Z">2023-12-02T00:36:56.681Z</time>
+      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/7073556278">
+        <time id="build-timestamp" datetime="2023-12-03T00:40:30.075Z">2023-12-03T00:40:30.075Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

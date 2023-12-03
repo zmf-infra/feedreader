@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-02T00:36:56.699Z</id>
+    <id>urn:2023-12-03T00:40:30.105Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T00:36:56.699Z</updated>
+    <updated>2023-12-03T00:40:30.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Outlook on the Web に Teams のチャットが連携されるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/03/023838</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/03/023838"/>
+        <updated>2023-12-02T17:38:38.000Z</updated>
+        <summary type="html"><![CDATA[最近 Outlook on the Web をあまり開く機会がなかったのですが、開いてみたら画面上部のメニューにちょっと違和感が、、、 Teams 関連の項目が追加されているようです。 Teams で通話ボタンを押すと Teams が起動します。 自分の名前で会議が開いたので、今すぐ会議と同等の動きになるようですね。 これは外部の人からのメールを見て、緊急的に連絡を取りたい。といったオペレーションで利用しそうな感じですね。十分ありなシチュエーションです。 もう一つ横にある会話マークのボタンは押下するとチャットという画面が開きました。 この表示は Teams のチャットの並びとも違っているのです…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Outlook と Windows メールの Outlook は同一のものに収束されていくようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/02/013059</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/04/045330"/>
         <updated>2023-11-03T19:53:30.000Z</updated>
         <summary type="html"><![CDATA[Bing Chat のリリース以降、 Bing 検索エンジンの利用者が大きく跳ね上がったという話は皆さんも聞いたことがあるかと思います。 その Bing も利用者が増えたことに起因してか、どんどん機能拡張で姿かたちが変わっていっているようです。 以下は単純に「マイクロソフト」を Bing 検索した結果なのですが、途中に「他の人はこちらも質問」というセクションが織り込まれるようになっていました。 このセクション、質問という言葉からもわかるように、 Bing Chat へ情報を流してやり取りを簡単にしてくれる機能となっているようなのです。 上部の太字をポイントすると、 Bing AI に尋ねるとい…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams のポリシーで外部の会議チャットを利用できないよう設定できるようになったようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/03/012143</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/03/012143"/>
-        <updated>2023-11-02T16:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 のアクセスコントロールは基本的に自身のテナントを起点とした管理を行うつくりとなっています。 これは、ユーザーが属しているテナント内での出来事を管理するのもであり、他社のテナントでの活動には大きな制限を持たないというポリシーが前提の仕組みであると勝手ながら理解していたのですが、最近はその考え方を改め始めているようです。 というわけでその一部として Teams の外部の会議チャットの利用可否を自身のテナントで設定できるようになっていたようです。 この機能 2023 年 7 月にリリースしていたのですが、気が付いていませんでした。 会議ポリシーの中にある設定にこの項目があ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
