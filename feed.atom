@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-03T00:40:30.105Z</id>
+    <id>urn:2023-12-04T00:38:48.790Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-03T00:40:30.105Z</updated>
+    <updated>2023-12-04T00:38:48.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23595 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/04/012928</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/04/012928"/>
+        <updated>2023-12-03T16:29:28.000Z</updated>
+        <summary type="html"><![CDATA[先週少しお休み気味だった Windows 11 Insider Program ですが、今週は Dev Channel と Beta Channel 、 Canary Channel が更新されています。 Canary Channel : Build 26002 Dev Channel : Build 23595 Beta Channel : Build 22635.2776 今週の更新では Beta Channel で Windows 共有と Windows インクに関するアナウンスが行われています。 共有は Entra ID でサインインしていると Teams と共有できるようになるとのこ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Outlook on the Web に Teams のチャットが連携されるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/03/023838</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/05/014251"/>
         <updated>2023-11-04T16:42:51.000Z</updated>
         <summary type="html"><![CDATA[Microsoft は Teams を OS 、 Web に次ぐプラットフォームとしての確立を目指していますが、その一環としてでしょうか、 Teams のワークフロー部分を大幅に更新したようです。 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/discover-the-latest-updates-to-workflows-within-microsoft-teams/ba-p/3963976?WT.mc_id=M365-MVP-5002496 Power Automate 関連をすべて Workflow に統合し、テン…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Bing と Copilot in Edge が連動動作するようになっていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/04/045330</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/04/045330"/>
-        <updated>2023-11-03T19:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Bing Chat のリリース以降、 Bing 検索エンジンの利用者が大きく跳ね上がったという話は皆さんも聞いたことがあるかと思います。 その Bing も利用者が増えたことに起因してか、どんどん機能拡張で姿かたちが変わっていっているようです。 以下は単純に「マイクロソフト」を Bing 検索した結果なのですが、途中に「他の人はこちらも質問」というセクションが織り込まれるようになっていました。 このセクション、質問という言葉からもわかるように、 Bing Chat へ情報を流してやり取りを簡単にしてくれる機能となっているようなのです。 上部の太字をポイントすると、 Bing AI に尋ねるとい…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
