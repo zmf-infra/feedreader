@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-04T00:38:48.790Z</id>
+    <id>urn:2023-12-05T00:38:44.243Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-04T00:38:48.790Z</updated>
+    <updated>2023-12-05T00:38:44.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！]]></title>
+        <id>https://art-break.net/tech/?p=20044</id>
+        <link href="https://art-break.net/tech/?p=20044"/>
+        <updated>2023-12-05T00:31:02.000Z</updated>
+        <summary type="html"><![CDATA[当ブログの読者さんの中には Microsoft 365 と同じくらい Power Platform も好き、もしくは業務で使っている・使おうとしている方も多いと思います。 Power BI / Power Apps /  … "Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Windows skilling snacks を使いこなしてみませんか]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/05/023242</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/05/023242"/>
+        <updated>2023-12-04T17:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 管理センターに見慣れないサイトへの案内が投稿されていました。 skilling snacks という IT Pro 向けのブログの紹介ですね。 こういった紹介はあまり見ないコンテンツなのですが、中を見たところちょっと面白かったので紹介しておきたいと思います。 この skilling snacks は 2 時間以内で消化できる学習コンテンツとなっているようで、隔週で情報を提供しているようでした。 この 2023 年 11 月には、配信の最適化、アプリケーション制御など Windows OS の機能周りの話が出ています。 https://techcommunity.mi…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった]]></title>
+        <id>https://art-break.net/tech/?p=20009</id>
+        <link href="https://art-break.net/tech/?p=20009"/>
+        <updated>2023-12-04T08:45:37.000Z</updated>
+        <summary type="html"><![CDATA[これまで Microsoft Loop の Loop コンポーネントは Microsoft Teams 上ではチャットのメッセージからしか利用できませんでした。でもやはりチームのチャネルでも利用したいですよね。 2023 … "Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました]]></title>
+        <id>https://art-break.net/tech/?p=19998</id>
+        <link href="https://art-break.net/tech/?p=19998"/>
+        <updated>2023-12-04T01:44:53.000Z</updated>
+        <summary type="html"><![CDATA[今年2023/07/18 に Bing Chat Enterprise がプレビュー開始されました。この時はテナント管理者が有効化に設定しないと利用できない状態でのスタート。そして 2023/08/28 には既定で有効化 … "Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23595 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/04/012928</id>
@@ -336,16 +376,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Clipchamp ：ストック動画・画像・音楽などが使えるようになった]]></title>
-        <id>https://art-break.net/tech/?p=19801</id>
-        <link href="https://art-break.net/tech/?p=19801"/>
-        <updated>2023-11-07T22:26:03.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 僕の対象指定リリース環境では2023年9月末に Clipchamp が登場しました。 Microsoft Clipch … "Microsoft Clipchamp ：ストック動画・画像・音楽などが使えるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Syntex 分類と抽出を利用してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/08/023653</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/08/023653"/>
@@ -366,31 +396,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Lists ：列の種類に「平均評価」が追加された]]></title>
-        <id>https://art-break.net/tech/?p=19762</id>
-        <link href="https://art-break.net/tech/?p=19762"/>
-        <updated>2023-11-06T07:08:59.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Lists のラクなところの一つに、追加したい列を種類から選択できるところもポイントかと思います。 Excel だと列の定義を後から色々しますが、 Microsoft Lists の場合は先に絞られた … "Microsoft Lists ：列の種類に「平均評価」が追加された" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23580 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/06/002027</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/06/002027"/>
         <updated>2023-11-05T15:20:27.000Z</updated>
         <summary type="html"><![CDATA[今週も Windows Insider Program は元気に活動しています。 以下 3 Channel が更新となりました。 Canary Channel : Build 25987 Dev Channel : Build 23580 Beta Channel : Build 22635.2700 Dev Channel では Copilot in Windows をローカルユーザーでも利用できるように改良が加わったとのこと。 ただし、利用回数には制限があるようなので MSA で Windows にサインインするのがお薦めです。 そのほか、近距離共有の速度が上がる変更が加わったようです。 …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams Workflow がアップデートしています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/05/014251</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/05/014251"/>
-        <updated>2023-11-04T16:42:51.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft は Teams を OS 、 Web に次ぐプラットフォームとしての確立を目指していますが、その一環としてでしょうか、 Teams のワークフロー部分を大幅に更新したようです。 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/discover-the-latest-updates-to-workflows-within-microsoft-teams/ba-p/3963976?WT.mc_id=M365-MVP-5002496 Power Automate 関連をすべて Workflow に統合し、テン…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

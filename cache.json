@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/12/05/023242",
+          "author": null,
+          "description": "Microsoft 365 管理センターに見慣れないサイトへの案内が投稿されていました。 skilling snacks という IT Pro 向けのブログの紹介ですね。 こういった紹介はあまり見ないコンテンツなのですが、中を見たところちょっと面白かったので紹介しておきたいと思います。 この skilling snacks は 2 時間以内で消化できる学習コンテンツとなっているようで、隔週で情報を提供しているようでした。 この 2023 年 11 月には、配信の最適化、アプリケーション制御など Windows OS の機能周りの話が出ています。 https://techcommunity.mi…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/12/05/023242",
+          "publishedOn": "2023-12-04T17:32:42.000Z",
+          "wordCount": 671,
+          "title": "Windows 11 Windows skilling snacks を使いこなしてみませんか",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231205/20231205013227.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/12/04/012928",
           "author": null,
           "description": "先週少しお休み気味だった Windows 11 Insider Program ですが、今週は Dev Channel と Beta Channel 、 Canary Channel が更新されています。 Canary Channel : Build 26002 Dev Channel : Build 23595 Beta Channel : Build 22635.2776 今週の更新では Beta Channel で Windows 共有と Windows インクに関するアナウンスが行われています。 共有は Entra ID でサインインしていると Teams と共有できるようになるとのこ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/04/012928",
           "publishedOn": "2023-12-03T16:29:28.000Z",
-          "wordCount": 746,
+          "wordCount": 753,
           "title": "Windows 11 Insider Preview Build 23595 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231204/20231204002746.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 734,
           "title": "Windows 11 Insider Preview Build 23580 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231105/20231105165144.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/11/05/014251",
-          "author": null,
-          "description": "Microsoft は Teams を OS 、 Web に次ぐプラットフォームとしての確立を目指していますが、その一環としてでしょうか、 Teams のワークフロー部分を大幅に更新したようです。 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/discover-the-latest-updates-to-workflows-within-microsoft-teams/ba-p/3963976?WT.mc_id=M365-MVP-5002496 Power Automate 関連をすべて Workflow に統合し、テン…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/11/05/014251",
-          "publishedOn": "2023-11-04T16:42:51.000Z",
-          "wordCount": 685,
-          "title": "Microsoft 365 Teams Workflow がアップデートしています",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231028/20231028210012.png"
         }
       ]
     },
@@ -313,12 +313,57 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=20044",
+          "author": "TAICHI",
+          "description": "当ブログの読者さんの中には Microsoft 365 と同じくらい Power Platform も好き、もしくは業務で使っている・使おうとしている方も多いと思います。 Power BI / Power Apps /  … \"Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=20044",
+          "publishedOn": "2023-12-05T00:31:02.000Z",
+          "wordCount": 1897,
+          "title": "Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/12/JPPC2023.png",
+            "length": "37812",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/12/JPPC2023.png"
+        },
+        {
+          "id": "https://art-break.net/tech/?p=20009",
+          "author": "TAICHI",
+          "description": "これまで Microsoft Loop の Loop コンポーネントは Microsoft Teams 上ではチャットのメッセージからしか利用できませんでした。でもやはりチームのチャネルでも利用したいですよね。 2023 … \"Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=20009",
+          "publishedOn": "2023-12-04T08:45:37.000Z",
+          "wordCount": 2054,
+          "title": "Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231204_2.jpg",
+            "length": "25176",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/12/231204_2.jpg"
+        },
+        {
+          "id": "https://art-break.net/tech/?p=19998",
+          "author": "TAICHI",
+          "description": "今年2023/07/18 に Bing Chat Enterprise がプレビュー開始されました。この時はテナント管理者が有効化に設定しないと利用できない状態でのスタート。そして 2023/08/28 には既定で有効化 … \"Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=19998",
+          "publishedOn": "2023-12-04T01:44:53.000Z",
+          "wordCount": 1968,
+          "title": "Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231204.jpg",
+            "length": "14545",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/12/231204.jpg"
+        },
+        {
           "id": "https://art-break.net/tech/?p=19973",
           "author": "TAICHI",
           "description": "12月になりましたね。年末まで更に忙しくなり、どんどんブログ記事のネタが貯まってしまっています。なるべく鮮度良く発信していきたいけど仕方ないですね。そんな今回のネタも展開されたのは11月上旬あたりです。 Microsof … \"Microsoft Teams ：「会議」アプリ登場したけど便利そう？\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19973",
           "publishedOn": "2023-12-01T09:40:47.000Z",
-          "wordCount": 1931,
+          "wordCount": 1945,
           "title": "Microsoft Teams ：「会議」アプリ登場したけど便利そう？",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231201.jpg",
@@ -333,7 +378,7 @@
           "description": "いやぁ、最近色々と忙しくて更新が滞りがちです。前回の投稿から1週間以上空けてしまいました。投稿ネタはたくさんあるんですけどね。忙しい事は良い事だけど、ブログを書く余裕は常に持っていたいです。 今回は僕の観測した限りだと  … \"Microsoft 365 ：タグでコンテンツを整理できるようになった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19935",
           "publishedOn": "2023-11-28T05:59:01.000Z",
-          "wordCount": 1988,
+          "wordCount": 1995,
           "title": "Microsoft 365 ：タグでコンテンツを整理できるようになった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231128.jpg",
@@ -348,7 +393,7 @@
           "description": "2023/11/15 付けで公開されている以下の Microsoft からの記事で、 Microsoft Loop が一般提供開始されるアナウンスがありました。 Microsoft Loop: built for the … \"Microsoft Loop ：一般提供開始されました！\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19919",
           "publishedOn": "2023-11-20T04:22:21.000Z",
-          "wordCount": 2231,
+          "wordCount": 2238,
           "title": "Microsoft Loop ：一般提供開始されました！",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231120.jpg",
@@ -363,7 +408,7 @@
           "description": "Microsoft 365 の機能・アプリ・サービスなどの追加がある際に、ライセンス次第で使える・使えないが良く出てくるようになったけど、はたして自分は会社から何のライセンスを付与されているのか？がわからない人も多いと思 … \"Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19911",
           "publishedOn": "2023-11-20T01:05:48.000Z",
-          "wordCount": 1848,
+          "wordCount": 1855,
           "title": "Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231120_01.jpg",
@@ -378,7 +423,7 @@
           "description": "Microsoft 界隈では昨日から Microsoft Ignite 2023 という大きなイベントが開催されているので、それに合わせて非常に膨大な情報の洪水が押し寄せてきていますが、みなさんはいかがですか？洪水を丸呑 … \"Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19855",
           "publishedOn": "2023-11-17T04:39:26.000Z",
-          "wordCount": 2043,
+          "wordCount": 2050,
           "title": "Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231117.jpg",
@@ -393,7 +438,7 @@
           "description": "※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 先日、 Clipchamp にストック動画・画像・音楽などストック素材が使えるようになった記事を書きました。 Micr … \"Microsoft Clipchamp ：「プレミアム」のストック素材は使っても良いのか？\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19846",
           "publishedOn": "2023-11-10T02:02:27.000Z",
-          "wordCount": 1865,
+          "wordCount": 1872,
           "title": "Microsoft Clipchamp ：「プレミアム」のストック素材は使っても良いのか？",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231110.jpg",
@@ -408,7 +453,7 @@
           "description": "Microsoft Forms にプレゼンテーション機能が登場したのが、今年2023年5月でした。 Microsoft Forms ：「プレゼンテーション」って機能が出た！アンケート結果をその場で発表しやすくなる！ その … \"Microsoft Forms ：「プレゼンテーション」が進化していた\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19820",
           "publishedOn": "2023-11-09T04:46:26.000Z",
-          "wordCount": 1892,
+          "wordCount": 1899,
           "title": "Microsoft Forms ：「プレゼンテーション」が進化していた",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231109.jpg",
@@ -416,36 +461,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231109.jpg"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19801",
-          "author": "TAICHI",
-          "description": "※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 僕の対象指定リリース環境では2023年9月末に Clipchamp が登場しました。 Microsoft Clipch … \"Microsoft Clipchamp ：ストック動画・画像・音楽などが使えるようになった\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19801",
-          "publishedOn": "2023-11-07T22:26:03.000Z",
-          "wordCount": 1906,
-          "title": "Microsoft Clipchamp ：ストック動画・画像・音楽などが使えるようになった",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231107.jpg",
-            "length": "19389",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231107.jpg"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19762",
-          "author": "TAICHI",
-          "description": "Microsoft Lists のラクなところの一つに、追加したい列を種類から選択できるところもポイントかと思います。 Excel だと列の定義を後から色々しますが、 Microsoft Lists の場合は先に絞られた … \"Microsoft Lists ：列の種類に「平均評価」が追加された\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19762",
-          "publishedOn": "2023-11-06T07:08:59.000Z",
-          "wordCount": 1950,
-          "title": "Microsoft Lists ：列の種類に「平均評価」が追加された",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231106.jpg",
-            "length": "15888",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231106.jpg"
         }
       ]
     }
