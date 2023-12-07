@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T00:38:37.486Z</id>
+    <id>urn:2023-12-07T00:38:03.746Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T00:38:37.486Z</updated>
+    <updated>2023-12-07T00:38:03.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 2024 年 4 月の価格改定が発表されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/07/023407</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/07/023407"/>
+        <updated>2023-12-06T17:34:07.000Z</updated>
+        <summary type="html"><![CDATA[ここ数年、この時期になるとびくびくとする感じなのですが、今年も Microsoft 製品に関する価格改定が発表されました。 https://news.microsoft.com/2023/12/05/consistent-global-pricing-for-the-microsoft-cloud-2/?WT.mc_id=M365-MVP-5002496 今回は日本のみ大きくはねるかたちとなっており、なんと 20% もの改定が入っています。 これは製品自体の価格が上がったというわけではなくドルに合わせた為替差額の吸収という側面となっています。これは 2023 年 4 月の改定でも言われていて、…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Adoption ページで情報を整理しましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/06/024331</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/08/023653"/>
         <updated>2023-11-07T17:36:53.000Z</updated>
         <summary type="html"><![CDATA[皆さんは Microsoft Syntex をご存じでしょうか。 Microsoft Syntex は SharePoint の一部となる機能で、有料オプションとして提供されています。 Syntex のライセンスはもともとユーザーライセンスだったのですが、最近 Azure の従量課金に変わったので、利用の間口はかなり広くなったのではないかと思われます。 というわけで、 SharePoint のドキュメントライブラリからこの Syntex を利用する準備を行ってみたいと思います。 まず、ドキュメントライブラリに入り、三点リーダーより「分類と抽出」をクリックします。 するとモデルの適用というダイア…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 23H2 がリリースされていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/07/023458</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/07/023458"/>
-        <updated>2023-11-06T17:34:58.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 9 月 26 日に実施された Windows 11 22H2 に対する大型アップデートのあと、 Windows 11 23H2 はいつごろ出るんだろーなーと考えていたのですが、なんと 10 月 31 日にリリースと相成っていたようです。 リリースについては以下の Lean 、リリースインフォメーションを見ておくとつかむことができます。一般提供チャネルでのリリースなので、今 PC を購入すればすぐに Copilot in Windows が利用できる環境となったというわけですね。 https://learn.microsoft.com/ja-jp/windows/release-h…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
