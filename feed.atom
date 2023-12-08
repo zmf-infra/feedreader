@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-07T00:38:03.746Z</id>
+    <id>urn:2023-12-08T00:38:35.756Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T00:38:03.746Z</updated>
+    <updated>2023-12-08T00:38:35.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 ESU が発表されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/08/032349</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/08/032349"/>
+        <updated>2023-12-07T18:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Windows XP や Windows 7 に続き、 Windows 10 にも ESU Extended Security Update がやってくることになったようです。 2025 年の EOS に向けて準備が始まっている点が中心で、詳細の記述はなくこれから時間をかけて伝えていかれるのかと思われます。 なお、LTSC などには ESU の話が出ておらず、こちらは 10 年サポートから延長はなさそうな雰囲気です。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-w…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 2024 年 4 月の価格改定が発表されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/07/023407</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/09/025719"/>
         <updated>2023-11-08T17:57:19.000Z</updated>
         <summary type="html"><![CDATA[Teams 2.0 がリリースされて早 1 か月。 チーム間の移動がスムーズになった状況を多くの方が味わえているのではないでしょうか。 しかし VDI を利用している場合、インストーラーの関係や VDI 向けの特殊モジュールのリリースが後手になっていることから、まだ Teams 2.0 の利用ができていないケースも多くあるように感じます。 そんな VDI 向けの状況でしたが、ようやく実際に利用できるモジュールが提供されて始めていました。 Learn で手順とモジュールが公開されているため、早速適用を目指してみたいと思います。一般的には以下の方法を用いれば VDI 環境にインストールできます。（…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Syntex 分類と抽出を利用してみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/08/023653</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/08/023653"/>
-        <updated>2023-11-07T17:36:53.000Z</updated>
-        <summary type="html"><![CDATA[皆さんは Microsoft Syntex をご存じでしょうか。 Microsoft Syntex は SharePoint の一部となる機能で、有料オプションとして提供されています。 Syntex のライセンスはもともとユーザーライセンスだったのですが、最近 Azure の従量課金に変わったので、利用の間口はかなり広くなったのではないかと思われます。 というわけで、 SharePoint のドキュメントライブラリからこの Syntex を利用する準備を行ってみたいと思います。 まず、ドキュメントライブラリに入り、三点リーダーより「分類と抽出」をクリックします。 するとモデルの適用というダイア…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
