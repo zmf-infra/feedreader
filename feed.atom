@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-08T00:38:35.756Z</id>
+    <id>urn:2023-12-09T00:37:17.391Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-08T00:38:35.756Z</updated>
+    <updated>2023-12-09T00:37:17.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge Copilot がテキストボックスにやってきました！]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/09/021732</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/09/021732"/>
+        <updated>2023-12-08T17:17:32.000Z</updated>
+        <summary type="html"><![CDATA[このブログを書いていて気が付いたのですが、 Edge に Copilot で文章を書き換えてくれる機能が追加されたようです。 Windows とはこのような動きをするものなのである。 今回は上記の文章で試してみたのですが、入力した文章を以下のように選択すると Copilot のメニューが表示されました。 これをクリックするか、 Alt + i でも起動することができます。 起動するとこんなダイアログが下部に表示されます。 その後、文章を書き換えたプレビュー画面が表示されました。 この画面でいくつか文章を検討し、元の文章を置換していくという使い方となっています。 文章のテイストを変更するには調整…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10 ESU が発表されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/08/032349</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/10/023145"/>
         <updated>2023-11-09T17:31:45.000Z</updated>
         <summary type="html"><![CDATA[Azure Open AI がリリースされてから Open AI Studio で日々どのようなときに Chat GPT が有効となるか検証している人は多いのではないでしょうか。 私も時間ができたときやアイデアが出てきたときに起動してかくにんしていたのですが、これを簡易化できないか考えていたところ、 Microsoft 365 Apps の Excel を利用して Office Script で実行させる方法が良いのではないかと思い至りました。 今回は実際に対応した方法を見ていきたいと思います。 まず、接続先を確認するため Open AI Studio に入ります。 この中からチャット プレイ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams 2.0 の VDI インストーラーができていたのでインストールしてみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/09/025719</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/09/025719"/>
-        <updated>2023-11-08T17:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Teams 2.0 がリリースされて早 1 か月。 チーム間の移動がスムーズになった状況を多くの方が味わえているのではないでしょうか。 しかし VDI を利用している場合、インストーラーの関係や VDI 向けの特殊モジュールのリリースが後手になっていることから、まだ Teams 2.0 の利用ができていないケースも多くあるように感じます。 そんな VDI 向けの状況でしたが、ようやく実際に利用できるモジュールが提供されて始めていました。 Learn で手順とモジュールが公開されているため、早速適用を目指してみたいと思います。一般的には以下の方法を用いれば VDI 環境にインストールできます。（…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

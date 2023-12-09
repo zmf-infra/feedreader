@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-08 datetime="2023-12-08T17:17:32.000Z">2023-12-08</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-08 datetime="2023-12-08T17:17:32.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >（）のブログ</button>
+                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2023/12/09/021732"
+                        open
+                      >
+                        <summary class="article-expander__title">Microsoft Edge Copilot がテキストボックスにやってきました！</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2023/12/09/021732">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231209/20231209005016.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>このブログを書いていて気が付いたのですが、 Edge に Copilot で文章を書き換えてくれる機能が追加されたようです。 Windows とはこのような動きをするものなのである。 今回は上記の文章で試してみたのですが、入力した文章を以下のように選択すると Copilot のメニューが表示されました。 これをクリックするか、 Alt + i でも起動することができます。 起動するとこんなダイアログが下部に表示されます。 その後、文章を書き換えたプレビュー画面が表示されました。 この画面でいくつか文章を検討し、元の文章を置換していくという使い方となっています。 文章のテイストを変更するには調整…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-12-07 datetime="2023-12-07T18:23:49.000Z">2023-12-07</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-12-07 datetime="2023-12-07T18:23:49.000Z"></time>
           </button>
@@ -1691,58 +1739,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-11-08 datetime="2023-11-08T17:57:19.000Z">2023-11-08</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-11-08 datetime="2023-11-08T17:57:19.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >（）のブログ</button>
-                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2023/11/09/025719"
-                        open
-                      >
-                        <summary class="article-expander__title">Microsoft 365 Teams 2.0 の VDI インストーラーができていたのでインストールしてみましょう</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2023/11/09/025719">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231109/20231109022651.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Teams 2.0 がリリースされて早 1 か月。 チーム間の移動がスムーズになった状況を多くの方が味わえているのではないでしょうか。 しかし VDI を利用している場合、インストーラーの関係や VDI 向けの特殊モジュールのリリースが後手になっていることから、まだ Teams 2.0 の利用ができていないケースも多くあるように感じます。 そんな VDI 向けの状況でしたが、ようやく実際に利用できるモジュールが提供されて始めていました。 Learn で手順とモジュールが公開されているため、早速適用を目指してみたいと思います。一般的には以下の方法を用いれば VDI 環境にインストールできます。（…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/7135785355">
-        <time id="build-timestamp" datetime="2023-12-08T00:38:35.730Z">2023-12-08T00:38:35.730Z</time>
+      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/7147794897">
+        <time id="build-timestamp" datetime="2023-12-09T00:37:17.373Z">2023-12-09T00:37:17.373Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
