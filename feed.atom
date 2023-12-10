@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-09T00:37:17.391Z</id>
+    <id>urn:2023-12-10T00:41:15.156Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T00:37:17.391Z</updated>
+    <updated>2023-12-10T00:41:15.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 SharePoint アドインのサポート終了がアナウンスされています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/10/025456</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/10/025456"/>
+        <updated>2023-12-09T17:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Exchange Web Services が EOS となった時からいつかはやってくると思っていましたが、とうとう SharePoint アドインのサポート終了がアナウンスされました。 https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/retirement-announcement-for-add-ins?WT.mc_id=M365-MVP-5002496 この Learn によると、 2024 年 11 月に新規テナントで利用できなくなり、既存テナントでも 2026 年 4 月には活用できなくなるとのこと。SharePo…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge Copilot がテキストボックスにやってきました！]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/09/021732</id>
@@ -381,26 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/11/022900"/>
         <updated>2023-11-10T17:29:00.000Z</updated>
         <summary type="html"><![CDATA[Outlook といえば、アプリや on the Web を利用するケースがほとんどだと思いますが、実はブラウザーから閲覧するための拡張機能が提供されていたことをご存じの方はどれくらいいるでしょうか。 on the Web のようにきちんと開いてメールを確認するのではなく、ちょっと見たいときに活用するため、 Chrome 拡張機能ストアにて配信されている機能が存在するのです。 そんな拡張機能版の Outlook ですが、その役割を Edge のサイドバーに託して、 2023 年 11 月 30 日以降順次サービス終了とすることが決まったようです。 拡張機能は以下の URL からインストールでき…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Clipchamp ：「プレミアム」のストック素材は使っても良いのか？]]></title>
-        <id>https://art-break.net/tech/?p=19846</id>
-        <link href="https://art-break.net/tech/?p=19846"/>
-        <updated>2023-11-10T02:02:27.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 先日、 Clipchamp にストック動画・画像・音楽などストック素材が使えるようになった記事を書きました。 Micr … "Microsoft Clipchamp ：「プレミアム」のストック素材は使っても良いのか？" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Apps Excel Office Script を利用して Azure Open AI を呼び出してみました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/10/023145</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/10/023145"/>
-        <updated>2023-11-09T17:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Azure Open AI がリリースされてから Open AI Studio で日々どのようなときに Chat GPT が有効となるか検証している人は多いのではないでしょうか。 私も時間ができたときやアイデアが出てきたときに起動してかくにんしていたのですが、これを簡易化できないか考えていたところ、 Microsoft 365 Apps の Excel を利用して Office Script で実行させる方法が良いのではないかと思い至りました。 今回は実際に対応した方法を見ていきたいと思います。 まず、接続先を確認するため Open AI Studio に入ります。 この中からチャット プレイ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
