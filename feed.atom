@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-10T00:41:15.156Z</id>
+    <id>urn:2023-12-11T00:39:17.056Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-10T00:41:15.156Z</updated>
+    <updated>2023-12-11T00:39:17.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23601 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/11/004609</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/11/004609"/>
+        <updated>2023-12-10T15:46:09.000Z</updated>
+        <summary type="html"><![CDATA[今年も最終月に入り、 Windows 開発も年納の時期に入ってきました。 12 月は B リリース以外の Windows Update は行われないようですが、 Insider Program はまだまだ続きます。 というわけで今週は以下のチャネルが更新対象となっています。 Canary Channel : Build 26010 Dev Channel : Build 23601 Beta Channel : Build 22635.2841 - 22635.2850 Beta Channel は 2 回更新が入っていますね。 今回の更新では、 Dev と Beta で共有の機能に What…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 SharePoint アドインのサポート終了がアナウンスされています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/10/025456</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/12/032701"/>
         <updated>2023-11-11T18:27:01.000Z</updated>
         <summary type="html"><![CDATA[2023 年 11 月 16 日より開催される Ignite ですが、シアトルでの開催 + オンライン開催となっています。このイベントではどちらも基本は英語での提供となっており、日本人にはちょっと敷居が高いというところもありました。（オンラインでは動画に翻訳が入るため、実際はそこまで構えずとも楽しむことができるようになっています。） そんな状況を少しでも改善するためか、大阪で Ignite Japan が開催されることが決定したようです。 その案内メールが以下となっており、記載のように大阪での開催は 4 年ぶりとなります。（前回の開催時は Ignite Tour Osaka という名前でしたね…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Outlook のブラウザー拡張機能がサービス終了となるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/11/022900</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/11/022900"/>
-        <updated>2023-11-10T17:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Outlook といえば、アプリや on the Web を利用するケースがほとんどだと思いますが、実はブラウザーから閲覧するための拡張機能が提供されていたことをご存じの方はどれくらいいるでしょうか。 on the Web のようにきちんと開いてメールを確認するのではなく、ちょっと見たいときに活用するため、 Chrome 拡張機能ストアにて配信されている機能が存在するのです。 そんな拡張機能版の Outlook ですが、その役割を Edge のサイドバーに託して、 2023 年 11 月 30 日以降順次サービス終了とすることが決まったようです。 拡張機能は以下の URL からインストールでき…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
