@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-11T00:39:17.056Z</id>
+    <id>urn:2023-12-12T00:38:42.777Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T00:39:17.056Z</updated>
+    <updated>2023-12-12T00:38:42.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Server vNext が始動するようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/12/023446</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/12/023446"/>
+        <updated>2023-12-11T17:34:46.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 の Insider Program が久々の大規模更新を行った陰で、もう一つ大きな Insider Program の動きが入っていました。 それは Windows Server Insider が動き出すという点です。 Windows Server 2016 がリリースしたころは Server も Insider Program が用意されていたのですが、いつの間にか消失していたんですよね。 https://techcommunity.microsoft.com/t5/windows-server-insiders/announcing-windows-server-p…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Clipchamp ：プレミアムプランの登場でまたまた「プレミアム」のストック素材の扱いが怪しい事に…]]></title>
+        <id>https://art-break.net/tech/?p=20071</id>
+        <link href="https://art-break.net/tech/?p=20071"/>
+        <updated>2023-12-11T01:17:22.000Z</updated>
+        <summary type="html"><![CDATA[動画編集アプリの Clipchamp が商用ライセンスの Microsoft 365 に登場して約2カ月。そこから1カ月後にライセンスフリーのストック素材（動画・画像・音楽）が使えるようになりました。 Microsoft … "Microsoft Clipchamp ：プレミアムプランの登場でまたまた「プレミアム」のストック素材の扱いが怪しい事に…" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23601 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/11/004609</id>
@@ -381,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/13/012957"/>
         <updated>2023-11-12T16:29:57.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Ignite 2023 前の最後の週となりますが、今週も Windows 11 Insider Program は元気に活動中です。 今週は以下 2 つの Channel で更新が行われました。 Dev Channel : Build 23585 Canary Channel : Build 25992 Canary Channel では今週も引き続き SMB 関連の更新が行われています。 ファイル共有をオンにするとファイアウォール設定が自動で変更されるのですが、その変更内容から NetBIOS ポートが削除されたようです。ポート番号でいうと 137 - 139 の受信側が…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Ignite Japan の開催が決定したようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/12/032701</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/12/032701"/>
-        <updated>2023-11-11T18:27:01.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 11 月 16 日より開催される Ignite ですが、シアトルでの開催 + オンライン開催となっています。このイベントではどちらも基本は英語での提供となっており、日本人にはちょっと敷居が高いというところもありました。（オンラインでは動画に翻訳が入るため、実際はそこまで構えずとも楽しむことができるようになっています。） そんな状況を少しでも改善するためか、大阪で Ignite Japan が開催されることが決定したようです。 その案内メールが以下となっており、記載のように大阪での開催は 4 年ぶりとなります。（前回の開催時は Ignite Tour Osaka という名前でしたね…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
