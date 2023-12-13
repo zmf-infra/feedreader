@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/12/13/025528",
+          "author": null,
+          "description": "Microsoft 365 管理センターを眺めていたら、 OneNote のフィード機能の終了について話題が上がっていました。 OneNote のフィードは以下のようにサイドバーの位置に表示されるメモの羅列を指します。 これは開いているセクションなどに依存せずいつでも見ることのできるメモとなっており、個人的には結構好きな UI だったのでなくなるのは若干寂しい機能です。 なくなるのは OneNote の Windows バージョンからのみのようで、 Web 版は影響がないとこのこと。そのため、データはそのまま活用生きるようで、今後は付箋アプリに統合されていくみたいです。時期は 2024 年の …",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/12/13/025528",
+          "publishedOn": "2023-12-12T17:55:28.000Z",
+          "wordCount": 644,
+          "title": "Microsoft 365 OneNote のフィード機能が付箋に置き換わるようです",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231213/20231213023743.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/12/12/023446",
           "author": null,
           "description": "Windows 11 の Insider Program が久々の大規模更新を行った陰で、もう一つ大きな Insider Program の動きが入っていました。 それは Windows Server Insider が動き出すという点です。 Windows Server 2016 がリリースしたころは Server も Insider Program が用意されていたのですが、いつの間にか消失していたんですよね。 https://techcommunity.microsoft.com/t5/windows-server-insiders/announcing-windows-server-p…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/12/023446",
           "publishedOn": "2023-12-11T17:34:46.000Z",
-          "wordCount": 696,
+          "wordCount": 701,
           "title": "Windows Server vNext が始動するようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231212/20231212015210.png"
         },
@@ -231,7 +241,7 @@
           "description": "今週は Ignite 2023 があり、シアトルは大盛況だったようです。 ただ、発表の中心は AI 関連で、 Windows に関することは多くは出てこなかったのが残念な点でした。 Windows 365 での GPU サポート開始と、オートスケールなどがインパクトの大きい発表だったかなと。 そんな Windows 界隈ですが、 Insider Program は Ignite の週も止まりませんでした。 なんだか最近はどんな時も順調にリリースを繰り返しておりうれしい限りです。 今週の更新は以下 6 種となっています。 Canary Channel : Build 25997 Dev Chan…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/11/20/013952",
           "publishedOn": "2023-11-19T16:39:52.000Z",
-          "wordCount": 810,
+          "wordCount": 803,
           "title": "Windows 11 Insider Preview Build 23590 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231120/20231120002245.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 653,
           "title": "Micosoft 365 Apple 端末からの SSO が行えなくなる事象が発生しているようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231113/20231113235413.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/11/13/012957",
-          "author": null,
-          "description": "Microsoft Ignite 2023 前の最後の週となりますが、今週も Windows 11 Insider Program は元気に活動中です。 今週は以下 2 つの Channel で更新が行われました。 Dev Channel : Build 23585 Canary Channel : Build 25992 Canary Channel では今週も引き続き SMB 関連の更新が行われています。 ファイル共有をオンにするとファイアウォール設定が自動で変更されるのですが、その変更内容から NetBIOS ポートが削除されたようです。ポート番号でいうと 137 - 139 の受信側が…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/11/13/012957",
-          "publishedOn": "2023-11-12T16:29:57.000Z",
-          "wordCount": 727,
-          "title": "Windows 11 Insider Preview Build 23585 リリース",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231113/20231113000059.png"
         }
       ]
     },
@@ -313,12 +313,27 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=20079",
+          "author": "TAICHI",
+          "description": "僕はあまり Microsoft Teams 上で検索機能を利用する事はありませんが、検索機能を多用する方も多いと思います。 Microsoft Teams では上部に検索バーがあるので全体を検索できますが、「このチャット … \"Microsoft Teams ：チャットやチャネル内での検索（コンテキスト検索）が変わった\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=20079",
+          "publishedOn": "2023-12-12T00:50:18.000Z",
+          "wordCount": 1902,
+          "title": "Microsoft Teams ：チャットやチャネル内での検索（コンテキスト検索）が変わった",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231212.png",
+            "length": "13556",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/12/231212.png"
+        },
+        {
           "id": "https://art-break.net/tech/?p=20071",
           "author": "TAICHI",
           "description": "動画編集アプリの Clipchamp が商用ライセンスの Microsoft 365 に登場して約2カ月。そこから1カ月後にライセンスフリーのストック素材（動画・画像・音楽）が使えるようになりました。 Microsoft … \"Microsoft Clipchamp ：プレミアムプランの登場でまたまた「プレミアム」のストック素材の扱いが怪しい事に…\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20071",
           "publishedOn": "2023-12-11T01:17:22.000Z",
-          "wordCount": 1899,
+          "wordCount": 1900,
           "title": "Microsoft Clipchamp ：プレミアムプランの登場でまたまた「プレミアム」のストック素材の扱いが怪しい事に…",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231211.png",
@@ -333,7 +348,7 @@
           "description": "記事タイトルでオチまで書いちゃったので内容読まなくても良くなっちゃっているので、ブログを書く視点ではダメな記事タイトルの例ですね(笑) 2023/11/03 付けで Microsoft 365 管理センターのメッセージセ … \"Microsoft Teams ：アプリバーから「ファイル」が消えてしまった！安心してください「 OneDrive 」に変わりましたよ\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20052",
           "publishedOn": "2023-12-05T02:35:15.000Z",
-          "wordCount": 2062,
+          "wordCount": 2059,
           "title": "Microsoft Teams ：アプリバーから「ファイル」が消えてしまった！安心してください「 OneDrive 」に変わりましたよ",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231205.png",
@@ -348,7 +363,7 @@
           "description": "当ブログの読者さんの中には Microsoft 365 と同じくらい Power Platform も好き、もしくは業務で使っている・使おうとしている方も多いと思います。 Power BI / Power Apps /  … \"Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20044",
           "publishedOn": "2023-12-05T00:31:02.000Z",
-          "wordCount": 1905,
+          "wordCount": 1902,
           "title": "Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/JPPC2023.png",
@@ -363,7 +378,7 @@
           "description": "これまで Microsoft Loop の Loop コンポーネントは Microsoft Teams 上ではチャットのメッセージからしか利用できませんでした。でもやはりチームのチャネルでも利用したいですよね。 2023 … \"Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20009",
           "publishedOn": "2023-12-04T08:45:37.000Z",
-          "wordCount": 2056,
+          "wordCount": 2053,
           "title": "Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231204_2.jpg",
@@ -378,7 +393,7 @@
           "description": "今年2023/07/18 に Bing Chat Enterprise がプレビュー開始されました。この時はテナント管理者が有効化に設定しないと利用できない状態でのスタート。そして 2023/08/28 には既定で有効化 … \"Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19998",
           "publishedOn": "2023-12-04T01:44:53.000Z",
-          "wordCount": 1970,
+          "wordCount": 1967,
           "title": "Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231204.jpg",
@@ -393,7 +408,7 @@
           "description": "12月になりましたね。年末まで更に忙しくなり、どんどんブログ記事のネタが貯まってしまっています。なるべく鮮度良く発信していきたいけど仕方ないですね。そんな今回のネタも展開されたのは11月上旬あたりです。 Microsof … \"Microsoft Teams ：「会議」アプリ登場したけど便利そう？\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19973",
           "publishedOn": "2023-12-01T09:40:47.000Z",
-          "wordCount": 1947,
+          "wordCount": 1944,
           "title": "Microsoft Teams ：「会議」アプリ登場したけど便利そう？",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231201.jpg",
@@ -408,7 +423,7 @@
           "description": "いやぁ、最近色々と忙しくて更新が滞りがちです。前回の投稿から1週間以上空けてしまいました。投稿ネタはたくさんあるんですけどね。忙しい事は良い事だけど、ブログを書く余裕は常に持っていたいです。 今回は僕の観測した限りだと  … \"Microsoft 365 ：タグでコンテンツを整理できるようになった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19935",
           "publishedOn": "2023-11-28T05:59:01.000Z",
-          "wordCount": 1997,
+          "wordCount": 1994,
           "title": "Microsoft 365 ：タグでコンテンツを整理できるようになった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231128.jpg",
@@ -423,7 +438,7 @@
           "description": "2023/11/15 付けで公開されている以下の Microsoft からの記事で、 Microsoft Loop が一般提供開始されるアナウンスがありました。 Microsoft Loop: built for the … \"Microsoft Loop ：一般提供開始されました！\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19919",
           "publishedOn": "2023-11-20T04:22:21.000Z",
-          "wordCount": 2240,
+          "wordCount": 2237,
           "title": "Microsoft Loop ：一般提供開始されました！",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231120.jpg",
@@ -438,7 +453,7 @@
           "description": "Microsoft 365 の機能・アプリ・サービスなどの追加がある際に、ライセンス次第で使える・使えないが良く出てくるようになったけど、はたして自分は会社から何のライセンスを付与されているのか？がわからない人も多いと思 … \"Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19911",
           "publishedOn": "2023-11-20T01:05:48.000Z",
-          "wordCount": 1857,
+          "wordCount": 1854,
           "title": "Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231120_01.jpg",
@@ -446,21 +461,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231120_01.jpg"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19855",
-          "author": "TAICHI",
-          "description": "Microsoft 界隈では昨日から Microsoft Ignite 2023 という大きなイベントが開催されているので、それに合わせて非常に膨大な情報の洪水が押し寄せてきていますが、みなさんはいかがですか？洪水を丸呑 … \"Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19855",
-          "publishedOn": "2023-11-17T04:39:26.000Z",
-          "wordCount": 2052,
-          "title": "Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231117.jpg",
-            "length": "23959",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231117.jpg"
         }
       ]
     }

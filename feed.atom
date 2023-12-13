@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-12T00:38:42.777Z</id>
+    <id>urn:2023-12-13T00:37:58.315Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T00:38:42.777Z</updated>
+    <updated>2023-12-13T00:37:58.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 OneNote のフィード機能が付箋に置き換わるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/13/025528</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/13/025528"/>
+        <updated>2023-12-12T17:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 管理センターを眺めていたら、 OneNote のフィード機能の終了について話題が上がっていました。 OneNote のフィードは以下のようにサイドバーの位置に表示されるメモの羅列を指します。 これは開いているセクションなどに依存せずいつでも見ることのできるメモとなっており、個人的には結構好きな UI だったのでなくなるのは若干寂しい機能です。 なくなるのは OneNote の Windows バージョンからのみのようで、 Web 版は影響がないとこのこと。そのため、データはそのまま活用生きるようで、今後は付箋アプリに統合されていくみたいです。時期は 2024 年の …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：チャットやチャネル内での検索（コンテキスト検索）が変わった]]></title>
+        <id>https://art-break.net/tech/?p=20079</id>
+        <link href="https://art-break.net/tech/?p=20079"/>
+        <updated>2023-12-12T00:50:18.000Z</updated>
+        <summary type="html"><![CDATA[僕はあまり Microsoft Teams 上で検索機能を利用する事はありませんが、検索機能を多用する方も多いと思います。 Microsoft Teams では上部に検索バーがあるので全体を検索できますが、「このチャット … "Microsoft Teams ：チャットやチャネル内での検索（コンテキスト検索）が変わった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Server vNext が始動するようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/12/023446</id>
@@ -346,16 +366,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？]]></title>
-        <id>https://art-break.net/tech/?p=19855</id>
-        <link href="https://art-break.net/tech/?p=19855"/>
-        <updated>2023-11-17T04:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 界隈では昨日から Microsoft Ignite 2023 という大きなイベントが開催されているので、それに合わせて非常に膨大な情報の洪水が押し寄せてきていますが、みなさんはいかがですか？洪水を丸呑 … "Outlook ： FindTime がなくなり、代わりに Scheduling Poll （投票のスケジューリング）を使いましょう。とな？" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsof Ignite Book of News が公開されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/17/024110</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/17/024110"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/14/004914"/>
         <updated>2023-11-13T15:49:14.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 の管理センターを見ていたところ、ポータルトップに気になるインシデントが表示されていたので今回はこれを見ておきたいと思います。 インシデントナンバーは MO688912 ということで、 Microsoft Online 全体にかかる話となっています。 どんな内容かというと、 iOS のバージョンアップによって SSO 周りの機能の一部が動作しなくなったという、シングルサインオンに関連するものでした。 これによると、影響を受けるのは以下の環境となっています。 2023 年 11 月中旬における最新のバージョンですね。 iOS/iPadOS 17.1.x MacOS 14…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23585 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/13/012957</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/13/012957"/>
-        <updated>2023-11-12T16:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Ignite 2023 前の最後の週となりますが、今週も Windows 11 Insider Program は元気に活動中です。 今週は以下 2 つの Channel で更新が行われました。 Dev Channel : Build 23585 Canary Channel : Build 25992 Canary Channel では今週も引き続き SMB 関連の更新が行われています。 ファイル共有をオンにするとファイアウォール設定が自動で変更されるのですが、その変更内容から NetBIOS ポートが削除されたようです。ポート番号でいうと 137 - 139 の受信側が…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
