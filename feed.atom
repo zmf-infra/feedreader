@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T00:37:58.315Z</id>
+    <id>urn:2023-12-14T00:37:41.684Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T00:37:58.315Z</updated>
+    <updated>2023-12-14T00:37:41.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Edge モバイルアップロード機能が追加されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/14/030716</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/14/030716"/>
+        <updated>2023-12-13T18:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Edge に新たな機能が搭載されそうです。 Viva Engage を利用してファイルをアップロードしようとしたところ、モバイルと連携するための UI が組み込まれていました。 今回は Viva Engage で試したのですが、 Outlook などでも同じ流れで利用できる感じでした。 まずはファイル操作のダイアログを表示するため、画像アップロードボタンを押します。 すると、いつものファイル名を入力するダイアログの右下にモバイルからアップロードというボタンが追加されていました。（ 2023 年 12 月の Beta Channel で確認しているので、 State に来るの…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint ：ドキュメントライブラリ にもテンプレート]]></title>
+        <id>https://art-break.net/tech/?p=20103</id>
+        <link href="https://art-break.net/tech/?p=20103"/>
+        <updated>2023-12-13T01:57:01.000Z</updated>
+        <summary type="html"><![CDATA[こちらも標準リリース環境でも11月中旬に展開されたので少し遅い情報になるけど、色々忙しかったのでゴメンナサイ！ という事で、 SharePoint と言えば、「ページ・ニュース」「ライブラリ」「リスト」が3大要素ですよね … "SharePoint ：ドキュメントライブラリ にもテンプレート" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 OneNote のフィード機能が付箋に置き換わるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/13/025528</id>
@@ -326,16 +346,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法]]></title>
-        <id>https://art-break.net/tech/?p=19911</id>
-        <link href="https://art-break.net/tech/?p=19911"/>
-        <updated>2023-11-20T01:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 の機能・アプリ・サービスなどの追加がある際に、ライセンス次第で使える・使えないが良く出てくるようになったけど、はたして自分は会社から何のライセンスを付与されているのか？がわからない人も多いと思 … "Microsoft 365 ：自分のライセンスや使えるアプリを確認する方法" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23590 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/11/20/013952</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/20/013952"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/15/002826"/>
         <updated>2023-11-14T15:28:26.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 メッセージセンターを眺めていたところ、 Private Line という機能が 2023 年 12 月中旬までにリリースするという話題が載っていました。 Private Line って何だろうと思い、いろいろ調べてみたところ以下の 365 ロードマップに記事が載っていました。 2023 年 10 月にロードマップに追加されたばかりの機能だったようです。 https://www.microsoft.com/ja-jp/microsoft-365/roadmap?WT.mc_id=M365-MVP-5002496&filters=&searchterms=181616 …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micosoft 365 Apple 端末からの SSO が行えなくなる事象が発生しているようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/14/004914</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/14/004914"/>
-        <updated>2023-11-13T15:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 の管理センターを見ていたところ、ポータルトップに気になるインシデントが表示されていたので今回はこれを見ておきたいと思います。 インシデントナンバーは MO688912 ということで、 Microsoft Online 全体にかかる話となっています。 どんな内容かというと、 iOS のバージョンアップによって SSO 周りの機能の一部が動作しなくなったという、シングルサインオンに関連するものでした。 これによると、影響を受けるのは以下の環境となっています。 2023 年 11 月中旬における最新のバージョンですね。 iOS/iPadOS 17.1.x MacOS 14…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
