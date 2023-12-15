@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/12/15/031521",
+          "author": null,
+          "description": "Teams でチャットを行っているとファイルを共有したくなる時があると思います。 しかし、いろいろな人に同じファイルを共有したいときが面倒で、 2023 年前半まではファイルを再アップロードするか、 OneDrive からファイルを選ぶという面倒な方法で探し出すしかありませんでした。 なんとようやくこの状態に手が加わったようで、アップロード時に同じファイルがあるか確認が入り、それを使いたい場合にファイルを自動的に共有してくれるように設定できるようになりました。 まずファイルをアップロードしておきます。 そして別のユーザーで同じファイルを添付してみましょう。 するとこのような形で「代わりに古いフ…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/12/15/031521",
+          "publishedOn": "2023-12-14T18:15:21.000Z",
+          "wordCount": 621,
+          "title": "Microsoft 365 Teams で同名ファイルの自動共有機能が追加されていました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231215/20231215020122.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/12/14/030716",
           "author": null,
           "description": "Microsoft Edge に新たな機能が搭載されそうです。 Viva Engage を利用してファイルをアップロードしようとしたところ、モバイルと連携するための UI が組み込まれていました。 今回は Viva Engage で試したのですが、 Outlook などでも同じ流れで利用できる感じでした。 まずはファイル操作のダイアログを表示するため、画像アップロードボタンを押します。 すると、いつものファイル名を入力するダイアログの右下にモバイルからアップロードというボタンが追加されていました。（ 2023 年 12 月の Beta Channel で確認しているので、 State に来るの…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/14/030716",
           "publishedOn": "2023-12-13T18:07:16.000Z",
-          "wordCount": 676,
+          "wordCount": 681,
           "title": "Microsoft 365 Edge モバイルアップロード機能が追加されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231210/20231210124826.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 678,
           "title": "Microsot 365 OneDrive で一般アプリからのファイルオープンがサポートされます",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231115/20231115021504.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/11/15/002826",
-          "author": null,
-          "description": "Microsoft 365 メッセージセンターを眺めていたところ、 Private Line という機能が 2023 年 12 月中旬までにリリースするという話題が載っていました。 Private Line って何だろうと思い、いろいろ調べてみたところ以下の 365 ロードマップに記事が載っていました。 2023 年 10 月にロードマップに追加されたばかりの機能だったようです。 https://www.microsoft.com/ja-jp/microsoft-365/roadmap?WT.mc_id=M365-MVP-5002496&filters=&searchterms=181616 …",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/11/15/002826",
-          "publishedOn": "2023-11-14T15:28:26.000Z",
-          "wordCount": 650,
-          "title": "Microsoft 365 Teams に個別電話番号機能がやってくるようです",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231106/20231106002045.png"
         }
       ]
     },
@@ -313,12 +313,42 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=20153",
+          "author": "TAICHI",
+          "description": "※これも古いネタになってしまいますが備忘録として残します。本当に忙しすぎるってのは色々と良くないですね。 新しい Teams アプリに関しては過去に何度も取り上げていますが、ブラウザー版の Teams にも新しい Tea … \"Microsoft Teams ：ブラウザー版も新しい Teams のトグルスイッチがとっくに表示されている\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=20153",
+          "publishedOn": "2023-12-14T22:00:00.000Z",
+          "wordCount": 1866,
+          "title": "Microsoft Teams ：ブラウザー版も新しい Teams のトグルスイッチがとっくに表示されている",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231215.png",
+            "length": "13836",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/12/231215.png"
+        },
+        {
+          "id": "https://art-break.net/tech/?p=20124",
+          "author": "TAICHI",
+          "description": "こちらも少し鮮度落ち目のネタです。 僕の朝のルーティンは Microsoft 365 管理センターのメッセージセンターをチェックして、関心あるものをお気に入りに入れ、 X （旧 Twitter ）にポストするところからス … \"SharePoint ：強調表示されたコンテンツ Webパーツが動画のインライン再生に対応\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=20124",
+          "publishedOn": "2023-12-14T01:22:26.000Z",
+          "wordCount": 1951,
+          "title": "SharePoint ：強調表示されたコンテンツ Webパーツが動画のインライン再生に対応",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231214.png",
+            "length": "13288",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/12/231214.png"
+        },
+        {
           "id": "https://art-break.net/tech/?p=20103",
           "author": "TAICHI",
           "description": "こちらも標準リリース環境でも11月中旬に展開されたので少し遅い情報になるけど、色々忙しかったのでゴメンナサイ！ という事で、 SharePoint と言えば、「ページ・ニュース」「ライブラリ」「リスト」が3大要素ですよね … \"SharePoint ：ドキュメントライブラリ にもテンプレート\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20103",
           "publishedOn": "2023-12-13T01:57:01.000Z",
-          "wordCount": 1906,
+          "wordCount": 1907,
           "title": "SharePoint ：ドキュメントライブラリ にもテンプレート",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231213.png",
@@ -333,7 +363,7 @@
           "description": "僕はあまり Microsoft Teams 上で検索機能を利用する事はありませんが、検索機能を多用する方も多いと思います。 Microsoft Teams では上部に検索バーがあるので全体を検索できますが、「このチャット … \"Microsoft Teams ：チャットやチャネル内での検索（コンテキスト検索）が変わった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20079",
           "publishedOn": "2023-12-12T00:50:18.000Z",
-          "wordCount": 1911,
+          "wordCount": 1908,
           "title": "Microsoft Teams ：チャットやチャネル内での検索（コンテキスト検索）が変わった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231212.png",
@@ -348,7 +378,7 @@
           "description": "動画編集アプリの Clipchamp が商用ライセンスの Microsoft 365 に登場して約2カ月。そこから1カ月後にライセンスフリーのストック素材（動画・画像・音楽）が使えるようになりました。 Microsoft … \"Microsoft Clipchamp ：プレミアムプランの登場でまたまた「プレミアム」のストック素材の扱いが怪しい事に…\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20071",
           "publishedOn": "2023-12-11T01:17:22.000Z",
-          "wordCount": 1898,
+          "wordCount": 1895,
           "title": "Microsoft Clipchamp ：プレミアムプランの登場でまたまた「プレミアム」のストック素材の扱いが怪しい事に…",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231211.png",
@@ -363,7 +393,7 @@
           "description": "記事タイトルでオチまで書いちゃったので内容読まなくても良くなっちゃっているので、ブログを書く視点ではダメな記事タイトルの例ですね(笑) 2023/11/03 付けで Microsoft 365 管理センターのメッセージセ … \"Microsoft Teams ：アプリバーから「ファイル」が消えてしまった！安心してください「 OneDrive 」に変わりましたよ\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20052",
           "publishedOn": "2023-12-05T02:35:15.000Z",
-          "wordCount": 2057,
+          "wordCount": 2054,
           "title": "Microsoft Teams ：アプリバーから「ファイル」が消えてしまった！安心してください「 OneDrive 」に変わりましたよ",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231205.png",
@@ -378,7 +408,7 @@
           "description": "当ブログの読者さんの中には Microsoft 365 と同じくらい Power Platform も好き、もしくは業務で使っている・使おうとしている方も多いと思います。 Power BI / Power Apps /  … \"Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20044",
           "publishedOn": "2023-12-05T00:31:02.000Z",
-          "wordCount": 1900,
+          "wordCount": 1897,
           "title": "Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/JPPC2023.png",
@@ -393,7 +423,7 @@
           "description": "これまで Microsoft Loop の Loop コンポーネントは Microsoft Teams 上ではチャットのメッセージからしか利用できませんでした。でもやはりチームのチャネルでも利用したいですよね。 2023 … \"Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20009",
           "publishedOn": "2023-12-04T08:45:37.000Z",
-          "wordCount": 2051,
+          "wordCount": 2048,
           "title": "Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231204_2.jpg",
@@ -408,7 +438,7 @@
           "description": "今年2023/07/18 に Bing Chat Enterprise がプレビュー開始されました。この時はテナント管理者が有効化に設定しないと利用できない状態でのスタート。そして 2023/08/28 には既定で有効化 … \"Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19998",
           "publishedOn": "2023-12-04T01:44:53.000Z",
-          "wordCount": 1967,
+          "wordCount": 1964,
           "title": "Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231204.jpg",
@@ -423,7 +453,7 @@
           "description": "12月になりましたね。年末まで更に忙しくなり、どんどんブログ記事のネタが貯まってしまっています。なるべく鮮度良く発信していきたいけど仕方ないですね。そんな今回のネタも展開されたのは11月上旬あたりです。 Microsof … \"Microsoft Teams ：「会議」アプリ登場したけど便利そう？\" の続きを読む",
           "link": "https://art-break.net/tech/?p=19973",
           "publishedOn": "2023-12-01T09:40:47.000Z",
-          "wordCount": 1942,
+          "wordCount": 1939,
           "title": "Microsoft Teams ：「会議」アプリ登場したけど便利そう？",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231201.jpg",
@@ -431,36 +461,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/12/231201.jpg"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19935",
-          "author": "TAICHI",
-          "description": "いやぁ、最近色々と忙しくて更新が滞りがちです。前回の投稿から1週間以上空けてしまいました。投稿ネタはたくさんあるんですけどね。忙しい事は良い事だけど、ブログを書く余裕は常に持っていたいです。 今回は僕の観測した限りだと  … \"Microsoft 365 ：タグでコンテンツを整理できるようになった\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19935",
-          "publishedOn": "2023-11-28T05:59:01.000Z",
-          "wordCount": 1992,
-          "title": "Microsoft 365 ：タグでコンテンツを整理できるようになった",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231128.jpg",
-            "length": "22883",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231128.jpg"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=19919",
-          "author": "TAICHI",
-          "description": "2023/11/15 付けで公開されている以下の Microsoft からの記事で、 Microsoft Loop が一般提供開始されるアナウンスがありました。 Microsoft Loop: built for the … \"Microsoft Loop ：一般提供開始されました！\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=19919",
-          "publishedOn": "2023-11-20T04:22:21.000Z",
-          "wordCount": 2235,
-          "title": "Microsoft Loop ：一般提供開始されました！",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/11/231120.jpg",
-            "length": "11537",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/11/231120.jpg"
         }
       ]
     }
