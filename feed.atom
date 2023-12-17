@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-16T00:37:35.413Z</id>
+    <id>urn:2023-12-17T00:41:11.632Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T00:37:35.413Z</updated>
+    <updated>2023-12-17T00:41:11.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Bing Chat Enterprise は Commercial data protection for Microsoft Copilot に名称変更されます]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/17/034317</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/17/034317"/>
+        <updated>2023-12-16T18:43:17.000Z</updated>
+        <summary type="html"><![CDATA[Bing Chat と Bing Chat Enpterprise が Microsoft Copilot に名称変更されたのが 2023 年 11 月の Ignite でした。それから 1 か月。さすがに 2 つの製品で 1 つの名前を共有するのは無理があると悟ったのか、 Bing Chat Enterprise の名称変更がアナウンスされたようです。 といっても、名称が変更されるのは Microsoft 365 のライセンス（サービスプラン）の話です。 ちょっと前まで Bing Chat Enterprise だったのですが、 2023 年 12 月中旬には Copilot に変わっている…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10 設定アプリのホームに初期設定機能がされていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/16/032403</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/18/231314"/>
         <updated>2023-11-18T14:13:14.000Z</updated>
         <summary type="html"><![CDATA[ちょっと前に Windows 11 で VBScript が非推奨となった話題を取り上げましたが、それから 1 か月余りでかなりの機能に非推奨のマークが付けられたようです。 https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features?WT.mc_id=WDIT-MVP-5002496 この中では WebDAV のクライアントサービスが非推奨になっています。 これは SharePoint のエクスプローラーで表示ボタンに関連するサービスで、 Web サイトのファイルサービスをエクスプローラーで表示するための機能と…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsof Ignite Book of News が公開されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/17/024110</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/17/024110"/>
-        <updated>2023-11-16T17:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Ignite 2023 が始まっていますが、今年も開始早々に Book of News がリリースされています。 Microsoft の技術体系はかなり幅が広いためすべてを押さえるのは至難の業ですが、この資料を読んでおくことで大筋を見ておくことができます。 https://news.microsoft.com/ignite-2023-book-of-news/ja/?WT_mc_id=M365-MVP-5002496 というわけで、まずは目次から見ていきたいと思います。 例年と比べて構成が大きく変わっていますね。 特に 5 の Copilot は Build 2023 と比…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
