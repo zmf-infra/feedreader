@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-17T00:41:11.632Z</id>
+    <id>urn:2023-12-18T00:39:06.762Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-17T00:41:11.633Z</updated>
+    <updated>2023-12-18T00:39:06.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23606 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/18/021727</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/18/021727"/>
+        <updated>2023-12-17T17:17:27.000Z</updated>
+        <summary type="html"><![CDATA[今週も Insider Program は元気に更新が続いています。 今回は Canary 、 Dev 、 Beta のそれぞれがバージョンアップしました。 Canary Channel : Build 26016 Dev Channel : Build 23606 Beta Channel : Build 22635.2915 Beta Channel の今回の追加点は Dev Channel で提供されていたところまで全体を引き上げるという程度の変更となっていました。 Windows 365 関連が Beta Channel で提供され始めたこと、音声アクセスのサポート言語の範囲が増え、マ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Bing Chat Enterprise は Commercial data protection for Microsoft Copilot に名称変更されます]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/17/034317</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/19/021121"/>
         <updated>2023-11-18T17:11:21.000Z</updated>
         <summary type="html"><![CDATA[生成 AI が台頭してきたことで、過去より AI と言われていたディープラーニング系で使われてきた Python の立ち位置はどうなってしまうのか。と一時期考えていたことがありました。しかし、最近の Python はそれにとどまらない活躍の場が与えられているのです。 というわけで今回は Microsoft 365 Apps の Excel に用意された Python の挿入機能を見ていきたいと思います。 Excel を利用して Python のコードを簡単に書ける状態になるということは、 VBA の代わりとなる Office Script と双璧でカスタム関数側の強化が行われるということなので…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 WebDAV サービスが非推奨になっています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/18/231314</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/18/231314"/>
-        <updated>2023-11-18T14:13:14.000Z</updated>
-        <summary type="html"><![CDATA[ちょっと前に Windows 11 で VBScript が非推奨となった話題を取り上げましたが、それから 1 か月余りでかなりの機能に非推奨のマークが付けられたようです。 https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features?WT.mc_id=WDIT-MVP-5002496 この中では WebDAV のクライアントサービスが非推奨になっています。 これは SharePoint のエクスプローラーで表示ボタンに関連するサービスで、 Web サイトのファイルサービスをエクスプローラーで表示するための機能と…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
