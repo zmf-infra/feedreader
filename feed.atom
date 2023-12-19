@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-18T00:39:06.762Z</id>
+    <id>urn:2023-12-19T00:38:22.117Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T00:39:06.762Z</updated>
+    <updated>2023-12-19T00:38:22.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Web 版 Copilot を活用してみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/19/015800</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/19/015800"/>
+        <updated>2023-12-18T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 11 月の Ignite で発表された Copilot の Web 版ですが、皆さん活用されていますでしょうか。 やっぱり Microsoft 365 E3 などのライセンスを持っていると Enterprise 保護の状態で操作ができるという、組織の管理者への配慮が効いた機能が素晴らしい仕組みです。 https://copilot.microsoft.com/ しかもこれ、 Image Creator の機能も組み込まれているんですよね。 DALL-E 3 の機能をも一いていることもあり、絵の精度がかなり高くなっています。 試しに新しい漫画を描いてとだけ入力したらこのクオリティで…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Lists ：画像ファイルをビュー上の画像列にドラッグ＆ドロップがとっくにできている]]></title>
+        <id>https://art-break.net/tech/?p=20164</id>
+        <link href="https://art-break.net/tech/?p=20164"/>
+        <updated>2023-12-18T08:33:43.000Z</updated>
+        <summary type="html"><![CDATA[また1カ月以上前に確認できていた事をスッカリ記事にするのを忘れていました。どうも忘れっぽい僕です。 このネタは10月末あたりに Microsoft Lists が同時編集できたりタブが変わったり大きな変更が起きた時に少し … "Microsoft Lists ：画像ファイルをビュー上の画像列にドラッグ＆ドロップがとっくにできている" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23606 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/18/021727</id>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：「会議」アプリ登場したけど便利そう？]]></title>
-        <id>https://art-break.net/tech/?p=19973</id>
-        <link href="https://art-break.net/tech/?p=19973"/>
-        <updated>2023-12-01T09:40:47.000Z</updated>
-        <summary type="html"><![CDATA[12月になりましたね。年末まで更に忙しくなり、どんどんブログ記事のネタが貯まってしまっています。なるべく鮮度良く発信していきたいけど仕方ないですね。そんな今回のネタも展開されたのは11月上旬あたりです。 Microsof … "Microsoft Teams ：「会議」アプリ登場したけど便利そう？" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Stream Classic の EOS に向けた準備は進んでいますか]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/01/023957</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/01/023957"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/20/013952"/>
         <updated>2023-11-19T16:39:52.000Z</updated>
         <summary type="html"><![CDATA[今週は Ignite 2023 があり、シアトルは大盛況だったようです。 ただ、発表の中心は AI 関連で、 Windows に関することは多くは出てこなかったのが残念な点でした。 Windows 365 での GPU サポート開始と、オートスケールなどがインパクトの大きい発表だったかなと。 そんな Windows 界隈ですが、 Insider Program は Ignite の週も止まりませんでした。 なんだか最近はどんな時も順調にリリースを繰り返しておりうれしい限りです。 今週の更新は以下 6 種となっています。 Canary Channel : Build 25997 Dev Chan…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Apps Excel の Python 機能をチェックしておきましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/19/021121</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/19/021121"/>
-        <updated>2023-11-18T17:11:21.000Z</updated>
-        <summary type="html"><![CDATA[生成 AI が台頭してきたことで、過去より AI と言われていたディープラーニング系で使われてきた Python の立ち位置はどうなってしまうのか。と一時期考えていたことがありました。しかし、最近の Python はそれにとどまらない活躍の場が与えられているのです。 というわけで今回は Microsoft 365 Apps の Excel に用意された Python の挿入機能を見ていきたいと思います。 Excel を利用して Python のコードを簡単に書ける状態になるということは、 VBA の代わりとなる Office Script と双璧でカスタム関数側の強化が行われるということなので…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
