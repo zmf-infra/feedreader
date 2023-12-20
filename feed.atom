@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-19T00:38:22.117Z</id>
+    <id>urn:2023-12-20T00:31:24.708Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T00:38:22.117Z</updated>
+    <updated>2023-12-20T00:31:24.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 Web コンテンツ読み込み設定にはご注意を]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/20/002844</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/20/002844"/>
+        <updated>2023-12-19T15:28:44.000Z</updated>
+        <summary type="html"><![CDATA[今回のブログは、Microsoft Top Partner Engineer’s Advent Calendar 2023 と連動した内容です。実は、日本マイクロソフト様より「Microsoft Top Partner Engineer Award」 Modern Work を表彰していただいています。 パートナーとして組織向けの情報を提供する機会はあまりないので、今回は Microsoft Copilot for Microsoft 365 に関する意識しておきたい設定を説明しておきたいと思います。 Copilot for Microsoft 365 に関係する設定 Microsoft が …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Web 版 Copilot を活用してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/19/015800</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/21/025514"/>
         <updated>2023-11-20T17:55:14.000Z</updated>
         <summary type="html"><![CDATA[Windows 10 で Copilot を提供するという話題が久々の Windows 10 に関連するトピックとして Ignite 2023 をにぎわせていましたが、早くもインストールに関する制御方法がコミュニティブログにて公開されていました。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/enable-optional-updates-for-windows-10-devices/ba-p/3983927?WT.mc_id=WDIT-MVP-5002496 この資料によると、グループポリシーを作成することで新機能の追加…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23590 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/20/013952</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/20/013952"/>
-        <updated>2023-11-19T16:39:52.000Z</updated>
-        <summary type="html"><![CDATA[今週は Ignite 2023 があり、シアトルは大盛況だったようです。 ただ、発表の中心は AI 関連で、 Windows に関することは多くは出てこなかったのが残念な点でした。 Windows 365 での GPU サポート開始と、オートスケールなどがインパクトの大きい発表だったかなと。 そんな Windows 界隈ですが、 Insider Program は Ignite の週も止まりませんでした。 なんだか最近はどんな時も順調にリリースを繰り返しておりうれしい限りです。 今週の更新は以下 6 種となっています。 Canary Channel : Build 25997 Dev Chan…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
