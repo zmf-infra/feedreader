@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T00:31:24.708Z</id>
+    <id>urn:2023-12-21T00:37:39.265Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-20T00:31:24.708Z</updated>
+    <updated>2023-12-21T00:37:39.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge Defender Application Guard が非推奨となりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/21/025250</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/21/025250"/>
+        <updated>2023-12-20T17:52:50.000Z</updated>
+        <summary type="html"><![CDATA[この 2023 年は 10 月頃から機能の非推奨化という流れが Windows 関連の機能で多々発生していました。 昨年からのリセッションにおいて、優先すべき事項が大きく変容しているんだろうなーと思っていたのですが、この流れはまだまだ続くようです。 というわけで 12 月に入り、新たに Microsoft Defender Application Guard が非推奨に加わったようです。 https://learn.microsoft.com/ja-jp/windows/security/application-security/application-isolation/microsoft-…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Whiteboard ： ホワイトボードから Loop コンポーネントを作成できるようになった]]></title>
+        <id>https://art-break.net/tech/?p=20173</id>
+        <link href="https://art-break.net/tech/?p=20173"/>
+        <updated>2023-12-20T02:58:28.000Z</updated>
+        <summary type="html"><![CDATA[2023/11/15 についに Microsoft Loop の一般提供が開始されましたが、皆さん使っていますか？おそらく多くの方が様子見しているんじゃないかとは思います。イマイチ使いどころがわからなかったり、 OneN … "Microsoft Whiteboard ： ホワイトボードから Loop コンポーネントを作成できるようになった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 Web コンテンツ読み込み設定にはご注意を]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/20/002844</id>
@@ -256,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました]]></title>
-        <id>https://art-break.net/tech/?p=19998</id>
-        <link href="https://art-break.net/tech/?p=19998"/>
-        <updated>2023-12-04T01:44:53.000Z</updated>
-        <summary type="html"><![CDATA[今年2023/07/18 に Bing Chat Enterprise がプレビュー開始されました。この時はテナント管理者が有効化に設定しないと利用できない状態でのスタート。そして 2023/08/28 には既定で有効化 … "Copilot （旧 Bing Chat Enterprise ）が一般提供開始されました" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23595 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/04/012928</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/04/012928"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/22/024939"/>
         <updated>2023-11-21T17:49:39.000Z</updated>
         <summary type="html"><![CDATA[ちょっと古い記事なのですが、とても興味深い内容が書かれていたので共有していきたいと思います。 その記事は 基本的なセキュリティ対策で 99% の攻撃を防ぐとことができることを示した内容となっています。 https://www.microsoft.com/en-us/security/business/security-insider/threat-briefs/cyber-resilience-hygiene-guide/?WT.mc_id=M365-MVP-5002496 この記事によると以下の 5 要素を意識して環境を構築することでほとんどの攻撃を防ぐことができるとのこと。 一般的にセキュ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10 Copilot などの新機能追加の方法を見てみよう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/21/025514</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/21/025514"/>
-        <updated>2023-11-20T17:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Windows 10 で Copilot を提供するという話題が久々の Windows 10 に関連するトピックとして Ignite 2023 をにぎわせていましたが、早くもインストールに関する制御方法がコミュニティブログにて公開されていました。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/enable-optional-updates-for-windows-10-devices/ba-p/3983927?WT.mc_id=WDIT-MVP-5002496 この資料によると、グループポリシーを作成することで新機能の追加…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
