@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-21T00:37:39.265Z</id>
+    <id>urn:2023-12-22T00:37:28.700Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T00:37:39.265Z</updated>
+    <updated>2023-12-22T00:37:28.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Stream ：表示（プレビュー）モードと編集モード]]></title>
+        <id>https://art-break.net/tech/?p=20191</id>
+        <link href="https://art-break.net/tech/?p=20191"/>
+        <updated>2023-12-22T00:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Stream もいよいよ Classic から on SharePoint への移行期間も終盤に差し掛かってきていますが、 on SharePoint の方も機能追加も徐々に増えてきていますね。 Mi … "Microsoft Stream ：表示（プレビュー）モードと編集モード" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot 個人向けチャットで曲を作れるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/22/024918</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/22/024918"/>
+        <updated>2023-12-21T17:49:18.000Z</updated>
+        <summary type="html"><![CDATA[この利用方法は本命かもしれません。 Microsoft Copilot の個人向け利用にプラグインを活用した処理が含まれるようになっていました。 プラグインは右上のアクティビティの横にあるリンクを押すことで利用を開始できます。 最大 3 つまでプラグインを選択してから会話を開始する流れとなっています。 今回のタイトルにもある曲を作るという点では、プラグインの中にある Suno を選択しておくと作曲が行われます。 この状態で適当なプロンプトを与えてみましょう。 今回は「バラード調の勇気が出そうな歌詞の曲を作って」という形にしてみました。 まず最初に歌詞が展開されます。 大体 1 分前後の楽曲とな…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge Defender Application Guard が非推奨となりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/21/025250</id>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった]]></title>
-        <id>https://art-break.net/tech/?p=20009</id>
-        <link href="https://art-break.net/tech/?p=20009"/>
-        <updated>2023-12-04T08:45:37.000Z</updated>
-        <summary type="html"><![CDATA[これまで Microsoft Loop の Loop コンポーネントは Microsoft Teams 上ではチャットのメッセージからしか利用できませんでした。でもやはりチームのチャネルでも利用したいですよね。 2023 … "Microsoft Teams ／ Microsoft Loop ：ついにチームのチャネルでも Loop コンポーネントを追加できるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23595 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/04/012928</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/04/012928"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/23/025409"/>
         <updated>2023-11-22T17:54:09.000Z</updated>
         <summary type="html"><![CDATA[Copilot が Microsoft の中心的な商材になりつつある中、それを搭載している Edge は今やなくてはならないものとして扱いが飛躍的によくなっています。 Windows XP のころの Internet Explorer のような位置づけになってきている感が出てきていますが、利用環境をよりよくしていく動きの中で、 Microsoft 365 管理センターにある Edge 設定画面も進化していました。 ページとしては以下のリンクから遷移する画面ですね。今まではなかった Overview が追加さるようになっています。 https://admin.microsoft.com/#/Ed…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 セキュリティ対策を強化し、攻撃を防いでいきましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/22/024939</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/22/024939"/>
-        <updated>2023-11-21T17:49:39.000Z</updated>
-        <summary type="html"><![CDATA[ちょっと古い記事なのですが、とても興味深い内容が書かれていたので共有していきたいと思います。 その記事は 基本的なセキュリティ対策で 99% の攻撃を防ぐとことができることを示した内容となっています。 https://www.microsoft.com/en-us/security/business/security-insider/threat-briefs/cyber-resilience-hygiene-guide/?WT.mc_id=M365-MVP-5002496 この記事によると以下の 5 要素を意識して環境を構築することでほとんどの攻撃を防ぐことができるとのこと。 一般的にセキュ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
