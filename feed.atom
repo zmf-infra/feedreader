@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-22T00:37:28.700Z</id>
+    <id>urn:2023-12-23T00:36:02.333Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T00:37:28.700Z</updated>
+    <updated>2023-12-23T00:36:02.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Loop の URL が変わるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/23/020514</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/23/020514"/>
+        <updated>2023-12-22T17:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft は 2023 年の初めころより cloud.microsoft という企業名を冠したドメインを使い始めています。 これは既存のアプリを置き換えるのではなく新しいアプリを切り替えていくという話だったのですが、どうもその方針を少し変更したようで、すでに URL が割り当てられている Microsoft Loop もこの対象に含めていくことがアナウンスされていました。 すでに cloud.microsoft からアクセスできるようになっており、アクセスは以下より行えます。 https://loop.cloud.microsoft ちなみに過去の URL はこちらですね。 同じサイ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Stream ：表示（プレビュー）モードと編集モード]]></title>
         <id>https://art-break.net/tech/?p=20191</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/24/025054"/>
         <updated>2023-11-23T17:50:54.000Z</updated>
         <summary type="html"><![CDATA[Microsoft は今まで戦略的に優位に立てる状態が見えてきた場合、パートナーと協業してすみ分けていた範囲であっても果敢に勝負を挑み結果を残してきた歴史があります。最近ではハードウェアの Surface やウィルス対策の Defender といったところがこの内容に該当するのですが、この歴史に新たに署名というものが加わりそうです。 署名とは、ファイルの作成者と作成日を第三者と共有することで、そのファイルに書かれていたことを否認できないようにする仕組みなのですが、今までは専門の少数の事業者で構成されていた分野でした。 この分野に Microsoft Syntex ブランドで eSignatur…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 管理センターの Edge 項目にオーバービューが用意されるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/23/025409</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/23/025409"/>
-        <updated>2023-11-22T17:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Copilot が Microsoft の中心的な商材になりつつある中、それを搭載している Edge は今やなくてはならないものとして扱いが飛躍的によくなっています。 Windows XP のころの Internet Explorer のような位置づけになってきている感が出てきていますが、利用環境をよりよくしていく動きの中で、 Microsoft 365 管理センターにある Edge 設定画面も進化していました。 ページとしては以下のリンクから遷移する画面ですね。今まではなかった Overview が追加さるようになっています。 https://admin.microsoft.com/#/Ed…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
