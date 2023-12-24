@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-23T00:36:02.333Z</id>
+    <id>urn:2023-12-24T00:40:16.209Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T00:36:02.333Z</updated>
+    <updated>2023-12-24T00:40:16.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 ライセンスの適用に注意しましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/24/013446</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/24/013446"/>
+        <updated>2023-12-23T16:34:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は 2023 年時点では大規模な組織に限定しライセンスの提供を行っています。しかしながらこの限定を解除すべく Microsoft は動いているようです。 その一環としてか、 Microsoft 365 関連の MVP が使ってみることができるように一部開放が行われました。 そんなわけで私も利用できるようになったので、これからいろいろ触っていきたいと思います。 今回はその一環で Microsoft Copilot for Microsoft 365 を利用する際の最初のステップを見ていきます。 最初のステップ。それはライセン…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Edge ポリシー設定に概要ページが増えました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/23/134013</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/23/134013"/>
+        <updated>2023-12-23T04:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 の機能の一部に Edge ポリシー設定が組み込まれ始めてから半年程度たちましたが、このポリシー設定画面にオーバービュー、概要のページが追加されるようになりました。 https://admin.microsoft.com/#/Edge 大きくは上記画面にあるように Configuration policies の機能と Site lists 機能へのリンクで構成されているのですが、やりたいことと連動しているところが分かりやすくなっていますね。 Create となっている部分が 3 つあるのですが、遷移先はタブと同じように 2 つになっています。 下部には Edge に…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Loop の URL が変わるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/23/020514</id>
@@ -381,26 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/26/014433"/>
         <updated>2023-11-25T16:44:33.000Z</updated>
         <summary type="html"><![CDATA[Ignite 2023 にて Microsoft 365 Copilot などの名称変更が行われたことをご存じの方は多いかと存じます。そのことを示したページが追加されています。 このページのタブを見るとわかるのですが、 Copilot with Data Protection という項目ができていますね。 これは Bing Chat Enterprise を指す内容の Data Protection が加わったという言い方ですね。実は Bing Chat と Bing Chat Enterprise どちらも Microsoft Copilot という言葉に統合されてしまったこともあり差を伝え…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Apps ライセンス切り替えとライセンス更新が分離されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/25/033501</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/25/033501"/>
-        <updated>2023-11-24T18:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 Apps のアカウント設定画面ですが皆さんチェックされていますでしょうか。 一度設定してしまうとあまり来なくてもよい画面なのでそんなに見る機会が多くはないのですが、こういった画面も使いやすくするために更新がかかったりするようです。 今回はいつの間にかライセンスの更新というボタンが追加されていたので見ておきたいと思います。 こんな感じに今までアカウントの管理とライセンスの切り替えだけだったボタンに、ライセンスの更新というものが追加されているのです。 このボタンを押すとサブスクリプションの確認のためサインインせよという案内が出てきます。 案内の通りにサインインを行い、、…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 MS純正のファイル署名サービスが始まっています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/24/025054</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/24/025054"/>
-        <updated>2023-11-23T17:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft は今まで戦略的に優位に立てる状態が見えてきた場合、パートナーと協業してすみ分けていた範囲であっても果敢に勝負を挑み結果を残してきた歴史があります。最近ではハードウェアの Surface やウィルス対策の Defender といったところがこの内容に該当するのですが、この歴史に新たに署名というものが加わりそうです。 署名とは、ファイルの作成者と作成日を第三者と共有することで、そのファイルに書かれていたことを否認できないようにする仕組みなのですが、今までは専門の少数の事業者で構成されていた分野でした。 この分野に Microsoft Syntex ブランドで eSignatur…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
