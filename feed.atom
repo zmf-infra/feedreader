@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-24T00:40:16.209Z</id>
+    <id>urn:2023-12-25T00:38:36.804Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-24T00:40:16.209Z</updated>
+    <updated>2023-12-25T00:38:36.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[クリスマス特別企画！ Microsoft Teams の大掃除と休暇前の準備ウェビナー開催直前（超ギリギリ）]]></title>
+        <id>https://art-break.net/tech/?p=20217</id>
+        <link href="https://art-break.net/tech/?p=20217"/>
+        <updated>2023-12-25T00:06:10.000Z</updated>
+        <summary type="html"><![CDATA[いつも告知が急でごめんなさい。本当に急なんですけど今日12月25日クリスマスの13時から30分です。 いや、そもそも当ブログは僕「中村 太一」としてのプライベートなブログなので、あまり仕事とは関連付けないようにしているん … "クリスマス特別企画！ Microsoft Teams の大掃除と休暇前の準備ウェビナー開催直前（超ギリギリ）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Teams の M365 チャットは複数用意されています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/25/021506</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/25/021506"/>
+        <updated>2023-12-24T17:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 を利用し始めて気が付いたことなのですが、どうも今流通している M365 Chat は 2 種類のアプリがあるようです。 その二つとは「 M365 Chat (new) 」と「 M365 チャット」です。以下図では左側のアプリ一覧の一番上に M365 Chat (new) があり、その他アプリの一覧に M365 チャットが表示されています。 それぞれバージョン情報を見てみると、 M365 チャットのほうが新しいバージョンが与えられています。 こちらを開くと単なるチャットとして認識するようで、過去の履歴が面々と連なっていました…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 ライセンスの適用に注意しましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/24/013446</id>
@@ -296,16 +316,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！]]></title>
-        <id>https://art-break.net/tech/?p=20044</id>
-        <link href="https://art-break.net/tech/?p=20044"/>
-        <updated>2023-12-05T00:31:02.000Z</updated>
-        <summary type="html"><![CDATA[当ブログの読者さんの中には Microsoft 365 と同じくらい Power Platform も好き、もしくは業務で使っている・使おうとしている方も多いと思います。 Power BI / Power Apps /  … "Japan Power Platform Conference 2023 開催直前！すでに800名以上の参加申し込みが！" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Windows skilling snacks を使いこなしてみませんか]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/05/023242</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/05/023242"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/27/015548"/>
         <updated>2023-11-26T16:55:48.000Z</updated>
         <summary type="html"><![CDATA[Ignite 2023 を終えて 1 週間。今週は Windows 11 に関する Insider Program の更新はありませんでした。 しかしながら、 Windows 10 において Release Preview Channel が Build 19045.3757 に更新され、 Copilot が利用できるように進化したようなので、手元の仮想環境を Insider 化してその動きを試してみたいと思います。 まずは設定アプリから Insider Program に入ります。 過去、 2015 年ころには何度もやっていましたが、最近は Windows 10 の Insider に触るこ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Copilot の名称が変更されています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/26/014433</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/26/014433"/>
-        <updated>2023-11-25T16:44:33.000Z</updated>
-        <summary type="html"><![CDATA[Ignite 2023 にて Microsoft 365 Copilot などの名称変更が行われたことをご存じの方は多いかと存じます。そのことを示したページが追加されています。 このページのタブを見るとわかるのですが、 Copilot with Data Protection という項目ができていますね。 これは Bing Chat Enterprise を指す内容の Data Protection が加わったという言い方ですね。実は Bing Chat と Bing Chat Enterprise どちらも Microsoft Copilot という言葉に統合されてしまったこともあり差を伝え…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
