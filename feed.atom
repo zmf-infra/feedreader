@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-25T00:38:36.804Z</id>
+    <id>urn:2023-12-26T00:36:40.927Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-25T00:38:36.804Z</updated>
+    <updated>2023-12-26T00:36:40.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge 画面の左右分割機能が追加されています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/26/023026</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/26/023026"/>
+        <updated>2023-12-25T17:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Edge は時折面白い機能を提供してくれるのですが、今回もまた、ブラウザーの使い方を一変させるかもしれない機能が追加されました。 それは左右に画面を分割する機能です。 この機能に気が付いたのはリンクを右クリックして InPrivate モードで開こうとしたときです。その下にリンクを分割画面ウィンドウで開くという項目ができていたのです。 これを押すと文字通りこんな感じに左と右に分かれた一つのタブが表示されました。 アドレスバーがもともとの形を維持したまま左右を表現できるように、ちょっと無理な形になっていますね。 これをクリックするとリンククリック時の動作を選ぶことができるよう…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Lists ／ SharePoint ：画像列に添付した画像ファイルの保存先が変更されていた]]></title>
+        <id>https://art-break.net/tech/?p=20220</id>
+        <link href="https://art-break.net/tech/?p=20220"/>
+        <updated>2023-12-25T09:05:52.000Z</updated>
+        <summary type="html"><![CDATA[だいぶ前に変更されていたのにずっと書き忘れていました。割と大事な事なのに…。 Microsoft Lists / SharePoint のリストの画像列に直接画像をアップロードできるようになったのが2020年11月。 S … "Microsoft Lists ／ SharePoint ：画像列に添付した画像ファイルの保存先が変更されていた" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリスマス特別企画！ Microsoft Teams の大掃除と休暇前の準備ウェビナー開催直前（超ギリギリ）]]></title>
         <id>https://art-break.net/tech/?p=20217</id>
@@ -306,16 +326,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：アプリバーから「ファイル」が消えてしまった！安心してください「 OneDrive 」に変わりましたよ]]></title>
-        <id>https://art-break.net/tech/?p=20052</id>
-        <link href="https://art-break.net/tech/?p=20052"/>
-        <updated>2023-12-05T02:35:15.000Z</updated>
-        <summary type="html"><![CDATA[記事タイトルでオチまで書いちゃったので内容読まなくても良くなっちゃっているので、ブログを書く視点ではダメな記事タイトルの例ですね(笑) 2023/11/03 付けで Microsoft 365 管理センターのメッセージセ … "Microsoft Teams ：アプリバーから「ファイル」が消えてしまった！安心してください「 OneDrive 」に変わりましたよ" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Windows skilling snacks を使いこなしてみませんか]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/05/023242</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/05/023242"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/28/022646"/>
         <updated>2023-11-27T17:26:46.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 に新機能が追加されるタイミングは Ignite などの大規模イベント前が多いのですが、すべてがそのタイミングになるというわけでもありません。というわけで Microsoft 365 管理センターを眺めていたところ、機能の追加が一つアナウンスされ提案した。 Test Base for Microsoft 365 の利用が 500 H 分無料になるベネフィットということのようです。 Test Base 自体は 2 年くらい前に発表された仕組みで、 WaaS に向けたサービスとなっており簡単に言うとテストを行うための環境を用意してくれるという内容と思えばよいでしょう。 詳…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10 Insider Preview にて Copilot が利用できるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/27/015548</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/27/015548"/>
-        <updated>2023-11-26T16:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Ignite 2023 を終えて 1 週間。今週は Windows 11 に関する Insider Program の更新はありませんでした。 しかしながら、 Windows 10 において Release Preview Channel が Build 19045.3757 に更新され、 Copilot が利用できるように進化したようなので、手元の仮想環境を Insider 化してその動きを試してみたいと思います。 まずは設定アプリから Insider Program に入ります。 過去、 2015 年ころには何度もやっていましたが、最近は Windows 10 の Insider に触るこ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
