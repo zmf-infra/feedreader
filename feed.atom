@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-26T00:36:40.927Z</id>
+    <id>urn:2023-12-27T00:36:49.852Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T00:36:40.927Z</updated>
+    <updated>2023-12-27T00:36:49.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Clipchamp ：プロジェクトファイルの自動で付与される名前が英語から日本語に変わった]]></title>
+        <id>https://art-break.net/tech/?p=20239</id>
+        <link href="https://art-break.net/tech/?p=20239"/>
+        <updated>2023-12-27T00:29:03.000Z</updated>
+        <summary type="html"><![CDATA[先日、急に告知したウェビナーにここから参加いただいた方もいらしてありがとうございました。参加者からのアンケートを見ても評判も良くあたたかいコメントもたくさんもらえて今年最後の良いしゃべり納めができました。あのウェビナーで … "Microsoft Clipchamp ：プロジェクトファイルの自動で付与される名前が英語から日本語に変わった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge 画面キャプチャ機能が内包されるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/27/023203</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/27/023203"/>
+        <updated>2023-12-26T17:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Edge においては最近サイドバーの進化がかなりのスピードで行われていますが、また新たな機能が追加されていました。 なんとスクリーンショットという機能です。サイドバーの下のほうに追加されました。 これをクリックすると、以下の図が画面下中央に表示されます。 なんと Edge の機能にもかかわらず Edge の外側までスクリーンショットが取れるという状況となるようです。 試しにタスクバーのショットを取ってみたのが以下ですが、 Edge の外側をキャプチャできていますね。 カスタマイズボタンを押してみたところ設定画面が表示され、ショートカットキーのカスタマイズとその適用範囲を選択…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge 画面の左右分割機能が追加されています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/26/023026</id>
@@ -256,16 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Clipchamp ：プレミアムプランの登場でまたまた「プレミアム」のストック素材の扱いが怪しい事に…]]></title>
-        <id>https://art-break.net/tech/?p=20071</id>
-        <link href="https://art-break.net/tech/?p=20071"/>
-        <updated>2023-12-11T01:17:22.000Z</updated>
-        <summary type="html"><![CDATA[動画編集アプリの Clipchamp が商用ライセンスの Microsoft 365 に登場して約2カ月。そこから1カ月後にライセンスフリーのストック素材（動画・画像・音楽）が使えるようになりました。 Microsoft … "Microsoft Clipchamp ：プレミアムプランの登場でまたまた「プレミアム」のストック素材の扱いが怪しい事に…" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23601 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/11/004609</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/11/004609"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/29/024248"/>
         <updated>2023-11-28T17:42:48.000Z</updated>
         <summary type="html"><![CDATA[Ignite 2023 でリリースアナウンスのあった Microsoft Copilot Studio ですが早々に利用可能となったようです。 以下のアドレスからアクセスすることができます。 Microsoft Copilot Studio はその名の通り、 Copilot を作るためのツールで、言い換えるとチャットボットの生成器となっています。 Power Virtual Agents ジャン！と思った方はその通りで、元の Virtual Agents に生成 AI を連携して、より的確な応答を得られることを目指した仕組みとなっています。 ここで面白いのがよくある無料で試すボタンの横に、デモ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Test Base の特典が発表されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/28/022646</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/28/022646"/>
-        <updated>2023-11-27T17:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 に新機能が追加されるタイミングは Ignite などの大規模イベント前が多いのですが、すべてがそのタイミングになるというわけでもありません。というわけで Microsoft 365 管理センターを眺めていたところ、機能の追加が一つアナウンスされ提案した。 Test Base for Microsoft 365 の利用が 500 H 分無料になるベネフィットということのようです。 Test Base 自体は 2 年くらい前に発表された仕組みで、 WaaS に向けたサービスとなっており簡単に言うとテストを行うための環境を用意してくれるという内容と思えばよいでしょう。 詳…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
