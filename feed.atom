@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T00:36:49.852Z</id>
+    <id>urn:2023-12-28T00:36:30.401Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T00:36:49.852Z</updated>
+    <updated>2023-12-28T00:36:30.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot in Windows アプリの起動を行ってみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/28/013322</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/28/013322"/>
+        <updated>2023-12-27T16:33:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot in Windows では Windows の機能を操作することができる。といううたい文句で登場したのですが、リリース前の初回アナウンスで披露された機能はダークモードへの移行や Spotify の音声再生といった機能でした。 それでは 2023 年も暮れが差し迫った 12 月はどのような動作が行われるのか見ていきましょう。 と、その前に Copilot を開いたところ、右側の上部に並べて表示、重ねて表示を切り替えるボタンが追加されています。サイドバーの動きもよいのですが、利用できる画面がかなり小さくなるのでフローウィンドウが良いケースは多くありそうです。重ね…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Clipchamp ：プロジェクトファイルの自動で付与される名前が英語から日本語に変わった]]></title>
         <id>https://art-break.net/tech/?p=20239</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/11/30/032440"/>
         <updated>2023-11-29T18:24:40.000Z</updated>
         <summary type="html"><![CDATA[2023 年 11 月、 Open AI の GPT-4 turbo が発表され今年の頭に発表された情報がすでに古くなるというスピード感で物事が動いている生成 AI 界隈ですが、 Microsoft もその動きに追随するようにどんどんと新しい機能を投入しているようです。 というわけで今回は Microsoft Copilot in Edge に追加された GPT-4 スイッチを見ていきたいと思います。 いつも通り Copilot ボタンを押してサイドパネルを開いたところ Copilot の中央部分にスイッチが追加されていました。 このスイッチを有効にすると、、、 背景色が変わり、 2000 文…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot Studio が利用できるようになったようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/29/024248</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/29/024248"/>
-        <updated>2023-11-28T17:42:48.000Z</updated>
-        <summary type="html"><![CDATA[Ignite 2023 でリリースアナウンスのあった Microsoft Copilot Studio ですが早々に利用可能となったようです。 以下のアドレスからアクセスすることができます。 Microsoft Copilot Studio はその名の通り、 Copilot を作るためのツールで、言い換えるとチャットボットの生成器となっています。 Power Virtual Agents ジャン！と思った方はその通りで、元の Virtual Agents に生成 AI を連携して、より的確な応答を得られることを目指した仕組みとなっています。 ここで面白いのがよくある無料で試すボタンの横に、デモ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
