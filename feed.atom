@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-28T00:36:30.401Z</id>
+    <id>urn:2023-12-29T00:30:51.928Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T00:36:30.401Z</updated>
+    <updated>2023-12-29T00:30:51.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge AI は Bing Chat だけではありません]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/29/025400</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/29/025400"/>
+        <updated>2023-12-28T17:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Edge の AI といえば Bing Chat であることは疑う余地もなく、大多数の方はこれが Edge を利用する理由になっているのではないかと思います。 しかし、 Edge を長く利用していると以下のようなアナウンスが表示されることがあるのです。 AI は AI でも、生成 AI のような動きをするものではなく、行動履歴をもとに最適な情報を提供してくれる仕組みとなっています。 この通知が出たら「今すぐチェック」を行うことで Microsoft Start のトップがニュース中心の画面に変化するのです。 この画面にあるニュースはどんどん変化するようになっています。これは…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot in Windows アプリの起動を行ってみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/28/013322</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/01/023957"/>
         <updated>2023-11-30T17:39:57.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Stream は 2021 年ころに SharePoint ベースに生まれ変わり、個別サイトで運営されていた動画は 2024 年 4 月 15 日までに移行を終えなければならないこととなっています。 この大枠の流れは、以下の移行ツールがリリースされた際にお伝えしていますが、移行は順調に進んでいますか？ https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration/ 移行自身は一方通行となっているため、一向に踏み切れいていなかった方も多くいらっしゃったのではないかと思われます。 実際はこの 4 …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot in Edge に GPT-4対応スイッチが追加されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/11/30/032440</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/11/30/032440"/>
-        <updated>2023-11-29T18:24:40.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 11 月、 Open AI の GPT-4 turbo が発表され今年の頭に発表された情報がすでに古くなるというスピード感で物事が動いている生成 AI 界隈ですが、 Microsoft もその動きに追随するようにどんどんと新しい機能を投入しているようです。 というわけで今回は Microsoft Copilot in Edge に追加された GPT-4 スイッチを見ていきたいと思います。 いつも通り Copilot ボタンを押してサイドパネルを開いたところ Copilot の中央部分にスイッチが追加されていました。 このスイッチを有効にすると、、、 背景色が変わり、 2000 文…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
