@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-29T00:30:51.928Z</id>
+    <id>urn:2023-12-30T00:36:39.356Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T00:30:51.928Z</updated>
+    <updated>2023-12-30T00:36:39.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Graph API で Viva Engage のコミュニティを作成できるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/30/024423</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/30/024423"/>
+        <updated>2023-12-29T17:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 は UI が中心となる仕組みであり、 API などを用いたカスタムアプリでのやり取りは一定の制限があります。 Viva Engage もそんな制限がある機能の一つなのですが、一部機能が解禁される方向にあるようです。 それはコミュニティの作成。 Viva Engage のコミュニティは SharePoint のサイトのようなもので、このコミュニティ単位にやり取りを行うイメージになっています。 作成用の API が Graph API の Beta で用意されたのです。 早速どういった動作となるのか、 Graph Explorer で確認してみましょう。 API の詳細…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge AI は Bing Chat だけではありません]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/29/025400</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/02/013059"/>
         <updated>2023-12-01T16:30:59.000Z</updated>
         <summary type="html"><![CDATA[Microsoft は数年周期で Windows 標準メールアプリを変更している感じがしますが、 Windows 11 にて 2023 年から 2024 年には Windows メールから Outlook に切り替わることがアナウンスされています。 今まで Outlook Express など似た名前はあったのですが、 とうとう Microsoft 365 Apps の Outlook と同名のアプリになることに。 同名だけであればまだしもな感じだったのですが、どうもどちらも同じものを指しているのではないかという感じがしています。 こんな感じにメール、 Outlook 、 Outlook (n…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Stream Classic の EOS に向けた準備は進んでいますか]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/01/023957</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/01/023957"/>
-        <updated>2023-11-30T17:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Stream は 2021 年ころに SharePoint ベースに生まれ変わり、個別サイトで運営されていた動画は 2024 年 4 月 15 日までに移行を終えなければならないこととなっています。 この大枠の流れは、以下の移行ツールがリリースされた際にお伝えしていますが、移行は順調に進んでいますか？ https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration/ 移行自身は一方通行となっているため、一向に踏み切れいていなかった方も多くいらっしゃったのではないかと思われます。 実際はこの 4 …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

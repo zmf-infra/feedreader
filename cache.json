@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2023/12/30/024423",
+          "author": null,
+          "description": "Microsoft 365 は UI が中心となる仕組みであり、 API などを用いたカスタムアプリでのやり取りは一定の制限があります。 Viva Engage もそんな制限がある機能の一つなのですが、一部機能が解禁される方向にあるようです。 それはコミュニティの作成。 Viva Engage のコミュニティは SharePoint のサイトのようなもので、このコミュニティ単位にやり取りを行うイメージになっています。 作成用の API が Graph API の Beta で用意されたのです。 早速どういった動作となるのか、 Graph Explorer で確認してみましょう。 API の詳細…",
+          "link": "https://mitomoha.hatenablog.com/entry/2023/12/30/024423",
+          "publishedOn": "2023-12-29T17:44:23.000Z",
+          "wordCount": 706,
+          "title": "Microsoft 365 Graph API で Viva Engage のコミュニティを作成できるようになりました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231230/20231230020901.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2023/12/29/025400",
           "author": null,
           "description": "Microsoft Edge の AI といえば Bing Chat であることは疑う余地もなく、大多数の方はこれが Edge を利用する理由になっているのではないかと思います。 しかし、 Edge を長く利用していると以下のようなアナウンスが表示されることがあるのです。 AI は AI でも、生成 AI のような動きをするものではなく、行動履歴をもとに最適な情報を提供してくれる仕組みとなっています。 この通知が出たら「今すぐチェック」を行うことで Microsoft Start のトップがニュース中心の画面に変化するのです。 この画面にあるニュースはどんどん変化するようになっています。これは…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/29/025400",
           "publishedOn": "2023-12-28T17:54:00.000Z",
-          "wordCount": 651,
+          "wordCount": 662,
           "title": "Microsoft Edge AI は Bing Chat だけではありません",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231228/20231228225104.png"
         },
@@ -21,7 +31,7 @@
           "description": "Microsoft Copilot in Windows では Windows の機能を操作することができる。といううたい文句で登場したのですが、リリース前の初回アナウンスで披露された機能はダークモードへの移行や Spotify の音声再生といった機能でした。 それでは 2023 年も暮れが差し迫った 12 月はどのような動作が行われるのか見ていきましょう。 と、その前に Copilot を開いたところ、右側の上部に並べて表示、重ねて表示を切り替えるボタンが追加されています。サイドバーの動きもよいのですが、利用できる画面がかなり小さくなるのでフローウィンドウが良いケースは多くありそうです。重ね…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/28/013322",
           "publishedOn": "2023-12-27T16:33:22.000Z",
-          "wordCount": 673,
+          "wordCount": 675,
           "title": "Microsoft Copilot in Windows アプリの起動を行ってみましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231226/20231226002543.png"
         },
@@ -31,7 +41,7 @@
           "description": "Microsoft Edge においては最近サイドバーの進化がかなりのスピードで行われていますが、また新たな機能が追加されていました。 なんとスクリーンショットという機能です。サイドバーの下のほうに追加されました。 これをクリックすると、以下の図が画面下中央に表示されます。 なんと Edge の機能にもかかわらず Edge の外側までスクリーンショットが取れるという状況となるようです。 試しにタスクバーのショットを取ってみたのが以下ですが、 Edge の外側をキャプチャできていますね。 カスタマイズボタンを押してみたところ設定画面が表示され、ショートカットキーのカスタマイズとその適用範囲を選択…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/27/023203",
           "publishedOn": "2023-12-26T17:32:03.000Z",
-          "wordCount": 642,
+          "wordCount": 644,
           "title": "Microsoft Edge 画面キャプチャ機能が内包されるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231219/20231219004339.png"
         },
@@ -41,7 +51,7 @@
           "description": "Microsoft Edge は時折面白い機能を提供してくれるのですが、今回もまた、ブラウザーの使い方を一変させるかもしれない機能が追加されました。 それは左右に画面を分割する機能です。 この機能に気が付いたのはリンクを右クリックして InPrivate モードで開こうとしたときです。その下にリンクを分割画面ウィンドウで開くという項目ができていたのです。 これを押すと文字通りこんな感じに左と右に分かれた一つのタブが表示されました。 アドレスバーがもともとの形を維持したまま左右を表現できるように、ちょっと無理な形になっていますね。 これをクリックするとリンククリック時の動作を選ぶことができるよう…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/26/023026",
           "publishedOn": "2023-12-25T17:30:26.000Z",
-          "wordCount": 632,
+          "wordCount": 634,
           "title": "Microsoft Edge 画面の左右分割機能が追加されています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231214/20231214025109.png"
         },
@@ -51,7 +61,7 @@
           "description": "Microsoft Copilot for Microsoft 365 を利用し始めて気が付いたことなのですが、どうも今流通している M365 Chat は 2 種類のアプリがあるようです。 その二つとは「 M365 Chat (new) 」と「 M365 チャット」です。以下図では左側のアプリ一覧の一番上に M365 Chat (new) があり、その他アプリの一覧に M365 チャットが表示されています。 それぞれバージョン情報を見てみると、 M365 チャットのほうが新しいバージョンが与えられています。 こちらを開くと単なるチャットとして認識するようで、過去の履歴が面々と連なっていました…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/25/021506",
           "publishedOn": "2023-12-24T17:15:06.000Z",
-          "wordCount": 688,
+          "wordCount": 690,
           "title": "Microsoft Copilot Teams の M365 チャットは複数用意されています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231225/20231225005310.png"
         },
@@ -61,7 +71,7 @@
           "description": "Microsoft Copilot for Microsoft 365 は 2023 年時点では大規模な組織に限定しライセンスの提供を行っています。しかしながらこの限定を解除すべく Microsoft は動いているようです。 その一環としてか、 Microsoft 365 関連の MVP が使ってみることができるように一部開放が行われました。 そんなわけで私も利用できるようになったので、これからいろいろ触っていきたいと思います。 今回はその一環で Microsoft Copilot for Microsoft 365 を利用する際の最初のステップを見ていきます。 最初のステップ。それはライセン…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/24/013446",
           "publishedOn": "2023-12-23T16:34:46.000Z",
-          "wordCount": 729,
+          "wordCount": 731,
           "title": "Microsoft Copilot for Microsoft 365 ライセンスの適用に注意しましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231224/20231224010254.png"
         },
@@ -71,7 +81,7 @@
           "description": "Microsoft 365 の機能の一部に Edge ポリシー設定が組み込まれ始めてから半年程度たちましたが、このポリシー設定画面にオーバービュー、概要のページが追加されるようになりました。 https://admin.microsoft.com/#/Edge 大きくは上記画面にあるように Configuration policies の機能と Site lists 機能へのリンクで構成されているのですが、やりたいことと連動しているところが分かりやすくなっていますね。 Create となっている部分が 3 つあるのですが、遷移先はタブと同じように 2 つになっています。 下部には Edge に…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/23/134013",
           "publishedOn": "2023-12-23T04:40:13.000Z",
-          "wordCount": 652,
+          "wordCount": 654,
           "title": "Microsoft 365 Edge ポリシー設定に概要ページが増えました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231223/20231223120842.png"
         },
@@ -81,7 +91,7 @@
           "description": "Microsoft は 2023 年の初めころより cloud.microsoft という企業名を冠したドメインを使い始めています。 これは既存のアプリを置き換えるのではなく新しいアプリを切り替えていくという話だったのですが、どうもその方針を少し変更したようで、すでに URL が割り当てられている Microsoft Loop もこの対象に含めていくことがアナウンスされていました。 すでに cloud.microsoft からアクセスできるようになっており、アクセスは以下より行えます。 https://loop.cloud.microsoft ちなみに過去の URL はこちらですね。 同じサイ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/23/020514",
           "publishedOn": "2023-12-22T17:05:14.000Z",
-          "wordCount": 665,
+          "wordCount": 667,
           "title": "Microsoft 365 Loop の URL が変わるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231221/20231221015620.png"
         },
@@ -91,7 +101,7 @@
           "description": "この利用方法は本命かもしれません。 Microsoft Copilot の個人向け利用にプラグインを活用した処理が含まれるようになっていました。 プラグインは右上のアクティビティの横にあるリンクを押すことで利用を開始できます。 最大 3 つまでプラグインを選択してから会話を開始する流れとなっています。 今回のタイトルにもある曲を作るという点では、プラグインの中にある Suno を選択しておくと作曲が行われます。 この状態で適当なプロンプトを与えてみましょう。 今回は「バラード調の勇気が出そうな歌詞の曲を作って」という形にしてみました。 まず最初に歌詞が展開されます。 大体 1 分前後の楽曲とな…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/22/024918",
           "publishedOn": "2023-12-21T17:49:18.000Z",
-          "wordCount": 645,
+          "wordCount": 647,
           "title": "Microsoft Copilot 個人向けチャットで曲を作れるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231222/20231222012838.png"
         },
@@ -101,7 +111,7 @@
           "description": "この 2023 年は 10 月頃から機能の非推奨化という流れが Windows 関連の機能で多々発生していました。 昨年からのリセッションにおいて、優先すべき事項が大きく変容しているんだろうなーと思っていたのですが、この流れはまだまだ続くようです。 というわけで 12 月に入り、新たに Microsoft Defender Application Guard が非推奨に加わったようです。 https://learn.microsoft.com/ja-jp/windows/security/application-security/application-isolation/microsoft-…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/21/025250",
           "publishedOn": "2023-12-20T17:52:50.000Z",
-          "wordCount": 699,
+          "wordCount": 701,
           "title": "Microsoft Edge Defender Application Guard が非推奨となりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231220/20231220020402.png"
         },
@@ -111,7 +121,7 @@
           "description": "今回のブログは、Microsoft Top Partner Engineer’s Advent Calendar 2023 と連動した内容です。実は、日本マイクロソフト様より「Microsoft Top Partner Engineer Award」 Modern Work を表彰していただいています。 パートナーとして組織向けの情報を提供する機会はあまりないので、今回は Microsoft Copilot for Microsoft 365 に関する意識しておきたい設定を説明しておきたいと思います。 Copilot for Microsoft 365 に関係する設定 Microsoft が …",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/20/002844",
           "publishedOn": "2023-12-19T15:28:44.000Z",
-          "wordCount": 827,
+          "wordCount": 829,
           "title": "Microsoft Copilot for Microsoft 365 Web コンテンツ読み込み設定にはご注意を",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231213/20231213225421.png"
         },
@@ -121,7 +131,7 @@
           "description": "2023 年 11 月の Ignite で発表された Copilot の Web 版ですが、皆さん活用されていますでしょうか。 やっぱり Microsoft 365 E3 などのライセンスを持っていると Enterprise 保護の状態で操作ができるという、組織の管理者への配慮が効いた機能が素晴らしい仕組みです。 https://copilot.microsoft.com/ しかもこれ、 Image Creator の機能も組み込まれているんですよね。 DALL-E 3 の機能をも一いていることもあり、絵の精度がかなり高くなっています。 試しに新しい漫画を描いてとだけ入力したらこのクオリティで…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/19/015800",
           "publishedOn": "2023-12-18T16:58:00.000Z",
-          "wordCount": 684,
+          "wordCount": 686,
           "title": "Microsoft Copilot Web 版 Copilot を活用してみましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231130/20231130021237.png"
         },
@@ -131,7 +141,7 @@
           "description": "今週も Insider Program は元気に更新が続いています。 今回は Canary 、 Dev 、 Beta のそれぞれがバージョンアップしました。 Canary Channel : Build 26016 Dev Channel : Build 23606 Beta Channel : Build 22635.2915 Beta Channel の今回の追加点は Dev Channel で提供されていたところまで全体を引き上げるという程度の変更となっていました。 Windows 365 関連が Beta Channel で提供され始めたこと、音声アクセスのサポート言語の範囲が増え、マ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/18/021727",
           "publishedOn": "2023-12-17T17:17:27.000Z",
-          "wordCount": 751,
+          "wordCount": 753,
           "title": "Windows 11 Insider Preview Build 23606 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231218/20231218005920.png"
         },
@@ -141,7 +151,7 @@
           "description": "Bing Chat と Bing Chat Enpterprise が Microsoft Copilot に名称変更されたのが 2023 年 11 月の Ignite でした。それから 1 か月。さすがに 2 つの製品で 1 つの名前を共有するのは無理があると悟ったのか、 Bing Chat Enterprise の名称変更がアナウンスされたようです。 といっても、名称が変更されるのは Microsoft 365 のライセンス（サービスプラン）の話です。 ちょっと前まで Bing Chat Enterprise だったのですが、 2023 年 12 月中旬には Copilot に変わっている…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/17/034317",
           "publishedOn": "2023-12-16T18:43:17.000Z",
-          "wordCount": 751,
+          "wordCount": 753,
           "title": "Microsoft Copilot Bing Chat Enterprise は Commercial data protection for Microsoft Copilot に名称変更されます",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231217/20231217025030.png"
         },
@@ -151,7 +161,7 @@
           "description": "Windows 10 に Microsoft Copilot が実装され始めているということで、最近になって Windows 10 を触り始めている人もいるのではないかと思います。私も久々に設定アプリをいじっていたのですが、初期設定を行うための機能が追加されているようです。 以下設定アプリの最初の画面上部に、「始めましょう」ボタンが表示されることがあるようです。 これを押すと Windows のセットアップ時に表示される画面と同様の黒っぽい画面が起動します。 OneDrive や Microsoft 365 などの説明が羅列されています。 特に PC を快適に使うための機能群が表示されているよ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/16/032403",
           "publishedOn": "2023-12-15T18:24:03.000Z",
-          "wordCount": 662,
+          "wordCount": 664,
           "title": "Windows 10 設定アプリのホームに初期設定機能がされていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231216/20231216024603.png"
         },
@@ -161,7 +171,7 @@
           "description": "Teams でチャットを行っているとファイルを共有したくなる時があると思います。 しかし、いろいろな人に同じファイルを共有したいときが面倒で、 2023 年前半まではファイルを再アップロードするか、 OneDrive からファイルを選ぶという面倒な方法で探し出すしかありませんでした。 なんとようやくこの状態に手が加わったようで、アップロード時に同じファイルがあるか確認が入り、それを使いたい場合にファイルを自動的に共有してくれるように設定できるようになりました。 まずファイルをアップロードしておきます。 そして別のユーザーで同じファイルを添付してみましょう。 するとこのような形で「代わりに古いフ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/15/031521",
           "publishedOn": "2023-12-14T18:15:21.000Z",
-          "wordCount": 626,
+          "wordCount": 628,
           "title": "Microsoft 365 Teams で同名ファイルの自動共有機能が追加されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231215/20231215020122.png"
         },
@@ -171,7 +181,7 @@
           "description": "Microsoft Edge に新たな機能が搭載されそうです。 Viva Engage を利用してファイルをアップロードしようとしたところ、モバイルと連携するための UI が組み込まれていました。 今回は Viva Engage で試したのですが、 Outlook などでも同じ流れで利用できる感じでした。 まずはファイル操作のダイアログを表示するため、画像アップロードボタンを押します。 すると、いつものファイル名を入力するダイアログの右下にモバイルからアップロードというボタンが追加されていました。（ 2023 年 12 月の Beta Channel で確認しているので、 State に来るの…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/14/030716",
           "publishedOn": "2023-12-13T18:07:16.000Z",
-          "wordCount": 682,
+          "wordCount": 684,
           "title": "Microsoft 365 Edge モバイルアップロード機能が追加されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231210/20231210124826.png"
         },
@@ -181,7 +191,7 @@
           "description": "Microsoft 365 管理センターを眺めていたら、 OneNote のフィード機能の終了について話題が上がっていました。 OneNote のフィードは以下のようにサイドバーの位置に表示されるメモの羅列を指します。 これは開いているセクションなどに依存せずいつでも見ることのできるメモとなっており、個人的には結構好きな UI だったのでなくなるのは若干寂しい機能です。 なくなるのは OneNote の Windows バージョンからのみのようで、 Web 版は影響がないとこのこと。そのため、データはそのまま活用生きるようで、今後は付箋アプリに統合されていくみたいです。時期は 2024 年の …",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/13/025528",
           "publishedOn": "2023-12-12T17:55:28.000Z",
-          "wordCount": 650,
+          "wordCount": 652,
           "title": "Microsoft 365 OneNote のフィード機能が付箋に置き換わるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231213/20231213023743.png"
         },
@@ -191,7 +201,7 @@
           "description": "Windows 11 の Insider Program が久々の大規模更新を行った陰で、もう一つ大きな Insider Program の動きが入っていました。 それは Windows Server Insider が動き出すという点です。 Windows Server 2016 がリリースしたころは Server も Insider Program が用意されていたのですが、いつの間にか消失していたんですよね。 https://techcommunity.microsoft.com/t5/windows-server-insiders/announcing-windows-server-p…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/12/023446",
           "publishedOn": "2023-12-11T17:34:46.000Z",
-          "wordCount": 696,
+          "wordCount": 698,
           "title": "Windows Server vNext が始動するようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231212/20231212015210.png"
         },
@@ -201,7 +211,7 @@
           "description": "今年も最終月に入り、 Windows 開発も年納の時期に入ってきました。 12 月は B リリース以外の Windows Update は行われないようですが、 Insider Program はまだまだ続きます。 というわけで今週は以下のチャネルが更新対象となっています。 Canary Channel : Build 26010 Dev Channel : Build 23601 Beta Channel : Build 22635.2841 - 22635.2850 Beta Channel は 2 回更新が入っていますね。 今回の更新では、 Dev と Beta で共有の機能に What…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/11/004609",
           "publishedOn": "2023-12-10T15:46:09.000Z",
-          "wordCount": 744,
+          "wordCount": 746,
           "title": "Windows 11 Insider Preview Build 23601 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231210/20231210134810.png"
         },
@@ -211,7 +221,7 @@
           "description": "Exchange Web Services が EOS となった時からいつかはやってくると思っていましたが、とうとう SharePoint アドインのサポート終了がアナウンスされました。 https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/retirement-announcement-for-add-ins?WT.mc_id=M365-MVP-5002496 この Learn によると、 2024 年 11 月に新規テナントで利用できなくなり、既存テナントでも 2026 年 4 月には活用できなくなるとのこと。SharePo…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/10/025456",
           "publishedOn": "2023-12-09T17:54:56.000Z",
-          "wordCount": 653,
+          "wordCount": 655,
           "title": "Microsoft 365 SharePoint アドインのサポート終了がアナウンスされています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231129/20231129011735.png"
         },
@@ -221,7 +231,7 @@
           "description": "このブログを書いていて気が付いたのですが、 Edge に Copilot で文章を書き換えてくれる機能が追加されたようです。 Windows とはこのような動きをするものなのである。 今回は上記の文章で試してみたのですが、入力した文章を以下のように選択すると Copilot のメニューが表示されました。 これをクリックするか、 Alt + i でも起動することができます。 起動するとこんなダイアログが下部に表示されます。 その後、文章を書き換えたプレビュー画面が表示されました。 この画面でいくつか文章を検討し、元の文章を置換していくという使い方となっています。 文章のテイストを変更するには調整…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/09/021732",
           "publishedOn": "2023-12-08T17:17:32.000Z",
-          "wordCount": 678,
+          "wordCount": 680,
           "title": "Microsoft Edge Copilot がテキストボックスにやってきました！",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231209/20231209005016.png"
         },
@@ -231,7 +241,7 @@
           "description": "Windows XP や Windows 7 に続き、 Windows 10 にも ESU Extended Security Update がやってくることになったようです。 2025 年の EOS に向けて準備が始まっている点が中心で、詳細の記述はなくこれから時間をかけて伝えていかれるのかと思われます。 なお、LTSC などには ESU の話が出ておらず、こちらは 10 年サポートから延長はなさそうな雰囲気です。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-w…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/08/032349",
           "publishedOn": "2023-12-07T18:23:49.000Z",
-          "wordCount": 708,
+          "wordCount": 710,
           "title": "Windows 10 ESU が発表されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231207/20231207024952.png"
         },
@@ -241,7 +251,7 @@
           "description": "ここ数年、この時期になるとびくびくとする感じなのですが、今年も Microsoft 製品に関する価格改定が発表されました。 https://news.microsoft.com/2023/12/05/consistent-global-pricing-for-the-microsoft-cloud-2/?WT.mc_id=M365-MVP-5002496 今回は日本のみ大きくはねるかたちとなっており、なんと 20% もの改定が入っています。 これは製品自体の価格が上がったというわけではなくドルに合わせた為替差額の吸収という側面となっています。これは 2023 年 4 月の改定でも言われていて、…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/07/023407",
           "publishedOn": "2023-12-06T17:34:07.000Z",
-          "wordCount": 684,
+          "wordCount": 686,
           "title": "Microsoft 365 2024 年 4 月の価格改定が発表されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231207/20231207013953.png"
         },
@@ -251,7 +261,7 @@
           "description": "Microsoft Copilot は 2023 年 11 月 1 日のリリース以来、様々なページが用意されています。 その一つである adoption ページを今回は紹介しておきたいと思います。 このサイトは以下から遷移することができるページです。 https://adoption.microsoft.com/ja-jp/copilot/ 見ていただくとわかるように、組織内での役割別に情報が整理されており、 Copilot をだれがどのような形で利用したらよいかがまとまっています。 ビジネスユーザー向けには Microsoft Copilot とは何か。を説明する情報がまとまっています。 リ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/06/024331",
           "publishedOn": "2023-12-05T17:43:31.000Z",
-          "wordCount": 680,
+          "wordCount": 682,
           "title": "Microsoft Copilot Adoption ページで情報を整理しましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231206/20231206021025.png"
         },
@@ -261,7 +271,7 @@
           "description": "Microsoft 365 管理センターに見慣れないサイトへの案内が投稿されていました。 skilling snacks という IT Pro 向けのブログの紹介ですね。 こういった紹介はあまり見ないコンテンツなのですが、中を見たところちょっと面白かったので紹介しておきたいと思います。 この skilling snacks は 2 時間以内で消化できる学習コンテンツとなっているようで、隔週で情報を提供しているようでした。 この 2023 年 11 月には、配信の最適化、アプリケーション制御など Windows OS の機能周りの話が出ています。 https://techcommunity.mi…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/05/023242",
           "publishedOn": "2023-12-04T17:32:42.000Z",
-          "wordCount": 663,
+          "wordCount": 665,
           "title": "Windows 11 Windows skilling snacks を使いこなしてみませんか",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231205/20231205013227.png"
         },
@@ -271,7 +281,7 @@
           "description": "先週少しお休み気味だった Windows 11 Insider Program ですが、今週は Dev Channel と Beta Channel 、 Canary Channel が更新されています。 Canary Channel : Build 26002 Dev Channel : Build 23595 Beta Channel : Build 22635.2776 今週の更新では Beta Channel で Windows 共有と Windows インクに関するアナウンスが行われています。 共有は Entra ID でサインインしていると Teams と共有できるようになるとのこ…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/04/012928",
           "publishedOn": "2023-12-03T16:29:28.000Z",
-          "wordCount": 739,
+          "wordCount": 741,
           "title": "Windows 11 Insider Preview Build 23595 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231204/20231204002746.png"
         },
@@ -281,7 +291,7 @@
           "description": "最近 Outlook on the Web をあまり開く機会がなかったのですが、開いてみたら画面上部のメニューにちょっと違和感が、、、 Teams 関連の項目が追加されているようです。 Teams で通話ボタンを押すと Teams が起動します。 自分の名前で会議が開いたので、今すぐ会議と同等の動きになるようですね。 これは外部の人からのメールを見て、緊急的に連絡を取りたい。といったオペレーションで利用しそうな感じですね。十分ありなシチュエーションです。 もう一つ横にある会話マークのボタンは押下するとチャットという画面が開きました。 この表示は Teams のチャットの並びとも違っているのです…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/03/023838",
           "publishedOn": "2023-12-02T17:38:38.000Z",
-          "wordCount": 665,
+          "wordCount": 667,
           "title": "Microsoft 365 Outlook on the Web に Teams のチャットが連携されるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231127/20231127011236.png"
         },
@@ -291,19 +301,9 @@
           "description": "Microsoft は数年周期で Windows 標準メールアプリを変更している感じがしますが、 Windows 11 にて 2023 年から 2024 年には Windows メールから Outlook に切り替わることがアナウンスされています。 今まで Outlook Express など似た名前はあったのですが、 とうとう Microsoft 365 Apps の Outlook と同名のアプリになることに。 同名だけであればまだしもな感じだったのですが、どうもどちらも同じものを指しているのではないかという感じがしています。 こんな感じにメール、 Outlook 、 Outlook (n…",
           "link": "https://mitomoha.hatenablog.com/entry/2023/12/02/013059",
           "publishedOn": "2023-12-01T16:30:59.000Z",
-          "wordCount": 732,
+          "wordCount": 734,
           "title": "Microsoft 365 Outlook と Windows メールの Outlook は同一のものに収束されていくようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231124/20231124022453.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/12/01/023957",
-          "author": null,
-          "description": "Microsoft Stream は 2021 年ころに SharePoint ベースに生まれ変わり、個別サイトで運営されていた動画は 2024 年 4 月 15 日までに移行を終えなければならないこととなっています。 この大枠の流れは、以下の移行ツールがリリースされた際にお伝えしていますが、移行は順調に進んでいますか？ https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration/ 移行自身は一方通行となっているため、一向に踏み切れいていなかった方も多くいらっしゃったのではないかと思われます。 実際はこの 4 …",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/12/01/023957",
-          "publishedOn": "2023-11-30T17:39:57.000Z",
-          "wordCount": 674,
-          "title": "Microsoft 365 Stream Classic の EOS に向けた準備は進んでいますか",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231201/20231201022520.png"
         }
       ]
     },
