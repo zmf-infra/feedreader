@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-30T00:36:39.356Z</id>
+    <id>urn:2023-12-31T00:40:36.018Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T00:36:39.356Z</updated>
+    <updated>2023-12-31T00:40:36.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 向けのプラグインを見ていきましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2023/12/31/023126</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2023/12/31/023126"/>
+        <updated>2023-12-30T17:31:26.000Z</updated>
+        <summary type="html"><![CDATA[最近は Microsoft Copilot for Microsoft 365 の調査として Microsoft Chat を筆頭にいろいろ触っているのですが、プラグインという項目にサンプルアプリが入っていたので今回はこれを軽く触っていきたいと思います。 チャット画面にあるアプリボタンを押すとプラグインを見ることができます。 サンプルで Northwind Inventory というものが入っていました。 Microsoft Chat の場合、プラグインを起動するためにはユーザーがそのプラグインを明示的に利用する必要があります。 その状態で Microsoft Chat に商品在庫を確認したと…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Graph API で Viva Engage のコミュニティを作成できるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/30/024423</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/03/023838"/>
         <updated>2023-12-02T17:38:38.000Z</updated>
         <summary type="html"><![CDATA[最近 Outlook on the Web をあまり開く機会がなかったのですが、開いてみたら画面上部のメニューにちょっと違和感が、、、 Teams 関連の項目が追加されているようです。 Teams で通話ボタンを押すと Teams が起動します。 自分の名前で会議が開いたので、今すぐ会議と同等の動きになるようですね。 これは外部の人からのメールを見て、緊急的に連絡を取りたい。といったオペレーションで利用しそうな感じですね。十分ありなシチュエーションです。 もう一つ横にある会話マークのボタンは押下するとチャットという画面が開きました。 この表示は Teams のチャットの並びとも違っているのです…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Outlook と Windows メールの Outlook は同一のものに収束されていくようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/02/013059</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/02/013059"/>
-        <updated>2023-12-01T16:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft は数年周期で Windows 標準メールアプリを変更している感じがしますが、 Windows 11 にて 2023 年から 2024 年には Windows メールから Outlook に切り替わることがアナウンスされています。 今まで Outlook Express など似た名前はあったのですが、 とうとう Microsoft 365 Apps の Outlook と同名のアプリになることに。 同名だけであればまだしもな感じだったのですが、どうもどちらも同じものを指しているのではないかという感じがしています。 こんな感じにメール、 Outlook 、 Outlook (n…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
