@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-31T00:40:36.018Z</id>
+    <id>urn:2024-01-01T00:42:01.424Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T00:40:36.018Z</updated>
+    <updated>2024-01-01T00:42:01.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge 職場向けプロファイルの動きを見ておきましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/01/005313</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/01/005313"/>
+        <updated>2023-12-31T15:53:13.000Z</updated>
+        <summary type="html"><![CDATA[最近、 SharePoint Online のサイトを開こうとしたときに自動的にプロファイルが切り替わる動作が加わっており、どうしてこの動きになるのかなーと気になっていたのですが、調べを進めていくうちに理由が見えてきたので共有しておきたいと思います。 こんな感じに Edge のアイコンが 1 つ増えて、そちら側のアプリで開くイメージになります。 この遷移が入ったサイトはアドレスバーの右側に人のマークが表示されます。 これは切り替え設定がされているケースで表示されるみたいですね。 この設定ですが、設定 - プロファイル - プロファイルの基本設定から設定できるようになっています。 本来は「プロフ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 向けのプラグインを見ていきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/31/023126</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/04/012928"/>
         <updated>2023-12-03T16:29:28.000Z</updated>
         <summary type="html"><![CDATA[先週少しお休み気味だった Windows 11 Insider Program ですが、今週は Dev Channel と Beta Channel 、 Canary Channel が更新されています。 Canary Channel : Build 26002 Dev Channel : Build 23595 Beta Channel : Build 22635.2776 今週の更新では Beta Channel で Windows 共有と Windows インクに関するアナウンスが行われています。 共有は Entra ID でサインインしていると Teams と共有できるようになるとのこ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Outlook on the Web に Teams のチャットが連携されるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/03/023838</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/03/023838"/>
-        <updated>2023-12-02T17:38:38.000Z</updated>
-        <summary type="html"><![CDATA[最近 Outlook on the Web をあまり開く機会がなかったのですが、開いてみたら画面上部のメニューにちょっと違和感が、、、 Teams 関連の項目が追加されているようです。 Teams で通話ボタンを押すと Teams が起動します。 自分の名前で会議が開いたので、今すぐ会議と同等の動きになるようですね。 これは外部の人からのメールを見て、緊急的に連絡を取りたい。といったオペレーションで利用しそうな感じですね。十分ありなシチュエーションです。 もう一つ横にある会話マークのボタンは押下するとチャットという画面が開きました。 この表示は Teams のチャットの並びとも違っているのです…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
