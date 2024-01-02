@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-01T00:42:01.424Z</id>
+    <id>urn:2024-01-02T00:37:21.044Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T00:42:01.424Z</updated>
+    <updated>2024-01-02T00:37:21.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mircorosoft 365 Teams にイマーシブ スペースのメニューが追加されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/02/020554</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/02/020554"/>
+        <updated>2024-01-01T17:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Ignite 2023 で 2024 年 1 月に GA することがアナウンスされている Teams をアバターとして利用するための Mesh とイマーシブ スペースですが、すでに利用メニューが追加されているようです。 以下は新しい Teams の会議を開いた後に表示される表示メニューとなっています。 この「イマーシブ スペース (3D) 」というのがイマーシブスペースを起動するためのボタンとなっています。 これを押すとイマーシブ スペースが起動を始めます。 Microsoft Mesh のスプラッシュが表示されるところからスタートとなるようです。 1 分くらいでしょうか。結構この画面が長く表…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge 職場向けプロファイルの動きを見ておきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/01/005313</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/05/023242"/>
         <updated>2023-12-04T17:32:42.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 管理センターに見慣れないサイトへの案内が投稿されていました。 skilling snacks という IT Pro 向けのブログの紹介ですね。 こういった紹介はあまり見ないコンテンツなのですが、中を見たところちょっと面白かったので紹介しておきたいと思います。 この skilling snacks は 2 時間以内で消化できる学習コンテンツとなっているようで、隔週で情報を提供しているようでした。 この 2023 年 11 月には、配信の最適化、アプリケーション制御など Windows OS の機能周りの話が出ています。 https://techcommunity.mi…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23595 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/04/012928</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/04/012928"/>
-        <updated>2023-12-03T16:29:28.000Z</updated>
-        <summary type="html"><![CDATA[先週少しお休み気味だった Windows 11 Insider Program ですが、今週は Dev Channel と Beta Channel 、 Canary Channel が更新されています。 Canary Channel : Build 26002 Dev Channel : Build 23595 Beta Channel : Build 22635.2776 今週の更新では Beta Channel で Windows 共有と Windows インクに関するアナウンスが行われています。 共有は Entra ID でサインインしていると Teams と共有できるようになるとのこ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

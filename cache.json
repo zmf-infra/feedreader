@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/01/02/020554",
+          "author": null,
+          "description": "Ignite 2023 で 2024 年 1 月に GA することがアナウンスされている Teams をアバターとして利用するための Mesh とイマーシブ スペースですが、すでに利用メニューが追加されているようです。 以下は新しい Teams の会議を開いた後に表示される表示メニューとなっています。 この「イマーシブ スペース (3D) 」というのがイマーシブスペースを起動するためのボタンとなっています。 これを押すとイマーシブ スペースが起動を始めます。 Microsoft Mesh のスプラッシュが表示されるところからスタートとなるようです。 1 分くらいでしょうか。結構この画面が長く表…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/01/02/020554",
+          "publishedOn": "2024-01-01T17:05:54.000Z",
+          "wordCount": 680,
+          "title": "Mircorosoft 365 Teams にイマーシブ スペースのメニューが追加されました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240102/20240102003819.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/01/01/005313",
           "author": null,
           "description": "最近、 SharePoint Online のサイトを開こうとしたときに自動的にプロファイルが切り替わる動作が加わっており、どうしてこの動きになるのかなーと気になっていたのですが、調べを進めていくうちに理由が見えてきたので共有しておきたいと思います。 こんな感じに Edge のアイコンが 1 つ増えて、そちら側のアプリで開くイメージになります。 この遷移が入ったサイトはアドレスバーの右側に人のマークが表示されます。 これは切り替え設定がされているケースで表示されるみたいですね。 この設定ですが、設定 - プロファイル - プロファイルの基本設定から設定できるようになっています。 本来は「プロフ…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/01/005313",
           "publishedOn": "2023-12-31T15:53:13.000Z",
-          "wordCount": 643,
+          "wordCount": 649,
           "title": "Microsoft Edge 職場向けプロファイルの動きを見ておきましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231231/20231231225437.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 674,
           "title": "Windows 11 Windows skilling snacks を使いこなしてみませんか",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231205/20231205013227.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/12/04/012928",
-          "author": null,
-          "description": "先週少しお休み気味だった Windows 11 Insider Program ですが、今週は Dev Channel と Beta Channel 、 Canary Channel が更新されています。 Canary Channel : Build 26002 Dev Channel : Build 23595 Beta Channel : Build 22635.2776 今週の更新では Beta Channel で Windows 共有と Windows インクに関するアナウンスが行われています。 共有は Entra ID でサインインしていると Teams と共有できるようになるとのこ…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/12/04/012928",
-          "publishedOn": "2023-12-03T16:29:28.000Z",
-          "wordCount": 750,
-          "title": "Windows 11 Insider Preview Build 23595 リリース",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231204/20231204002746.png"
         }
       ]
     },
