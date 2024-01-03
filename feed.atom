@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-02T00:37:21.044Z</id>
+    <id>urn:2024-01-03T00:37:35.424Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T00:37:21.044Z</updated>
+    <updated>2024-01-03T00:37:35.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Snipping Tool のテキスト アクションを使いこなしましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/03/013854</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/03/013854"/>
+        <updated>2024-01-02T16:38:54.000Z</updated>
+        <summary type="html"><![CDATA[この冬休みは最近触っていなかった様々な機能を試して、実際にどういったものが有用なのか調べているのですが、またまたちゃんと利用できていなかった機能を見つけました。 それは Windows 11 に標準で搭載されている Snipping Tool の文字認識機能です。 Win + Shift + S で呼び出すことができるスクリーンキャプチャを活用して、呼び出して利用するというシーンが想定できます。 いつも通りではありますが、 Microsoft のホームページで試してみましょう。 https://www.microsoft.com/ja-jp/ こんな感じにスクリーンをキャプチャすると、右下に …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mircorosoft 365 Teams にイマーシブ スペースのメニューが追加されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/02/020554</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/06/024331"/>
         <updated>2023-12-05T17:43:31.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot は 2023 年 11 月 1 日のリリース以来、様々なページが用意されています。 その一つである adoption ページを今回は紹介しておきたいと思います。 このサイトは以下から遷移することができるページです。 https://adoption.microsoft.com/ja-jp/copilot/ 見ていただくとわかるように、組織内での役割別に情報が整理されており、 Copilot をだれがどのような形で利用したらよいかがまとまっています。 ビジネスユーザー向けには Microsoft Copilot とは何か。を説明する情報がまとまっています。 リ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Windows skilling snacks を使いこなしてみませんか]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/05/023242</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/05/023242"/>
-        <updated>2023-12-04T17:32:42.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 管理センターに見慣れないサイトへの案内が投稿されていました。 skilling snacks という IT Pro 向けのブログの紹介ですね。 こういった紹介はあまり見ないコンテンツなのですが、中を見たところちょっと面白かったので紹介しておきたいと思います。 この skilling snacks は 2 時間以内で消化できる学習コンテンツとなっているようで、隔週で情報を提供しているようでした。 この 2023 年 11 月には、配信の最適化、アプリケーション制御など Windows OS の機能周りの話が出ています。 https://techcommunity.mi…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
