@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-03T00:37:35.424Z</id>
+    <id>urn:2024-01-04T00:38:15.651Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T00:37:35.424Z</updated>
+    <updated>2024-01-04T00:38:15.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 古いメール暗号化は 2024 年 1 月で EOS となります]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/04/025336</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/04/025336"/>
+        <updated>2024-01-03T17:53:36.000Z</updated>
+        <summary type="html"><![CDATA[2024 年のマイクロソフトは早くも始動しているようです。 メッセージセンター上で各種アップデートが行われていました。 その中でもこの 1 月、特に意識しておきたいのは暗号化が新しくなった点です。 すでにこの暗号化機能は利用できるのですが、 html の添付ファイルベースのバージョンは 2024 年 1 月に完全終了するということで注意喚起のアナウンスが行われていたというわけです。 この暗号化機能ですが、かなり秀逸で、俗に言う PPAP を代替できる機能といっても過言ではないのではと思っています。 まず利用。 Outlook でメールを作成し、オプションメニューから暗号化を選ぶだけで利用できま…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Snipping Tool のテキスト アクションを使いこなしましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/03/013854</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/07/023407"/>
         <updated>2023-12-06T17:34:07.000Z</updated>
         <summary type="html"><![CDATA[ここ数年、この時期になるとびくびくとする感じなのですが、今年も Microsoft 製品に関する価格改定が発表されました。 https://news.microsoft.com/2023/12/05/consistent-global-pricing-for-the-microsoft-cloud-2/?WT.mc_id=M365-MVP-5002496 今回は日本のみ大きくはねるかたちとなっており、なんと 20% もの改定が入っています。 これは製品自体の価格が上がったというわけではなくドルに合わせた為替差額の吸収という側面となっています。これは 2023 年 4 月の改定でも言われていて、…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot Adoption ページで情報を整理しましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/06/024331</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/06/024331"/>
-        <updated>2023-12-05T17:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot は 2023 年 11 月 1 日のリリース以来、様々なページが用意されています。 その一つである adoption ページを今回は紹介しておきたいと思います。 このサイトは以下から遷移することができるページです。 https://adoption.microsoft.com/ja-jp/copilot/ 見ていただくとわかるように、組織内での役割別に情報が整理されており、 Copilot をだれがどのような形で利用したらよいかがまとまっています。 ビジネスユーザー向けには Microsoft Copilot とは何か。を説明する情報がまとまっています。 リ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
