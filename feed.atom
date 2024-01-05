@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-04T00:38:15.651Z</id>
+    <id>urn:2024-01-05T00:38:19.641Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T00:38:15.651Z</updated>
+    <updated>2024-01-05T00:38:19.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Copilot 向けのキーがキーボードに追加されることになったようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/05/032849</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/05/032849"/>
+        <updated>2024-01-04T18:28:49.000Z</updated>
+        <summary type="html"><![CDATA[英語圏では Win キー以来 30 年ぶりのキー配列変更ということで、大きな話題として取り上げられたようなのですが、とうとう Copilot はキーボード配列をも変更する力を持ったようです。 というわけで 2024 年春以降にリリースする PC のキーボードには Copilot キーが搭載されるようになる旨がアナウンスされました。 https://blogs.windows.com/windowsexperience/2024/01/04/introducing-a-new-copilot-key-to-kick-off-the-year-of-ai-powered-windows-pcs/?…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 古いメール暗号化は 2024 年 1 月で EOS となります]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/04/025336</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/08/032349"/>
         <updated>2023-12-07T18:23:49.000Z</updated>
         <summary type="html"><![CDATA[Windows XP や Windows 7 に続き、 Windows 10 にも ESU Extended Security Update がやってくることになったようです。 2025 年の EOS に向けて準備が始まっている点が中心で、詳細の記述はなくこれから時間をかけて伝えていかれるのかと思われます。 なお、LTSC などには ESU の話が出ておらず、こちらは 10 年サポートから延長はなさそうな雰囲気です。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-w…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 2024 年 4 月の価格改定が発表されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/07/023407</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/07/023407"/>
-        <updated>2023-12-06T17:34:07.000Z</updated>
-        <summary type="html"><![CDATA[ここ数年、この時期になるとびくびくとする感じなのですが、今年も Microsoft 製品に関する価格改定が発表されました。 https://news.microsoft.com/2023/12/05/consistent-global-pricing-for-the-microsoft-cloud-2/?WT.mc_id=M365-MVP-5002496 今回は日本のみ大きくはねるかたちとなっており、なんと 20% もの改定が入っています。 これは製品自体の価格が上がったというわけではなくドルに合わせた為替差額の吸収という側面となっています。これは 2023 年 4 月の改定でも言われていて、…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
