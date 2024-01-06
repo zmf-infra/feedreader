@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-05T00:38:19.641Z</id>
+    <id>urn:2024-01-06T00:37:42.539Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T00:38:19.641Z</updated>
+    <updated>2024-01-06T00:37:42.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge 2023 年の振り返りサイトが用意されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/06/034835</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/06/034835"/>
+        <updated>2024-01-05T18:48:35.000Z</updated>
+        <summary type="html"><![CDATA[最近、 Microsoft Edge は Beta Channel での利用をしていたので、気が付くのに遅れたのですが、 Stable Channel では 2023 年を振り返るサイトを用意していたようです。 https://www.microsoft.com/ja-jp/edge/update/year-in-review?form=MT00LC&channel=stable&version=120.0.2210.91 このページは 2023 年に数値上で起こったことを振り返るようになっています。次へを押していくと、どういったことが起きたのかわかるようになっているというわけです。 まず一つ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Copilot 向けのキーがキーボードに追加されることになったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/05/032849</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/09/021732"/>
         <updated>2023-12-08T17:17:32.000Z</updated>
         <summary type="html"><![CDATA[このブログを書いていて気が付いたのですが、 Edge に Copilot で文章を書き換えてくれる機能が追加されたようです。 Windows とはこのような動きをするものなのである。 今回は上記の文章で試してみたのですが、入力した文章を以下のように選択すると Copilot のメニューが表示されました。 これをクリックするか、 Alt + i でも起動することができます。 起動するとこんなダイアログが下部に表示されます。 その後、文章を書き換えたプレビュー画面が表示されました。 この画面でいくつか文章を検討し、元の文章を置換していくという使い方となっています。 文章のテイストを変更するには調整…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10 ESU が発表されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/08/032349</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/08/032349"/>
-        <updated>2023-12-07T18:23:49.000Z</updated>
-        <summary type="html"><![CDATA[Windows XP や Windows 7 に続き、 Windows 10 にも ESU Extended Security Update がやってくることになったようです。 2025 年の EOS に向けて準備が始まっている点が中心で、詳細の記述はなくこれから時間をかけて伝えていかれるのかと思われます。 なお、LTSC などには ESU の話が出ておらず、こちらは 10 年サポートから延長はなさそうな雰囲気です。 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/plan-for-windows-10-eos-with-w…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
