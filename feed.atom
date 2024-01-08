@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-07T00:42:06.939Z</id>
+    <id>urn:2024-01-08T00:39:21.438Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T00:42:06.939Z</updated>
+    <updated>2024-01-08T00:39:21.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23612 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/08/030613</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/08/030613"/>
+        <updated>2024-01-07T18:06:13.000Z</updated>
+        <summary type="html"><![CDATA[年が明けて数日ではありますが、もう Insider Program は稼働を始めています。 やっぱりクリスマスが過ぎると通常運航にすぐ切り替わっていくんですよね。 Microsoft の年始は早いです。 今回は以下のようなバージョンアップが行われました。 Canary Channel : Build 26020 Dev Channel : Build 23612 Beta Channel : Build 22635.2921 Canary Channel は音声入力関連において日本語で利用開始などのアップデートがアナウンスされていました。 前に Dev Channel でリリースしていたナレー…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 検索履歴を見てみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/07/012029</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/11/004609"/>
         <updated>2023-12-10T15:46:09.000Z</updated>
         <summary type="html"><![CDATA[今年も最終月に入り、 Windows 開発も年納の時期に入ってきました。 12 月は B リリース以外の Windows Update は行われないようですが、 Insider Program はまだまだ続きます。 というわけで今週は以下のチャネルが更新対象となっています。 Canary Channel : Build 26010 Dev Channel : Build 23601 Beta Channel : Build 22635.2841 - 22635.2850 Beta Channel は 2 回更新が入っていますね。 今回の更新では、 Dev と Beta で共有の機能に What…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 SharePoint アドインのサポート終了がアナウンスされています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/10/025456</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/10/025456"/>
-        <updated>2023-12-09T17:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Exchange Web Services が EOS となった時からいつかはやってくると思っていましたが、とうとう SharePoint アドインのサポート終了がアナウンスされました。 https://learn.microsoft.com/en-us/sharepoint/dev/sp-add-ins/retirement-announcement-for-add-ins?WT.mc_id=M365-MVP-5002496 この Learn によると、 2024 年 11 月に新規テナントで利用できなくなり、既存テナントでも 2026 年 4 月には活用できなくなるとのこと。SharePo…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
