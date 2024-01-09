@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-08T00:39:21.438Z</id>
+    <id>urn:2024-01-09T00:39:01.919Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T00:39:21.438Z</updated>
+    <updated>2024-01-09T00:39:01.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams の無料版で組織会議にアクセスできるようになります]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/09/024808</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/09/024808"/>
+        <updated>2024-01-08T17:48:08.000Z</updated>
+        <summary type="html"><![CDATA[2024 年、 Microsoft 365 の機能はまだまだ進化を続けていくようです。 Microsoft 365 メッセージセンターに Teams の無料版で組織版 Teams の会議に参加できるようになることがアナウンスされていました。 この変更は結構大きくて、今まで MSA で Teams 会議に入ろうとした場合、 Web 版で匿名アクセスするくらいしかなかったんですよね。これが 2024 年 2 月から 3 月にかけて解禁になるということですね。 この周りにおける設定についてもこの変更によって追加されたようです。 Microsoft Teams 管理センター内の設定とポリシーの外部アク…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23612 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/08/030613</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/12/023446"/>
         <updated>2023-12-11T17:34:46.000Z</updated>
         <summary type="html"><![CDATA[Windows 11 の Insider Program が久々の大規模更新を行った陰で、もう一つ大きな Insider Program の動きが入っていました。 それは Windows Server Insider が動き出すという点です。 Windows Server 2016 がリリースしたころは Server も Insider Program が用意されていたのですが、いつの間にか消失していたんですよね。 https://techcommunity.microsoft.com/t5/windows-server-insiders/announcing-windows-server-p…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23601 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/11/004609</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/11/004609"/>
-        <updated>2023-12-10T15:46:09.000Z</updated>
-        <summary type="html"><![CDATA[今年も最終月に入り、 Windows 開発も年納の時期に入ってきました。 12 月は B リリース以外の Windows Update は行われないようですが、 Insider Program はまだまだ続きます。 というわけで今週は以下のチャネルが更新対象となっています。 Canary Channel : Build 26010 Dev Channel : Build 23601 Beta Channel : Build 22635.2841 - 22635.2850 Beta Channel は 2 回更新が入っていますね。 今回の更新では、 Dev と Beta で共有の機能に What…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
