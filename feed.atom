@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-09T00:39:01.919Z</id>
+    <id>urn:2024-01-10T00:38:51.662Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T00:39:01.919Z</updated>
+    <updated>2024-01-10T00:38:51.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：「会議」アプリの名称が「ミーティング」へ]]></title>
+        <id>https://art-break.net/tech/?p=20268</id>
+        <link href="https://art-break.net/tech/?p=20268"/>
+        <updated>2024-01-09T23:25:34.000Z</updated>
+        <summary type="html"><![CDATA[記事内容的には小ネタです。 2023年12月に Microsoft Teams に「会議」アプリが登場しました。 Microsoft Teams ：「会議」アプリ登場したけど便利そう？ 会議にフォーカスしたアプリで、たく … "Microsoft Teams ：「会議」アプリの名称が「ミーティング」へ" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge Windows 10 でサイドバーを分離できる機能が用意されているようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/10/003152</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/10/003152"/>
+        <updated>2024-01-09T15:31:52.000Z</updated>
+        <summary type="html"><![CDATA[最近 Windows 10 は利用をしていなかったのですが、久々に利用してみたらサイドバーに面白い機能がついていることを知りました。 というわけで今回はサイドバーのデタッチ機能を見ていきたいと思います。 サイド バーの下から 2 つ目の機能ですね。これ、 Windows 11 では表示されない機能なんですよね。 これを押下すると、デスクトップの右端にこのバーが引っ付きます。 この状態で一番上にある Copilot ボタンを押せば Microsoft Copilot の起動も行えます。 Copilot for Windows ではなく for Edge なので、 Windows 機能に対しての動…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Stream ：共有設定のダウンロード禁止オプションがわかりやすくなった]]></title>
+        <id>https://art-break.net/tech/?p=20248</id>
+        <link href="https://art-break.net/tech/?p=20248"/>
+        <updated>2024-01-09T09:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Stream も Classic から on SharePoint の移行も終盤に差し掛かり、ついに今年2024年4月15日には Classic の方が廃止となり、移行されていない動画は全て削除される … "Microsoft Stream ：共有設定のダウンロード禁止オプションがわかりやすくなった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams の無料版で組織会議にアクセスできるようになります]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/09/024808</id>
@@ -366,41 +396,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SharePoint ：ドキュメントライブラリ にもテンプレート]]></title>
-        <id>https://art-break.net/tech/?p=20103</id>
-        <link href="https://art-break.net/tech/?p=20103"/>
-        <updated>2023-12-13T01:57:01.000Z</updated>
-        <summary type="html"><![CDATA[こちらも標準リリース環境でも11月中旬に展開されたので少し遅い情報になるけど、色々忙しかったのでゴメンナサイ！ という事で、 SharePoint と言えば、「ページ・ニュース」「ライブラリ」「リスト」が3大要素ですよね … "SharePoint ：ドキュメントライブラリ にもテンプレート" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 OneNote のフィード機能が付箋に置き換わるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/13/025528</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/13/025528"/>
         <updated>2023-12-12T17:55:28.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 管理センターを眺めていたら、 OneNote のフィード機能の終了について話題が上がっていました。 OneNote のフィードは以下のようにサイドバーの位置に表示されるメモの羅列を指します。 これは開いているセクションなどに依存せずいつでも見ることのできるメモとなっており、個人的には結構好きな UI だったのでなくなるのは若干寂しい機能です。 なくなるのは OneNote の Windows バージョンからのみのようで、 Web 版は影響がないとこのこと。そのため、データはそのまま活用生きるようで、今後は付箋アプリに統合されていくみたいです。時期は 2024 年の …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャットやチャネル内での検索（コンテキスト検索）が変わった]]></title>
-        <id>https://art-break.net/tech/?p=20079</id>
-        <link href="https://art-break.net/tech/?p=20079"/>
-        <updated>2023-12-12T00:50:18.000Z</updated>
-        <summary type="html"><![CDATA[僕はあまり Microsoft Teams 上で検索機能を利用する事はありませんが、検索機能を多用する方も多いと思います。 Microsoft Teams では上部に検索バーがあるので全体を検索できますが、「このチャット … "Microsoft Teams ：チャットやチャネル内での検索（コンテキスト検索）が変わった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Server vNext が始動するようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/12/023446</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/12/023446"/>
-        <updated>2023-12-11T17:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 の Insider Program が久々の大規模更新を行った陰で、もう一つ大きな Insider Program の動きが入っていました。 それは Windows Server Insider が動き出すという点です。 Windows Server 2016 がリリースしたころは Server も Insider Program が用意されていたのですが、いつの間にか消失していたんですよね。 https://techcommunity.microsoft.com/t5/windows-server-insiders/announcing-windows-server-p…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
