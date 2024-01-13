@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T00:38:49.631Z</id>
+    <id>urn:2024-01-13T00:38:12.692Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T00:38:49.631Z</updated>
+    <updated>2024-01-13T00:38:12.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Apps Office 準備ツールキットの EOS は 2024 年 3 月末となっています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/13/023118</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/13/023118"/>
+        <updated>2024-01-12T17:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 メッセージセンターに思いがけないメッセージが飛び込んできました。 それは Office 準備ツールキットの廃止の話題です。 2024 年 3 月 31 日をもって、 Office 準備ツールキットが廃止となるようです。 Office 準備ツールキットとは、主に Office 2010 などのナンバリング版の Office を Microsoft 365 Apps 並行するためのツールでした。 昔はナンバリング版と Microsoft 365 Apps で主に VBA やマクロの部分で互換性が不足しており、うまく動作しないケースた多くあったんですよね。 そのようなケー…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：「イマーシブ スペース」一般提供開始（ Mesh on Microsoft Teams ）]]></title>
+        <id>https://art-break.net/tech/?p=20309</id>
+        <link href="https://art-break.net/tech/?p=20309"/>
+        <updated>2024-01-12T00:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams の会議をアバターを使って3Dの仮想空間に没入し体験できる「イマーシブスペース」。去年2023年10月からパブリックプレビュー開始されはじめて僕も触ってスクショを撮っていたけど、ウッカリ記事 … "Microsoft Teams ：「イマーシブ スペース」一般提供開始（ Mesh on Microsoft Teams ）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft AI Tour が開催されます]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/12/015918</id>
@@ -381,26 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/16/032403"/>
         <updated>2023-12-15T18:24:03.000Z</updated>
         <summary type="html"><![CDATA[Windows 10 に Microsoft Copilot が実装され始めているということで、最近になって Windows 10 を触り始めている人もいるのではないかと思います。私も久々に設定アプリをいじっていたのですが、初期設定を行うための機能が追加されているようです。 以下設定アプリの最初の画面上部に、「始めましょう」ボタンが表示されることがあるようです。 これを押すと Windows のセットアップ時に表示される画面と同様の黒っぽい画面が起動します。 OneDrive や Microsoft 365 などの説明が羅列されています。 特に PC を快適に使うための機能群が表示されているよ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：ブラウザー版も新しい Teams のトグルスイッチがとっくに表示されている]]></title>
-        <id>https://art-break.net/tech/?p=20153</id>
-        <link href="https://art-break.net/tech/?p=20153"/>
-        <updated>2023-12-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[※これも古いネタになってしまいますが備忘録として残します。本当に忙しすぎるってのは色々と良くないですね。 新しい Teams アプリに関しては過去に何度も取り上げていますが、ブラウザー版の Teams にも新しい Tea … "Microsoft Teams ：ブラウザー版も新しい Teams のトグルスイッチがとっくに表示されている" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams で同名ファイルの自動共有機能が追加されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/15/031521</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/15/031521"/>
-        <updated>2023-12-14T18:15:21.000Z</updated>
-        <summary type="html"><![CDATA[Teams でチャットを行っているとファイルを共有したくなる時があると思います。 しかし、いろいろな人に同じファイルを共有したいときが面倒で、 2023 年前半まではファイルを再アップロードするか、 OneDrive からファイルを選ぶという面倒な方法で探し出すしかありませんでした。 なんとようやくこの状態に手が加わったようで、アップロード時に同じファイルがあるか確認が入り、それを使いたい場合にファイルを自動的に共有してくれるように設定できるようになりました。 まずファイルをアップロードしておきます。 そして別のユーザーで同じファイルを添付してみましょう。 するとこのような形で「代わりに古いフ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
