@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-13T00:38:12.692Z</id>
+    <id>urn:2024-01-14T00:42:17.066Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T00:38:12.692Z</updated>
+    <updated>2024-01-14T00:42:17.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge キャスト機能を使って動画再生を行おう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/14/032726</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/14/032726"/>
+        <updated>2024-01-13T18:27:26.000Z</updated>
+        <summary type="html"><![CDATA[最近一つ気が付いたことがあるのですが、テレビのある部屋で作業をしていると Edge のアドレスバー右側に見慣れにアイコンが表示されるのです。 ポイントしてみると、何やら音楽やビデオなどを制御するという項目が表示されました。 クリックしてみると、テレビへのキャスト機能をここから制御するためのもののようですね。 キャストといえばメニューのその他のツールにある「メディアをデバイスにキャスト」のボタンはまあまあ利用するのですが、ボタン内の戻る、送りのボタンからすると動作原理が異なりそうです。その他のツールのものは画面の転送なので、送るなどのイメージがないんですよね。 というわけで、使い方をいろいろ調べ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Apps Office 準備ツールキットの EOS は 2024 年 3 月末となっています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/13/023118</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/17/034317"/>
         <updated>2023-12-16T18:43:17.000Z</updated>
         <summary type="html"><![CDATA[Bing Chat と Bing Chat Enpterprise が Microsoft Copilot に名称変更されたのが 2023 年 11 月の Ignite でした。それから 1 か月。さすがに 2 つの製品で 1 つの名前を共有するのは無理があると悟ったのか、 Bing Chat Enterprise の名称変更がアナウンスされたようです。 といっても、名称が変更されるのは Microsoft 365 のライセンス（サービスプラン）の話です。 ちょっと前まで Bing Chat Enterprise だったのですが、 2023 年 12 月中旬には Copilot に変わっている…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10 設定アプリのホームに初期設定機能がされていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/16/032403</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/16/032403"/>
-        <updated>2023-12-15T18:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Windows 10 に Microsoft Copilot が実装され始めているということで、最近になって Windows 10 を触り始めている人もいるのではないかと思います。私も久々に設定アプリをいじっていたのですが、初期設定を行うための機能が追加されているようです。 以下設定アプリの最初の画面上部に、「始めましょう」ボタンが表示されることがあるようです。 これを押すと Windows のセットアップ時に表示される画面と同様の黒っぽい画面が起動します。 OneDrive や Microsoft 365 などの説明が羅列されています。 特に PC を快適に使うための機能群が表示されているよ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
