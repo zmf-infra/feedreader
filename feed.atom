@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-14T00:42:17.066Z</id>
+    <id>urn:2024-01-15T00:40:27.070Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T00:42:17.066Z</updated>
+    <updated>2024-01-15T00:40:27.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Program Build 23615 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/15/023133</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/15/023133"/>
+        <updated>2024-01-14T17:31:33.000Z</updated>
+        <summary type="html"><![CDATA[今週も Windows Insider Program は活況に稼働しています。 今回は Canary Channel のリリースはなく、逆に Release Preview Channel が年始初の更新となっています。 Dev Channel : Build 23615 Beta Channel : Build 22635.3061 Release Preview Channel : 22621/31.3078 Release Preview Channel : Build 19045.3992 ( Windows 10 ) 今回の更新では、 Dev Channel と Beta Chan…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge キャスト機能を使って動画再生を行おう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/14/032726</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/18/021727"/>
         <updated>2023-12-17T17:17:27.000Z</updated>
         <summary type="html"><![CDATA[今週も Insider Program は元気に更新が続いています。 今回は Canary 、 Dev 、 Beta のそれぞれがバージョンアップしました。 Canary Channel : Build 26016 Dev Channel : Build 23606 Beta Channel : Build 22635.2915 Beta Channel の今回の追加点は Dev Channel で提供されていたところまで全体を引き上げるという程度の変更となっていました。 Windows 365 関連が Beta Channel で提供され始めたこと、音声アクセスのサポート言語の範囲が増え、マ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot Bing Chat Enterprise は Commercial data protection for Microsoft Copilot に名称変更されます]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/17/034317</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/17/034317"/>
-        <updated>2023-12-16T18:43:17.000Z</updated>
-        <summary type="html"><![CDATA[Bing Chat と Bing Chat Enpterprise が Microsoft Copilot に名称変更されたのが 2023 年 11 月の Ignite でした。それから 1 か月。さすがに 2 つの製品で 1 つの名前を共有するのは無理があると悟ったのか、 Bing Chat Enterprise の名称変更がアナウンスされたようです。 といっても、名称が変更されるのは Microsoft 365 のライセンス（サービスプラン）の話です。 ちょっと前まで Bing Chat Enterprise だったのですが、 2023 年 12 月中旬には Copilot に変わっている…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
