@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-15T00:40:27.070Z</id>
+    <id>urn:2024-01-16T00:38:30.817Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T00:40:27.070Z</updated>
+    <updated>2024-01-16T00:38:30.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Bing Chat の停止方法を見てみましょう（ hosts 編）]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/16/014705</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/16/014705"/>
+        <updated>2024-01-15T16:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot （ Bing Chat ）は利用していますか？ コンシューマーユーザーが利用する分にはとても使いやすく、生成 AI の全容を見せてくれる能力があるんだなと理解することができたのではないでしょうか。 しかし、組織ユーザーはそんなことを言ってられないケースもあります。 何かを考えてもらうという大枠があるため、営業機密を入力してしまうケースというのがあるといけないので、利用を制限するという選択肢も一つなのかと思います。 Bing.com には、そういった問題にも対処できるよう制御方法が用意されているのをご存じでしょうか。 制御方法としては、 Bing.com と似…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：「イマーシブ スペース」を試してみた（動画）]]></title>
+        <id>https://art-break.net/tech/?p=20330</id>
+        <link href="https://art-break.net/tech/?p=20330"/>
+        <updated>2024-01-15T00:59:13.000Z</updated>
+        <summary type="html"><![CDATA[Mesh on Microsoft Teams が今月2024年1月に一般提供開始され、仮想3D空間をアバターを利用して没入できる「イマーシブ スペース」について前回の記事では今までの歴史をちょっと振り返ってみたり、利用 … "Microsoft Teams ：「イマーシブ スペース」を試してみた（動画）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Program Build 23615 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/15/023133</id>
@@ -381,26 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/19/015800"/>
         <updated>2023-12-18T16:58:00.000Z</updated>
         <summary type="html"><![CDATA[2023 年 11 月の Ignite で発表された Copilot の Web 版ですが、皆さん活用されていますでしょうか。 やっぱり Microsoft 365 E3 などのライセンスを持っていると Enterprise 保護の状態で操作ができるという、組織の管理者への配慮が効いた機能が素晴らしい仕組みです。 https://copilot.microsoft.com/ しかもこれ、 Image Creator の機能も組み込まれているんですよね。 DALL-E 3 の機能をも一いていることもあり、絵の精度がかなり高くなっています。 試しに新しい漫画を描いてとだけ入力したらこのクオリティで…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Lists ：画像ファイルをビュー上の画像列にドラッグ＆ドロップがとっくにできている]]></title>
-        <id>https://art-break.net/tech/?p=20164</id>
-        <link href="https://art-break.net/tech/?p=20164"/>
-        <updated>2023-12-18T08:33:43.000Z</updated>
-        <summary type="html"><![CDATA[また1カ月以上前に確認できていた事をスッカリ記事にするのを忘れていました。どうも忘れっぽい僕です。 このネタは10月末あたりに Microsoft Lists が同時編集できたりタブが変わったり大きな変更が起きた時に少し … "Microsoft Lists ：画像ファイルをビュー上の画像列にドラッグ＆ドロップがとっくにできている" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23606 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/18/021727</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/18/021727"/>
-        <updated>2023-12-17T17:17:27.000Z</updated>
-        <summary type="html"><![CDATA[今週も Insider Program は元気に更新が続いています。 今回は Canary 、 Dev 、 Beta のそれぞれがバージョンアップしました。 Canary Channel : Build 26016 Dev Channel : Build 23606 Beta Channel : Build 22635.2915 Beta Channel の今回の追加点は Dev Channel で提供されていたところまで全体を引き上げるという程度の変更となっていました。 Windows 365 関連が Beta Channel で提供され始めたこと、音声アクセスのサポート言語の範囲が増え、マ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
