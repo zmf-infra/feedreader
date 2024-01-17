@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-16T00:38:30.817Z</id>
+    <id>urn:2024-01-17T00:39:07.880Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T00:38:30.818Z</updated>
+    <updated>2024-01-17T00:39:07.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：チーム作成がシンプルに]]></title>
+        <id>https://art-break.net/tech/?p=20365</id>
+        <link href="https://art-break.net/tech/?p=20365"/>
+        <updated>2024-01-17T00:37:06.000Z</updated>
+        <summary type="html"><![CDATA[数日前にチームのチャネルの作成を促進させるアップデートを紹介しました。 Microsoft Teams ：チャネルの作成を促進させるアップデート おそらくこのアップデートと連動してだと思いますが、まずはチャネルの作成を促 … "Microsoft Teams ：チーム作成がシンプルに" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 一般ユーザー向けのアナウンスが行われました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/17/014201</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/17/014201"/>
+        <updated>2024-01-16T16:42:01.000Z</updated>
+        <summary type="html"><![CDATA[2024 年 1 月 16 日、とうとう Copilot for Microsof 365 が一般の Microsoft 365 ユーザーに開放される方向になりました！ 今まで問題視されていた 300 ライセンスの制限が撤廃され、 Office 365 E3 以上でもオプション購入できるようになっています。 また、小規模な 365 の契約も対象となっており、Small Businesses と Business Premium と Business Standard のどれでも契約できるようになっています。 https://blogs.microsoft.com/blog/2024/01/15…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot for Microsoft 365 が購入・利用しやすくなった（だからこそ要注意） ＆ Copilot Pro の発表]]></title>
+        <id>https://art-break.net/tech/?p=20337</id>
+        <link href="https://art-break.net/tech/?p=20337"/>
+        <updated>2024-01-16T05:37:07.000Z</updated>
+        <summary type="html"><![CDATA[※発表されたての情報なので不明瞭な点もあり、いつもに増して正確性は自信ありません。 ※ 記事内では「 Copilot for Microsoft 365 」と表記していますが、本当に正しくは「 Microsoft Cop … "Copilot for Microsoft 365 が購入・利用しやすくなった（だからこそ要注意） ＆ Copilot Pro の発表" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Bing Chat の停止方法を見てみましょう（ hosts 編）]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/16/014705</id>
@@ -346,16 +376,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Stream ：表示（プレビュー）モードと編集モード]]></title>
-        <id>https://art-break.net/tech/?p=20191</id>
-        <link href="https://art-break.net/tech/?p=20191"/>
-        <updated>2023-12-22T00:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Stream もいよいよ Classic から on SharePoint への移行期間も終盤に差し掛かってきていますが、 on SharePoint の方も機能追加も徐々に増えてきていますね。 Mi … "Microsoft Stream ：表示（プレビュー）モードと編集モード" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Copilot 個人向けチャットで曲を作れるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/22/024918</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/22/024918"/>
@@ -376,31 +396,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Whiteboard ： ホワイトボードから Loop コンポーネントを作成できるようになった]]></title>
-        <id>https://art-break.net/tech/?p=20173</id>
-        <link href="https://art-break.net/tech/?p=20173"/>
-        <updated>2023-12-20T02:58:28.000Z</updated>
-        <summary type="html"><![CDATA[2023/11/15 についに Microsoft Loop の一般提供が開始されましたが、皆さん使っていますか？おそらく多くの方が様子見しているんじゃないかとは思います。イマイチ使いどころがわからなかったり、 OneN … "Microsoft Whiteboard ： ホワイトボードから Loop コンポーネントを作成できるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 Web コンテンツ読み込み設定にはご注意を]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/20/002844</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/20/002844"/>
         <updated>2023-12-19T15:28:44.000Z</updated>
         <summary type="html"><![CDATA[今回のブログは、Microsoft Top Partner Engineer’s Advent Calendar 2023 と連動した内容です。実は、日本マイクロソフト様より「Microsoft Top Partner Engineer Award」 Modern Work を表彰していただいています。 パートナーとして組織向けの情報を提供する機会はあまりないので、今回は Microsoft Copilot for Microsoft 365 に関する意識しておきたい設定を説明しておきたいと思います。 Copilot for Microsoft 365 に関係する設定 Microsoft が …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot Web 版 Copilot を活用してみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/19/015800</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/19/015800"/>
-        <updated>2023-12-18T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 11 月の Ignite で発表された Copilot の Web 版ですが、皆さん活用されていますでしょうか。 やっぱり Microsoft 365 E3 などのライセンスを持っていると Enterprise 保護の状態で操作ができるという、組織の管理者への配慮が効いた機能が素晴らしい仕組みです。 https://copilot.microsoft.com/ しかもこれ、 Image Creator の機能も組み込まれているんですよね。 DALL-E 3 の機能をも一いていることもあり、絵の精度がかなり高くなっています。 試しに新しい漫画を描いてとだけ入力したらこのクオリティで…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
