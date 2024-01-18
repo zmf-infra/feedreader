@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-17T00:39:07.880Z</id>
+    <id>urn:2024-01-18T00:38:55.775Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T00:39:07.880Z</updated>
+    <updated>2024-01-18T00:38:55.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 ライセンスの購入はマーケットプレースからとなるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/18/023743</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/18/023743"/>
+        <updated>2024-01-17T17:37:43.000Z</updated>
+        <summary type="html"><![CDATA[2024 年 1 月 16 日にはなかったのですが、マーケットプレース上に Copilot for Microsoft 365 購入のためのメニューが表示されるようになっていました。 通常の表示ではなく、上部にトピック表示されるという力の入れようです。 このボタンを押すと、購入に向けた新しい課金エクスペリエンスというのが適用され、「 Microsoft 顧客契約」という契約で課金が始まるようになります。 設定を終えるとこんな感じですね。これは「課金アカウントを変更する」リンクを押したときの画面です。契約が 2 種類あり、「 Microsoft オンライン サービス契約」というものが既存で存在し…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Teams ：チーム作成がシンプルに]]></title>
         <id>https://art-break.net/tech/?p=20365</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/21/025250"/>
         <updated>2023-12-20T17:52:50.000Z</updated>
         <summary type="html"><![CDATA[この 2023 年は 10 月頃から機能の非推奨化という流れが Windows 関連の機能で多々発生していました。 昨年からのリセッションにおいて、優先すべき事項が大きく変容しているんだろうなーと思っていたのですが、この流れはまだまだ続くようです。 というわけで 12 月に入り、新たに Microsoft Defender Application Guard が非推奨に加わったようです。 https://learn.microsoft.com/ja-jp/windows/security/application-security/application-isolation/microsoft-…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 Web コンテンツ読み込み設定にはご注意を]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/20/002844</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/20/002844"/>
-        <updated>2023-12-19T15:28:44.000Z</updated>
-        <summary type="html"><![CDATA[今回のブログは、Microsoft Top Partner Engineer’s Advent Calendar 2023 と連動した内容です。実は、日本マイクロソフト様より「Microsoft Top Partner Engineer Award」 Modern Work を表彰していただいています。 パートナーとして組織向けの情報を提供する機会はあまりないので、今回は Microsoft Copilot for Microsoft 365 に関する意識しておきたい設定を説明しておきたいと思います。 Copilot for Microsoft 365 に関係する設定 Microsoft が …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
