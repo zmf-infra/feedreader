@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-18T00:38:55.775Z</id>
+    <id>urn:2024-01-19T00:39:06.293Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T00:38:55.775Z</updated>
+    <updated>2024-01-19T00:39:06.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：「タウンホール」を使ってみる（イベント開催編）]]></title>
+        <id>https://art-break.net/tech/?p=20407</id>
+        <link href="https://art-break.net/tech/?p=20407"/>
+        <updated>2024-01-19T00:06:21.000Z</updated>
+        <summary type="html"><![CDATA[※色々と大変なのでいつもに増して雑な検証となっておりますがご容赦いただき、雰囲気を確認ください。 いやぁ、ライブイベントに代わる機能であるタウンホールですが、3か月前にイベント作成編として記事を書いて、イベント開催編は後 … "Microsoft Teams ：「タウンホール」を使ってみる（イベント開催編）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Copilot GPT を眺められるようになっていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/19/032913</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/19/032913"/>
+        <updated>2024-01-18T18:29:13.000Z</updated>
+        <summary type="html"><![CDATA[どういう状態だと発生するのかいまいち状況が見えていないのですが、 Copilot GPT の動きを見ることができるようになっていました。 以下の Copilot Web にアクセスすることで、 Copilot GPT の選択肢が右側に表示されることがあるようです。 https://copilot.microsoft.com/ あるようです。といったのは、いくつかパターンがあるようなのです。 例えば以下はマイクロソフトアカウントでアクセスしたケース。 Copilot GPT の代わりにアクティビティが表示されています。 同じ PC 同じアカウントでプライベートモードににしてアクセスしたら、、、 …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：チャネル会議をメンバーの予定表に追加]]></title>
+        <id>https://art-break.net/tech/?p=20384</id>
+        <link href="https://art-break.net/tech/?p=20384"/>
+        <updated>2024-01-18T01:39:39.000Z</updated>
+        <summary type="html"><![CDATA[このアップデートは標準リリース環境では2023年9月中旬から展開開始し、2024年1月下旬に展開完了予定です。長い展開期間の中、僕の環境になかなか展開されてくれなくてスッカリ忘れてしまい、今ふと気が付いて確認したら展開さ … "Microsoft Teams ：チャネル会議をメンバーの予定表に追加" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 ライセンスの購入はマーケットプレースからとなるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/18/023743</id>
@@ -326,26 +356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Lists ／ SharePoint ：画像列に添付した画像ファイルの保存先が変更されていた]]></title>
-        <id>https://art-break.net/tech/?p=20220</id>
-        <link href="https://art-break.net/tech/?p=20220"/>
-        <updated>2023-12-25T09:05:52.000Z</updated>
-        <summary type="html"><![CDATA[だいぶ前に変更されていたのにずっと書き忘れていました。割と大事な事なのに…。 Microsoft Lists / SharePoint のリストの画像列に直接画像をアップロードできるようになったのが2020年11月。 S … "Microsoft Lists ／ SharePoint ：画像列に添付した画像ファイルの保存先が変更されていた" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリスマス特別企画！ Microsoft Teams の大掃除と休暇前の準備ウェビナー開催直前（超ギリギリ）]]></title>
-        <id>https://art-break.net/tech/?p=20217</id>
-        <link href="https://art-break.net/tech/?p=20217"/>
-        <updated>2023-12-25T00:06:10.000Z</updated>
-        <summary type="html"><![CDATA[いつも告知が急でごめんなさい。本当に急なんですけど今日12月25日クリスマスの13時から30分です。 いや、そもそも当ブログは僕「中村 太一」としてのプライベートなブログなので、あまり仕事とは関連付けないようにしているん … "クリスマス特別企画！ Microsoft Teams の大掃除と休暇前の準備ウェビナー開催直前（超ギリギリ）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Copilot Teams の M365 チャットは複数用意されています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/25/021506</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/25/021506"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/22/024918"/>
         <updated>2023-12-21T17:49:18.000Z</updated>
         <summary type="html"><![CDATA[この利用方法は本命かもしれません。 Microsoft Copilot の個人向け利用にプラグインを活用した処理が含まれるようになっていました。 プラグインは右上のアクティビティの横にあるリンクを押すことで利用を開始できます。 最大 3 つまでプラグインを選択してから会話を開始する流れとなっています。 今回のタイトルにもある曲を作るという点では、プラグインの中にある Suno を選択しておくと作曲が行われます。 この状態で適当なプロンプトを与えてみましょう。 今回は「バラード調の勇気が出そうな歌詞の曲を作って」という形にしてみました。 まず最初に歌詞が展開されます。 大体 1 分前後の楽曲とな…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge Defender Application Guard が非推奨となりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/21/025250</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/21/025250"/>
-        <updated>2023-12-20T17:52:50.000Z</updated>
-        <summary type="html"><![CDATA[この 2023 年は 10 月頃から機能の非推奨化という流れが Windows 関連の機能で多々発生していました。 昨年からのリセッションにおいて、優先すべき事項が大きく変容しているんだろうなーと思っていたのですが、この流れはまだまだ続くようです。 というわけで 12 月に入り、新たに Microsoft Defender Application Guard が非推奨に加わったようです。 https://learn.microsoft.com/ja-jp/windows/security/application-security/application-isolation/microsoft-…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
