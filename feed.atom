@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T00:39:06.293Z</id>
+    <id>urn:2024-01-20T00:38:15.844Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T00:39:06.293Z</updated>
+    <updated>2024-01-20T00:38:15.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot ノートブックというトークン数が増大した GPT が利用できるようになっています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/20/034926</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/20/034926"/>
+        <updated>2024-01-19T18:49:26.000Z</updated>
+        <summary type="html"><![CDATA[最近の Copilot はちょっと目を離すと新しい機能が追加され、なかなか追っていくのが難しい状態になっています。 Copilot GPTs と同時期に利用できるようになったノートブックという機能を今回は見ていきたいと思います。 このノートブック、通常のチャットと同じような外見ですが、なんと入力可能なトークン数が 18,000 に拡大しているのです。かなり長い文章を受け入れられるため、気軽に Few shot のやり取りを再現できるのが良いところですね。 https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx ちなみに通常のチャ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Teams ：「タウンホール」を使ってみる（イベント開催編）]]></title>
         <id>https://art-break.net/tech/?p=20407</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/23/020514"/>
         <updated>2023-12-22T17:05:14.000Z</updated>
         <summary type="html"><![CDATA[Microsoft は 2023 年の初めころより cloud.microsoft という企業名を冠したドメインを使い始めています。 これは既存のアプリを置き換えるのではなく新しいアプリを切り替えていくという話だったのですが、どうもその方針を少し変更したようで、すでに URL が割り当てられている Microsoft Loop もこの対象に含めていくことがアナウンスされていました。 すでに cloud.microsoft からアクセスできるようになっており、アクセスは以下より行えます。 https://loop.cloud.microsoft ちなみに過去の URL はこちらですね。 同じサイ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot 個人向けチャットで曲を作れるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/22/024918</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/22/024918"/>
-        <updated>2023-12-21T17:49:18.000Z</updated>
-        <summary type="html"><![CDATA[この利用方法は本命かもしれません。 Microsoft Copilot の個人向け利用にプラグインを活用した処理が含まれるようになっていました。 プラグインは右上のアクティビティの横にあるリンクを押すことで利用を開始できます。 最大 3 つまでプラグインを選択してから会話を開始する流れとなっています。 今回のタイトルにもある曲を作るという点では、プラグインの中にある Suno を選択しておくと作曲が行われます。 この状態で適当なプロンプトを与えてみましょう。 今回は「バラード調の勇気が出そうな歌詞の曲を作って」という形にしてみました。 まず最初に歌詞が展開されます。 大体 1 分前後の楽曲とな…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
