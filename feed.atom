@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-20T00:38:15.844Z</id>
+    <id>urn:2024-01-21T00:42:24.734Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T00:38:15.844Z</updated>
+    <updated>2024-01-21T00:42:24.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Bing Chat の停止方法を見てみましょう（ DNS 編）]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/21/031611</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/21/031611"/>
+        <updated>2024-01-20T18:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot の一般利用バージョンを停止させるための設定ですが、少し前に DNS を hosts を利用して変更する方法を見ていきました。が、あの方法では一台一台の PC の情報を書き換える必要もありあまり実用的ではありません。 本来はネットワーク機器に設定を入れるのが良いのですが、そういった設定が出来ない機器もあり、ちょうどよいソリューションがないかなと探している場合はこの内容を見ていくとよいでしょう。 今回は DNS と PowerShell を用いて疑似的に環境を作り上げる方法を見ていきたいと思います。 Active Directory のサーバーに存在している D…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot ノートブックというトークン数が増大した GPT が利用できるようになっています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/20/034926</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/23/134013"/>
         <updated>2023-12-23T04:40:13.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 の機能の一部に Edge ポリシー設定が組み込まれ始めてから半年程度たちましたが、このポリシー設定画面にオーバービュー、概要のページが追加されるようになりました。 https://admin.microsoft.com/#/Edge 大きくは上記画面にあるように Configuration policies の機能と Site lists 機能へのリンクで構成されているのですが、やりたいことと連動しているところが分かりやすくなっていますね。 Create となっている部分が 3 つあるのですが、遷移先はタブと同じように 2 つになっています。 下部には Edge に…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Loop の URL が変わるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/23/020514</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/23/020514"/>
-        <updated>2023-12-22T17:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft は 2023 年の初めころより cloud.microsoft という企業名を冠したドメインを使い始めています。 これは既存のアプリを置き換えるのではなく新しいアプリを切り替えていくという話だったのですが、どうもその方針を少し変更したようで、すでに URL が割り当てられている Microsoft Loop もこの対象に含めていくことがアナウンスされていました。 すでに cloud.microsoft からアクセスできるようになっており、アクセスは以下より行えます。 https://loop.cloud.microsoft ちなみに過去の URL はこちらですね。 同じサイ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

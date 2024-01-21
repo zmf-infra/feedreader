@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/01/21/031611",
+          "author": null,
+          "description": "Microsoft Copilot の一般利用バージョンを停止させるための設定ですが、少し前に DNS を hosts を利用して変更する方法を見ていきました。が、あの方法では一台一台の PC の情報を書き換える必要もありあまり実用的ではありません。 本来はネットワーク機器に設定を入れるのが良いのですが、そういった設定が出来ない機器もあり、ちょうどよいソリューションがないかなと探している場合はこの内容を見ていくとよいでしょう。 今回は DNS と PowerShell を用いて疑似的に環境を作り上げる方法を見ていきたいと思います。 Active Directory のサーバーに存在している D…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/01/21/031611",
+          "publishedOn": "2024-01-20T18:16:11.000Z",
+          "wordCount": 948,
+          "title": "Microsoft 365 Bing Chat の停止方法を見てみましょう（ DNS 編）",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231201/20231201012238.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/01/20/034926",
           "author": null,
           "description": "最近の Copilot はちょっと目を離すと新しい機能が追加され、なかなか追っていくのが難しい状態になっています。 Copilot GPTs と同時期に利用できるようになったノートブックという機能を今回は見ていきたいと思います。 このノートブック、通常のチャットと同じような外見ですが、なんと入力可能なトークン数が 18,000 に拡大しているのです。かなり長い文章を受け入れられるため、気軽に Few shot のやり取りを再現できるのが良いところですね。 https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx ちなみに通常のチャ…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/20/034926",
           "publishedOn": "2024-01-19T18:49:26.000Z",
-          "wordCount": 681,
+          "wordCount": 687,
           "title": "Microsoft Copilot ノートブックというトークン数が増大した GPT が利用できるようになっています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240120/20240120003008.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 663,
           "title": "Microsoft 365 Edge ポリシー設定に概要ページが増えました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231223/20231223120842.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/12/23/020514",
-          "author": null,
-          "description": "Microsoft は 2023 年の初めころより cloud.microsoft という企業名を冠したドメインを使い始めています。 これは既存のアプリを置き換えるのではなく新しいアプリを切り替えていくという話だったのですが、どうもその方針を少し変更したようで、すでに URL が割り当てられている Microsoft Loop もこの対象に含めていくことがアナウンスされていました。 すでに cloud.microsoft からアクセスできるようになっており、アクセスは以下より行えます。 https://loop.cloud.microsoft ちなみに過去の URL はこちらですね。 同じサイ…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/12/23/020514",
-          "publishedOn": "2023-12-22T17:05:14.000Z",
-          "wordCount": 676,
-          "title": "Microsoft 365 Loop の URL が変わるようです",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231221/20231221015620.png"
         }
       ]
     },
