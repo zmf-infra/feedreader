@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-21T00:42:24.734Z</id>
+    <id>urn:2024-01-22T00:40:45.079Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T00:42:24.734Z</updated>
+    <updated>2024-01-22T00:40:45.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23619 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/22/011214</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/22/011214"/>
+        <updated>2024-01-21T16:12:14.000Z</updated>
+        <summary type="html"><![CDATA[今週も元気に Insider Program は稼働中です。 今週は 2 種類の Build が展開されました。 Dev Channel : Build 23619 Beta Channel : Build 22635.3066 しかしながら Dev Channel のバージョンは相変わらず 22H2 となっています。 2024 年に入ったので、そろそろ調整が入ってもよさそうなところ、、、 Dev Channel には今回はちょっと面白い機能が追加されたようです。 スマホで撮影した写真やキャプチャがすぐに PC から見られるようになる機能とのこと。 設定は以下の Blutooth とデバイスの…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Bing Chat の停止方法を見てみましょう（ DNS 編）]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/21/031611</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/24/013446"/>
         <updated>2023-12-23T16:34:46.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は 2023 年時点では大規模な組織に限定しライセンスの提供を行っています。しかしながらこの限定を解除すべく Microsoft は動いているようです。 その一環としてか、 Microsoft 365 関連の MVP が使ってみることができるように一部開放が行われました。 そんなわけで私も利用できるようになったので、これからいろいろ触っていきたいと思います。 今回はその一環で Microsoft Copilot for Microsoft 365 を利用する際の最初のステップを見ていきます。 最初のステップ。それはライセン…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Edge ポリシー設定に概要ページが増えました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/23/134013</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/23/134013"/>
-        <updated>2023-12-23T04:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 の機能の一部に Edge ポリシー設定が組み込まれ始めてから半年程度たちましたが、このポリシー設定画面にオーバービュー、概要のページが追加されるようになりました。 https://admin.microsoft.com/#/Edge 大きくは上記画面にあるように Configuration policies の機能と Site lists 機能へのリンクで構成されているのですが、やりたいことと連動しているところが分かりやすくなっていますね。 Create となっている部分が 3 つあるのですが、遷移先はタブと同じように 2 つになっています。 下部には Edge に…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
