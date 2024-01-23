@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-22T00:40:45.079Z</id>
+    <id>urn:2024-01-23T00:39:36.381Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T00:40:45.079Z</updated>
+    <updated>2024-01-23T00:39:36.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 Webアクセス時の動きについて解説が用意されました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/23/020131</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/23/020131"/>
+        <updated>2024-01-22T17:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は commercial data protection によってデータは Microsoft に活用されないことが明言されています。 そんな Copilot for Microsoft 365 の中にあって、パブリック Web コンテンツ（要は Bing 検索）についてはこの commercial data protection の対象にならないんですよね。これは前に書いた気もするのですが、この動きの詳細が以下の Lean に書かれていました。 https://learn.microsoft.com/ja-jp/micr…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SharePoint ：サイト作成時の案内や導線が変わった]]></title>
+        <id>https://art-break.net/tech/?p=20442</id>
+        <link href="https://art-break.net/tech/?p=20442"/>
+        <updated>2024-01-22T04:08:55.000Z</updated>
+        <summary type="html"><![CDATA[SharePoint からサイトを作成する事って僕もそんなに多くないです。チームサイトの場合は Microsoft Teams でチームを作れば自動で作成されるけど、そうじゃなくて SharePoint 単体でサイトを作 … "SharePoint ：サイト作成時の案内や導線が変わった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23619 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/22/011214</id>
@@ -356,16 +376,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Clipchamp ：プロジェクトファイルの自動で付与される名前が英語から日本語に変わった]]></title>
-        <id>https://art-break.net/tech/?p=20239</id>
-        <link href="https://art-break.net/tech/?p=20239"/>
-        <updated>2023-12-27T00:29:03.000Z</updated>
-        <summary type="html"><![CDATA[先日、急に告知したウェビナーにここから参加いただいた方もいらしてありがとうございました。参加者からのアンケートを見ても評判も良くあたたかいコメントもたくさんもらえて今年最後の良いしゃべり納めができました。あのウェビナーで … "Microsoft Clipchamp ：プロジェクトファイルの自動で付与される名前が英語から日本語に変わった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Edge 画面キャプチャ機能が内包されるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2023/12/27/023203</id>
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/27/023203"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/25/021506"/>
         <updated>2023-12-24T17:15:06.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 を利用し始めて気が付いたことなのですが、どうも今流通している M365 Chat は 2 種類のアプリがあるようです。 その二つとは「 M365 Chat (new) 」と「 M365 チャット」です。以下図では左側のアプリ一覧の一番上に M365 Chat (new) があり、その他アプリの一覧に M365 チャットが表示されています。 それぞれバージョン情報を見てみると、 M365 チャットのほうが新しいバージョンが与えられています。 こちらを開くと単なるチャットとして認識するようで、過去の履歴が面々と連なっていました…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 ライセンスの適用に注意しましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/24/013446</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/24/013446"/>
-        <updated>2023-12-23T16:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は 2023 年時点では大規模な組織に限定しライセンスの提供を行っています。しかしながらこの限定を解除すべく Microsoft は動いているようです。 その一環としてか、 Microsoft 365 関連の MVP が使ってみることができるように一部開放が行われました。 そんなわけで私も利用できるようになったので、これからいろいろ触っていきたいと思います。 今回はその一環で Microsoft Copilot for Microsoft 365 を利用する際の最初のステップを見ていきます。 最初のステップ。それはライセン…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

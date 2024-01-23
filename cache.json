@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/01/23/020131",
+          "author": null,
+          "description": "Microsoft Copilot for Microsoft 365 は commercial data protection によってデータは Microsoft に活用されないことが明言されています。 そんな Copilot for Microsoft 365 の中にあって、パブリック Web コンテンツ（要は Bing 検索）についてはこの commercial data protection の対象にならないんですよね。これは前に書いた気もするのですが、この動きの詳細が以下の Lean に書かれていました。 https://learn.microsoft.com/ja-jp/micr…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/01/23/020131",
+          "publishedOn": "2024-01-22T17:01:31.000Z",
+          "wordCount": 700,
+          "title": "Microsoft Copilot for Microsoft 365 Webアクセス時の動きについて解説が用意されました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240122/20240122235959.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/01/22/011214",
           "author": null,
           "description": "今週も元気に Insider Program は稼働中です。 今週は 2 種類の Build が展開されました。 Dev Channel : Build 23619 Beta Channel : Build 22635.3066 しかしながら Dev Channel のバージョンは相変わらず 22H2 となっています。 2024 年に入ったので、そろそろ調整が入ってもよさそうなところ、、、 Dev Channel には今回はちょっと面白い機能が追加されたようです。 スマホで撮影した写真やキャプチャがすぐに PC から見られるようになる機能とのこと。 設定は以下の Blutooth とデバイスの…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/22/011214",
           "publishedOn": "2024-01-21T16:12:14.000Z",
-          "wordCount": 746,
+          "wordCount": 753,
           "title": "Windows 11 Insider Preview Build 23619 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240121/20240121102436.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 703,
           "title": "Microsoft Copilot Teams の M365 チャットは複数用意されています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231225/20231225005310.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2023/12/24/013446",
-          "author": null,
-          "description": "Microsoft Copilot for Microsoft 365 は 2023 年時点では大規模な組織に限定しライセンスの提供を行っています。しかしながらこの限定を解除すべく Microsoft は動いているようです。 その一環としてか、 Microsoft 365 関連の MVP が使ってみることができるように一部開放が行われました。 そんなわけで私も利用できるようになったので、これからいろいろ触っていきたいと思います。 今回はその一環で Microsoft Copilot for Microsoft 365 を利用する際の最初のステップを見ていきます。 最初のステップ。それはライセン…",
-          "link": "https://mitomoha.hatenablog.com/entry/2023/12/24/013446",
-          "publishedOn": "2023-12-23T16:34:46.000Z",
-          "wordCount": 741,
-          "title": "Microsoft Copilot for Microsoft 365 ライセンスの適用に注意しましょう",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231224/20231224010254.png"
         }
       ]
     },
@@ -313,12 +313,27 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=20442",
+          "author": "TAICHI",
+          "description": "SharePoint からサイトを作成する事って僕もそんなに多くないです。チームサイトの場合は Microsoft Teams でチームを作れば自動で作成されるけど、そうじゃなくて SharePoint 単体でサイトを作 … \"SharePoint ：サイト作成時の案内や導線が変わった\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=20442",
+          "publishedOn": "2024-01-22T04:08:55.000Z",
+          "wordCount": 1884,
+          "title": "SharePoint ：サイト作成時の案内や導線が変わった",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240122.png",
+            "length": "17746",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2024/01/240122.png"
+        },
+        {
           "id": "https://art-break.net/tech/?p=20407",
           "author": "TAICHI",
           "description": "※色々と大変なのでいつもに増して雑な検証となっておりますがご容赦いただき、雰囲気を確認ください。 いやぁ、ライブイベントに代わる機能であるタウンホールですが、3か月前にイベント作成編として記事を書いて、イベント開催編は後 … \"Microsoft Teams ：「タウンホール」を使ってみる（イベント開催編）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20407",
           "publishedOn": "2024-01-19T00:06:21.000Z",
-          "wordCount": 1900,
+          "wordCount": 1910,
           "title": "Microsoft Teams ：「タウンホール」を使ってみる（イベント開催編）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240119.png",
@@ -333,7 +348,7 @@
           "description": "このアップデートは標準リリース環境では2023年9月中旬から展開開始し、2024年1月下旬に展開完了予定です。長い展開期間の中、僕の環境になかなか展開されてくれなくてスッカリ忘れてしまい、今ふと気が付いて確認したら展開さ … \"Microsoft Teams ：チャネル会議をメンバーの予定表に追加\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20384",
           "publishedOn": "2024-01-18T01:39:39.000Z",
-          "wordCount": 1899,
+          "wordCount": 1906,
           "title": "Microsoft Teams ：チャネル会議をメンバーの予定表に追加",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240118.png",
@@ -348,7 +363,7 @@
           "description": "数日前にチームのチャネルの作成を促進させるアップデートを紹介しました。 Microsoft Teams ：チャネルの作成を促進させるアップデート おそらくこのアップデートと連動してだと思いますが、まずはチャネルの作成を促 … \"Microsoft Teams ：チーム作成がシンプルに\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20365",
           "publishedOn": "2024-01-17T00:37:06.000Z",
-          "wordCount": 1905,
+          "wordCount": 1912,
           "title": "Microsoft Teams ：チーム作成がシンプルに",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240117.png",
@@ -363,7 +378,7 @@
           "description": "※発表されたての情報なので不明瞭な点もあり、いつもに増して正確性は自信ありません。 ※ 記事内では「 Copilot for Microsoft 365 」と表記していますが、本当に正しくは「 Microsoft Cop … \"Copilot for Microsoft 365 が購入・利用しやすくなった（だからこそ要注意） ＆ Copilot Pro の発表\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20337",
           "publishedOn": "2024-01-16T05:37:07.000Z",
-          "wordCount": 2389,
+          "wordCount": 2396,
           "title": "Copilot for Microsoft 365 が購入・利用しやすくなった（だからこそ要注意） ＆ Copilot Pro の発表",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240116.png",
@@ -378,7 +393,7 @@
           "description": "Mesh on Microsoft Teams が今月2024年1月に一般提供開始され、仮想3D空間をアバターを利用して没入できる「イマーシブ スペース」について前回の記事では今までの歴史をちょっと振り返ってみたり、利用 … \"Microsoft Teams ：「イマーシブ スペース」を試してみた（動画）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20330",
           "publishedOn": "2024-01-15T00:59:13.000Z",
-          "wordCount": 1884,
+          "wordCount": 1891,
           "title": "Microsoft Teams ：「イマーシブ スペース」を試してみた（動画）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240115.png",
@@ -393,7 +408,7 @@
           "description": "Microsoft Teams の会議をアバターを使って3Dの仮想空間に没入し体験できる「イマーシブスペース」。去年2023年10月からパブリックプレビュー開始されはじめて僕も触ってスクショを撮っていたけど、ウッカリ記事 … \"Microsoft Teams ：「イマーシブ スペース」一般提供開始（ Mesh on Microsoft Teams ）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20309",
           "publishedOn": "2024-01-12T00:42:45.000Z",
-          "wordCount": 2136,
+          "wordCount": 2143,
           "title": "Microsoft Teams ：「イマーシブ スペース」一般提供開始（ Mesh on Microsoft Teams ）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240112.png",
@@ -408,7 +423,7 @@
           "description": "Microsoft Teams における運用課題。ここ1年で痛感したのが「実はまだまだ Microsoft Teams の利用定着されていない企業が多い」という実態。良くも悪くもコロナ禍で Microsoft 365 導 … \"Microsoft Teams ：チャネルの作成を促進させるアップデート\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20287",
           "publishedOn": "2024-01-11T00:35:59.000Z",
-          "wordCount": 1898,
+          "wordCount": 1905,
           "title": "Microsoft Teams ：チャネルの作成を促進させるアップデート",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240111.png",
@@ -423,7 +438,7 @@
           "description": "記事内容的には小ネタです。 2023年12月に Microsoft Teams に「会議」アプリが登場しました。 Microsoft Teams ：「会議」アプリ登場したけど便利そう？ 会議にフォーカスしたアプリで、たく … \"Microsoft Teams ：「会議」アプリの名称が「ミーティング」へ\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20268",
           "publishedOn": "2024-01-09T23:25:34.000Z",
-          "wordCount": 1871,
+          "wordCount": 1878,
           "title": "Microsoft Teams ：「会議」アプリの名称が「ミーティング」へ",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240110.png",
@@ -438,7 +453,7 @@
           "description": "Microsoft Stream も Classic から on SharePoint の移行も終盤に差し掛かり、ついに今年2024年4月15日には Classic の方が廃止となり、移行されていない動画は全て削除される … \"Microsoft Stream ：共有設定のダウンロード禁止オプションがわかりやすくなった\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20248",
           "publishedOn": "2024-01-09T09:32:31.000Z",
-          "wordCount": 1920,
+          "wordCount": 1927,
           "title": "Microsoft Stream ：共有設定のダウンロード禁止オプションがわかりやすくなった",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240109.png",
@@ -446,21 +461,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2024/01/240109.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=20239",
-          "author": "TAICHI",
-          "description": "先日、急に告知したウェビナーにここから参加いただいた方もいらしてありがとうございました。参加者からのアンケートを見ても評判も良くあたたかいコメントもたくさんもらえて今年最後の良いしゃべり納めができました。あのウェビナーで … \"Microsoft Clipchamp ：プロジェクトファイルの自動で付与される名前が英語から日本語に変わった\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=20239",
-          "publishedOn": "2023-12-27T00:29:03.000Z",
-          "wordCount": 1881,
-          "title": "Microsoft Clipchamp ：プロジェクトファイルの自動で付与される名前が英語から日本語に変わった",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2023/12/231227.png",
-            "length": "16561",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2023/12/231227.png"
         }
       ]
     }
