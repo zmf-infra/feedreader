@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-23T00:39:36.381Z</id>
+    <id>urn:2024-01-24T00:39:31.938Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T00:39:36.381Z</updated>
+    <updated>2024-01-24T00:39:31.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Server DNS 設定を動的に変更してみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/24/030202</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/24/030202"/>
+        <updated>2024-01-23T18:02:02.000Z</updated>
+        <summary type="html"><![CDATA[今回は PC 内部のネットワークに関連する話題を取り上げたいと思います。 例えば www.microsoft.com にアクセスを行いたい場合、ブラウザーは DNS サーバーに IP アドレスを問い合わせ、その IP アドレスを接続先にしてデータを取りに行くという動きとなります。 このうち DNS については組織利用の場合自組織の DNS を通じて問い合わせチェーンを作り、上位の DNS サーバーに問い合わせを行って www.microsoft.com の IP を確定するのですが、時にこの IP を自社サーバーに変更してインターセプトしたいケースが発生することがあります。 しかし DNS サ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：2024年3月31日以降に新しい Teams に自動更新されるようです]]></title>
+        <id>https://art-break.net/tech/?p=20459</id>
+        <link href="https://art-break.net/tech/?p=20459"/>
+        <updated>2024-01-23T09:14:22.000Z</updated>
+        <summary type="html"><![CDATA[いよいよXデーが近づいてきましたね。 Microsoft Teams が既存のアプリが Microsoft Teams Classic となり、そして新しい Microsoft Teams アプリが2023/10/05  … "Microsoft Teams ：2024年3月31日以降に新しい Teams に自動更新されるようです" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 Webアクセス時の動きについて解説が用意されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/23/020131</id>
@@ -236,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Stream ：共有設定のダウンロード禁止オプションがわかりやすくなった]]></title>
-        <id>https://art-break.net/tech/?p=20248</id>
-        <link href="https://art-break.net/tech/?p=20248"/>
-        <updated>2024-01-09T09:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Stream も Classic から on SharePoint の移行も終盤に差し掛かり、ついに今年2024年4月15日には Classic の方が廃止となり、移行されていない動画は全て削除される … "Microsoft Stream ：共有設定のダウンロード禁止オプションがわかりやすくなった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams の無料版で組織会議にアクセスできるようになります]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/09/024808</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/09/024808"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/26/023026"/>
         <updated>2023-12-25T17:30:26.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Edge は時折面白い機能を提供してくれるのですが、今回もまた、ブラウザーの使い方を一変させるかもしれない機能が追加されました。 それは左右に画面を分割する機能です。 この機能に気が付いたのはリンクを右クリックして InPrivate モードで開こうとしたときです。その下にリンクを分割画面ウィンドウで開くという項目ができていたのです。 これを押すと文字通りこんな感じに左と右に分かれた一つのタブが表示されました。 アドレスバーがもともとの形を維持したまま左右を表現できるように、ちょっと無理な形になっていますね。 これをクリックするとリンククリック時の動作を選ぶことができるよう…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot Teams の M365 チャットは複数用意されています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/25/021506</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/25/021506"/>
-        <updated>2023-12-24T17:15:06.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 を利用し始めて気が付いたことなのですが、どうも今流通している M365 Chat は 2 種類のアプリがあるようです。 その二つとは「 M365 Chat (new) 」と「 M365 チャット」です。以下図では左側のアプリ一覧の一番上に M365 Chat (new) があり、その他アプリの一覧に M365 チャットが表示されています。 それぞれバージョン情報を見てみると、 M365 チャットのほうが新しいバージョンが与えられています。 こちらを開くと単なるチャットとして認識するようで、過去の履歴が面々と連なっていました…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
