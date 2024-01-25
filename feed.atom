@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-24T00:39:31.938Z</id>
+    <id>urn:2024-01-25T00:39:27.736Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T00:39:31.938Z</updated>
+    <updated>2024-01-25T00:39:27.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot 音声対応が進んできています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/25/030121</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/25/030121"/>
+        <updated>2024-01-24T18:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot は文章をやり取りする機能が主なものとなっていますが、そのインプットはキーボードインターフェースや画像などに頼っていたところがありました。 が、 2024 年の 1 月も終わりかけのこの時期に、音声インターフェースが活用しやすい形で提供され始めているようなのです。 以下の図を見ていただきたいのですが、 Copilot in Windows におけるインターフェースです。プロンプト入力欄の右側に音声を読み取るマイクボタンが実装されていることが確認できますね。 実はこれをオフにしている間、やり取りを行った結果側に音声読み上げボタンが表示されるケースが出てきているよ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Server DNS 設定を動的に変更してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/24/030202</id>
@@ -160,7 +170,7 @@
         <id>https://art-break.net/tech/?p=20330</id>
         <link href="https://art-break.net/tech/?p=20330"/>
         <updated>2024-01-15T00:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Mesh on Microsoft Teams が今月2024年1月に一般提供開始され、仮想3D空間をアバターを利用して没入できる「イマーシブ スペース」について前回の記事では今までの歴史をちょっと振り返ってみたり、利用 … "Microsoft Teams ：「イマーシブ スペース」を試してみた（動画）" の続きを読む]]></summary>
+        <summary type="html"><![CDATA[Mesh on Microsoft Teams のイマーシブスペースが今月2024年1月に一般提供開始されました。仮想3D空間をアバターを利用して没入できる「イマーシブ スペース」について前回の記事では今までの歴史をちょ … "Microsoft Teams ：「イマーシブ スペース」を試してみた（動画）" の続きを読む]]></summary>
         <author>
             <name>TAICHI</name>
         </author>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/27/023203"/>
         <updated>2023-12-26T17:32:03.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Edge においては最近サイドバーの進化がかなりのスピードで行われていますが、また新たな機能が追加されていました。 なんとスクリーンショットという機能です。サイドバーの下のほうに追加されました。 これをクリックすると、以下の図が画面下中央に表示されます。 なんと Edge の機能にもかかわらず Edge の外側までスクリーンショットが取れるという状況となるようです。 試しにタスクバーのショットを取ってみたのが以下ですが、 Edge の外側をキャプチャできていますね。 カスタマイズボタンを押してみたところ設定画面が表示され、ショートカットキーのカスタマイズとその適用範囲を選択…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge 画面の左右分割機能が追加されています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/26/023026</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/26/023026"/>
-        <updated>2023-12-25T17:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Edge は時折面白い機能を提供してくれるのですが、今回もまた、ブラウザーの使い方を一変させるかもしれない機能が追加されました。 それは左右に画面を分割する機能です。 この機能に気が付いたのはリンクを右クリックして InPrivate モードで開こうとしたときです。その下にリンクを分割画面ウィンドウで開くという項目ができていたのです。 これを押すと文字通りこんな感じに左と右に分かれた一つのタブが表示されました。 アドレスバーがもともとの形を維持したまま左右を表現できるように、ちょっと無理な形になっていますね。 これをクリックするとリンククリック時の動作を選ぶことができるよう…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
