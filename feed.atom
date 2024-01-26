@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-25T00:39:27.736Z</id>
+    <id>urn:2024-01-26T00:36:33.345Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T00:39:27.736Z</updated>
+    <updated>2024-01-26T00:36:33.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot 画像のキャプチャ機能が追加されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/26/021550</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/26/021550"/>
+        <updated>2024-01-25T17:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot は画像を読み込ませてその判断を行える機能を有しています。 今までは画像はアップロードもしくはクリップボードからコピーするしかなかったのですが、最近 Add a screenshot という、直接画像を取り込む機能が追加されました。 アップロードの右側のボタンです。 例えばこの Copilot の画像を読ませてみましょう。 Edge のサイドバーにあるスクリーンショットと同じ動作となっており、選択後にこのような形でキャプチャの内容を変更することができるようになっています。やっぱりモザイクですかね。これは便利ですよねー。 これでキャプチャを OK とすると、その…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：チャットメンバー以外のユーザーの連絡先情報を共有]]></title>
+        <id>https://art-break.net/tech/?p=20511</id>
+        <link href="https://art-break.net/tech/?p=20511"/>
+        <updated>2024-01-25T09:25:04.000Z</updated>
+        <summary type="html"><![CDATA[やべぇっす。アップデート情報に追いつけない！いや、マイペースにやりますよ。 ってことでさっきアップデートされている事に気が付いたのですが、 2024/01/05 付けで Microsoft 365 管理センターのメッセー … "Microsoft Teams ：チャットメンバー以外のユーザーの連絡先情報を共有" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：カメラとマイクの設定がポップアップ表示されるようになった]]></title>
+        <id>https://art-break.net/tech/?p=20468</id>
+        <link href="https://art-break.net/tech/?p=20468"/>
+        <updated>2024-01-25T04:49:23.000Z</updated>
+        <summary type="html"><![CDATA[▼突然ですが違和感ありますか？ 毎日のように Microsoft Teams で会議をしている方で、違和感を覚えた人はイイですね。日々変化するクラウドサービスを便利に活用していくには、この違和感を覚える感覚を身に付けると … "Microsoft Teams ：カメラとマイクの設定がポップアップ表示されるようになった" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot 音声対応が進んできています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/25/030121</id>
@@ -226,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャネルの作成を促進させるアップデート]]></title>
-        <id>https://art-break.net/tech/?p=20287</id>
-        <link href="https://art-break.net/tech/?p=20287"/>
-        <updated>2024-01-11T00:35:59.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Teams における運用課題。ここ1年で痛感したのが「実はまだまだ Microsoft Teams の利用定着されていない企業が多い」という実態。良くも悪くもコロナ禍で Microsoft 365 導 … "Microsoft Teams ：チャネルの作成を促進させるアップデート" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Apps 名前を付けて保存すると OneDrive の広告が表示されるようになったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/11/031323</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/11/031323"/>
@@ -243,16 +263,6 @@
         <summary type="html"><![CDATA[ここのところ、 Microsoft 365 Apps での保存は F12 もしくは直接 OneDrive にファイルを作成する形をとっていたので全く気が付かなかったのですが、タイミングよくファイルリボンの名前を付けて保存から参照を押したところ今まで見たことのなかった画面を見ることができました。 以下の画面の中段下にある「参照」ボタンを押してみましょう。 すると、ローカル保存と OneDrive 上への保存での違いが明確に表示されます。簡単な説明ですが、端的に表されており、とてもいいダイアログですね。 いつも思うのですが、リアルタイム編集や自動保存などはローカル PC では行えないですし、この機…]]></summary>
         <author>
             <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：「会議」アプリの名称が「ミーティング」へ]]></title>
-        <id>https://art-break.net/tech/?p=20268</id>
-        <link href="https://art-break.net/tech/?p=20268"/>
-        <updated>2024-01-09T23:25:34.000Z</updated>
-        <summary type="html"><![CDATA[記事内容的には小ネタです。 2023年12月に Microsoft Teams に「会議」アプリが登場しました。 Microsoft Teams ：「会議」アプリ登場したけど便利そう？ 会議にフォーカスしたアプリで、たく … "Microsoft Teams ：「会議」アプリの名称が「ミーティング」へ" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
         </author>
     </entry>
     <entry>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/28/013322"/>
         <updated>2023-12-27T16:33:22.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot in Windows では Windows の機能を操作することができる。といううたい文句で登場したのですが、リリース前の初回アナウンスで披露された機能はダークモードへの移行や Spotify の音声再生といった機能でした。 それでは 2023 年も暮れが差し迫った 12 月はどのような動作が行われるのか見ていきましょう。 と、その前に Copilot を開いたところ、右側の上部に並べて表示、重ねて表示を切り替えるボタンが追加されています。サイドバーの動きもよいのですが、利用できる画面がかなり小さくなるのでフローウィンドウが良いケースは多くありそうです。重ね…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge 画面キャプチャ機能が内包されるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/27/023203</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/27/023203"/>
-        <updated>2023-12-26T17:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Edge においては最近サイドバーの進化がかなりのスピードで行われていますが、また新たな機能が追加されていました。 なんとスクリーンショットという機能です。サイドバーの下のほうに追加されました。 これをクリックすると、以下の図が画面下中央に表示されます。 なんと Edge の機能にもかかわらず Edge の外側までスクリーンショットが取れるという状況となるようです。 試しにタスクバーのショットを取ってみたのが以下ですが、 Edge の外側をキャプチャできていますね。 カスタマイズボタンを押してみたところ設定画面が表示され、ショートカットキーのカスタマイズとその適用範囲を選択…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
