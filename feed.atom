@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-26T00:36:33.345Z</id>
+    <id>urn:2024-01-27T00:36:22.054Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T00:36:33.345Z</updated>
+    <updated>2024-01-27T00:36:22.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams は 2024 年 3 月 31 日以降で新 Teams に移行します]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/27/030903</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/27/030903"/>
+        <updated>2024-01-26T18:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams 管理センターを見ていたところ、ダッシュボードのニュース欄で Microsoft new Teams アプリが通常の Teams としてリリースするタイミングが 2024 年 3 月 31 日になることが明かされていました。 旧 Teams に比べ、メモリー効率が高くなったことは何度かアナウンスされているのですが、実際組織内で Teams を利用していると、 20 ～ 30 以上のチームに加入することも多く、それらが表示されるだけでかなり時間がかかる状況が生まれていたんですよね。 new Teams ではそれらが目に見えて早くなっているので、早く一般利用が開始され…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot 画像のキャプチャ機能が追加されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/26/021550</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/29/025400"/>
         <updated>2023-12-28T17:54:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Edge の AI といえば Bing Chat であることは疑う余地もなく、大多数の方はこれが Edge を利用する理由になっているのではないかと思います。 しかし、 Edge を長く利用していると以下のようなアナウンスが表示されることがあるのです。 AI は AI でも、生成 AI のような動きをするものではなく、行動履歴をもとに最適な情報を提供してくれる仕組みとなっています。 この通知が出たら「今すぐチェック」を行うことで Microsoft Start のトップがニュース中心の画面に変化するのです。 この画面にあるニュースはどんどん変化するようになっています。これは…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot in Windows アプリの起動を行ってみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/28/013322</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/28/013322"/>
-        <updated>2023-12-27T16:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot in Windows では Windows の機能を操作することができる。といううたい文句で登場したのですが、リリース前の初回アナウンスで披露された機能はダークモードへの移行や Spotify の音声再生といった機能でした。 それでは 2023 年も暮れが差し迫った 12 月はどのような動作が行われるのか見ていきましょう。 と、その前に Copilot を開いたところ、右側の上部に並べて表示、重ねて表示を切り替えるボタンが追加されています。サイドバーの動きもよいのですが、利用できる画面がかなり小さくなるのでフローウィンドウが良いケースは多くありそうです。重ね…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
