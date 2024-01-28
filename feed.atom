@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-27T00:36:22.054Z</id>
+    <id>urn:2024-01-28T00:38:49.105Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T00:36:22.054Z</updated>
+    <updated>2024-01-28T00:38:49.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams Tool kit で Copilot アプリをデプロイしてみました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/28/013923</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/28/013923"/>
+        <updated>2024-01-27T16:39:23.000Z</updated>
+        <summary type="html"><![CDATA[動作を試そうと思っていた Copilot for M365 のプラグインを作成するサンプルアプリですが、この冬休みを使ってデプロイを行ってみました。 結果的に動作させるに至らずだったのですが、その動きを確認しておきたいと思います。 まず、以下の GitHub で取り扱っているのが今回のサンプルプラグインとなります。 https://github.com/OfficeDev/Copilot-for-M365-Plugins-Samples/blob/main/samples/msgext-northwind-inventory-ts/lab/Exercise%2000%20-%20Welcome…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams は 2024 年 3 月 31 日以降で新 Teams に移行します]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/27/030903</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/30/024423"/>
         <updated>2023-12-29T17:44:23.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 は UI が中心となる仕組みであり、 API などを用いたカスタムアプリでのやり取りは一定の制限があります。 Viva Engage もそんな制限がある機能の一つなのですが、一部機能が解禁される方向にあるようです。 それはコミュニティの作成。 Viva Engage のコミュニティは SharePoint のサイトのようなもので、このコミュニティ単位にやり取りを行うイメージになっています。 作成用の API が Graph API の Beta で用意されたのです。 早速どういった動作となるのか、 Graph Explorer で確認してみましょう。 API の詳細…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge AI は Bing Chat だけではありません]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/29/025400</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/29/025400"/>
-        <updated>2023-12-28T17:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Edge の AI といえば Bing Chat であることは疑う余地もなく、大多数の方はこれが Edge を利用する理由になっているのではないかと思います。 しかし、 Edge を長く利用していると以下のようなアナウンスが表示されることがあるのです。 AI は AI でも、生成 AI のような動きをするものではなく、行動履歴をもとに最適な情報を提供してくれる仕組みとなっています。 この通知が出たら「今すぐチェック」を行うことで Microsoft Start のトップがニュース中心の画面に変化するのです。 この画面にあるニュースはどんどん変化するようになっています。これは…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
