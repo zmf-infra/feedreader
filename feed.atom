@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-28T00:38:49.105Z</id>
+    <id>urn:2024-01-29T00:36:24.725Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T00:38:49.105Z</updated>
+    <updated>2024-01-29T00:36:24.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23620 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/29/015552</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/29/015552"/>
+        <updated>2024-01-28T16:55:52.000Z</updated>
+        <summary type="html"><![CDATA[今週の Insider Program は Canary Channel を再起させるレベルでいろいろな更新が Canary に寄った形となっているようです。 Dev Channel は新機能がなく、 Beta Channel は Dev Channel の機能の取り込みとバグフィックス、そして、 Beta Channel から離脱する機能が提供されています。 Canary Channel : Build 26040 Dev Channel : Build 23620 Beta Channel : Build 22635.3130 Dev Channel はバグフィックスのみだったので今回は小…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams Tool kit で Copilot アプリをデプロイしてみました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/28/013923</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2023/12/31/023126"/>
         <updated>2023-12-30T17:31:26.000Z</updated>
         <summary type="html"><![CDATA[最近は Microsoft Copilot for Microsoft 365 の調査として Microsoft Chat を筆頭にいろいろ触っているのですが、プラグインという項目にサンプルアプリが入っていたので今回はこれを軽く触っていきたいと思います。 チャット画面にあるアプリボタンを押すとプラグインを見ることができます。 サンプルで Northwind Inventory というものが入っていました。 Microsoft Chat の場合、プラグインを起動するためにはユーザーがそのプラグインを明示的に利用する必要があります。 その状態で Microsoft Chat に商品在庫を確認したと…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Graph API で Viva Engage のコミュニティを作成できるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/30/024423</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/30/024423"/>
-        <updated>2023-12-29T17:44:23.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 は UI が中心となる仕組みであり、 API などを用いたカスタムアプリでのやり取りは一定の制限があります。 Viva Engage もそんな制限がある機能の一つなのですが、一部機能が解禁される方向にあるようです。 それはコミュニティの作成。 Viva Engage のコミュニティは SharePoint のサイトのようなもので、このコミュニティ単位にやり取りを行うイメージになっています。 作成用の API が Graph API の Beta で用意されたのです。 早速どういった動作となるのか、 Graph Explorer で確認してみましょう。 API の詳細…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
