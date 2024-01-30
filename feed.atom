@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-29T00:36:24.725Z</id>
+    <id>urn:2024-01-30T00:36:24.878Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T00:36:24.725Z</updated>
+    <updated>2024-01-30T00:36:24.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Server は次のバージョンが 2025 で決定したようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/30/025303</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/30/025303"/>
+        <updated>2024-01-29T17:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Windows Insider Program をやっていると思いだすのが、過去には Windows Server も Insider Program で頻繁な更新があった。という事実なのですが、 Windows Server 2022 がリリースされてからというもの、そのリリース頻度は下がり、もう次のオンプレ Server のリリースは限定的になるのかなーと思うような時もあったのですが、なんとつぎの Windows Server のバージョンが決まったというアナウンスが入ってきました。 そのバージョンは 2025 ！ということは今年の後半にはリリースされる可能性が高そうです。 そのくらい全然…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23620 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/29/015552</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/01/005313"/>
         <updated>2023-12-31T15:53:13.000Z</updated>
         <summary type="html"><![CDATA[最近、 SharePoint Online のサイトを開こうとしたときに自動的にプロファイルが切り替わる動作が加わっており、どうしてこの動きになるのかなーと気になっていたのですが、調べを進めていくうちに理由が見えてきたので共有しておきたいと思います。 こんな感じに Edge のアイコンが 1 つ増えて、そちら側のアプリで開くイメージになります。 この遷移が入ったサイトはアドレスバーの右側に人のマークが表示されます。 これは切り替え設定がされているケースで表示されるみたいですね。 この設定ですが、設定 - プロファイル - プロファイルの基本設定から設定できるようになっています。 本来は「プロフ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 向けのプラグインを見ていきましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2023/12/31/023126</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2023/12/31/023126"/>
-        <updated>2023-12-30T17:31:26.000Z</updated>
-        <summary type="html"><![CDATA[最近は Microsoft Copilot for Microsoft 365 の調査として Microsoft Chat を筆頭にいろいろ触っているのですが、プラグインという項目にサンプルアプリが入っていたので今回はこれを軽く触っていきたいと思います。 チャット画面にあるアプリボタンを押すとプラグインを見ることができます。 サンプルで Northwind Inventory というものが入っていました。 Microsoft Chat の場合、プラグインを起動するためにはユーザーがそのプラグインを明示的に利用する必要があります。 その状態で Microsoft Chat に商品在庫を確認したと…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
