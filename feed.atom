@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-30T00:36:24.878Z</id>
+    <id>urn:2024-01-31T00:36:37.572Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T00:36:24.878Z</updated>
+    <updated>2024-01-31T00:36:37.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Clipchamp ：【悲報】ついに「プレミアム」ストック素材がプレミアム扱いに…]]></title>
+        <id>https://art-break.net/tech/?p=20528</id>
+        <link href="https://art-break.net/tech/?p=20528"/>
+        <updated>2024-01-31T00:26:25.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 皆さんは動画編集アプリの Clipchamp 使っていますか？コロナ禍以降、動画コンテンツのニーズが高まり、 Micr … "Microsoft Clipchamp ：【悲報】ついに「プレミアム」ストック素材がプレミアム扱いに…" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Server 2025 Insider Preview をインストールしてみました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/01/31/013458</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/01/31/013458"/>
+        <updated>2024-01-30T16:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Windows Server 2025 Insider が大々的に出てきたことでこれからは Windows 11 世代の Server OS が利用できるようになるということですね。 というわけで、 ISO を使ってインストールを試していきたいと思います。 Windows 11 の Canary Channel ではインストーラーが新しくなったというアナウンスもあり、久々に大幅な変化があるかもしれません。 まず ISO から起動すると表示されるのが言語設定です。この画面は新しい感じですね。 続いてキーボード設定です。この辺りも設定項目は同じですが中身は変わっている感じですね。初期状態では 10…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Server は次のバージョンが 2025 で決定したようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/30/025303</id>
@@ -276,16 +296,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：「イマーシブ スペース」一般提供開始（ Mesh on Microsoft Teams ）]]></title>
-        <id>https://art-break.net/tech/?p=20309</id>
-        <link href="https://art-break.net/tech/?p=20309"/>
-        <updated>2024-01-12T00:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Teams の会議をアバターを使って3Dの仮想空間に没入し体験できる「イマーシブスペース」。去年2023年10月からパブリックプレビュー開始されはじめて僕も触ってスクショを撮っていたけど、ウッカリ記事 … "Microsoft Teams ：「イマーシブ スペース」一般提供開始（ Mesh on Microsoft Teams ）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft AI Tour が開催されます]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/12/015918</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/12/015918"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/02/020554"/>
         <updated>2024-01-01T17:05:54.000Z</updated>
         <summary type="html"><![CDATA[Ignite 2023 で 2024 年 1 月に GA することがアナウンスされている Teams をアバターとして利用するための Mesh とイマーシブ スペースですが、すでに利用メニューが追加されているようです。 以下は新しい Teams の会議を開いた後に表示される表示メニューとなっています。 この「イマーシブ スペース (3D) 」というのがイマーシブスペースを起動するためのボタンとなっています。 これを押すとイマーシブ スペースが起動を始めます。 Microsoft Mesh のスプラッシュが表示されるところからスタートとなるようです。 1 分くらいでしょうか。結構この画面が長く表…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge 職場向けプロファイルの動きを見ておきましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/01/005313</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/01/005313"/>
-        <updated>2023-12-31T15:53:13.000Z</updated>
-        <summary type="html"><![CDATA[最近、 SharePoint Online のサイトを開こうとしたときに自動的にプロファイルが切り替わる動作が加わっており、どうしてこの動きになるのかなーと気になっていたのですが、調べを進めていくうちに理由が見えてきたので共有しておきたいと思います。 こんな感じに Edge のアイコンが 1 つ増えて、そちら側のアプリで開くイメージになります。 この遷移が入ったサイトはアドレスバーの右側に人のマークが表示されます。 これは切り替え設定がされているケースで表示されるみたいですね。 この設定ですが、設定 - プロファイル - プロファイルの基本設定から設定できるようになっています。 本来は「プロフ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
