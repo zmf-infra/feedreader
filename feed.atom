@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-31T00:36:37.572Z</id>
+    <id>urn:2024-02-01T00:38:08.613Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T00:36:37.572Z</updated>
+    <updated>2024-02-01T00:38:08.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Entra ID の分離を行おう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/01/031535</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/01/031535"/>
+        <updated>2024-01-31T18:15:35.000Z</updated>
+        <summary type="html"><![CDATA[2015 年ころ以前よりマイクロソフトアカウントを取得していると、組織アカウントと同じメールアドレスでアカウントを作れたことご存じでしょうか。 Microsoft 365 のユーザー共有などではメールアドレスを元にユーザーを特定するため、この状態のままでいるとマイクロソフトアカウントなのか、組織アカウントなのか、どちらの ID か判断するすべがなくうまく認証されないことがあるのです。 そのため、かねてよりマイクロソフトアカウントの ID を変更するようアナウンスがされているのですが、その方法を試してみたので共有しておきたいと思います。 まず、 Microsoft 365 Apps では、うまく…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Clipchamp ：【悲報】ついに「プレミアム」ストック素材がプレミアム扱いに…]]></title>
         <id>https://art-break.net/tech/?p=20528</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/03/013854"/>
         <updated>2024-01-02T16:38:54.000Z</updated>
         <summary type="html"><![CDATA[この冬休みは最近触っていなかった様々な機能を試して、実際にどういったものが有用なのか調べているのですが、またまたちゃんと利用できていなかった機能を見つけました。 それは Windows 11 に標準で搭載されている Snipping Tool の文字認識機能です。 Win + Shift + S で呼び出すことができるスクリーンキャプチャを活用して、呼び出して利用するというシーンが想定できます。 いつも通りではありますが、 Microsoft のホームページで試してみましょう。 https://www.microsoft.com/ja-jp/ こんな感じにスクリーンをキャプチャすると、右下に …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mircorosoft 365 Teams にイマーシブ スペースのメニューが追加されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/02/020554</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/02/020554"/>
-        <updated>2024-01-01T17:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Ignite 2023 で 2024 年 1 月に GA することがアナウンスされている Teams をアバターとして利用するための Mesh とイマーシブ スペースですが、すでに利用メニューが追加されているようです。 以下は新しい Teams の会議を開いた後に表示される表示メニューとなっています。 この「イマーシブ スペース (3D) 」というのがイマーシブスペースを起動するためのボタンとなっています。 これを押すとイマーシブ スペースが起動を始めます。 Microsoft Mesh のスプラッシュが表示されるところからスタートとなるようです。 1 分くらいでしょうか。結構この画面が長く表…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
