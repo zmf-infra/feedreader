@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-01T00:38:08.613Z</id>
+    <id>urn:2024-02-02T00:36:38.763Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T00:38:08.613Z</updated>
+    <updated>2024-02-02T00:36:38.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot 商用データ保護の範囲が広くなるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/02/022630</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/02/022630"/>
+        <updated>2024-02-01T17:26:30.000Z</updated>
+        <summary type="html"><![CDATA[最近 Microsoft 365 メッセージセンターのチェックがおざなりになっていたのですが、斜め読みしていたところ気になる内容が目に飛び込んできました。 それは、商用データ保護（ Commercial data protection ）が Office 365 のプランに拡張されるという内容です。 この商用データ保護はその名の通りでプロンプト情報をマイクロソフトが再利用しないという確約を行うための機能です。実際には内部の Bing 検索で入力したプロンプトの内容が扱われるため、全く外部に出ていかないわけではないことに注意を払っておく必要があります。 もともと商用データ保護は Windows …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：チャットのメッセージを転送]]></title>
+        <id>https://art-break.net/tech/?p=20551</id>
+        <link href="https://art-break.net/tech/?p=20551"/>
+        <updated>2024-02-01T05:29:57.000Z</updated>
+        <summary type="html"><![CDATA[あるチャットルームで話されたメッセージを他のチャットルームに転送したい時ってあります？「アナタあちらのグループチャットでこう書いていましたよね？」「別のグループチャットでAさんがこういう事を書いていました。」など。そうい … "Microsoft Teams ：チャットのメッセージを転送" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Entra ID の分離を行おう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/01/031535</id>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：「イマーシブ スペース」を試してみた（動画）]]></title>
-        <id>https://art-break.net/tech/?p=20330</id>
-        <link href="https://art-break.net/tech/?p=20330"/>
-        <updated>2024-01-15T00:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Mesh on Microsoft Teams のイマーシブスペースが今月2024年1月に一般提供開始されました。仮想3D空間をアバターを利用して没入できる「イマーシブ スペース」について前回の記事では今までの歴史をちょ … "Microsoft Teams ：「イマーシブ スペース」を試してみた（動画）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Program Build 23615 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/15/023133</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/15/023133"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/04/025336"/>
         <updated>2024-01-03T17:53:36.000Z</updated>
         <summary type="html"><![CDATA[2024 年のマイクロソフトは早くも始動しているようです。 メッセージセンター上で各種アップデートが行われていました。 その中でもこの 1 月、特に意識しておきたいのは暗号化が新しくなった点です。 すでにこの暗号化機能は利用できるのですが、 html の添付ファイルベースのバージョンは 2024 年 1 月に完全終了するということで注意喚起のアナウンスが行われていたというわけです。 この暗号化機能ですが、かなり秀逸で、俗に言う PPAP を代替できる機能といっても過言ではないのではと思っています。 まず利用。 Outlook でメールを作成し、オプションメニューから暗号化を選ぶだけで利用できま…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Snipping Tool のテキスト アクションを使いこなしましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/03/013854</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/03/013854"/>
-        <updated>2024-01-02T16:38:54.000Z</updated>
-        <summary type="html"><![CDATA[この冬休みは最近触っていなかった様々な機能を試して、実際にどういったものが有用なのか調べているのですが、またまたちゃんと利用できていなかった機能を見つけました。 それは Windows 11 に標準で搭載されている Snipping Tool の文字認識機能です。 Win + Shift + S で呼び出すことができるスクリーンキャプチャを活用して、呼び出して利用するというシーンが想定できます。 いつも通りではありますが、 Microsoft のホームページで試してみましょう。 https://www.microsoft.com/ja-jp/ こんな感じにスクリーンをキャプチャすると、右下に …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
