@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-02T00:36:38.763Z</id>
+    <id>urn:2024-02-03T00:36:04.889Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T00:36:38.763Z</updated>
+    <updated>2024-02-03T00:36:04.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 データの保持方法について認識を深めておきましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/03/031621</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/03/031621"/>
+        <updated>2024-02-02T18:16:21.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 では、ほかの Copilot や LLM の扱いと異なり、マイクロソフトはプロンプトデータを利用後破棄するという宣言を行っていないことをご存じでしょうか？ これは管理者向けの監査を考慮した宣言となっており、ほかの Microsoft 365 製品と同様に電子情報開示での依頼に対応できるように調整されているのです。 考え方は以下の Learn にて示されており、 Exchange メールボックス内に非表示フォルダーとして格納されているとのこと。 https://learn.microsoft.com/ja-jp/purvie…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：会議のギャラリービューが新しくなる]]></title>
+        <id>https://art-break.net/tech/?p=20590</id>
+        <link href="https://art-break.net/tech/?p=20590"/>
+        <updated>2024-02-02T03:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams の会議に参加すると既定で表示されるのが「ギャラリー」ビューです。 ▼会議ウィンドウのバーの「表示」をクリックすると既定が「ギャラリー」という事がわかる このギャラリービューが新しくなります … "Microsoft Teams ：会議のギャラリービューが新しくなる" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot 商用データ保護の範囲が広くなるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/02/022630</id>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Copilot for Microsoft 365 が購入・利用しやすくなった（だからこそ要注意） ＆ Copilot Pro の発表]]></title>
-        <id>https://art-break.net/tech/?p=20337</id>
-        <link href="https://art-break.net/tech/?p=20337"/>
-        <updated>2024-01-16T05:37:07.000Z</updated>
-        <summary type="html"><![CDATA[※発表されたての情報なので不明瞭な点もあり、いつもに増して正確性は自信ありません。 ※ 記事内では「 Copilot for Microsoft 365 」と表記していますが、本当に正しくは「 Microsoft Cop … "Copilot for Microsoft 365 が購入・利用しやすくなった（だからこそ要注意） ＆ Copilot Pro の発表" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft 365 Bing Chat の停止方法を見てみましょう（ hosts 編）]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/16/014705</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/16/014705"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/05/032849"/>
         <updated>2024-01-04T18:28:49.000Z</updated>
         <summary type="html"><![CDATA[英語圏では Win キー以来 30 年ぶりのキー配列変更ということで、大きな話題として取り上げられたようなのですが、とうとう Copilot はキーボード配列をも変更する力を持ったようです。 というわけで 2024 年春以降にリリースする PC のキーボードには Copilot キーが搭載されるようになる旨がアナウンスされました。 https://blogs.windows.com/windowsexperience/2024/01/04/introducing-a-new-copilot-key-to-kick-off-the-year-of-ai-powered-windows-pcs/?…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 古いメール暗号化は 2024 年 1 月で EOS となります]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/04/025336</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/04/025336"/>
-        <updated>2024-01-03T17:53:36.000Z</updated>
-        <summary type="html"><![CDATA[2024 年のマイクロソフトは早くも始動しているようです。 メッセージセンター上で各種アップデートが行われていました。 その中でもこの 1 月、特に意識しておきたいのは暗号化が新しくなった点です。 すでにこの暗号化機能は利用できるのですが、 html の添付ファイルベースのバージョンは 2024 年 1 月に完全終了するということで注意喚起のアナウンスが行われていたというわけです。 この暗号化機能ですが、かなり秀逸で、俗に言う PPAP を代替できる機能といっても過言ではないのではと思っています。 まず利用。 Outlook でメールを作成し、オプションメニューから暗号化を選ぶだけで利用できま…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
