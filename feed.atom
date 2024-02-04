@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-03T00:36:04.889Z</id>
+    <id>urn:2024-02-04T00:39:15.247Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T00:36:04.889Z</updated>
+    <updated>2024-02-04T00:39:15.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Azure Open AI 日本のリージョンで利用できる範囲が減っていくのかもしれません]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/04/030458</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/04/030458"/>
+        <updated>2024-02-03T18:04:58.000Z</updated>
+        <summary type="html"><![CDATA[最近 Copilot の調査などが多かったせいもあり、 Azure Open AI を確認する機会が大きく減っていたので、久々に Azure AI Studio にアクセスしていたのですが、いろいろと利用できる範囲に変化が起きているようでした。 今回はそんな Azure Open AI の状態を見ていきたいと思います。 例えば以下、2024 年 2 月の時点では DALL-E を利用するには米国東部とスウェーデン中部のテナントのみが利用できるようになっている状態のようです。 欧州の Azure Open AI といえば Europe となっているセンターだったのですがかなり拡大が進んでいるとい…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 データの保持方法について認識を深めておきましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/03/031621</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/06/034835"/>
         <updated>2024-01-05T18:48:35.000Z</updated>
         <summary type="html"><![CDATA[最近、 Microsoft Edge は Beta Channel での利用をしていたので、気が付くのに遅れたのですが、 Stable Channel では 2023 年を振り返るサイトを用意していたようです。 https://www.microsoft.com/ja-jp/edge/update/year-in-review?form=MT00LC&channel=stable&version=120.0.2210.91 このページは 2023 年に数値上で起こったことを振り返るようになっています。次へを押していくと、どういったことが起きたのかわかるようになっているというわけです。 まず一つ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Copilot 向けのキーがキーボードに追加されることになったようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/05/032849</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/05/032849"/>
-        <updated>2024-01-04T18:28:49.000Z</updated>
-        <summary type="html"><![CDATA[英語圏では Win キー以来 30 年ぶりのキー配列変更ということで、大きな話題として取り上げられたようなのですが、とうとう Copilot はキーボード配列をも変更する力を持ったようです。 というわけで 2024 年春以降にリリースする PC のキーボードには Copilot キーが搭載されるようになる旨がアナウンスされました。 https://blogs.windows.com/windowsexperience/2024/01/04/introducing-a-new-copilot-key-to-kick-off-the-year-of-ai-powered-windows-pcs/?…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
