@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-04T00:39:15.247Z</id>
+    <id>urn:2024-02-05T00:37:22.825Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T00:39:15.247Z</updated>
+    <updated>2024-02-05T00:37:22.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 22635.3139 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/05/005613</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/05/005613"/>
+        <updated>2024-02-04T15:56:13.000Z</updated>
+        <summary type="html"><![CDATA[今週の Insider Preview は Beta Channel が Build 22635.3139 に更新されただけでした。 このバージョンではバグフィックスだけを行っており、新機能の追加もありません。 今週はちょっと小休止という感じだったのでしょうか。 と、 Windows Insider の件だけではこれで終わってしまうので、今回は Wi-Fi のセキュリティキーを確認する方法を見ておきたいと思います。 Wi-Fi のセキュリティキーは Personal モードの WPA2 や WPA3 などで利用する、 Wi-Fi ネットワークに入るためのカギになっているのですが、一回入力すると…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Open AI 日本のリージョンで利用できる範囲が減っていくのかもしれません]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/04/030458</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/07/012029"/>
         <updated>2024-01-06T16:20:29.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 を利用する理由の一つとして、データを Microsoft 365 に預けておくと検索性が高くなるという点があります。 これは Copilot などでも示されているのですが、 Graph API の検索機能が連動できるため過去のやり取りやファイルを探すことがとても便利になるのです。 そんな Microsoft 365 の検索ですが、過去に検索した内容を一覧ダウンロードできる機能が用意されています。 Microsoft 365 の右上にあるアイコンをクリックしたときに表示される View account をクリックしてみて下さい。 ここに「設定およびプライバシー」という…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge 2023 年の振り返りサイトが用意されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/06/034835</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/06/034835"/>
-        <updated>2024-01-05T18:48:35.000Z</updated>
-        <summary type="html"><![CDATA[最近、 Microsoft Edge は Beta Channel での利用をしていたので、気が付くのに遅れたのですが、 Stable Channel では 2023 年を振り返るサイトを用意していたようです。 https://www.microsoft.com/ja-jp/edge/update/year-in-review?form=MT00LC&channel=stable&version=120.0.2210.91 このページは 2023 年に数値上で起こったことを振り返るようになっています。次へを押していくと、どういったことが起きたのかわかるようになっているというわけです。 まず一つ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
