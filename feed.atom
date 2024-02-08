@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-07T00:34:44.151Z</id>
+    <id>urn:2024-02-08T00:35:58.496Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T00:34:44.151Z</updated>
+    <updated>2024-02-08T00:35:58.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot カスタムアプリの設定位置が変更されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/08/014301</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/08/014301"/>
+        <updated>2024-02-07T16:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 のライセンスを購入すると、 Microsoft 365 管理センターに Copilot 項目が追加されますが、ここにあったカスタマイズ項目が消えてなくなっていました。 カスタマイズ項では、 Microsoft Chat や Teams の Copilot アプリに利用できるアプリの指定や利用できるユーザーを指定できるようになっていました。今まではこれが Copilot の項目から利用できたのですが、カスタマイズ項がなくなったことで、ここから遷移することができなくなったので、「設定」にある「統合アプリ」の「利用可能なアプリ」…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：チームに「見つける」というフィードが登場（ Discover フィード）]]></title>
+        <id>https://art-break.net/tech/?p=20623</id>
+        <link href="https://art-break.net/tech/?p=20623"/>
+        <updated>2024-02-07T04:21:28.000Z</updated>
+        <summary type="html"><![CDATA[今朝 Microsoft Teams を眺めていたら、チーム一覧の上部に「見つける」というメニューというかボタンというかテキストリンクが追加されていました。 ▼チーム一覧の上部に「見つける」 これ何だったっけ？と思って  … "Microsoft Teams ：チームに「見つける」というフィードが登場（ Discover フィード）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Exchange 監査コマンドレットが EOS となります]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/07/021259</id>
@@ -296,16 +316,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャネル会議をメンバーの予定表に追加]]></title>
-        <id>https://art-break.net/tech/?p=20384</id>
-        <link href="https://art-break.net/tech/?p=20384"/>
-        <updated>2024-01-18T01:39:39.000Z</updated>
-        <summary type="html"><![CDATA[このアップデートは標準リリース環境では2023年9月中旬から展開開始し、2024年1月下旬に展開完了予定です。長い展開期間の中、僕の環境になかなか展開されてくれなくてスッカリ忘れてしまい、今ふと気が付いて確認したら展開さ … "Microsoft Teams ：チャネル会議をメンバーの予定表に追加" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 ライセンスの購入はマーケットプレースからとなるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/18/023743</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/18/023743"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/10/003152"/>
         <updated>2024-01-09T15:31:52.000Z</updated>
         <summary type="html"><![CDATA[最近 Windows 10 は利用をしていなかったのですが、久々に利用してみたらサイドバーに面白い機能がついていることを知りました。 というわけで今回はサイドバーのデタッチ機能を見ていきたいと思います。 サイド バーの下から 2 つ目の機能ですね。これ、 Windows 11 では表示されない機能なんですよね。 これを押下すると、デスクトップの右端にこのバーが引っ付きます。 この状態で一番上にある Copilot ボタンを押せば Microsoft Copilot の起動も行えます。 Copilot for Windows ではなく for Edge なので、 Windows 機能に対しての動…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams の無料版で組織会議にアクセスできるようになります]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/09/024808</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/09/024808"/>
-        <updated>2024-01-08T17:48:08.000Z</updated>
-        <summary type="html"><![CDATA[2024 年、 Microsoft 365 の機能はまだまだ進化を続けていくようです。 Microsoft 365 メッセージセンターに Teams の無料版で組織版 Teams の会議に参加できるようになることがアナウンスされていました。 この変更は結構大きくて、今まで MSA で Teams 会議に入ろうとした場合、 Web 版で匿名アクセスするくらいしかなかったんですよね。これが 2024 年 2 月から 3 月にかけて解禁になるということですね。 この周りにおける設定についてもこの変更によって追加されたようです。 Microsoft Teams 管理センター内の設定とポリシーの外部アク…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
