@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-08T00:35:58.496Z</id>
+    <id>urn:2024-02-09T00:35:31.500Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T00:35:58.496Z</updated>
+    <updated>2024-02-09T00:35:31.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot 英語版の DALL-E 3 が機能増強されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/09/023239</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/09/023239"/>
+        <updated>2024-02-08T17:32:39.000Z</updated>
+        <summary type="html"><![CDATA[どうも先日 Bing.com に Open AI が組み込まれてから 1 年が経ったとのことで、そのタイミングで Bing.com の画像生成機能が強化されたようです。 強化されたといっても地域を英語にすると利用できる機能となっているようで、日本語の環境ではまだ使えませんでした。 また、 Microsoft Copilot with commercial data protection の状態では動かないようで、 MSA リンクの状態である必要がありました。 要は以下のリンクにアクセスすると英語環境で MSA 側になるのですが、パラメーターに cc=us と wlsso=1 が入っていると利用…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Stream ：対話機能（アンケート・投票・クイズ 編）]]></title>
+        <id>https://art-break.net/tech/?p=20638</id>
+        <link href="https://art-break.net/tech/?p=20638"/>
+        <updated>2024-02-08T04:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Stream が Classic から on SharePoint に移行も終盤。そういえば Classic には動画に Microsoft Forms のフォーム（アンケートやクイズ）を追加できる「 … "Microsoft Stream ：対話機能（アンケート・投票・クイズ 編）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot カスタムアプリの設定位置が変更されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/08/014301</id>
@@ -296,16 +316,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：「タウンホール」を使ってみる（イベント開催編）]]></title>
-        <id>https://art-break.net/tech/?p=20407</id>
-        <link href="https://art-break.net/tech/?p=20407"/>
-        <updated>2024-01-19T00:06:21.000Z</updated>
-        <summary type="html"><![CDATA[※色々と大変なのでいつもに増して雑な検証となっておりますがご容赦いただき、雰囲気を確認ください。 いやぁ、ライブイベントに代わる機能であるタウンホールですが、3か月前にイベント作成編として記事を書いて、イベント開催編は後 … "Microsoft Teams ：「タウンホール」を使ってみる（イベント開催編）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Copilot Copilot GPT を眺められるようになっていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/19/032913</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/19/032913"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/11/031323"/>
         <updated>2024-01-10T18:13:23.000Z</updated>
         <summary type="html"><![CDATA[ここのところ、 Microsoft 365 Apps での保存は F12 もしくは直接 OneDrive にファイルを作成する形をとっていたので全く気が付かなかったのですが、タイミングよくファイルリボンの名前を付けて保存から参照を押したところ今まで見たことのなかった画面を見ることができました。 以下の画面の中段下にある「参照」ボタンを押してみましょう。 すると、ローカル保存と OneDrive 上への保存での違いが明確に表示されます。簡単な説明ですが、端的に表されており、とてもいいダイアログですね。 いつも思うのですが、リアルタイム編集や自動保存などはローカル PC では行えないですし、この機…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge Windows 10 でサイドバーを分離できる機能が用意されているようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/10/003152</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/10/003152"/>
-        <updated>2024-01-09T15:31:52.000Z</updated>
-        <summary type="html"><![CDATA[最近 Windows 10 は利用をしていなかったのですが、久々に利用してみたらサイドバーに面白い機能がついていることを知りました。 というわけで今回はサイドバーのデタッチ機能を見ていきたいと思います。 サイド バーの下から 2 つ目の機能ですね。これ、 Windows 11 では表示されない機能なんですよね。 これを押下すると、デスクトップの右端にこのバーが引っ付きます。 この状態で一番上にある Copilot ボタンを押せば Microsoft Copilot の起動も行えます。 Copilot for Windows ではなく for Edge なので、 Windows 機能に対しての動…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
