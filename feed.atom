@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-09T00:35:31.500Z</id>
+    <id>urn:2024-02-10T00:35:14.221Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T00:35:31.500Z</updated>
+    <updated>2024-02-10T00:35:14.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Mesh リリース！]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/10/030825</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/10/030825"/>
+        <updated>2024-02-09T18:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Ignite 2022 で発表され、メタバース世代の新星のような扱いをされていた Microsoft Mesh ですが、 2024 年 1 月に GA を迎えることができたようです。 発表を前後して時代は生成 AI に突入してしまったため、 VR の認知が少しい薄れてしまったんですよね。ちょっともったいなかったです。 そんな Mesh も Teams Premium ライセンスとしてリリースされたため、利用者の絶対数が少ない中でのスタートとなったようです。 ただすでに、組織利用を始めているところもあるようで、その案内と共にアナウンスが行われていました。 https://www.microsof…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot 英語版の DALL-E 3 が機能増強されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/09/023239</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/12/015918"/>
         <updated>2024-01-11T16:59:18.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Build Japan 2023 が終わってまだ余韻が残っているような状況ですが、なんと次のイベントの開催がアナウンスされています。 今回のイベントは Microsoft AI Tour Tokyo と題されて、なんと東京ビッグサイトで行われるとのこと。 https://envision.microsoft.com/ja-JP/tokyo?WT.mc_id=M365-MVP-5002496 URL に記述がありますが、 Envision のイベントのようなので、アメリカ主導の Tier1 イベントですね。ビジネスリーダー向けのカンファレンスの扱いです。 サイトにアクセスして…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Apps 名前を付けて保存すると OneDrive の広告が表示されるようになったようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/11/031323</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/11/031323"/>
-        <updated>2024-01-10T18:13:23.000Z</updated>
-        <summary type="html"><![CDATA[ここのところ、 Microsoft 365 Apps での保存は F12 もしくは直接 OneDrive にファイルを作成する形をとっていたので全く気が付かなかったのですが、タイミングよくファイルリボンの名前を付けて保存から参照を押したところ今まで見たことのなかった画面を見ることができました。 以下の画面の中段下にある「参照」ボタンを押してみましょう。 すると、ローカル保存と OneDrive 上への保存での違いが明確に表示されます。簡単な説明ですが、端的に表されており、とてもいいダイアログですね。 いつも思うのですが、リアルタイム編集や自動保存などはローカル PC では行えないですし、この機…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
