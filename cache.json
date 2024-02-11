@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/02/11/035318",
+          "author": null,
+          "description": "Microsoft Copilot は日々、何らかの機能がアップデートされているといっても過言ではないくらい進化の過程にある機能ですが、今回も in Edge の UI が新しくなっていました。 以下が更新された UI なのですが、トップに絵とサンプルとプロンプトが同時に表示されるようになったようです。 特にサンプルスクリプトは以下のように、 2 つずつ表示されるのですが、何度か更新ボタンを押してどういった項目が表示されるのか試してみたところ、ランダムにかなりの数が用意されているようでした。 こんな感じに英語の項目も混ざってきていました。 既出のものと一緒に出てきたケースもあったので、ランダム…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/02/11/035318",
+          "publishedOn": "2024-02-10T18:53:18.000Z",
+          "wordCount": 652,
+          "title": "Microsoft Copilot in Edge 初期 UI が新しくなったようです",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240211/20240211022612.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/02/10/030825",
           "author": null,
           "description": "Ignite 2022 で発表され、メタバース世代の新星のような扱いをされていた Microsoft Mesh ですが、 2024 年 1 月に GA を迎えることができたようです。 発表を前後して時代は生成 AI に突入してしまったため、 VR の認知が少しい薄れてしまったんですよね。ちょっともったいなかったです。 そんな Mesh も Teams Premium ライセンスとしてリリースされたため、利用者の絶対数が少ない中でのスタートとなったようです。 ただすでに、組織利用を始めているところもあるようで、その案内と共にアナウンスが行われていました。 https://www.microsof…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/10/030825",
           "publishedOn": "2024-02-09T18:08:25.000Z",
-          "wordCount": 706,
+          "wordCount": 718,
           "title": "Microsoft 365 Mesh リリース！",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240210/20240210012111.png"
         },
@@ -21,7 +31,7 @@
           "description": "どうも先日 Bing.com に Open AI が組み込まれてから 1 年が経ったとのことで、そのタイミングで Bing.com の画像生成機能が強化されたようです。 強化されたといっても地域を英語にすると利用できる機能となっているようで、日本語の環境ではまだ使えませんでした。 また、 Microsoft Copilot with commercial data protection の状態では動かないようで、 MSA リンクの状態である必要がありました。 要は以下のリンクにアクセスすると英語環境で MSA 側になるのですが、パラメーターに cc=us と wlsso=1 が入っていると利用…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/09/023239",
           "publishedOn": "2024-02-08T17:32:39.000Z",
-          "wordCount": 684,
+          "wordCount": 688,
           "title": "Microsoft Copilot 英語版の DALL-E 3 が機能増強されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240209/20240209015311.png"
         },
@@ -31,7 +41,7 @@
           "description": "Microsoft Copilot for Microsoft 365 のライセンスを購入すると、 Microsoft 365 管理センターに Copilot 項目が追加されますが、ここにあったカスタマイズ項目が消えてなくなっていました。 カスタマイズ項では、 Microsoft Chat や Teams の Copilot アプリに利用できるアプリの指定や利用できるユーザーを指定できるようになっていました。今まではこれが Copilot の項目から利用できたのですが、カスタマイズ項がなくなったことで、ここから遷移することができなくなったので、「設定」にある「統合アプリ」の「利用可能なアプリ」…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/08/014301",
           "publishedOn": "2024-02-07T16:43:01.000Z",
-          "wordCount": 685,
+          "wordCount": 689,
           "title": "Microsoft 365 Copilot カスタムアプリの設定位置が変更されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240208/20240208011339.png"
         },
@@ -41,7 +51,7 @@
           "description": "今年も様々な機能が Microsoft 365 上に生まれ、そして古い機能が終了してきます。 これはクラウドシステムの宿命ではありますが、システム管理者は追っていく必要がありますね。というわけで今回は Exchange の監査ログ取得用のコマンドレット終了の話です。 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-adminauditlog-and/ba-p/4036537?WT.mc_id=M365-MVP-5002496…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/07/021259",
           "publishedOn": "2024-02-06T17:12:59.000Z",
-          "wordCount": 671,
+          "wordCount": 675,
           "title": "Microsoft 365 Exchange 監査コマンドレットが EOS となります",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240207/20240207015426.png"
         },
@@ -51,7 +61,7 @@
           "description": "皆さんは Windows 11 で利用可能なスナップレイアウトは活用していますか？ スナップレイアウトとは最大化ボタンをポイントしたりすると表示されるウィンドウの左右整列機能を指します。 私は最近まであまり利用していなかったのですが、いつのころからか増えていたスナップの新しい動作が私の使いたい方法に合致していたこともあり、最近は利用頻度が増えてきています。 この新しい動作ですが、ウィンドウをドラッグした時画面上部に表示される黒い太線を指しています。こんな感じの表示ですね。 この太線までウィンドウを移動させるとこんな形にドラッグしたウィンドウをどの位置に配置するか決めることができます。 この図で…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/06/023757",
           "publishedOn": "2024-02-05T17:37:57.000Z",
-          "wordCount": 638,
+          "wordCount": 642,
           "title": "Windows 11 スナップレイアウトの新しい動作で利用頻度が増えるかもしれません",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240128/20240128012123.png"
         },
@@ -61,7 +71,7 @@
           "description": "今週の Insider Preview は Beta Channel が Build 22635.3139 に更新されただけでした。 このバージョンではバグフィックスだけを行っており、新機能の追加もありません。 今週はちょっと小休止という感じだったのでしょうか。 と、 Windows Insider の件だけではこれで終わってしまうので、今回は Wi-Fi のセキュリティキーを確認する方法を見ておきたいと思います。 Wi-Fi のセキュリティキーは Personal モードの WPA2 や WPA3 などで利用する、 Wi-Fi ネットワークに入るためのカギになっているのですが、一回入力すると…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/05/005613",
           "publishedOn": "2024-02-04T15:56:13.000Z",
-          "wordCount": 719,
+          "wordCount": 723,
           "title": "Windows 11 Insider Preview Build 22635.3139 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240205/20240205002405.png"
         },
@@ -71,7 +81,7 @@
           "description": "最近 Copilot の調査などが多かったせいもあり、 Azure Open AI を確認する機会が大きく減っていたので、久々に Azure AI Studio にアクセスしていたのですが、いろいろと利用できる範囲に変化が起きているようでした。 今回はそんな Azure Open AI の状態を見ていきたいと思います。 例えば以下、2024 年 2 月の時点では DALL-E を利用するには米国東部とスウェーデン中部のテナントのみが利用できるようになっている状態のようです。 欧州の Azure Open AI といえば Europe となっているセンターだったのですがかなり拡大が進んでいるとい…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/04/030458",
           "publishedOn": "2024-02-03T18:04:58.000Z",
-          "wordCount": 686,
+          "wordCount": 690,
           "title": "Azure Open AI 日本のリージョンで利用できる範囲が減っていくのかもしれません",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240204/20240204024355.png"
         },
@@ -81,7 +91,7 @@
           "description": "Microsoft Copilot for Microsoft 365 では、ほかの Copilot や LLM の扱いと異なり、マイクロソフトはプロンプトデータを利用後破棄するという宣言を行っていないことをご存じでしょうか？ これは管理者向けの監査を考慮した宣言となっており、ほかの Microsoft 365 製品と同様に電子情報開示での依頼に対応できるように調整されているのです。 考え方は以下の Learn にて示されており、 Exchange メールボックス内に非表示フォルダーとして格納されているとのこと。 https://learn.microsoft.com/ja-jp/purvie…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/03/031621",
           "publishedOn": "2024-02-02T18:16:21.000Z",
-          "wordCount": 675,
+          "wordCount": 679,
           "title": "Microsoft Copilot for Microsoft 365 データの保持方法について認識を深めておきましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240124/20240124024058.png"
         },
@@ -91,7 +101,7 @@
           "description": "最近 Microsoft 365 メッセージセンターのチェックがおざなりになっていたのですが、斜め読みしていたところ気になる内容が目に飛び込んできました。 それは、商用データ保護（ Commercial data protection ）が Office 365 のプランに拡張されるという内容です。 この商用データ保護はその名の通りでプロンプト情報をマイクロソフトが再利用しないという確約を行うための機能です。実際には内部の Bing 検索で入力したプロンプトの内容が扱われるため、全く外部に出ていかないわけではないことに注意を払っておく必要があります。 もともと商用データ保護は Windows …",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/02/022630",
           "publishedOn": "2024-02-01T17:26:30.000Z",
-          "wordCount": 707,
+          "wordCount": 711,
           "title": "Microsoft Copilot 商用データ保護の範囲が広くなるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240202/20240202021133.png"
         },
@@ -101,7 +111,7 @@
           "description": "2015 年ころ以前よりマイクロソフトアカウントを取得していると、組織アカウントと同じメールアドレスでアカウントを作れたことご存じでしょうか。 Microsoft 365 のユーザー共有などではメールアドレスを元にユーザーを特定するため、この状態のままでいるとマイクロソフトアカウントなのか、組織アカウントなのか、どちらの ID か判断するすべがなくうまく認証されないことがあるのです。 そのため、かねてよりマイクロソフトアカウントの ID を変更するようアナウンスがされているのですが、その方法を試してみたので共有しておきたいと思います。 まず、 Microsoft 365 Apps では、うまく…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/01/031535",
           "publishedOn": "2024-01-31T18:15:35.000Z",
-          "wordCount": 675,
+          "wordCount": 679,
           "title": "Microsoft 365 Entra ID の分離を行おう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240115/20240115110711.png"
         },
@@ -111,7 +121,7 @@
           "description": "Windows Server 2025 Insider が大々的に出てきたことでこれからは Windows 11 世代の Server OS が利用できるようになるということですね。 というわけで、 ISO を使ってインストールを試していきたいと思います。 Windows 11 の Canary Channel ではインストーラーが新しくなったというアナウンスもあり、久々に大幅な変化があるかもしれません。 まず ISO から起動すると表示されるのが言語設定です。この画面は新しい感じですね。 続いてキーボード設定です。この辺りも設定項目は同じですが中身は変わっている感じですね。初期状態では 10…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/31/013458",
           "publishedOn": "2024-01-30T16:34:58.000Z",
-          "wordCount": 748,
+          "wordCount": 752,
           "title": "Windows Server 2025 Insider Preview をインストールしてみました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240130/20240130234320.png"
         },
@@ -121,7 +131,7 @@
           "description": "Windows Insider Program をやっていると思いだすのが、過去には Windows Server も Insider Program で頻繁な更新があった。という事実なのですが、 Windows Server 2022 がリリースされてからというもの、そのリリース頻度は下がり、もう次のオンプレ Server のリリースは限定的になるのかなーと思うような時もあったのですが、なんとつぎの Windows Server のバージョンが決まったというアナウンスが入ってきました。 そのバージョンは 2025 ！ということは今年の後半にはリリースされる可能性が高そうです。 そのくらい全然…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/30/025303",
           "publishedOn": "2024-01-29T17:53:03.000Z",
-          "wordCount": 721,
+          "wordCount": 725,
           "title": "Windows Server は次のバージョンが 2025 で決定したようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240130/20240130023617.png"
         },
@@ -131,7 +141,7 @@
           "description": "今週の Insider Program は Canary Channel を再起させるレベルでいろいろな更新が Canary に寄った形となっているようです。 Dev Channel は新機能がなく、 Beta Channel は Dev Channel の機能の取り込みとバグフィックス、そして、 Beta Channel から離脱する機能が提供されています。 Canary Channel : Build 26040 Dev Channel : Build 23620 Beta Channel : Build 22635.3130 Dev Channel はバグフィックスのみだったので今回は小…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/29/015552",
           "publishedOn": "2024-01-28T16:55:52.000Z",
-          "wordCount": 773,
+          "wordCount": 777,
           "title": "Windows 11 Insider Preview Build 23620 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240128/20240128192909.png"
         },
@@ -141,7 +151,7 @@
           "description": "動作を試そうと思っていた Copilot for M365 のプラグインを作成するサンプルアプリですが、この冬休みを使ってデプロイを行ってみました。 結果的に動作させるに至らずだったのですが、その動きを確認しておきたいと思います。 まず、以下の GitHub で取り扱っているのが今回のサンプルプラグインとなります。 https://github.com/OfficeDev/Copilot-for-M365-Plugins-Samples/blob/main/samples/msgext-northwind-inventory-ts/lab/Exercise%2000%20-%20Welcome…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/28/013923",
           "publishedOn": "2024-01-27T16:39:23.000Z",
-          "wordCount": 756,
+          "wordCount": 760,
           "title": "Microsoft 365 Teams Tool kit で Copilot アプリをデプロイしてみました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231231/20231231021036.png"
         },
@@ -151,7 +161,7 @@
           "description": "Microsoft Teams 管理センターを見ていたところ、ダッシュボードのニュース欄で Microsoft new Teams アプリが通常の Teams としてリリースするタイミングが 2024 年 3 月 31 日になることが明かされていました。 旧 Teams に比べ、メモリー効率が高くなったことは何度かアナウンスされているのですが、実際組織内で Teams を利用していると、 20 ～ 30 以上のチームに加入することも多く、それらが表示されるだけでかなり時間がかかる状況が生まれていたんですよね。 new Teams ではそれらが目に見えて早くなっているので、早く一般利用が開始され…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/27/030903",
           "publishedOn": "2024-01-26T18:09:03.000Z",
-          "wordCount": 694,
+          "wordCount": 698,
           "title": "Microsoft 365 Teams は 2024 年 3 月 31 日以降で新 Teams に移行します",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240121/20240121023010.png"
         },
@@ -161,7 +171,7 @@
           "description": "Microsoft Copilot は画像を読み込ませてその判断を行える機能を有しています。 今までは画像はアップロードもしくはクリップボードからコピーするしかなかったのですが、最近 Add a screenshot という、直接画像を取り込む機能が追加されました。 アップロードの右側のボタンです。 例えばこの Copilot の画像を読ませてみましょう。 Edge のサイドバーにあるスクリーンショットと同じ動作となっており、選択後にこのような形でキャプチャの内容を変更することができるようになっています。やっぱりモザイクですかね。これは便利ですよねー。 これでキャプチャを OK とすると、その…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/26/021550",
           "publishedOn": "2024-01-25T17:15:50.000Z",
-          "wordCount": 666,
+          "wordCount": 670,
           "title": "Microsoft Copilot 画像のキャプチャ機能が追加されていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240126/20240126011646.png"
         },
@@ -171,7 +181,7 @@
           "description": "Microsoft Copilot は文章をやり取りする機能が主なものとなっていますが、そのインプットはキーボードインターフェースや画像などに頼っていたところがありました。 が、 2024 年の 1 月も終わりかけのこの時期に、音声インターフェースが活用しやすい形で提供され始めているようなのです。 以下の図を見ていただきたいのですが、 Copilot in Windows におけるインターフェースです。プロンプト入力欄の右側に音声を読み取るマイクボタンが実装されていることが確認できますね。 実はこれをオフにしている間、やり取りを行った結果側に音声読み上げボタンが表示されるケースが出てきているよ…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/25/030121",
           "publishedOn": "2024-01-24T18:01:21.000Z",
-          "wordCount": 662,
+          "wordCount": 666,
           "title": "Microsoft Copilot 音声対応が進んできています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240125/20240125020526.png"
         },
@@ -181,7 +191,7 @@
           "description": "今回は PC 内部のネットワークに関連する話題を取り上げたいと思います。 例えば www.microsoft.com にアクセスを行いたい場合、ブラウザーは DNS サーバーに IP アドレスを問い合わせ、その IP アドレスを接続先にしてデータを取りに行くという動きとなります。 このうち DNS については組織利用の場合自組織の DNS を通じて問い合わせチェーンを作り、上位の DNS サーバーに問い合わせを行って www.microsoft.com の IP を確定するのですが、時にこの IP を自社サーバーに変更してインターセプトしたいケースが発生することがあります。 しかし DNS サ…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/24/030202",
           "publishedOn": "2024-01-23T18:02:02.000Z",
-          "wordCount": 818,
+          "wordCount": 822,
           "title": "Windows Server DNS 設定を動的に変更してみましょう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231201/20231201012238.png"
         },
@@ -191,7 +201,7 @@
           "description": "Microsoft Copilot for Microsoft 365 は commercial data protection によってデータは Microsoft に活用されないことが明言されています。 そんな Copilot for Microsoft 365 の中にあって、パブリック Web コンテンツ（要は Bing 検索）についてはこの commercial data protection の対象にならないんですよね。これは前に書いた気もするのですが、この動きの詳細が以下の Lean に書かれていました。 https://learn.microsoft.com/ja-jp/micr…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/23/020131",
           "publishedOn": "2024-01-22T17:01:31.000Z",
-          "wordCount": 701,
+          "wordCount": 705,
           "title": "Microsoft Copilot for Microsoft 365 Webアクセス時の動きについて解説が用意されました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240122/20240122235959.png"
         },
@@ -201,7 +211,7 @@
           "description": "今週も元気に Insider Program は稼働中です。 今週は 2 種類の Build が展開されました。 Dev Channel : Build 23619 Beta Channel : Build 22635.3066 しかしながら Dev Channel のバージョンは相変わらず 22H2 となっています。 2024 年に入ったので、そろそろ調整が入ってもよさそうなところ、、、 Dev Channel には今回はちょっと面白い機能が追加されたようです。 スマホで撮影した写真やキャプチャがすぐに PC から見られるようになる機能とのこと。 設定は以下の Blutooth とデバイスの…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/22/011214",
           "publishedOn": "2024-01-21T16:12:14.000Z",
-          "wordCount": 749,
+          "wordCount": 753,
           "title": "Windows 11 Insider Preview Build 23619 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240121/20240121102436.png"
         },
@@ -211,7 +221,7 @@
           "description": "Microsoft Copilot の一般利用バージョンを停止させるための設定ですが、少し前に DNS を hosts を利用して変更する方法を見ていきました。が、あの方法では一台一台の PC の情報を書き換える必要もありあまり実用的ではありません。 本来はネットワーク機器に設定を入れるのが良いのですが、そういった設定が出来ない機器もあり、ちょうどよいソリューションがないかなと探している場合はこの内容を見ていくとよいでしょう。 今回は DNS と PowerShell を用いて疑似的に環境を作り上げる方法を見ていきたいと思います。 Active Directory のサーバーに存在している D…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/21/031611",
           "publishedOn": "2024-01-20T18:16:11.000Z",
-          "wordCount": 946,
+          "wordCount": 950,
           "title": "Microsoft 365 Bing Chat の停止方法を見てみましょう（ DNS 編）",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231201/20231201012238.png"
         },
@@ -221,7 +231,7 @@
           "description": "最近の Copilot はちょっと目を離すと新しい機能が追加され、なかなか追っていくのが難しい状態になっています。 Copilot GPTs と同時期に利用できるようになったノートブックという機能を今回は見ていきたいと思います。 このノートブック、通常のチャットと同じような外見ですが、なんと入力可能なトークン数が 18,000 に拡大しているのです。かなり長い文章を受け入れられるため、気軽に Few shot のやり取りを再現できるのが良いところですね。 https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx ちなみに通常のチャ…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/20/034926",
           "publishedOn": "2024-01-19T18:49:26.000Z",
-          "wordCount": 684,
+          "wordCount": 688,
           "title": "Microsoft Copilot ノートブックというトークン数が増大した GPT が利用できるようになっています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240120/20240120003008.png"
         },
@@ -231,7 +241,7 @@
           "description": "どういう状態だと発生するのかいまいち状況が見えていないのですが、 Copilot GPT の動きを見ることができるようになっていました。 以下の Copilot Web にアクセスすることで、 Copilot GPT の選択肢が右側に表示されることがあるようです。 https://copilot.microsoft.com/ あるようです。といったのは、いくつかパターンがあるようなのです。 例えば以下はマイクロソフトアカウントでアクセスしたケース。 Copilot GPT の代わりにアクティビティが表示されています。 同じ PC 同じアカウントでプライベートモードににしてアクセスしたら、、、 …",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/19/032913",
           "publishedOn": "2024-01-18T18:29:13.000Z",
-          "wordCount": 729,
+          "wordCount": 733,
           "title": "Microsoft Copilot Copilot GPT を眺められるようになっていました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240118/20240118145306.png"
         },
@@ -241,7 +251,7 @@
           "description": "2024 年 1 月 16 日にはなかったのですが、マーケットプレース上に Copilot for Microsoft 365 購入のためのメニューが表示されるようになっていました。 通常の表示ではなく、上部にトピック表示されるという力の入れようです。 このボタンを押すと、購入に向けた新しい課金エクスペリエンスというのが適用され、「 Microsoft 顧客契約」という契約で課金が始まるようになります。 設定を終えるとこんな感じですね。これは「課金アカウントを変更する」リンクを押したときの画面です。契約が 2 種類あり、「 Microsoft オンライン サービス契約」というものが既存で存在し…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/18/023743",
           "publishedOn": "2024-01-17T17:37:43.000Z",
-          "wordCount": 722,
+          "wordCount": 726,
           "title": "Microsoft Copilot for Microsoft 365 ライセンスの購入はマーケットプレースからとなるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240118/20240118012430.png"
         },
@@ -251,7 +261,7 @@
           "description": "2024 年 1 月 16 日、とうとう Copilot for Microsof 365 が一般の Microsoft 365 ユーザーに開放される方向になりました！ 今まで問題視されていた 300 ライセンスの制限が撤廃され、 Office 365 E3 以上でもオプション購入できるようになっています。 また、小規模な 365 の契約も対象となっており、Small Businesses と Business Premium と Business Standard のどれでも契約できるようになっています。 https://blogs.microsoft.com/blog/2024/01/15…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/17/014201",
           "publishedOn": "2024-01-16T16:42:01.000Z",
-          "wordCount": 735,
+          "wordCount": 739,
           "title": "Microsoft Copilot for Microsoft 365 一般ユーザー向けのアナウンスが行われました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240117/20240117013713.png"
         },
@@ -261,7 +271,7 @@
           "description": "Microsoft Copilot （ Bing Chat ）は利用していますか？ コンシューマーユーザーが利用する分にはとても使いやすく、生成 AI の全容を見せてくれる能力があるんだなと理解することができたのではないでしょうか。 しかし、組織ユーザーはそんなことを言ってられないケースもあります。 何かを考えてもらうという大枠があるため、営業機密を入力してしまうケースというのがあるといけないので、利用を制限するという選択肢も一つなのかと思います。 Bing.com には、そういった問題にも対処できるよう制御方法が用意されているのをご存じでしょうか。 制御方法としては、 Bing.com と似…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/16/014705",
           "publishedOn": "2024-01-15T16:47:05.000Z",
-          "wordCount": 739,
+          "wordCount": 743,
           "title": "Microsoft 365 Bing Chat の停止方法を見てみましょう（ hosts 編）",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231202/20231202165923.png"
         },
@@ -271,7 +281,7 @@
           "description": "今週も Windows Insider Program は活況に稼働しています。 今回は Canary Channel のリリースはなく、逆に Release Preview Channel が年始初の更新となっています。 Dev Channel : Build 23615 Beta Channel : Build 22635.3061 Release Preview Channel : 22621/31.3078 Release Preview Channel : Build 19045.3992 ( Windows 10 ) 今回の更新では、 Dev Channel と Beta Chan…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/15/023133",
           "publishedOn": "2024-01-14T17:31:33.000Z",
-          "wordCount": 749,
+          "wordCount": 753,
           "title": "Windows 11 Insider Program Build 23615 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240114/20240114142927.png"
         },
@@ -281,7 +291,7 @@
           "description": "最近一つ気が付いたことがあるのですが、テレビのある部屋で作業をしていると Edge のアドレスバー右側に見慣れにアイコンが表示されるのです。 ポイントしてみると、何やら音楽やビデオなどを制御するという項目が表示されました。 クリックしてみると、テレビへのキャスト機能をここから制御するためのもののようですね。 キャストといえばメニューのその他のツールにある「メディアをデバイスにキャスト」のボタンはまあまあ利用するのですが、ボタン内の戻る、送りのボタンからすると動作原理が異なりそうです。その他のツールのものは画面の転送なので、送るなどのイメージがないんですよね。 というわけで、使い方をいろいろ調べ…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/14/032726",
           "publishedOn": "2024-01-13T18:27:26.000Z",
-          "wordCount": 637,
+          "wordCount": 641,
           "title": "Microsoft Edge キャスト機能を使って動画再生を行おう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240114/20240114020228.png"
         },
@@ -291,19 +301,9 @@
           "description": "Microsoft 365 メッセージセンターに思いがけないメッセージが飛び込んできました。 それは Office 準備ツールキットの廃止の話題です。 2024 年 3 月 31 日をもって、 Office 準備ツールキットが廃止となるようです。 Office 準備ツールキットとは、主に Office 2010 などのナンバリング版の Office を Microsoft 365 Apps 並行するためのツールでした。 昔はナンバリング版と Microsoft 365 Apps で主に VBA やマクロの部分で互換性が不足しており、うまく動作しないケースた多くあったんですよね。 そのようなケー…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/13/023118",
           "publishedOn": "2024-01-12T17:31:18.000Z",
-          "wordCount": 699,
+          "wordCount": 703,
           "title": "Microsoft 365 Apps Office 準備ツールキットの EOS は 2024 年 3 月末となっています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240113/20240113021606.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2024/01/12/015918",
-          "author": null,
-          "description": "Microsoft Build Japan 2023 が終わってまだ余韻が残っているような状況ですが、なんと次のイベントの開催がアナウンスされています。 今回のイベントは Microsoft AI Tour Tokyo と題されて、なんと東京ビッグサイトで行われるとのこと。 https://envision.microsoft.com/ja-JP/tokyo?WT.mc_id=M365-MVP-5002496 URL に記述がありますが、 Envision のイベントのようなので、アメリカ主導の Tier1 イベントですね。ビジネスリーダー向けのカンファレンスの扱いです。 サイトにアクセスして…",
-          "link": "https://mitomoha.hatenablog.com/entry/2024/01/12/015918",
-          "publishedOn": "2024-01-11T16:59:18.000Z",
-          "wordCount": 669,
-          "title": "Microsoft AI Tour が開催されます",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240112/20240112011216.png"
         }
       ]
     },

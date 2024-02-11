@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-10T00:35:14.221Z</id>
+    <id>urn:2024-02-11T00:39:16.252Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T00:35:14.221Z</updated>
+    <updated>2024-02-11T00:39:16.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot in Edge 初期 UI が新しくなったようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/11/035318</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/11/035318"/>
+        <updated>2024-02-10T18:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot は日々、何らかの機能がアップデートされているといっても過言ではないくらい進化の過程にある機能ですが、今回も in Edge の UI が新しくなっていました。 以下が更新された UI なのですが、トップに絵とサンプルとプロンプトが同時に表示されるようになったようです。 特にサンプルスクリプトは以下のように、 2 つずつ表示されるのですが、何度か更新ボタンを押してどういった項目が表示されるのか試してみたところ、ランダムにかなりの数が用意されているようでした。 こんな感じに英語の項目も混ざってきていました。 既出のものと一緒に出てきたケースもあったので、ランダム…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Mesh リリース！]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/10/030825</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/13/023118"/>
         <updated>2024-01-12T17:31:18.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 メッセージセンターに思いがけないメッセージが飛び込んできました。 それは Office 準備ツールキットの廃止の話題です。 2024 年 3 月 31 日をもって、 Office 準備ツールキットが廃止となるようです。 Office 準備ツールキットとは、主に Office 2010 などのナンバリング版の Office を Microsoft 365 Apps 並行するためのツールでした。 昔はナンバリング版と Microsoft 365 Apps で主に VBA やマクロの部分で互換性が不足しており、うまく動作しないケースた多くあったんですよね。 そのようなケー…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft AI Tour が開催されます]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/12/015918</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/12/015918"/>
-        <updated>2024-01-11T16:59:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Build Japan 2023 が終わってまだ余韻が残っているような状況ですが、なんと次のイベントの開催がアナウンスされています。 今回のイベントは Microsoft AI Tour Tokyo と題されて、なんと東京ビッグサイトで行われるとのこと。 https://envision.microsoft.com/ja-JP/tokyo?WT.mc_id=M365-MVP-5002496 URL に記述がありますが、 Envision のイベントのようなので、アメリカ主導の Tier1 イベントですね。ビジネスリーダー向けのカンファレンスの扱いです。 サイトにアクセスして…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
