@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-11T00:39:16.252Z</id>
+    <id>urn:2024-02-12T00:36:44.865Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T00:39:16.252Z</updated>
+    <updated>2024-02-12T00:36:44.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 26052 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/12/023619</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/12/023619"/>
+        <updated>2024-02-11T17:36:19.000Z</updated>
+        <summary type="html"><![CDATA[今週は先週と打って変わってかなり多くの変更が行われた Windows Insider Program です。 今回は以下のようにバージョンが変わりました。 Canary Channel : Build 26052.1000 Dev Channel : Build 26052.1100 Beta Channel : Build 22635.3140 見ての通りなのですが、 Dev Channel が大きく変わり、 Canary と合流。これが 24H2 になるということが決まったようです。 ge_release ということで、リリース愛称にも変更が入りました。 今は Canary と Dev が…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot in Edge 初期 UI が新しくなったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/11/035318</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/14/032726"/>
         <updated>2024-01-13T18:27:26.000Z</updated>
         <summary type="html"><![CDATA[最近一つ気が付いたことがあるのですが、テレビのある部屋で作業をしていると Edge のアドレスバー右側に見慣れにアイコンが表示されるのです。 ポイントしてみると、何やら音楽やビデオなどを制御するという項目が表示されました。 クリックしてみると、テレビへのキャスト機能をここから制御するためのもののようですね。 キャストといえばメニューのその他のツールにある「メディアをデバイスにキャスト」のボタンはまあまあ利用するのですが、ボタン内の戻る、送りのボタンからすると動作原理が異なりそうです。その他のツールのものは画面の転送なので、送るなどのイメージがないんですよね。 というわけで、使い方をいろいろ調べ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Apps Office 準備ツールキットの EOS は 2024 年 3 月末となっています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/13/023118</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/13/023118"/>
-        <updated>2024-01-12T17:31:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 メッセージセンターに思いがけないメッセージが飛び込んできました。 それは Office 準備ツールキットの廃止の話題です。 2024 年 3 月 31 日をもって、 Office 準備ツールキットが廃止となるようです。 Office 準備ツールキットとは、主に Office 2010 などのナンバリング版の Office を Microsoft 365 Apps 並行するためのツールでした。 昔はナンバリング版と Microsoft 365 Apps で主に VBA やマクロの部分で互換性が不足しており、うまく動作しないケースた多くあったんですよね。 そのようなケー…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
