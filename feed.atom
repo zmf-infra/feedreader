@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-12T00:36:44.865Z</id>
+    <id>urn:2024-02-13T00:36:35.057Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T00:36:44.865Z</updated>
+    <updated>2024-02-13T00:36:35.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 SharePoint カスタムスクリプトが設定できなくなるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/13/020727</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/13/020727"/>
+        <updated>2024-02-12T17:07:27.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 管理センターを見ていたところ、かなり衝撃的な内容が記載されていました。 2024 年 3 月で SharePoint 管理センターにあるカスタムスクリプト設定が削除されるようです。 最近の SharePoint はポータルサイトのような使い方をするケースが少なくなってきましたが、とはいえまだこの方向で進めたいという話もちらほらと聞くんですよね。 設定自体は SharePoint 管理センターの設定項一番下にあるクラシック設定ページ内にある項目となっています。 サイトのドメインはテナントごとに割り振られるため、自身のテナントになりますが、以下のサイトアドレスにある機能…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 26052 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/12/023619</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/15/023133"/>
         <updated>2024-01-14T17:31:33.000Z</updated>
         <summary type="html"><![CDATA[今週も Windows Insider Program は活況に稼働しています。 今回は Canary Channel のリリースはなく、逆に Release Preview Channel が年始初の更新となっています。 Dev Channel : Build 23615 Beta Channel : Build 22635.3061 Release Preview Channel : 22621/31.3078 Release Preview Channel : Build 19045.3992 ( Windows 10 ) 今回の更新では、 Dev Channel と Beta Chan…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge キャスト機能を使って動画再生を行おう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/14/032726</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/14/032726"/>
-        <updated>2024-01-13T18:27:26.000Z</updated>
-        <summary type="html"><![CDATA[最近一つ気が付いたことがあるのですが、テレビのある部屋で作業をしていると Edge のアドレスバー右側に見慣れにアイコンが表示されるのです。 ポイントしてみると、何やら音楽やビデオなどを制御するという項目が表示されました。 クリックしてみると、テレビへのキャスト機能をここから制御するためのもののようですね。 キャストといえばメニューのその他のツールにある「メディアをデバイスにキャスト」のボタンはまあまあ利用するのですが、ボタン内の戻る、送りのボタンからすると動作原理が異なりそうです。その他のツールのものは画面の転送なので、送るなどのイメージがないんですよね。 というわけで、使い方をいろいろ調べ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

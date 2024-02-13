@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/02/13/020727",
+          "author": null,
+          "description": "Microsoft 365 管理センターを見ていたところ、かなり衝撃的な内容が記載されていました。 2024 年 3 月で SharePoint 管理センターにあるカスタムスクリプト設定が削除されるようです。 最近の SharePoint はポータルサイトのような使い方をするケースが少なくなってきましたが、とはいえまだこの方向で進めたいという話もちらほらと聞くんですよね。 設定自体は SharePoint 管理センターの設定項一番下にあるクラシック設定ページ内にある項目となっています。 サイトのドメインはテナントごとに割り振られるため、自身のテナントになりますが、以下のサイトアドレスにある機能…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/02/13/020727",
+          "publishedOn": "2024-02-12T17:07:27.000Z",
+          "wordCount": 662,
+          "title": "Microsoft 365 SharePoint カスタムスクリプトが設定できなくなるようです",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240213/20240213013544.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/02/12/023619",
           "author": null,
           "description": "今週は先週と打って変わってかなり多くの変更が行われた Windows Insider Program です。 今回は以下のようにバージョンが変わりました。 Canary Channel : Build 26052.1000 Dev Channel : Build 26052.1100 Beta Channel : Build 22635.3140 見ての通りなのですが、 Dev Channel が大きく変わり、 Canary と合流。これが 24H2 になるということが決まったようです。 ge_release ということで、リリース愛称にも変更が入りました。 今は Canary と Dev が…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/12/023619",
           "publishedOn": "2024-02-11T17:36:19.000Z",
-          "wordCount": 853,
+          "wordCount": 858,
           "title": "Windows 11 Insider Preview Build 26052 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240210/20240210030930.png"
         },
@@ -161,7 +171,7 @@
           "description": "動作を試そうと思っていた Copilot for M365 のプラグインを作成するサンプルアプリですが、この冬休みを使ってデプロイを行ってみました。 結果的に動作させるに至らずだったのですが、その動きを確認しておきたいと思います。 まず、以下の GitHub で取り扱っているのが今回のサンプルプラグインとなります。 https://github.com/OfficeDev/Copilot-for-M365-Plugins-Samples/blob/main/samples/msgext-northwind-inventory-ts/lab/Exercise%2000%20-%20Welcome…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/01/28/013923",
           "publishedOn": "2024-01-27T16:39:23.000Z",
-          "wordCount": 761,
+          "wordCount": 767,
           "title": "Microsoft 365 Teams Tool kit で Copilot アプリをデプロイしてみました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231231/20231231021036.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 754,
           "title": "Windows 11 Insider Program Build 23615 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240114/20240114142927.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2024/01/14/032726",
-          "author": null,
-          "description": "最近一つ気が付いたことがあるのですが、テレビのある部屋で作業をしていると Edge のアドレスバー右側に見慣れにアイコンが表示されるのです。 ポイントしてみると、何やら音楽やビデオなどを制御するという項目が表示されました。 クリックしてみると、テレビへのキャスト機能をここから制御するためのもののようですね。 キャストといえばメニューのその他のツールにある「メディアをデバイスにキャスト」のボタンはまあまあ利用するのですが、ボタン内の戻る、送りのボタンからすると動作原理が異なりそうです。その他のツールのものは画面の転送なので、送るなどのイメージがないんですよね。 というわけで、使い方をいろいろ調べ…",
-          "link": "https://mitomoha.hatenablog.com/entry/2024/01/14/032726",
-          "publishedOn": "2024-01-13T18:27:26.000Z",
-          "wordCount": 642,
-          "title": "Microsoft Edge キャスト機能を使って動画再生を行おう",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240114/20240114020228.png"
         }
       ]
     },
