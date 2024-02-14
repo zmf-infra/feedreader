@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-13T00:36:35.057Z</id>
+    <id>urn:2024-02-14T00:36:19.206Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T00:36:35.057Z</updated>
+    <updated>2024-02-14T00:36:19.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Apps Outlook で eml ファイルのオープンがサポートされていたようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/14/024546</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/14/024546"/>
+        <updated>2024-02-13T17:45:46.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 メッセージセンターに新 Outlook で msg ファイルや oft ファイルへのサポートが 2024 年 3 月より行われるとアナウンスがありました。 というわけで、まだ 3 月にはなっていませんが、実際どのような動作となるか、 2024 年 2 月時点での新 Outlook で動作を確認してみたいと思います。 試すファイルは eml ファイルです。 これは新 Outlook でメッセージを右クリックして保存した時に設定される拡張子となっており、中身は BASE64 エンコードのファイルとなっています。 これをエクスプローラーからダブルクリックして新 Outlo…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 ：起動ツールの固定（ピン留め）を解除した後に再度固定する方法]]></title>
+        <id>https://art-break.net/tech/?p=20666</id>
+        <link href="https://art-break.net/tech/?p=20666"/>
+        <updated>2024-02-13T02:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 の大体のアプリのどのページを開いても左上に3×3の9個の点のアイコンがありますよね。 ▼左上のコレ 色んな呼び名があるけど僕はワッフルメニューのアイコンって言ってたような。マウスカーソルを当て … "Microsoft 365 ：起動ツールの固定（ピン留め）を解除した後に再度固定する方法" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 SharePoint カスタムスクリプトが設定できなくなるようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/13/020727</id>
@@ -316,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SharePoint ：サイト作成時の案内や導線が変わった]]></title>
-        <id>https://art-break.net/tech/?p=20442</id>
-        <link href="https://art-break.net/tech/?p=20442"/>
-        <updated>2024-01-22T04:08:55.000Z</updated>
-        <summary type="html"><![CDATA[SharePoint からサイトを作成する事って僕もそんなに多くないです。チームサイトの場合は Microsoft Teams でチームを作れば自動で作成されるけど、そうじゃなくて SharePoint 単体でサイトを作 … "SharePoint ：サイト作成時の案内や導線が変わった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 23619 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/22/011214</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/22/011214"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/16/014705"/>
         <updated>2024-01-15T16:47:05.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot （ Bing Chat ）は利用していますか？ コンシューマーユーザーが利用する分にはとても使いやすく、生成 AI の全容を見せてくれる能力があるんだなと理解することができたのではないでしょうか。 しかし、組織ユーザーはそんなことを言ってられないケースもあります。 何かを考えてもらうという大枠があるため、営業機密を入力してしまうケースというのがあるといけないので、利用を制限するという選択肢も一つなのかと思います。 Bing.com には、そういった問題にも対処できるよう制御方法が用意されているのをご存じでしょうか。 制御方法としては、 Bing.com と似…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Program Build 23615 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/15/023133</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/15/023133"/>
-        <updated>2024-01-14T17:31:33.000Z</updated>
-        <summary type="html"><![CDATA[今週も Windows Insider Program は活況に稼働しています。 今回は Canary Channel のリリースはなく、逆に Release Preview Channel が年始初の更新となっています。 Dev Channel : Build 23615 Beta Channel : Build 22635.3061 Release Preview Channel : 22621/31.3078 Release Preview Channel : Build 19045.3992 ( Windows 10 ) 今回の更新では、 Dev Channel と Beta Chan…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
