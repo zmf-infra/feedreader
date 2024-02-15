@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-14T00:36:19.206Z</id>
+    <id>urn:2024-02-15T00:36:29.811Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T00:36:19.206Z</updated>
+    <updated>2024-02-15T00:36:29.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Copilot のプラグイン利用申請を行ってみました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/15/021938</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/15/021938"/>
+        <updated>2024-02-14T17:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 を利用していると、チャットをもう少し広く利用したいと思いませんか？ そんな時に活躍するのがプラグイン機能です。 Web コンテンツにアクセスさせるのもこのプラグイン機能の一部となっています。しかし、カスタム生成した Copilot プラグインはこの状態ではまだ利用することができないようになっているようです。 Microsoft 365 管理センターの Copilot よりプラグインを選択して利用者設定する画面にも、以下のようなアナウンスが表示されるようになっています。 というわけで今回は SR への問い合わせを見ていきまし…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot ：あれもこれも「 Copilot 」なので注意が必要]]></title>
+        <id>https://art-break.net/tech/?p=20689</id>
+        <link href="https://art-break.net/tech/?p=20689"/>
+        <updated>2024-02-14T02:08:50.000Z</updated>
+        <summary type="html"><![CDATA[色々と注目されている Microsoft の Copilot 。だけど一言「 Copilot 」と言ってもすでに Microsoft 内の色々な製品、サービス、レイヤーに Copilot が入っているので、複数人で話をす … "Microsoft Copilot ：あれもこれも「 Copilot 」なので注意が必要" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Apps Outlook で eml ファイルのオープンがサポートされていたようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/14/024546</id>
@@ -316,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：2024年3月31日以降に新しい Teams に自動更新されるようです]]></title>
-        <id>https://art-break.net/tech/?p=20459</id>
-        <link href="https://art-break.net/tech/?p=20459"/>
-        <updated>2024-01-23T09:14:22.000Z</updated>
-        <summary type="html"><![CDATA[いよいよXデーが近づいてきましたね。 Microsoft Teams が既存のアプリが Microsoft Teams Classic となり、そして新しい Microsoft Teams アプリが2023/10/05  … "Microsoft Teams ：2024年3月31日以降に新しい Teams に自動更新されるようです" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 Webアクセス時の動きについて解説が用意されました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/23/020131</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/23/020131"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/17/014201"/>
         <updated>2024-01-16T16:42:01.000Z</updated>
         <summary type="html"><![CDATA[2024 年 1 月 16 日、とうとう Copilot for Microsof 365 が一般の Microsoft 365 ユーザーに開放される方向になりました！ 今まで問題視されていた 300 ライセンスの制限が撤廃され、 Office 365 E3 以上でもオプション購入できるようになっています。 また、小規模な 365 の契約も対象となっており、Small Businesses と Business Premium と Business Standard のどれでも契約できるようになっています。 https://blogs.microsoft.com/blog/2024/01/15…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Bing Chat の停止方法を見てみましょう（ hosts 編）]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/16/014705</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/16/014705"/>
-        <updated>2024-01-15T16:47:05.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot （ Bing Chat ）は利用していますか？ コンシューマーユーザーが利用する分にはとても使いやすく、生成 AI の全容を見せてくれる能力があるんだなと理解することができたのではないでしょうか。 しかし、組織ユーザーはそんなことを言ってられないケースもあります。 何かを考えてもらうという大枠があるため、営業機密を入力してしまうケースというのがあるといけないので、利用を制限するという選択肢も一つなのかと思います。 Bing.com には、そういった問題にも対処できるよう制御方法が用意されているのをご存じでしょうか。 制御方法としては、 Bing.com と似…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
