@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-15T00:36:29.811Z</id>
+    <id>urn:2024-02-16T00:35:33.006Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T00:36:29.811Z</updated>
+    <updated>2024-02-16T00:35:33.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot ダッシュボードを見てみよう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/16/025317</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/16/025317"/>
+        <updated>2024-02-15T17:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は組織利用時にどれだけ活用されたかをチェックするためのダッシュボードが用意されているのはご存じでしょうか。 今回はそのダッシュボードを見ていきたいと思います。 Microsoft 365 のダッシュボードというと、 Power BI にデータを連携したりで難しいイメージがありますが、最近はとても簡単に利用できるようになってきています。 まず以下の URL にアクセスしていきましょう。 https://insights.cloud.microsoft/#/CopilotDashboard すると、こんな感じのサイトにつながり…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Copilot のプラグイン利用申請を行ってみました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/15/021938</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/18/023743"/>
         <updated>2024-01-17T17:37:43.000Z</updated>
         <summary type="html"><![CDATA[2024 年 1 月 16 日にはなかったのですが、マーケットプレース上に Copilot for Microsoft 365 購入のためのメニューが表示されるようになっていました。 通常の表示ではなく、上部にトピック表示されるという力の入れようです。 このボタンを押すと、購入に向けた新しい課金エクスペリエンスというのが適用され、「 Microsoft 顧客契約」という契約で課金が始まるようになります。 設定を終えるとこんな感じですね。これは「課金アカウントを変更する」リンクを押したときの画面です。契約が 2 種類あり、「 Microsoft オンライン サービス契約」というものが既存で存在し…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 一般ユーザー向けのアナウンスが行われました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/17/014201</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/17/014201"/>
-        <updated>2024-01-16T16:42:01.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 1 月 16 日、とうとう Copilot for Microsof 365 が一般の Microsoft 365 ユーザーに開放される方向になりました！ 今まで問題視されていた 300 ライセンスの制限が撤廃され、 Office 365 E3 以上でもオプション購入できるようになっています。 また、小規模な 365 の契約も対象となっており、Small Businesses と Business Premium と Business Standard のどれでも契約できるようになっています。 https://blogs.microsoft.com/blog/2024/01/15…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
