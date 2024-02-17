@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-16T00:35:33.006Z</id>
+    <id>urn:2024-02-17T00:35:44.141Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-16T00:35:33.006Z</updated>
+    <updated>2024-02-17T00:35:44.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Server 2025 Internet Explorer が動作するか試してみました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/17/025518</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/17/025518"/>
+        <updated>2024-02-16T17:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Windows Server 2025 もインストールできたので、やっぱり気になる Internet Explorer への対応状況を見ていきたいと思います。 Internet Explorer は Windows 10 / 11 でもすでにサポートが終了しており、今利用できる Internet Explorer は互換性の高い Edge の IE モードのみとなるのですが、スクリプトを活用すると UI を Internet Explorer 11 として動作させることもできるようになっています。 これが Windows Server 2025 でも動作するのか気になるところです。 というわけ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：会議室のテレビに接続する際に利用する「共有ディスプレイモード」]]></title>
+        <id>https://art-break.net/tech/?p=20715</id>
+        <link href="https://art-break.net/tech/?p=20715"/>
+        <updated>2024-02-16T15:43:35.000Z</updated>
+        <summary type="html"><![CDATA[会議室で会議をする場合、自分のPCの画面を共有したい場合ってどうしていますか？会議室のテレビやプロジェクターにPCを接続してデュアルディスプレイにした状態で、複製か拡張かどちらかで共有しますよね。でも昨今はハイブリッド会 … "Microsoft Teams ：会議室のテレビに接続する際に利用する「共有ディスプレイモード」" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot ダッシュボードを見てみよう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/16/025317</id>
@@ -316,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：カメラとマイクの設定がポップアップ表示されるようになった]]></title>
-        <id>https://art-break.net/tech/?p=20468</id>
-        <link href="https://art-break.net/tech/?p=20468"/>
-        <updated>2024-01-25T04:49:23.000Z</updated>
-        <summary type="html"><![CDATA[▼突然ですが違和感ありますか？ 毎日のように Microsoft Teams で会議をしている方で、違和感を覚えた人はイイですね。日々変化するクラウドサービスを便利に活用していくには、この違和感を覚える感覚を身に付けると … "Microsoft Teams ：カメラとマイクの設定がポップアップ表示されるようになった" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Copilot 音声対応が進んできています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/01/25/030121</id>
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/25/030121"/>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/19/032913"/>
         <updated>2024-01-18T18:29:13.000Z</updated>
         <summary type="html"><![CDATA[どういう状態だと発生するのかいまいち状況が見えていないのですが、 Copilot GPT の動きを見ることができるようになっていました。 以下の Copilot Web にアクセスすることで、 Copilot GPT の選択肢が右側に表示されることがあるようです。 https://copilot.microsoft.com/ あるようです。といったのは、いくつかパターンがあるようなのです。 例えば以下はマイクロソフトアカウントでアクセスしたケース。 Copilot GPT の代わりにアクティビティが表示されています。 同じ PC 同じアカウントでプライベートモードににしてアクセスしたら、、、 …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 ライセンスの購入はマーケットプレースからとなるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/18/023743</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/18/023743"/>
-        <updated>2024-01-17T17:37:43.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 1 月 16 日にはなかったのですが、マーケットプレース上に Copilot for Microsoft 365 購入のためのメニューが表示されるようになっていました。 通常の表示ではなく、上部にトピック表示されるという力の入れようです。 このボタンを押すと、購入に向けた新しい課金エクスペリエンスというのが適用され、「 Microsoft 顧客契約」という契約で課金が始まるようになります。 設定を終えるとこんな感じですね。これは「課金アカウントを変更する」リンクを押したときの画面です。契約が 2 種類あり、「 Microsoft オンライン サービス契約」というものが既存で存在し…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
