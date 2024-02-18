@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-17T00:35:44.141Z</id>
+    <id>urn:2024-02-18T00:38:48.676Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T00:35:44.141Z</updated>
+    <updated>2024-02-18T00:38:48.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 SharePoint Premium に試用期間が設けられています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/18/043317</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/18/043317"/>
+        <updated>2024-02-17T19:33:17.000Z</updated>
+        <summary type="html"><![CDATA[最近の Microsoft は生成 AI を中心に動いている感が強いですが、 AI は GPT だけではありません。特に Microsoft 365 では Microsoft Syntex も推し機能の一つとして取り上げられる機会が増えている気がしています。 そんな中、 GPT 以外の AI 機能を一般に根付かせるために、 2024 年 6 月までの期間限定で Syntex のプロモーションを行なわれています。 詳細は以下の Learn にあるのですが、表になっていたのでピックアップしておきます。 https://learn.microsoft.com/ja-jp/microsoft-365/…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Server 2025 Internet Explorer が動作するか試してみました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/17/025518</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/20/034926"/>
         <updated>2024-01-19T18:49:26.000Z</updated>
         <summary type="html"><![CDATA[最近の Copilot はちょっと目を離すと新しい機能が追加され、なかなか追っていくのが難しい状態になっています。 Copilot GPTs と同時期に利用できるようになったノートブックという機能を今回は見ていきたいと思います。 このノートブック、通常のチャットと同じような外見ですが、なんと入力可能なトークン数が 18,000 に拡大しているのです。かなり長い文章を受け入れられるため、気軽に Few shot のやり取りを再現できるのが良いところですね。 https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx ちなみに通常のチャ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot Copilot GPT を眺められるようになっていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/19/032913</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/19/032913"/>
-        <updated>2024-01-18T18:29:13.000Z</updated>
-        <summary type="html"><![CDATA[どういう状態だと発生するのかいまいち状況が見えていないのですが、 Copilot GPT の動きを見ることができるようになっていました。 以下の Copilot Web にアクセスすることで、 Copilot GPT の選択肢が右側に表示されることがあるようです。 https://copilot.microsoft.com/ あるようです。といったのは、いくつかパターンがあるようなのです。 例えば以下はマイクロソフトアカウントでアクセスしたケース。 Copilot GPT の代わりにアクティビティが表示されています。 同じ PC 同じアカウントでプライベートモードににしてアクセスしたら、、、 …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
