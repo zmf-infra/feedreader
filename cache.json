@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/02/19/025027",
+          "author": null,
+          "description": "今週も Windows Insider Program は元気に活動を続けています。 まずは Release Preview Channel ですが、 Build 22621.3227 と 22631.3227 がリリースしています。 22H2 と 22H3 向けが出たということですね。 これらは Beta Channel で提供された機能が反映待ちとなった感じですね。 音声アクセスの機能拡充やファイル共有時の連絡先取得方法の変更などが行われています。 また、 Windows 10 の Release Preview Channel も Build 19045.4116 に更新され、 Wind…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/02/19/025027",
+          "publishedOn": "2024-02-18T17:50:27.000Z",
+          "wordCount": 777,
+          "title": "Windows 11 Insider Preview Build 26058 リリース",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240219/20240219020353.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/02/18/043317",
           "author": null,
           "description": "最近の Microsoft は生成 AI を中心に動いている感が強いですが、 AI は GPT だけではありません。特に Microsoft 365 では Microsoft Syntex も推し機能の一つとして取り上げられる機会が増えている気がしています。 そんな中、 GPT 以外の AI 機能を一般に根付かせるために、 2024 年 6 月までの期間限定で Syntex のプロモーションを行なわれています。 詳細は以下の Learn にあるのですが、表になっていたのでピックアップしておきます。 https://learn.microsoft.com/ja-jp/microsoft-365/…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/18/043317",
           "publishedOn": "2024-02-17T19:33:17.000Z",
-          "wordCount": 666,
+          "wordCount": 674,
           "title": "Microsoft 365 SharePoint Premium に試用期間が設けられています",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240217/20240217230255.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 948,
           "title": "Microsoft 365 Bing Chat の停止方法を見てみましょう（ DNS 編）",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231201/20231201012238.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2024/01/20/034926",
-          "author": null,
-          "description": "最近の Copilot はちょっと目を離すと新しい機能が追加され、なかなか追っていくのが難しい状態になっています。 Copilot GPTs と同時期に利用できるようになったノートブックという機能を今回は見ていきたいと思います。 このノートブック、通常のチャットと同じような外見ですが、なんと入力可能なトークン数が 18,000 に拡大しているのです。かなり長い文章を受け入れられるため、気軽に Few shot のやり取りを再現できるのが良いところですね。 https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx ちなみに通常のチャ…",
-          "link": "https://mitomoha.hatenablog.com/entry/2024/01/20/034926",
-          "publishedOn": "2024-01-19T18:49:26.000Z",
-          "wordCount": 686,
-          "title": "Microsoft Copilot ノートブックというトークン数が増大した GPT が利用できるようになっています",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240120/20240120003008.png"
         }
       ]
     },
