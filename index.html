@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-02-19 datetime="2024-02-19T15:01:50.000Z">2024-02-19</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-02-19 datetime="2024-02-19T15:01:50.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >（）のブログ</button>
+                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2024/02/20/000150"
+                        open
+                      >
+                        <summary class="article-expander__title">Microsoft 365 Outlook アカウントを複数登録できるようになっています</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2024/02/20/000150">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240219/20240219230642.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>new Outlook が利用され始めたことで、 Outlook が Web ベースの仕組みに変わっていますが、今までは複数のアカウントを登録することができませんでした。 しかし、 Outlook のアプリとしては一般的な Web メールとの差としてこの点を売りにしていたこともあり、 2024 年 2 月から正式に複数アカウントを取り込むことができるようになったとのことです。 https://techcommunity.microsoft.com/t5/outlook-blog/how-licensing-works-for-work-and-school-accounts-in-the-ne…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-02-18 datetime="2024-02-18T17:50:27.000Z">2024-02-18</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-02-18 datetime="2024-02-18T17:50:27.000Z"></time>
           </button>
@@ -1747,58 +1795,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-20 datetime="2024-01-20T18:16:11.000Z">2024-01-20</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-20 datetime="2024-01-20T18:16:11.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >（）のブログ</button>
-                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2024/01/21/031611"
-                        open
-                      >
-                        <summary class="article-expander__title">Microsoft 365 Bing Chat の停止方法を見てみましょう（ DNS 編）</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2024/01/21/031611">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231201/20231201012238.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Microsoft Copilot の一般利用バージョンを停止させるための設定ですが、少し前に DNS を hosts を利用して変更する方法を見ていきました。が、あの方法では一台一台の PC の情報を書き換える必要もありあまり実用的ではありません。 本来はネットワーク機器に設定を入れるのが良いのですが、そういった設定が出来ない機器もあり、ちょうどよいソリューションがないかなと探している場合はこの内容を見ていくとよいでしょう。 今回は DNS と PowerShell を用いて疑似的に環境を作り上げる方法を見ていきたいと思います。 Active Directory のサーバーに存在している D…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/7952890448">
-        <time id="build-timestamp" datetime="2024-02-19T00:37:27.426Z">2024-02-19T00:37:27.426Z</time>
+      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/7966740430">
+        <time id="build-timestamp" datetime="2024-02-20T00:35:36.721Z">2024-02-20T00:35:36.721Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

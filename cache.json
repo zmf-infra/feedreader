@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/02/20/000150",
+          "author": null,
+          "description": "new Outlook が利用され始めたことで、 Outlook が Web ベースの仕組みに変わっていますが、今までは複数のアカウントを登録することができませんでした。 しかし、 Outlook のアプリとしては一般的な Web メールとの差としてこの点を売りにしていたこともあり、 2024 年 2 月から正式に複数アカウントを取り込むことができるようになったとのことです。 https://techcommunity.microsoft.com/t5/outlook-blog/how-licensing-works-for-work-and-school-accounts-in-the-ne…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/02/20/000150",
+          "publishedOn": "2024-02-19T15:01:50.000Z",
+          "wordCount": 695,
+          "title": "Microsoft 365 Outlook アカウントを複数登録できるようになっています",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240219/20240219230642.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/02/19/025027",
           "author": null,
           "description": "今週も Windows Insider Program は元気に活動を続けています。 まずは Release Preview Channel ですが、 Build 22621.3227 と 22631.3227 がリリースしています。 22H2 と 22H3 向けが出たということですね。 これらは Beta Channel で提供された機能が反映待ちとなった感じですね。 音声アクセスの機能拡充やファイル共有時の連絡先取得方法の変更などが行われています。 また、 Windows 10 の Release Preview Channel も Build 19045.4116 に更新され、 Wind…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/19/025027",
           "publishedOn": "2024-02-18T17:50:27.000Z",
-          "wordCount": 777,
+          "wordCount": 782,
           "title": "Windows 11 Insider Preview Build 26058 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240219/20240219020353.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 751,
           "title": "Windows 11 Insider Preview Build 23619 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240121/20240121102436.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2024/01/21/031611",
-          "author": null,
-          "description": "Microsoft Copilot の一般利用バージョンを停止させるための設定ですが、少し前に DNS を hosts を利用して変更する方法を見ていきました。が、あの方法では一台一台の PC の情報を書き換える必要もありあまり実用的ではありません。 本来はネットワーク機器に設定を入れるのが良いのですが、そういった設定が出来ない機器もあり、ちょうどよいソリューションがないかなと探している場合はこの内容を見ていくとよいでしょう。 今回は DNS と PowerShell を用いて疑似的に環境を作り上げる方法を見ていきたいと思います。 Active Directory のサーバーに存在している D…",
-          "link": "https://mitomoha.hatenablog.com/entry/2024/01/21/031611",
-          "publishedOn": "2024-01-20T18:16:11.000Z",
-          "wordCount": 948,
-          "title": "Microsoft 365 Bing Chat の停止方法を見てみましょう（ DNS 編）",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231201/20231201012238.png"
         }
       ]
     },

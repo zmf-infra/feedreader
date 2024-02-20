@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-19T00:37:27.445Z</id>
+    <id>urn:2024-02-20T00:35:36.739Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T00:37:27.445Z</updated>
+    <updated>2024-02-20T00:35:36.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Outlook アカウントを複数登録できるようになっています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/20/000150</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/20/000150"/>
+        <updated>2024-02-19T15:01:50.000Z</updated>
+        <summary type="html"><![CDATA[new Outlook が利用され始めたことで、 Outlook が Web ベースの仕組みに変わっていますが、今までは複数のアカウントを登録することができませんでした。 しかし、 Outlook のアプリとしては一般的な Web メールとの差としてこの点を売りにしていたこともあり、 2024 年 2 月から正式に複数アカウントを取り込むことができるようになったとのことです。 https://techcommunity.microsoft.com/t5/outlook-blog/how-licensing-works-for-work-and-school-accounts-in-the-ne…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 26058 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/19/025027</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/22/011214"/>
         <updated>2024-01-21T16:12:14.000Z</updated>
         <summary type="html"><![CDATA[今週も元気に Insider Program は稼働中です。 今週は 2 種類の Build が展開されました。 Dev Channel : Build 23619 Beta Channel : Build 22635.3066 しかしながら Dev Channel のバージョンは相変わらず 22H2 となっています。 2024 年に入ったので、そろそろ調整が入ってもよさそうなところ、、、 Dev Channel には今回はちょっと面白い機能が追加されたようです。 スマホで撮影した写真やキャプチャがすぐに PC から見られるようになる機能とのこと。 設定は以下の Blutooth とデバイスの…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Bing Chat の停止方法を見てみましょう（ DNS 編）]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/21/031611</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/21/031611"/>
-        <updated>2024-01-20T18:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot の一般利用バージョンを停止させるための設定ですが、少し前に DNS を hosts を利用して変更する方法を見ていきました。が、あの方法では一台一台の PC の情報を書き換える必要もありあまり実用的ではありません。 本来はネットワーク機器に設定を入れるのが良いのですが、そういった設定が出来ない機器もあり、ちょうどよいソリューションがないかなと探している場合はこの内容を見ていくとよいでしょう。 今回は DNS と PowerShell を用いて疑似的に環境を作り上げる方法を見ていきたいと思います。 Active Directory のサーバーに存在している D…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
