@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-20T00:35:36.739Z</id>
+    <id>urn:2024-02-21T00:36:22.997Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T00:35:36.739Z</updated>
+    <updated>2024-02-21T00:36:22.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Studio 費用と環境について確認してみました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/21/030153</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/21/030153"/>
+        <updated>2024-02-20T18:01:53.000Z</updated>
+        <summary type="html"><![CDATA[久々に Microsoft の Tier1 イベントとなる AI Tour Tokyo が 2024 年 2 月 20 日に開催されました。 今回はマイクロソフトさんの支援ということで Microsoft Copilot Studio のワークショップにおけるサポート対応をさせていただきました。その中で Copilot Studio の利用範囲の広さを再認識するとともに、ちょっと不明瞭だった点もあったので今回まとめておきたいと思います。 まず、 Copilot Studio は Power Virtual Agents の機能を内包した後継のような扱いとなっています。 この辺りはすんなり入って…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Outlook アカウントを複数登録できるようになっています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/20/000150</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/23/020131"/>
         <updated>2024-01-22T17:01:31.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は commercial data protection によってデータは Microsoft に活用されないことが明言されています。 そんな Copilot for Microsoft 365 の中にあって、パブリック Web コンテンツ（要は Bing 検索）についてはこの commercial data protection の対象にならないんですよね。これは前に書いた気もするのですが、この動きの詳細が以下の Lean に書かれていました。 https://learn.microsoft.com/ja-jp/micr…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23619 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/22/011214</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/22/011214"/>
-        <updated>2024-01-21T16:12:14.000Z</updated>
-        <summary type="html"><![CDATA[今週も元気に Insider Program は稼働中です。 今週は 2 種類の Build が展開されました。 Dev Channel : Build 23619 Beta Channel : Build 22635.3066 しかしながら Dev Channel のバージョンは相変わらず 22H2 となっています。 2024 年に入ったので、そろそろ調整が入ってもよさそうなところ、、、 Dev Channel には今回はちょっと面白い機能が追加されたようです。 スマホで撮影した写真やキャプチャがすぐに PC から見られるようになる機能とのこと。 設定は以下の Blutooth とデバイスの…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
