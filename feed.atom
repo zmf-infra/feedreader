@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-21T00:36:22.997Z</id>
+    <id>urn:2024-02-22T00:36:06.565Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T00:36:22.997Z</updated>
+    <updated>2024-02-22T00:36:06.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge サイドバーのクイック アクセスは利用頻度を見ているようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/22/031204</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/22/031204"/>
+        <updated>2024-02-21T18:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Edge を起動していたら、サイド バーに吹き出しコメントが表示されました。 よくよくその内容を見ていたら、どうもアプリの利用頻度を見て表示状態を切り替える機能が追加されたようです。確かにこれらのアプリはあまり起動させていなかったですね。。。 「アプリの非表示」を押すと、そこで選択していたアプリが非表示となります。 非表示となったアプリは、 ＋ ボタンを押すことでクイックアクセス内に表示されています。 これをクリックすることで今までと同じようにアプリを起動することも可能です。 その場合はこんな感じにアプリ群の一番下にあるバーのさらに下に表示されるようになっています。 さらにこの状態で「アプリを…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Studio 費用と環境について確認してみました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/21/030153</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/24/030202"/>
         <updated>2024-01-23T18:02:02.000Z</updated>
         <summary type="html"><![CDATA[今回は PC 内部のネットワークに関連する話題を取り上げたいと思います。 例えば www.microsoft.com にアクセスを行いたい場合、ブラウザーは DNS サーバーに IP アドレスを問い合わせ、その IP アドレスを接続先にしてデータを取りに行くという動きとなります。 このうち DNS については組織利用の場合自組織の DNS を通じて問い合わせチェーンを作り、上位の DNS サーバーに問い合わせを行って www.microsoft.com の IP を確定するのですが、時にこの IP を自社サーバーに変更してインターセプトしたいケースが発生することがあります。 しかし DNS サ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 Webアクセス時の動きについて解説が用意されました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/23/020131</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/23/020131"/>
-        <updated>2024-01-22T17:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は commercial data protection によってデータは Microsoft に活用されないことが明言されています。 そんな Copilot for Microsoft 365 の中にあって、パブリック Web コンテンツ（要は Bing 検索）についてはこの commercial data protection の対象にならないんですよね。これは前に書いた気もするのですが、この動きの詳細が以下の Lean に書かれていました。 https://learn.microsoft.com/ja-jp/micr…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
