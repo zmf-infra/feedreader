@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-22T00:36:06.565Z</id>
+    <id>urn:2024-02-23T00:35:39.891Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T00:36:06.565Z</updated>
+    <updated>2024-02-23T00:35:39.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams チャネル会議でチームメンバーの予定を追加できるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/23/015240</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/23/015240"/>
+        <updated>2024-02-22T16:52:40.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 管理センターを見ていたところ、 Teams 会議に新しい機能が追加されていました。 それはチームに属しているメンバー全員に会議開催通知を送るという機能です。 チームの右上に表示されている「会議のスケジュール設定」から、設定した場合に使える機能となっています。 会議を設定すると、こんな形で中段右側に「個人に招待を送信する」という項目が表示されるようになりました。 インフォメーションマークをポイントすると、個人用予定表に会議が追加される旨が書かれていました。 オンにすると、上部に招待が行われること明記され、間違った設定を行わないようにうまく調整された UI となっていま…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge サイドバーのクイック アクセスは利用頻度を見ているようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/22/031204</id>
@@ -391,16 +401,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/25/030121"/>
         <updated>2024-01-24T18:01:21.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot は文章をやり取りする機能が主なものとなっていますが、そのインプットはキーボードインターフェースや画像などに頼っていたところがありました。 が、 2024 年の 1 月も終わりかけのこの時期に、音声インターフェースが活用しやすい形で提供され始めているようなのです。 以下の図を見ていただきたいのですが、 Copilot in Windows におけるインターフェースです。プロンプト入力欄の右側に音声を読み取るマイクボタンが実装されていることが確認できますね。 実はこれをオフにしている間、やり取りを行った結果側に音声読み上げボタンが表示されるケースが出てきているよ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Server DNS 設定を動的に変更してみましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/24/030202</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/24/030202"/>
-        <updated>2024-01-23T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[今回は PC 内部のネットワークに関連する話題を取り上げたいと思います。 例えば www.microsoft.com にアクセスを行いたい場合、ブラウザーは DNS サーバーに IP アドレスを問い合わせ、その IP アドレスを接続先にしてデータを取りに行くという動きとなります。 このうち DNS については組織利用の場合自組織の DNS を通じて問い合わせチェーンを作り、上位の DNS サーバーに問い合わせを行って www.microsoft.com の IP を確定するのですが、時にこの IP を自社サーバーに変更してインターセプトしたいケースが発生することがあります。 しかし DNS サ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

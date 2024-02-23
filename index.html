@@ -22,6 +22,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-02-22 datetime="2024-02-22T16:52:40.000Z">2024-02-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-02-22 datetime="2024-02-22T16:52:40.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >（）のブログ</button>
+                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2024/02/23/015240"
+                        open
+                      >
+                        <summary class="article-expander__title">Microsoft 365 Teams チャネル会議でチームメンバーの予定を追加できるようになりました</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2024/02/23/015240">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240206/20240206021502.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Microsoft 365 管理センターを見ていたところ、 Teams 会議に新しい機能が追加されていました。 それはチームに属しているメンバー全員に会議開催通知を送るという機能です。 チームの右上に表示されている「会議のスケジュール設定」から、設定した場合に使える機能となっています。 会議を設定すると、こんな形で中段右側に「個人に招待を送信する」という項目が表示されるようになりました。 インフォメーションマークをポイントすると、個人用予定表に会議が追加される旨が書かれていました。 オンにすると、上部に招待が行われること明記され、間違った設定を行わないようにうまく調整された UI となっていま…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-02-21 datetime="2024-02-21T18:12:04.000Z">2024-02-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-02-21 datetime="2024-02-21T18:12:04.000Z"></time>
           </button>
@@ -1747,58 +1795,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-23 datetime="2024-01-23T18:02:02.000Z">2024-01-23</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-23 datetime="2024-01-23T18:02:02.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >（）のブログ</button>
-                  <a class="source-heading__link" href="https://mitomoha.hatenablog.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://mitomoha.hatenablog.com/entry/2024/01/24/030202"
-                        open
-                      >
-                        <summary class="article-expander__title">Windows Server DNS 設定を動的に変更してみましょう</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://mitomoha.hatenablog.com/entry/2024/01/24/030202">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20231201/20231201012238.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>今回は PC 内部のネットワークに関連する話題を取り上げたいと思います。 例えば www.microsoft.com にアクセスを行いたい場合、ブラウザーは DNS サーバーに IP アドレスを問い合わせ、その IP アドレスを接続先にしてデータを取りに行くという動きとなります。 このうち DNS については組織利用の場合自組織の DNS を通じて問い合わせチェーンを作り、上位の DNS サーバーに問い合わせを行って www.microsoft.com の IP を確定するのですが、時にこの IP を自社サーバーに変更してインターセプトしたいケースが発生することがあります。 しかし DNS サ…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/7997592889">
-        <time id="build-timestamp" datetime="2024-02-22T00:36:06.547Z">2024-02-22T00:36:06.547Z</time>
+      <a class="footer-link" href="https://github.com/zmf-infra/feedreader/actions/runs/8012952836">
+        <time id="build-timestamp" datetime="2024-02-23T00:35:39.873Z">2024-02-23T00:35:39.873Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
