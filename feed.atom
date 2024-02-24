@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-23T00:35:39.891Z</id>
+    <id>urn:2024-02-24T00:34:08.564Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T00:35:39.891Z</updated>
+    <updated>2024-02-24T00:34:08.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot in Edge でも設定画面にアクセスできるようになったようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/24/031641</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/24/031641"/>
+        <updated>2024-02-23T18:16:41.000Z</updated>
+        <summary type="html"><![CDATA[最近 LLM の醍醐味はグラウンディングにあると感じることが増えてきたのですが、まだまだ Copilot ではその真価を見る機会が少ないなと思っていました。 しかし Microsoft Edge に展開されている Copilot in Edge では、その一端を垣間見ることができるように機能が拡張されているようです。 というわけで Copilot in Edge のグラウンディング機能を見てみましょう。 ちなみにグラウンディングとは、 LLM の応答結果を元に別のシステムを動かしていくような仕組みを指しています。 最近の Copilot in Edge は会話のスタイルの下にいくつかテンプレー…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams チャネル会議でチームメンバーの予定を追加できるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/23/015240</id>
@@ -381,26 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/26/021550"/>
         <updated>2024-01-25T17:15:50.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot は画像を読み込ませてその判断を行える機能を有しています。 今までは画像はアップロードもしくはクリップボードからコピーするしかなかったのですが、最近 Add a screenshot という、直接画像を取り込む機能が追加されました。 アップロードの右側のボタンです。 例えばこの Copilot の画像を読ませてみましょう。 Edge のサイドバーにあるスクリーンショットと同じ動作となっており、選択後にこのような形でキャプチャの内容を変更することができるようになっています。やっぱりモザイクですかね。これは便利ですよねー。 これでキャプチャを OK とすると、その…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャットメンバー以外のユーザーの連絡先情報を共有]]></title>
-        <id>https://art-break.net/tech/?p=20511</id>
-        <link href="https://art-break.net/tech/?p=20511"/>
-        <updated>2024-01-25T09:25:04.000Z</updated>
-        <summary type="html"><![CDATA[やべぇっす。アップデート情報に追いつけない！いや、マイペースにやりますよ。 ってことでさっきアップデートされている事に気が付いたのですが、 2024/01/05 付けで Microsoft 365 管理センターのメッセー … "Microsoft Teams ：チャットメンバー以外のユーザーの連絡先情報を共有" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot 音声対応が進んできています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/25/030121</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/25/030121"/>
-        <updated>2024-01-24T18:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot は文章をやり取りする機能が主なものとなっていますが、そのインプットはキーボードインターフェースや画像などに頼っていたところがありました。 が、 2024 年の 1 月も終わりかけのこの時期に、音声インターフェースが活用しやすい形で提供され始めているようなのです。 以下の図を見ていただきたいのですが、 Copilot in Windows におけるインターフェースです。プロンプト入力欄の右側に音声を読み取るマイクボタンが実装されていることが確認できますね。 実はこれをオフにしている間、やり取りを行った結果側に音声読み上げボタンが表示されるケースが出てきているよ…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
