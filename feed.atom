@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-24T00:34:08.564Z</id>
+    <id>urn:2024-02-25T00:39:04.970Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T00:34:08.564Z</updated>
+    <updated>2024-02-25T00:39:04.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 OneDrive for Business の容量拡大方法が簡単になっていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/25/015340</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/25/015340"/>
+        <updated>2024-02-24T16:53:40.000Z</updated>
+        <summary type="html"><![CDATA[世の中、よく継続は力なりといいますが、継続して物事を確認していくことはやっぱり重要ですね。 最近 SharePoint 管理センターへのアクセスがおろそかになっていたのですがいつの間にかこの設定の個所に OneDrive for Business のストレージサイズを拡張するための機能が追加されていました。 以下のアドレスからアクセスできる個所に用意されています。 テナント名-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/settings これを見ると 1024GB (1TB) を 5TB まで、設定だけで更新できるようになって…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot in Edge でも設定画面にアクセスできるようになったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/24/031641</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/27/030903"/>
         <updated>2024-01-26T18:09:03.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Teams 管理センターを見ていたところ、ダッシュボードのニュース欄で Microsoft new Teams アプリが通常の Teams としてリリースするタイミングが 2024 年 3 月 31 日になることが明かされていました。 旧 Teams に比べ、メモリー効率が高くなったことは何度かアナウンスされているのですが、実際組織内で Teams を利用していると、 20 ～ 30 以上のチームに加入することも多く、それらが表示されるだけでかなり時間がかかる状況が生まれていたんですよね。 new Teams ではそれらが目に見えて早くなっているので、早く一般利用が開始され…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot 画像のキャプチャ機能が追加されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/26/021550</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/26/021550"/>
-        <updated>2024-01-25T17:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot は画像を読み込ませてその判断を行える機能を有しています。 今までは画像はアップロードもしくはクリップボードからコピーするしかなかったのですが、最近 Add a screenshot という、直接画像を取り込む機能が追加されました。 アップロードの右側のボタンです。 例えばこの Copilot の画像を読ませてみましょう。 Edge のサイドバーにあるスクリーンショットと同じ動作となっており、選択後にこのような形でキャプチャの内容を変更することができるようになっています。やっぱりモザイクですかね。これは便利ですよねー。 これでキャプチャを OK とすると、その…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
