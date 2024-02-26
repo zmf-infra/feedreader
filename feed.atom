@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-25T00:39:04.970Z</id>
+    <id>urn:2024-02-26T00:37:25.903Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T00:39:04.970Z</updated>
+    <updated>2024-02-26T00:37:25.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 26063 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/26/014731</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/26/014731"/>
+        <updated>2024-02-25T16:47:31.000Z</updated>
+        <summary type="html"><![CDATA[今週の Windows Insider Program は Canary Channel のみの更新でした。 ということは、 Canary と Dev の両 Channel が袂を分かち個別の路を歩いていくのかと思ったのですが、まだ同一のアップデートを共有していくようです。今回のアップデートは一時的な分離扱いとなるようです。 今回の Canary Channel は Copilot in Windows で行えるグラウンディングが高機能になっています。 更新情報からチェックしてみると、このような機能が使えるようです。 Copilot in Windows では 29 タスクが使えるようになって…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 OneDrive for Business の容量拡大方法が簡単になっていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/25/015340</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/28/013923"/>
         <updated>2024-01-27T16:39:23.000Z</updated>
         <summary type="html"><![CDATA[動作を試そうと思っていた Copilot for M365 のプラグインを作成するサンプルアプリですが、この冬休みを使ってデプロイを行ってみました。 結果的に動作させるに至らずだったのですが、その動きを確認しておきたいと思います。 まず、以下の GitHub で取り扱っているのが今回のサンプルプラグインとなります。 https://github.com/OfficeDev/Copilot-for-M365-Plugins-Samples/blob/main/samples/msgext-northwind-inventory-ts/lab/Exercise%2000%20-%20Welcome…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams は 2024 年 3 月 31 日以降で新 Teams に移行します]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/27/030903</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/27/030903"/>
-        <updated>2024-01-26T18:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Teams 管理センターを見ていたところ、ダッシュボードのニュース欄で Microsoft new Teams アプリが通常の Teams としてリリースするタイミングが 2024 年 3 月 31 日になることが明かされていました。 旧 Teams に比べ、メモリー効率が高くなったことは何度かアナウンスされているのですが、実際組織内で Teams を利用していると、 20 ～ 30 以上のチームに加入することも多く、それらが表示されるだけでかなり時間がかかる状況が生まれていたんですよね。 new Teams ではそれらが目に見えて早くなっているので、早く一般利用が開始され…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
