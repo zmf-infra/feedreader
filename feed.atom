@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-26T00:37:25.903Z</id>
+    <id>urn:2024-02-27T00:37:01.804Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T00:37:25.903Z</updated>
+    <updated>2024-02-27T00:37:01.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Exchange Online でのアプリ偽装が EOS となることが決定しました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/27/030818</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/27/030818"/>
+        <updated>2024-02-26T18:08:18.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 9 月に EWS の EOS が 2026 年に行われるとアナウンスされて早半年。続々と EWS での重要機能がいち早く終了する方向となったようです。 2023 年当時のアナウンスは以下なのですが、さすがに EWS は様々なところで利用されており、かつ置き換え先となる Graph API はまだ機能が充足していないことから後進について様子見だった人も多かったのではないでしょうか。 https://techcommunity.microsoft.com/t5/exchange-team-blog/retirement-of-exchange-web-services-in-exch…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 26063 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/26/014731</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/29/015552"/>
         <updated>2024-01-28T16:55:52.000Z</updated>
         <summary type="html"><![CDATA[今週の Insider Program は Canary Channel を再起させるレベルでいろいろな更新が Canary に寄った形となっているようです。 Dev Channel は新機能がなく、 Beta Channel は Dev Channel の機能の取り込みとバグフィックス、そして、 Beta Channel から離脱する機能が提供されています。 Canary Channel : Build 26040 Dev Channel : Build 23620 Beta Channel : Build 22635.3130 Dev Channel はバグフィックスのみだったので今回は小…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams Tool kit で Copilot アプリをデプロイしてみました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/28/013923</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/28/013923"/>
-        <updated>2024-01-27T16:39:23.000Z</updated>
-        <summary type="html"><![CDATA[動作を試そうと思っていた Copilot for M365 のプラグインを作成するサンプルアプリですが、この冬休みを使ってデプロイを行ってみました。 結果的に動作させるに至らずだったのですが、その動きを確認しておきたいと思います。 まず、以下の GitHub で取り扱っているのが今回のサンプルプラグインとなります。 https://github.com/OfficeDev/Copilot-for-M365-Plugins-Samples/blob/main/samples/msgext-northwind-inventory-ts/lab/Exercise%2000%20-%20Welcome…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
