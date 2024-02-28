@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-27T00:37:01.804Z</id>
+    <id>urn:2024-02-28T00:35:13.827Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T00:37:01.804Z</updated>
+    <updated>2024-02-28T00:35:13.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 アプリランチャーが新しくなります！]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/28/024628</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/28/024628"/>
+        <updated>2024-02-27T17:46:28.000Z</updated>
+        <summary type="html"><![CDATA[大体 2 ～ 3 年ごとに UI が刷新される Microsoft 365 ですが、今年は Microsoft 365 の左上、アプリランチャーに更新が入ることが決まったようです。 Microsoft 365 管理センターによると次のアプリランチャーは以下のような形になり、横に広くなる感じのようです。 見た目は Windows 11 のスタートメニューのアイコンですね。 思えば、 Windows 10 の中期のスタートメニューがアイコン + 文字の形で、今のアプリランチャーに近しい形だったと思います。 そう考えると Windows 11 の要素に合わせてきたという感じになるのかも知れませんね。…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Exchange Online でのアプリ偽装が EOS となることが決定しました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/27/030818</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/30/025303"/>
         <updated>2024-01-29T17:53:03.000Z</updated>
         <summary type="html"><![CDATA[Windows Insider Program をやっていると思いだすのが、過去には Windows Server も Insider Program で頻繁な更新があった。という事実なのですが、 Windows Server 2022 がリリースされてからというもの、そのリリース頻度は下がり、もう次のオンプレ Server のリリースは限定的になるのかなーと思うような時もあったのですが、なんとつぎの Windows Server のバージョンが決まったというアナウンスが入ってきました。 そのバージョンは 2025 ！ということは今年の後半にはリリースされる可能性が高そうです。 そのくらい全然…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 23620 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/29/015552</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/29/015552"/>
-        <updated>2024-01-28T16:55:52.000Z</updated>
-        <summary type="html"><![CDATA[今週の Insider Program は Canary Channel を再起させるレベルでいろいろな更新が Canary に寄った形となっているようです。 Dev Channel は新機能がなく、 Beta Channel は Dev Channel の機能の取り込みとバグフィックス、そして、 Beta Channel から離脱する機能が提供されています。 Canary Channel : Build 26040 Dev Channel : Build 23620 Beta Channel : Build 22635.3130 Dev Channel はバグフィックスのみだったので今回は小…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
