@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-28T00:35:13.827Z</id>
+    <id>urn:2024-02-29T00:35:59.812Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T00:35:13.827Z</updated>
+    <updated>2024-02-29T00:35:59.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot in Edge 利用可能な機能の設定はポリシーで設定します]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/02/29/023158</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/02/29/023158"/>
+        <updated>2024-02-28T17:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot はうまく使えばとても有用ですが、組織で利用する場合はその性質上、機密情報を使った検索を行わないかなど、気に留めておく必要がある点がいくつかあります。 機密対応といったもの以外にも、ブラウザーの機能との連動要素など気にかけておく点があるのですが、そういった気になる要素については Microsoft 365 管理センターで制御が行えることをご存じでしょうか。 以下の Learn にその要点が記載されているので、今回はこれを紹介させていただきたいと思います。 https://learn.microsoft.com/ja-jp/deployedge/microsof…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 アプリランチャーが新しくなります！]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/28/024628</id>
@@ -381,16 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/01/31/013458"/>
         <updated>2024-01-30T16:34:58.000Z</updated>
         <summary type="html"><![CDATA[Windows Server 2025 Insider が大々的に出てきたことでこれからは Windows 11 世代の Server OS が利用できるようになるということですね。 というわけで、 ISO を使ってインストールを試していきたいと思います。 Windows 11 の Canary Channel ではインストーラーが新しくなったというアナウンスもあり、久々に大幅な変化があるかもしれません。 まず ISO から起動すると表示されるのが言語設定です。この画面は新しい感じですね。 続いてキーボード設定です。この辺りも設定項目は同じですが中身は変わっている感じですね。初期状態では 10…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Server は次のバージョンが 2025 で決定したようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/30/025303</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/30/025303"/>
-        <updated>2024-01-29T17:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Windows Insider Program をやっていると思いだすのが、過去には Windows Server も Insider Program で頻繁な更新があった。という事実なのですが、 Windows Server 2022 がリリースされてからというもの、そのリリース頻度は下がり、もう次のオンプレ Server のリリースは限定的になるのかなーと思うような時もあったのですが、なんとつぎの Windows Server のバージョンが決まったというアナウンスが入ってきました。 そのバージョンは 2025 ！ということは今年の後半にはリリースされる可能性が高そうです。 そのくらい全然…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
