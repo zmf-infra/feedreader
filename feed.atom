@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-29T00:35:59.812Z</id>
+    <id>urn:2024-03-01T00:40:24.704Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T00:35:59.812Z</updated>
+    <updated>2024-03-01T00:40:24.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot 早くもバージョンアップが始まったようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/01/022821</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/01/022821"/>
+        <updated>2024-02-29T17:28:21.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 11 月にリリースしたばかりの Copilot in Microsoft 365 ですが、早くも 2024 年 2 月の更新が行われたようです。 詳細な更新は以下の資料にありますがまずは気になるところを見ていきましょう。 https://techcommunity.microsoft.com/t5/copilot-for-microsoft-365/what-s-new-in-copilot-for-microsoft-365/ba-p/4062353?WT.mc_id=M365-MVP-5002496 まず最初に見ておきたいのは Copilot Lab です。 今まで Copi…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Forms ：Excelのライブデータ同期（プレビュー）]]></title>
+        <id>https://art-break.net/tech/?p=20757</id>
+        <link href="https://art-break.net/tech/?p=20757"/>
+        <updated>2024-02-29T13:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Forms は Microsoft 365 の数あるアプリの中では人気度ランキング上位かと思います。気軽にアンケートやテストができるので便利ですよね。 アンケートを実施すると、実施者は必ずアンケートの … "Microsoft Forms ：Excelのライブデータ同期（プレビュー）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot in Edge 利用可能な機能の設定はポリシーで設定します]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/02/29/023158</id>
@@ -371,26 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/01/031535"/>
         <updated>2024-01-31T18:15:35.000Z</updated>
         <summary type="html"><![CDATA[2015 年ころ以前よりマイクロソフトアカウントを取得していると、組織アカウントと同じメールアドレスでアカウントを作れたことご存じでしょうか。 Microsoft 365 のユーザー共有などではメールアドレスを元にユーザーを特定するため、この状態のままでいるとマイクロソフトアカウントなのか、組織アカウントなのか、どちらの ID か判断するすべがなくうまく認証されないことがあるのです。 そのため、かねてよりマイクロソフトアカウントの ID を変更するようアナウンスがされているのですが、その方法を試してみたので共有しておきたいと思います。 まず、 Microsoft 365 Apps では、うまく…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Clipchamp ：【悲報】ついに「プレミアム」ストック素材がプレミアム扱いに…]]></title>
-        <id>https://art-break.net/tech/?p=20528</id>
-        <link href="https://art-break.net/tech/?p=20528"/>
-        <updated>2024-01-31T00:26:25.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 皆さんは動画編集アプリの Clipchamp 使っていますか？コロナ禍以降、動画コンテンツのニーズが高まり、 Micr … "Microsoft Clipchamp ：【悲報】ついに「プレミアム」ストック素材がプレミアム扱いに…" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Server 2025 Insider Preview をインストールしてみました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/01/31/013458</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/01/31/013458"/>
-        <updated>2024-01-30T16:34:58.000Z</updated>
-        <summary type="html"><![CDATA[Windows Server 2025 Insider が大々的に出てきたことでこれからは Windows 11 世代の Server OS が利用できるようになるということですね。 というわけで、 ISO を使ってインストールを試していきたいと思います。 Windows 11 の Canary Channel ではインストーラーが新しくなったというアナウンスもあり、久々に大幅な変化があるかもしれません。 まず ISO から起動すると表示されるのが言語設定です。この画面は新しい感じですね。 続いてキーボード設定です。この辺りも設定項目は同じですが中身は変わっている感じですね。初期状態では 10…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

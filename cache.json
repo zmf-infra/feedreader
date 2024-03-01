@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/03/01/022821",
+          "author": null,
+          "description": "2023 年 11 月にリリースしたばかりの Copilot in Microsoft 365 ですが、早くも 2024 年 2 月の更新が行われたようです。 詳細な更新は以下の資料にありますがまずは気になるところを見ていきましょう。 https://techcommunity.microsoft.com/t5/copilot-for-microsoft-365/what-s-new-in-copilot-for-microsoft-365/ba-p/4062353?WT.mc_id=M365-MVP-5002496 まず最初に見ておきたいのは Copilot Lab です。 今まで Copi…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/03/01/022821",
+          "publishedOn": "2024-02-29T17:28:21.000Z",
+          "wordCount": 692,
+          "title": "Microsoft Copilot 早くもバージョンアップが始まったようです",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240301/20240301014903.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/02/29/023158",
           "author": null,
           "description": "Microsoft Copilot はうまく使えばとても有用ですが、組織で利用する場合はその性質上、機密情報を使った検索を行わないかなど、気に留めておく必要がある点がいくつかあります。 機密対応といったもの以外にも、ブラウザーの機能との連動要素など気にかけておく点があるのですが、そういった気になる要素については Microsoft 365 管理センターで制御が行えることをご存じでしょうか。 以下の Learn にその要点が記載されているので、今回はこれを紹介させていただきたいと思います。 https://learn.microsoft.com/ja-jp/deployedge/microsof…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/02/29/023158",
           "publishedOn": "2024-02-28T17:31:58.000Z",
-          "wordCount": 685,
+          "wordCount": 689,
           "title": "Microsoft Copilot in Edge 利用可能な機能の設定はポリシーで設定します",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240222/20240222013836.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 680,
           "title": "Microsoft 365 Entra ID の分離を行おう",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240115/20240115110711.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2024/01/31/013458",
-          "author": null,
-          "description": "Windows Server 2025 Insider が大々的に出てきたことでこれからは Windows 11 世代の Server OS が利用できるようになるということですね。 というわけで、 ISO を使ってインストールを試していきたいと思います。 Windows 11 の Canary Channel ではインストーラーが新しくなったというアナウンスもあり、久々に大幅な変化があるかもしれません。 まず ISO から起動すると表示されるのが言語設定です。この画面は新しい感じですね。 続いてキーボード設定です。この辺りも設定項目は同じですが中身は変わっている感じですね。初期状態では 10…",
-          "link": "https://mitomoha.hatenablog.com/entry/2024/01/31/013458",
-          "publishedOn": "2024-01-30T16:34:58.000Z",
-          "wordCount": 753,
-          "title": "Windows Server 2025 Insider Preview をインストールしてみました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240130/20240130234320.png"
         }
       ]
     },
@@ -313,12 +313,27 @@
       "siteUrl": "https://art-break.net/tech",
       "articles": [
         {
+          "id": "https://art-break.net/tech/?p=20757",
+          "author": "TAICHI",
+          "description": "Microsoft Forms は Microsoft 365 の数あるアプリの中では人気度ランキング上位かと思います。気軽にアンケートやテストができるので便利ですよね。 アンケートを実施すると、実施者は必ずアンケートの … \"Microsoft Forms ：Excelのライブデータ同期（プレビュー）\" の続きを読む",
+          "link": "https://art-break.net/tech/?p=20757",
+          "publishedOn": "2024-02-29T13:01:31.000Z",
+          "wordCount": 2102,
+          "title": "Microsoft Forms ：Excelのライブデータ同期（プレビュー）",
+          "enclosure": {
+            "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240229.png",
+            "length": "13390",
+            "type": "image/png"
+          },
+          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2024/02/240229.png"
+        },
+        {
           "id": "https://art-break.net/tech/?p=20715",
           "author": "TAICHI",
           "description": "会議室で会議をする場合、自分のPCの画面を共有したい場合ってどうしていますか？会議室のテレビやプロジェクターにPCを接続してデュアルディスプレイにした状態で、複製か拡張かどちらかで共有しますよね。でも昨今はハイブリッド会 … \"Microsoft Teams ：会議室のテレビに接続する際に利用する「共有ディスプレイモード」\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20715",
           "publishedOn": "2024-02-16T15:43:35.000Z",
-          "wordCount": 1935,
+          "wordCount": 1938,
           "title": "Microsoft Teams ：会議室のテレビに接続する際に利用する「共有ディスプレイモード」",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240216_17.png",
@@ -333,7 +348,7 @@
           "description": "色々と注目されている Microsoft の Copilot 。だけど一言「 Copilot 」と言ってもすでに Microsoft 内の色々な製品、サービス、レイヤーに Copilot が入っているので、複数人で話をす … \"Microsoft Copilot ：あれもこれも「 Copilot 」なので注意が必要\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20689",
           "publishedOn": "2024-02-14T02:08:50.000Z",
-          "wordCount": 2214,
+          "wordCount": 2213,
           "title": "Microsoft Copilot ：あれもこれも「 Copilot 」なので注意が必要",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240214.png",
@@ -348,7 +363,7 @@
           "description": "Microsoft 365 の大体のアプリのどのページを開いても左上に3×3の9個の点のアイコンがありますよね。 ▼左上のコレ 色んな呼び名があるけど僕はワッフルメニューのアイコンって言ってたような。マウスカーソルを当て … \"Microsoft 365 ：起動ツールの固定（ピン留め）を解除した後に再度固定する方法\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20666",
           "publishedOn": "2024-02-13T02:17:38.000Z",
-          "wordCount": 1964,
+          "wordCount": 1963,
           "title": "Microsoft 365 ：起動ツールの固定（ピン留め）を解除した後に再度固定する方法",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240213.png",
@@ -363,7 +378,7 @@
           "description": "Microsoft Stream が Classic から on SharePoint に移行も終盤。そういえば Classic には動画に Microsoft Forms のフォーム（アンケートやクイズ）を追加できる「 … \"Microsoft Stream ：対話機能（アンケート・投票・クイズ 編）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20638",
           "publishedOn": "2024-02-08T04:49:17.000Z",
-          "wordCount": 1950,
+          "wordCount": 1949,
           "title": "Microsoft Stream ：対話機能（アンケート・投票・クイズ 編）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240208.png",
@@ -378,7 +393,7 @@
           "description": "今朝 Microsoft Teams を眺めていたら、チーム一覧の上部に「見つける」というメニューというかボタンというかテキストリンクが追加されていました。 ▼チーム一覧の上部に「見つける」 これ何だったっけ？と思って  … \"Microsoft Teams ：チームに「見つける」というフィードが登場（ Discover フィード）\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20623",
           "publishedOn": "2024-02-07T04:21:28.000Z",
-          "wordCount": 1896,
+          "wordCount": 1898,
           "title": "Microsoft Teams ：チームに「見つける」というフィードが登場（ Discover フィード）",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240207.png",
@@ -393,7 +408,7 @@
           "description": "Microsoft Teams ではアクティビティを見たことがないという人は0%に近いんじゃないかと思います。でも通知が多い人にとっては見たくないところでもありますよね…。そんな中、 Microsoft Teams もア … \"Microsoft Teams ：アクティビティフィードからアイテムを削除できるように\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20612",
           "publishedOn": "2024-02-05T02:58:23.000Z",
-          "wordCount": 1877,
+          "wordCount": 1876,
           "title": "Microsoft Teams ：アクティビティフィードからアイテムを削除できるように",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240205.png",
@@ -408,7 +423,7 @@
           "description": "Microsoft Teams の会議に参加すると既定で表示されるのが「ギャラリー」ビューです。 ▼会議ウィンドウのバーの「表示」をクリックすると既定が「ギャラリー」という事がわかる このギャラリービューが新しくなります … \"Microsoft Teams ：会議のギャラリービューが新しくなる\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20590",
           "publishedOn": "2024-02-02T03:05:34.000Z",
-          "wordCount": 1906,
+          "wordCount": 1905,
           "title": "Microsoft Teams ：会議のギャラリービューが新しくなる",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240202.png",
@@ -423,7 +438,7 @@
           "description": "あるチャットルームで話されたメッセージを他のチャットルームに転送したい時ってあります？「アナタあちらのグループチャットでこう書いていましたよね？」「別のグループチャットでAさんがこういう事を書いていました。」など。そうい … \"Microsoft Teams ：チャットのメッセージを転送\" の続きを読む",
           "link": "https://art-break.net/tech/?p=20551",
           "publishedOn": "2024-02-01T05:29:57.000Z",
-          "wordCount": 1940,
+          "wordCount": 1939,
           "title": "Microsoft Teams ：チャットのメッセージを転送",
           "enclosure": {
             "url": "https://art-break.net/tech/wp-content/uploads/2024/02/240201.png",
@@ -431,21 +446,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://art-break.net/tech/wp-content/uploads/2024/02/240201.png"
-        },
-        {
-          "id": "https://art-break.net/tech/?p=20528",
-          "author": "TAICHI",
-          "description": "※本記事は Microsoft 365 商用ライセンス版の Clipchamp についての記事です。 皆さんは動画編集アプリの Clipchamp 使っていますか？コロナ禍以降、動画コンテンツのニーズが高まり、 Micr … \"Microsoft Clipchamp ：【悲報】ついに「プレミアム」ストック素材がプレミアム扱いに…\" の続きを読む",
-          "link": "https://art-break.net/tech/?p=20528",
-          "publishedOn": "2024-01-31T00:26:25.000Z",
-          "wordCount": 1976,
-          "title": "Microsoft Clipchamp ：【悲報】ついに「プレミアム」ストック素材がプレミアム扱いに…",
-          "enclosure": {
-            "url": "https://art-break.net/tech/wp-content/uploads/2024/01/240131.png",
-            "length": "13698",
-            "type": "image/png"
-          },
-          "imageUrl": "https://art-break.net/tech/wp-content/uploads/2024/01/240131.png"
         }
       ]
     }
