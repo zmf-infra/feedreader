@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-01T00:40:24.704Z</id>
+    <id>urn:2024-03-02T00:35:04.303Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T00:40:24.704Z</updated>
+    <updated>2024-03-02T00:35:04.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Teams モバイル カスタム背景の選択ができるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/02/015722</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/02/015722"/>
+        <updated>2024-03-01T16:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams は会議を行うときに便利な機能を有しており、その中でも PC とモバイル端末を行き来することができるのはとても有用な機能だと思っています。 しかしながら PC とモバイルでは利用できる機能が若干異なっていました。 特に大きかったのはカメラを利用した Web 会議で背景画像を選べないというところがあったのですが、この機能が改善され、カスタム背景画像を選択できるようになりました。 まず、 Teams で会議を立ち上げます。入室前の設定でビデオをオンにすると左上に背景の効果が表示され、ここからカスタム背景が選択できるようになっています。 背景はこのようにぼかしと既定のテ…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDrive for Business ／ SharePoint：Word Excel PowerPoint 以外のファイルもアプリで開く]]></title>
+        <id>https://art-break.net/tech/?p=20808</id>
+        <link href="https://art-break.net/tech/?p=20808"/>
+        <updated>2024-03-01T02:14:19.000Z</updated>
+        <summary type="html"><![CDATA[※記事にするのを忘れていたので実装期間は標準リリースでも1月下旬で完了している機能です。 SharePoint やブラウザーで利用する OneDrive for Business (以下 ODfB ) では、これまで W … "OneDrive for Business ／ SharePoint：Word Excel PowerPoint 以外のファイルもアプリで開く" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot 早くもバージョンアップが始まったようです]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/01/022821</id>
@@ -371,26 +391,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/02/022630"/>
         <updated>2024-02-01T17:26:30.000Z</updated>
         <summary type="html"><![CDATA[最近 Microsoft 365 メッセージセンターのチェックがおざなりになっていたのですが、斜め読みしていたところ気になる内容が目に飛び込んできました。 それは、商用データ保護（ Commercial data protection ）が Office 365 のプランに拡張されるという内容です。 この商用データ保護はその名の通りでプロンプト情報をマイクロソフトが再利用しないという確約を行うための機能です。実際には内部の Bing 検索で入力したプロンプトの内容が扱われるため、全く外部に出ていかないわけではないことに注意を払っておく必要があります。 もともと商用データ保護は Windows …]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：チャットのメッセージを転送]]></title>
-        <id>https://art-break.net/tech/?p=20551</id>
-        <link href="https://art-break.net/tech/?p=20551"/>
-        <updated>2024-02-01T05:29:57.000Z</updated>
-        <summary type="html"><![CDATA[あるチャットルームで話されたメッセージを他のチャットルームに転送したい時ってあります？「アナタあちらのグループチャットでこう書いていましたよね？」「別のグループチャットでAさんがこういう事を書いていました。」など。そうい … "Microsoft Teams ：チャットのメッセージを転送" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Entra ID の分離を行おう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/01/031535</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/01/031535"/>
-        <updated>2024-01-31T18:15:35.000Z</updated>
-        <summary type="html"><![CDATA[2015 年ころ以前よりマイクロソフトアカウントを取得していると、組織アカウントと同じメールアドレスでアカウントを作れたことご存じでしょうか。 Microsoft 365 のユーザー共有などではメールアドレスを元にユーザーを特定するため、この状態のままでいるとマイクロソフトアカウントなのか、組織アカウントなのか、どちらの ID か判断するすべがなくうまく認証されないことがあるのです。 そのため、かねてよりマイクロソフトアカウントの ID を変更するようアナウンスがされているのですが、その方法を試してみたので共有しておきたいと思います。 まず、 Microsoft 365 Apps では、うまく…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
