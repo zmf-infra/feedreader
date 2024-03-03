@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-02T00:35:04.303Z</id>
+    <id>urn:2024-03-03T00:38:15.302Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T00:35:04.303Z</updated>
+    <updated>2024-03-03T00:38:15.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 メッセージセンター の表示方法が新しくなりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/03/011810</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/03/011810"/>
+        <updated>2024-03-02T16:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 を管理することはすなわち新しい機能をみつけ、その対応策を決めていくことにあります。 その時に利用するのが Microsoft 365 管理センターにあるメッセージセンターなのですが、ページから得られる情報がよりまとまるようになりました。 以下がその更新された画面です。このアドレスから入ることができます。 https://admin.microsoft.com/#/MessageCenter 入ったらメッセージを一つ開いてみましょう。 メッセージを開くとこのような形で、いつもより広いダイアログが開きます。 今まではすべて縦に流れる形だったのですが、右側に情報ゾーンが追…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams モバイル カスタム背景の選択ができるようになりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/02/015722</id>
@@ -371,26 +381,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/03/031621"/>
         <updated>2024-02-02T18:16:21.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 では、ほかの Copilot や LLM の扱いと異なり、マイクロソフトはプロンプトデータを利用後破棄するという宣言を行っていないことをご存じでしょうか？ これは管理者向けの監査を考慮した宣言となっており、ほかの Microsoft 365 製品と同様に電子情報開示での依頼に対応できるように調整されているのです。 考え方は以下の Learn にて示されており、 Exchange メールボックス内に非表示フォルダーとして格納されているとのこと。 https://learn.microsoft.com/ja-jp/purvie…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：会議のギャラリービューが新しくなる]]></title>
-        <id>https://art-break.net/tech/?p=20590</id>
-        <link href="https://art-break.net/tech/?p=20590"/>
-        <updated>2024-02-02T03:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Teams の会議に参加すると既定で表示されるのが「ギャラリー」ビューです。 ▼会議ウィンドウのバーの「表示」をクリックすると既定が「ギャラリー」という事がわかる このギャラリービューが新しくなります … "Microsoft Teams ：会議のギャラリービューが新しくなる" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot 商用データ保護の範囲が広くなるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/02/022630</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/02/022630"/>
-        <updated>2024-02-01T17:26:30.000Z</updated>
-        <summary type="html"><![CDATA[最近 Microsoft 365 メッセージセンターのチェックがおざなりになっていたのですが、斜め読みしていたところ気になる内容が目に飛び込んできました。 それは、商用データ保護（ Commercial data protection ）が Office 365 のプランに拡張されるという内容です。 この商用データ保護はその名の通りでプロンプト情報をマイクロソフトが再利用しないという確約を行うための機能です。実際には内部の Bing 検索で入力したプロンプトの内容が扱われるため、全く外部に出ていかないわけではないことに注意を払っておく必要があります。 もともと商用データ保護は Windows …]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
