@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-03T00:38:15.302Z</id>
+    <id>urn:2024-03-04T00:36:54.269Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T00:38:15.302Z</updated>
+    <updated>2024-03-04T00:36:54.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 22635.3212 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/04/013237</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/04/013237"/>
+        <updated>2024-03-03T16:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Dev Channel においては、 2 週連続のリリース調整週となってしまいましたが、 Insider Program はまだ活動をやめたわけではありません。 今週は Beta Channel のみバージョンアップされています。 Beta Channel は Build 22635.3212 になりました。 今回の更新は修正が中心となっていますが、左下のウィジェットにバッジが付くようになりました。 これは Dev と Canary に搭載しているものが Beta にもやってきたというわけですね。 そのほか、今回はスマホのアプリである Link to Windows に面白い機能が来ているよう…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 メッセージセンター の表示方法が新しくなりました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/03/011810</id>
@@ -371,16 +381,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/04/030458"/>
         <updated>2024-02-03T18:04:58.000Z</updated>
         <summary type="html"><![CDATA[最近 Copilot の調査などが多かったせいもあり、 Azure Open AI を確認する機会が大きく減っていたので、久々に Azure AI Studio にアクセスしていたのですが、いろいろと利用できる範囲に変化が起きているようでした。 今回はそんな Azure Open AI の状態を見ていきたいと思います。 例えば以下、2024 年 2 月の時点では DALL-E を利用するには米国東部とスウェーデン中部のテナントのみが利用できるようになっている状態のようです。 欧州の Azure Open AI といえば Europe となっているセンターだったのですがかなり拡大が進んでいるとい…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 データの保持方法について認識を深めておきましょう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/03/031621</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/03/031621"/>
-        <updated>2024-02-02T18:16:21.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 では、ほかの Copilot や LLM の扱いと異なり、マイクロソフトはプロンプトデータを利用後破棄するという宣言を行っていないことをご存じでしょうか？ これは管理者向けの監査を考慮した宣言となっており、ほかの Microsoft 365 製品と同様に電子情報開示での依頼に対応できるように調整されているのです。 考え方は以下の Learn にて示されており、 Exchange メールボックス内に非表示フォルダーとして格納されているとのこと。 https://learn.microsoft.com/ja-jp/purvie…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
