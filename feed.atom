@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-06T00:36:53.568Z</id>
+    <id>urn:2024-03-07T00:29:24.037Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T00:36:53.568Z</updated>
+    <updated>2024-03-07T00:29:24.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Windows Subsystem for Android がサービス終了となるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/07/023502</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/07/023502"/>
+        <updated>2024-03-06T17:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 で鳴り物入りでリリースされた Android をエミュレートする WSA ですが、なんと 2025 年 3 月 5 日にサービスが終了するとアナウンスされていました。 https://learn.microsoft.com/en-gb/windows/android/wsa/?WT.mc_id=WDIT-MVP-5002496 ここにあるように、すでに 2024 年 3 月 5 日でアクセスができなくなってしまったようで、 Microsoft Store からは Amazon Store のインストールはできないようです。 ただ、 Web ページから遷移していくことで 2…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams キャッシュを削除してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/06/021844</id>
@@ -361,16 +371,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/07/021259"/>
         <updated>2024-02-06T17:12:59.000Z</updated>
         <summary type="html"><![CDATA[今年も様々な機能が Microsoft 365 上に生まれ、そして古い機能が終了してきます。 これはクラウドシステムの宿命ではありますが、システム管理者は追っていく必要がありますね。というわけで今回は Exchange の監査ログ取得用のコマンドレット終了の話です。 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/important-announcement-deprecation-of-adminauditlog-and/ba-p/4036537?WT.mc_id=M365-MVP-5002496…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 スナップレイアウトの新しい動作で利用頻度が増えるかもしれません]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/06/023757</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/06/023757"/>
-        <updated>2024-02-05T17:37:57.000Z</updated>
-        <summary type="html"><![CDATA[皆さんは Windows 11 で利用可能なスナップレイアウトは活用していますか？ スナップレイアウトとは最大化ボタンをポイントしたりすると表示されるウィンドウの左右整列機能を指します。 私は最近まであまり利用していなかったのですが、いつのころからか増えていたスナップの新しい動作が私の使いたい方法に合致していたこともあり、最近は利用頻度が増えてきています。 この新しい動作ですが、ウィンドウをドラッグした時画面上部に表示される黒い太線を指しています。こんな感じの表示ですね。 この太線までウィンドウを移動させるとこんな形にドラッグしたウィンドウをどの位置に配置するか決めることができます。 この図で…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
