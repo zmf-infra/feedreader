@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-08T00:36:18.202Z</id>
+    <id>urn:2024-03-09T00:34:47.175Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-08T00:36:18.202Z</updated>
+    <updated>2024-03-09T00:34:47.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot Chat Teams プラグインがバージョンアップしています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/09/031706</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/09/031706"/>
+        <updated>2024-03-08T18:17:06.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot のライセンスを購入することで Microsoft Teams 上で利用できる生成 AI チャットの M365 チャットですが、アプリが 2 つあることは少し前にお伝えした通りです。 が、久々に古い M365 チャットを開いてみたところ、 2024 年 4 月 1 日でサポートが終了することがアプリの情報バーに表示されるようになっていました。 こんな感じですね。 新しい Copilot アプリを起動してみると、スプラッシュタイプの概要が表示されるようになり、プラグイン機能が活用できる旨が表示されていました。 つい先日までプラグインは古い M365 チャットでの…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Forms ： Copilot for Microsoft 365 だとアンケート作成が便利になる]]></title>
+        <id>https://art-break.net/tech/?p=20844</id>
+        <link href="https://art-break.net/tech/?p=20844"/>
+        <updated>2024-03-08T01:14:35.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Forms でアンケートを作成する際に、設問をゼロから考えるのが割と大変ですよね。ベースを誰かが考えてくれてそれを確認して手直しするくらいだとラクですよね。誰か考えてくれないかなぁ…。あ、いたいた、僕 … "Microsoft Forms ： Copilot for Microsoft 365 だとアンケート作成が便利になる" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams 新たに 見つける という機能が追加されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/08/025626</id>
@@ -351,26 +371,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/09/023239"/>
         <updated>2024-02-08T17:32:39.000Z</updated>
         <summary type="html"><![CDATA[どうも先日 Bing.com に Open AI が組み込まれてから 1 年が経ったとのことで、そのタイミングで Bing.com の画像生成機能が強化されたようです。 強化されたといっても地域を英語にすると利用できる機能となっているようで、日本語の環境ではまだ使えませんでした。 また、 Microsoft Copilot with commercial data protection の状態では動かないようで、 MSA リンクの状態である必要がありました。 要は以下のリンクにアクセスすると英語環境で MSA 側になるのですが、パラメーターに cc=us と wlsso=1 が入っていると利用…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Stream ：対話機能（アンケート・投票・クイズ 編）]]></title>
-        <id>https://art-break.net/tech/?p=20638</id>
-        <link href="https://art-break.net/tech/?p=20638"/>
-        <updated>2024-02-08T04:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Stream が Classic から on SharePoint に移行も終盤。そういえば Classic には動画に Microsoft Forms のフォーム（アンケートやクイズ）を追加できる「 … "Microsoft Stream ：対話機能（アンケート・投票・クイズ 編）" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Copilot カスタムアプリの設定位置が変更されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/08/014301</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/08/014301"/>
-        <updated>2024-02-07T16:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 のライセンスを購入すると、 Microsoft 365 管理センターに Copilot 項目が追加されますが、ここにあったカスタマイズ項目が消えてなくなっていました。 カスタマイズ項では、 Microsoft Chat や Teams の Copilot アプリに利用できるアプリの指定や利用できるユーザーを指定できるようになっていました。今まではこれが Copilot の項目から利用できたのですが、カスタマイズ項がなくなったことで、ここから遷移することができなくなったので、「設定」にある「統合アプリ」の「利用可能なアプリ」…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
