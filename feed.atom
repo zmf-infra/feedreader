@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-09T00:34:47.175Z</id>
+    <id>urn:2024-03-10T00:39:06.371Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T00:34:47.175Z</updated>
+    <updated>2024-03-10T00:39:06.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Network connectivity test を試してみましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/10/025611</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/10/025611"/>
+        <updated>2024-03-09T17:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 はクラウドに接続して利用するシステムですが、当然ながら接続しているネットワークによって、動作性能が大きく異なってくることがあります。 そんなとき、ふと、ほかの人はどんな状態なのか気になることはないでしょうか。 もしもそんな疑問が頭に浮かんだら、 Network connectivity test を実行してみてはいかがでしょうか。 このシステムは Office.com の配下にある接続ぞゆきょうを確認するためのものとなっており、以下のアドレスからアクセスすることができます。 https://connectivity.office.com/ アクセスし、マイクロソフト…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot Chat Teams プラグインがバージョンアップしています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/09/031706</id>
@@ -361,16 +371,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/10/030825"/>
         <updated>2024-02-09T18:08:25.000Z</updated>
         <summary type="html"><![CDATA[Ignite 2022 で発表され、メタバース世代の新星のような扱いをされていた Microsoft Mesh ですが、 2024 年 1 月に GA を迎えることができたようです。 発表を前後して時代は生成 AI に突入してしまったため、 VR の認知が少しい薄れてしまったんですよね。ちょっともったいなかったです。 そんな Mesh も Teams Premium ライセンスとしてリリースされたため、利用者の絶対数が少ない中でのスタートとなったようです。 ただすでに、組織利用を始めているところもあるようで、その案内と共にアナウンスが行われていました。 https://www.microsof…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot 英語版の DALL-E 3 が機能増強されていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/09/023239</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/09/023239"/>
-        <updated>2024-02-08T17:32:39.000Z</updated>
-        <summary type="html"><![CDATA[どうも先日 Bing.com に Open AI が組み込まれてから 1 年が経ったとのことで、そのタイミングで Bing.com の画像生成機能が強化されたようです。 強化されたといっても地域を英語にすると利用できる機能となっているようで、日本語の環境ではまだ使えませんでした。 また、 Microsoft Copilot with commercial data protection の状態では動かないようで、 MSA リンクの状態である必要がありました。 要は以下のリンクにアクセスすると英語環境で MSA 側になるのですが、パラメーターに cc=us と wlsso=1 が入っていると利用…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
