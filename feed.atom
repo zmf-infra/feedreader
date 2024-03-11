@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-10T00:39:06.371Z</id>
+    <id>urn:2024-03-11T00:37:18.220Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T00:39:06.371Z</updated>
+    <updated>2024-03-11T00:37:18.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 22635.3276 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/11/010154</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/11/010154"/>
+        <updated>2024-03-10T16:01:54.000Z</updated>
+        <summary type="html"><![CDATA[今週も Windows 11 の Insider Program は絶賛活動中となっています。 しかしながら、ここ数週間の Dev Channel が動いていないという事象には変化がなく、残念な状態も続いています。 今週は以下 2 Build がリリースしています。 Beta Channel : Build 22635.3276 Beta Channel : Build 22635.3286 そうなんです、 2 Build ともに Beta Channel で 1 週間のうちに 2 回もリリースがあったということなのです。 Beta Channel アーリーアダプター向けチャネルなのでこの層に…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Network connectivity test を試してみましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/10/025611</id>
@@ -361,16 +371,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/11/035318"/>
         <updated>2024-02-10T18:53:18.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot は日々、何らかの機能がアップデートされているといっても過言ではないくらい進化の過程にある機能ですが、今回も in Edge の UI が新しくなっていました。 以下が更新された UI なのですが、トップに絵とサンプルとプロンプトが同時に表示されるようになったようです。 特にサンプルスクリプトは以下のように、 2 つずつ表示されるのですが、何度か更新ボタンを押してどういった項目が表示されるのか試してみたところ、ランダムにかなりの数が用意されているようでした。 こんな感じに英語の項目も混ざってきていました。 既出のものと一緒に出てきたケースもあったので、ランダム…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Mesh リリース！]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/10/030825</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/10/030825"/>
-        <updated>2024-02-09T18:08:25.000Z</updated>
-        <summary type="html"><![CDATA[Ignite 2022 で発表され、メタバース世代の新星のような扱いをされていた Microsoft Mesh ですが、 2024 年 1 月に GA を迎えることができたようです。 発表を前後して時代は生成 AI に突入してしまったため、 VR の認知が少しい薄れてしまったんですよね。ちょっともったいなかったです。 そんな Mesh も Teams Premium ライセンスとしてリリースされたため、利用者の絶対数が少ない中でのスタートとなったようです。 ただすでに、組織利用を始めているところもあるようで、その案内と共にアナウンスが行われていました。 https://www.microsof…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
