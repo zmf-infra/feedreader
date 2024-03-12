@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-11T00:37:18.220Z</id>
+    <id>urn:2024-03-12T00:35:40.443Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T00:37:18.220Z</updated>
+    <updated>2024-03-12T00:35:40.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Outlook 新規メールにメールをコピーできるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/12/010642</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/12/010642"/>
+        <updated>2024-03-11T16:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Outlook は現在 Web ベースのものに進化していますが、その進化過程においていくつかの機能を犠牲にしてきた経緯があります。 例えば、外部メール機能の利用などがそれにあたりますが、徐々に新機能として提供されてきており、重要機能の取り込みが完了しつつあります。 その中の一つにメールの添付というのがあるのですが 2024 年 3 月から 4 月にかけてこの機能の実装も行われることになったようです。 Outlook で新規メールを作成してみましょう。 するとこんな風に右側のペインに空のメールが表示されます。 そこに中央ペインにあるメール一覧からドラッグでメールを移動させてみましょう。 こんな感…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 22635.3276 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/11/010154</id>
@@ -361,16 +371,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/12/023619"/>
         <updated>2024-02-11T17:36:19.000Z</updated>
         <summary type="html"><![CDATA[今週は先週と打って変わってかなり多くの変更が行われた Windows Insider Program です。 今回は以下のようにバージョンが変わりました。 Canary Channel : Build 26052.1000 Dev Channel : Build 26052.1100 Beta Channel : Build 22635.3140 見ての通りなのですが、 Dev Channel が大きく変わり、 Canary と合流。これが 24H2 になるということが決まったようです。 ge_release ということで、リリース愛称にも変更が入りました。 今は Canary と Dev が…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot in Edge 初期 UI が新しくなったようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/11/035318</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/11/035318"/>
-        <updated>2024-02-10T18:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot は日々、何らかの機能がアップデートされているといっても過言ではないくらい進化の過程にある機能ですが、今回も in Edge の UI が新しくなっていました。 以下が更新された UI なのですが、トップに絵とサンプルとプロンプトが同時に表示されるようになったようです。 特にサンプルスクリプトは以下のように、 2 つずつ表示されるのですが、何度か更新ボタンを押してどういった項目が表示されるのか試してみたところ、ランダムにかなりの数が用意されているようでした。 こんな感じに英語の項目も混ざってきていました。 既出のものと一緒に出てきたケースもあったので、ランダム…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
