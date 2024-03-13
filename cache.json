@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/03/13/014555",
+          "author": null,
+          "description": "Microsoft Copilot for Microsoft 365 がリリースされて早 5 か月。様々な組織で利用を開始するための調査が始まっているものと思われます。 そんな状況下で導入を支援するための動きが活発化しているようです。 以下のサイトに Copilot を始めるためのサクセスキットが配布されるようになっていました。 https://adoption.microsoft.com/ja-jp/copilot/success-kit/ このサイトでは、以下の 9 項目でガイドが用意されており、計画の段階から実際の導入。その後の利用中の支援までを網羅できる内容となっていました。 ファイ…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/03/13/014555",
+          "publishedOn": "2024-03-12T16:45:55.000Z",
+          "wordCount": 690,
+          "title": "Microsoft Copilot for Microsoft 365 サクセスキットがリリースされています",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240313/20240313004338.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/03/12/010642",
           "author": null,
           "description": "Outlook は現在 Web ベースのものに進化していますが、その進化過程においていくつかの機能を犠牲にしてきた経緯があります。 例えば、外部メール機能の利用などがそれにあたりますが、徐々に新機能として提供されてきており、重要機能の取り込みが完了しつつあります。 その中の一つにメールの添付というのがあるのですが 2024 年 3 月から 4 月にかけてこの機能の実装も行われることになったようです。 Outlook で新規メールを作成してみましょう。 するとこんな風に右側のペインに空のメールが表示されます。 そこに中央ペインにあるメール一覧からドラッグでメールを移動させてみましょう。 こんな感…",
           "link": "https://mitomoha.hatenablog.com/entry/2024/03/12/010642",
           "publishedOn": "2024-03-11T16:06:42.000Z",
-          "wordCount": 690,
+          "wordCount": 697,
           "title": "Microsoft 365 Outlook 新規メールにメールをコピーできるようになりました",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240312/20240312001612.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 673,
           "title": "Microsoft 365 SharePoint カスタムスクリプトが設定できなくなるようです",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240213/20240213013544.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2024/02/12/023619",
-          "author": null,
-          "description": "今週は先週と打って変わってかなり多くの変更が行われた Windows Insider Program です。 今回は以下のようにバージョンが変わりました。 Canary Channel : Build 26052.1000 Dev Channel : Build 26052.1100 Beta Channel : Build 22635.3140 見ての通りなのですが、 Dev Channel が大きく変わり、 Canary と合流。これが 24H2 になるということが決まったようです。 ge_release ということで、リリース愛称にも変更が入りました。 今は Canary と Dev が…",
-          "link": "https://mitomoha.hatenablog.com/entry/2024/02/12/023619",
-          "publishedOn": "2024-02-11T17:36:19.000Z",
-          "wordCount": 861,
-          "title": "Windows 11 Insider Preview Build 26052 リリース",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240210/20240210030930.png"
         }
       ]
     },
