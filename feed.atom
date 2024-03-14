@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-13T00:36:31.309Z</id>
+    <id>urn:2024-03-14T00:35:52.142Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T00:36:31.309Z</updated>
+    <updated>2024-03-14T00:35:52.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 ClipChamp でビデオキャプションを付けられるようになりました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/14/022428</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/14/022428"/>
+        <updated>2024-03-13T17:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 にはビデオオーサリングツールの ClipChamp が付属しています。一般ユーザーにはあまり活用されていないかもしれませんがカメラで撮影した動画をちょっと見せられるようにするときなどに便利なので一部の人には重宝されているのではないでしょうか。 この ClipChamp ですが、最近動画の中でしゃべっている言葉を AI が解析するキャプション機能が追加されたようなのです。 キャプションは画面右側にある CC ボタンをクリックすることで利用することができます。 これを初めて押したときは、以下のようにキャプション機能の説明が表示されます。 自動キャプションとあるように、動…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot for Microsoft 365 サクセスキットがリリースされています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/13/014555</id>
@@ -351,26 +361,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/14/024546"/>
         <updated>2024-02-13T17:45:46.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 メッセージセンターに新 Outlook で msg ファイルや oft ファイルへのサポートが 2024 年 3 月より行われるとアナウンスがありました。 というわけで、まだ 3 月にはなっていませんが、実際どのような動作となるか、 2024 年 2 月時点での新 Outlook で動作を確認してみたいと思います。 試すファイルは eml ファイルです。 これは新 Outlook でメッセージを右クリックして保存した時に設定される拡張子となっており、中身は BASE64 エンコードのファイルとなっています。 これをエクスプローラーからダブルクリックして新 Outlo…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 ：起動ツールの固定（ピン留め）を解除した後に再度固定する方法]]></title>
-        <id>https://art-break.net/tech/?p=20666</id>
-        <link href="https://art-break.net/tech/?p=20666"/>
-        <updated>2024-02-13T02:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 の大体のアプリのどのページを開いても左上に3×3の9個の点のアイコンがありますよね。 ▼左上のコレ 色んな呼び名があるけど僕はワッフルメニューのアイコンって言ってたような。マウスカーソルを当て … "Microsoft 365 ：起動ツールの固定（ピン留め）を解除した後に再度固定する方法" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 SharePoint カスタムスクリプトが設定できなくなるようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/13/020727</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/13/020727"/>
-        <updated>2024-02-12T17:07:27.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 管理センターを見ていたところ、かなり衝撃的な内容が記載されていました。 2024 年 3 月で SharePoint 管理センターにあるカスタムスクリプト設定が削除されるようです。 最近の SharePoint はポータルサイトのような使い方をするケースが少なくなってきましたが、とはいえまだこの方向で進めたいという話もちらほらと聞くんですよね。 設定自体は SharePoint 管理センターの設定項一番下にあるクラシック設定ページ内にある項目となっています。 サイトのドメインはテナントごとに割り振られるため、自身のテナントになりますが、以下のサイトアドレスにある機能…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
