@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-15T00:36:29.818Z</id>
+    <id>urn:2024-03-16T00:34:40.823Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T00:36:29.818Z</updated>
+    <updated>2024-03-16T00:34:40.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 個人用ページのメニューが最新化されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/16/023430</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/16/023430"/>
+        <updated>2024-03-15T17:34:30.000Z</updated>
+        <summary type="html"><![CDATA[先日 Microsoft 365 のメニューが新しくなり、 Windows 11 のスタートメニューのような形になるという話をしたのですが、早くも個人向け Microsoft 365 ポータルではその状態がリリースされていました。 私の環境では組織向けの環境は元のまま、個人向けの環境のみ更新されていたという形です。 https://www.microsoft365.com/?auth=1&from=ShellNav この画面で左上のメニューボタンをクリックしたところが以下の状態です。アプリを検索できるようになったほか、縦並びだったアプリ一覧が 5 列の横並び型に変わっています。 Windows…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 OneNote に付箋が登場しています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/15/015602</id>
@@ -341,16 +351,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/16/025317"/>
         <updated>2024-02-15T17:53:17.000Z</updated>
         <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は組織利用時にどれだけ活用されたかをチェックするためのダッシュボードが用意されているのはご存じでしょうか。 今回はそのダッシュボードを見ていきたいと思います。 Microsoft 365 のダッシュボードというと、 Power BI にデータを連携したりで難しいイメージがありますが、最近はとても簡単に利用できるようになってきています。 まず以下の URL にアクセスしていきましょう。 https://insights.cloud.microsoft/#/CopilotDashboard すると、こんな感じのサイトにつながり…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Copilot のプラグイン利用申請を行ってみました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/15/021938</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/15/021938"/>
-        <updated>2024-02-14T17:19:38.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 を利用していると、チャットをもう少し広く利用したいと思いませんか？ そんな時に活躍するのがプラグイン機能です。 Web コンテンツにアクセスさせるのもこのプラグイン機能の一部となっています。しかし、カスタム生成した Copilot プラグインはこの状態ではまだ利用することができないようになっているようです。 Microsoft 365 管理センターの Copilot よりプラグインを選択して利用者設定する画面にも、以下のようなアナウンスが表示されるようになっています。 というわけで今回は SR への問い合わせを見ていきまし…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
