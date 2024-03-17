@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-16T00:34:40.823Z</id>
+    <id>urn:2024-03-17T00:38:50.013Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T00:34:40.823Z</updated>
+    <updated>2024-03-17T00:38:50.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge モバイルの UI が新しくなっていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/17/030453</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/17/030453"/>
+        <updated>2024-03-16T18:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot が Microsoft 365 関連のモバイルアプリのほとんどに組み込まれ、画面中央下は Copilot の定位置になっている。というのはモバイルアプリを活用している方の共通認識かと思いますが、 Microsoft Edge のモバイルアプリはさらなる Copilot 領域の拡大を目指しているようです。 というわけで、モバイル Edge アプリでは新規タブの中央にあった QR コード読み取りをカメラマークに替えて Copilot と同居させる方針を考えたようです。 以下がその画面なのですが、中央右のカメラマークを押してみましょう。 するとカメラが起動し、下部…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 個人用ページのメニューが最新化されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/16/023430</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[会議室で会議をする場合、自分のPCの画面を共有したい場合ってどうしていますか？会議室のテレビやプロジェクターにPCを接続してデュアルディスプレイにした状態で、複製か拡張かどちらかで共有しますよね。でも昨今はハイブリッド会 … "Microsoft Teams ：会議室のテレビに接続する際に利用する「共有ディスプレイモード」" の続きを読む]]></summary>
         <author>
             <name>TAICHI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot ダッシュボードを見てみよう]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/16/025317</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/16/025317"/>
-        <updated>2024-02-15T17:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot for Microsoft 365 は組織利用時にどれだけ活用されたかをチェックするためのダッシュボードが用意されているのはご存じでしょうか。 今回はそのダッシュボードを見ていきたいと思います。 Microsoft 365 のダッシュボードというと、 Power BI にデータを連携したりで難しいイメージがありますが、最近はとても簡単に利用できるようになってきています。 まず以下の URL にアクセスしていきましょう。 https://insights.cloud.microsoft/#/CopilotDashboard すると、こんな感じのサイトにつながり…]]></summary>
-        <author>
-            <name>（）のブログ</name>
         </author>
     </entry>
 </feed>
