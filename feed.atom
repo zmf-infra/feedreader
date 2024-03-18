@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-17T00:38:50.013Z</id>
+    <id>urn:2024-03-18T00:37:17.781Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T00:38:50.013Z</updated>
+    <updated>2024-03-18T00:37:17.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 26080 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/18/004246</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/18/004246"/>
+        <updated>2024-03-17T15:42:46.000Z</updated>
+        <summary type="html"><![CDATA[3 週間ぶりに Dev Channel にリリースが行われ、Build 26080 がリリースされています。 Release Preview Channel : Build 19045.4233 ( Win 10 22H2 ) Beta Channel : Build 22635.3350 Dev Channel : Build 26080.1100 Canary Channel : Build 260801.1 Release Preview Channel では Windows スポットライトが実装されました。 また、ロック画面の天気表示機能など Windows 11 で実装済みの機能が …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge モバイルの UI が新しくなっていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/17/030453</id>
@@ -333,26 +343,6 @@
         <summary type="html"><![CDATA[最近の Microsoft は生成 AI を中心に動いている感が強いですが、 AI は GPT だけではありません。特に Microsoft 365 では Microsoft Syntex も推し機能の一つとして取り上げられる機会が増えている気がしています。 そんな中、 GPT 以外の AI 機能を一般に根付かせるために、 2024 年 6 月までの期間限定で Syntex のプロモーションを行なわれています。 詳細は以下の Learn にあるのですが、表になっていたのでピックアップしておきます。 https://learn.microsoft.com/ja-jp/microsoft-365/…]]></summary>
         <author>
             <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Server 2025 Internet Explorer が動作するか試してみました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/17/025518</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/17/025518"/>
-        <updated>2024-02-16T17:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Windows Server 2025 もインストールできたので、やっぱり気になる Internet Explorer への対応状況を見ていきたいと思います。 Internet Explorer は Windows 10 / 11 でもすでにサポートが終了しており、今利用できる Internet Explorer は互換性の高い Edge の IE モードのみとなるのですが、スクリプトを活用すると UI を Internet Explorer 11 として動作させることもできるようになっています。 これが Windows Server 2025 でも動作するのか気になるところです。 というわけ…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Teams ：会議室のテレビに接続する際に利用する「共有ディスプレイモード」]]></title>
-        <id>https://art-break.net/tech/?p=20715</id>
-        <link href="https://art-break.net/tech/?p=20715"/>
-        <updated>2024-02-16T15:43:35.000Z</updated>
-        <summary type="html"><![CDATA[会議室で会議をする場合、自分のPCの画面を共有したい場合ってどうしていますか？会議室のテレビやプロジェクターにPCを接続してデュアルディスプレイにした状態で、複製か拡張かどちらかで共有しますよね。でも昨今はハイブリッド会 … "Microsoft Teams ：会議室のテレビに接続する際に利用する「共有ディスプレイモード」" の続きを読む]]></summary>
-        <author>
-            <name>TAICHI</name>
         </author>
     </entry>
 </feed>
