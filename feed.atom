@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-18T00:37:17.781Z</id>
+    <id>urn:2024-03-19T00:36:12.001Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T00:37:17.781Z</updated>
+    <updated>2024-03-19T00:36:12.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Paint がバージョンアップしています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/19/020459</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/19/020459"/>
+        <updated>2024-03-18T17:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 Insider Preview の Canary と Dev にてペイントアプリに進化が入ったようです。 まだ私のところではその進化の一変しかきていないのですが、紹介していきたいと思います。 まずペイントですが、 Windows 10 の一時、 EOS という話も出たほどに世間からオワコンとして見られていたことはご存じでしょうか。 その頃は UI も Windows XP のころから変化もほとんどなく終了も仕方ないことな冠と思っていたのですが、その軽快な動作などから私を含む一部の愛好家からの支持を受けて EOS が撤回されるというとても数奇な運命をたどったアプリなのです。…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 26080 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/18/004246</id>
@@ -331,16 +341,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/19/025027"/>
         <updated>2024-02-18T17:50:27.000Z</updated>
         <summary type="html"><![CDATA[今週も Windows Insider Program は元気に活動を続けています。 まずは Release Preview Channel ですが、 Build 22621.3227 と 22631.3227 がリリースしています。 22H2 と 22H3 向けが出たということですね。 これらは Beta Channel で提供された機能が反映待ちとなった感じですね。 音声アクセスの機能拡充やファイル共有時の連絡先取得方法の変更などが行われています。 また、 Windows 10 の Release Preview Channel も Build 19045.4116 に更新され、 Wind…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 SharePoint Premium に試用期間が設けられています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/18/043317</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/18/043317"/>
-        <updated>2024-02-17T19:33:17.000Z</updated>
-        <summary type="html"><![CDATA[最近の Microsoft は生成 AI を中心に動いている感が強いですが、 AI は GPT だけではありません。特に Microsoft 365 では Microsoft Syntex も推し機能の一つとして取り上げられる機会が増えている気がしています。 そんな中、 GPT 以外の AI 機能を一般に根付かせるために、 2024 年 6 月までの期間限定で Syntex のプロモーションを行なわれています。 詳細は以下の Learn にあるのですが、表になっていたのでピックアップしておきます。 https://learn.microsoft.com/ja-jp/microsoft-365/…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>

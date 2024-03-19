@@ -6,12 +6,22 @@
       "siteUrl": "https://mitomoha.hatenablog.com/",
       "articles": [
         {
+          "id": "https://mitomoha.hatenablog.com/entry/2024/03/19/020459",
+          "author": null,
+          "description": "Windows 11 Insider Preview の Canary と Dev にてペイントアプリに進化が入ったようです。 まだ私のところではその進化の一変しかきていないのですが、紹介していきたいと思います。 まずペイントですが、 Windows 10 の一時、 EOS という話も出たほどに世間からオワコンとして見られていたことはご存じでしょうか。 その頃は UI も Windows XP のころから変化もほとんどなく終了も仕方ないことな冠と思っていたのですが、その軽快な動作などから私を含む一部の愛好家からの支持を受けて EOS が撤回されるというとても数奇な運命をたどったアプリなのです。…",
+          "link": "https://mitomoha.hatenablog.com/entry/2024/03/19/020459",
+          "publishedOn": "2024-03-18T17:04:59.000Z",
+          "wordCount": 677,
+          "title": "Windows 11 Paint がバージョンアップしています",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240319/20240319013939.png"
+        },
+        {
           "id": "https://mitomoha.hatenablog.com/entry/2024/03/18/004246",
           "author": null,
           "description": "3 週間ぶりに Dev Channel にリリースが行われ、Build 26080 がリリースされています。 Release Preview Channel : Build 19045.4233 ( Win 10 22H2 ) Beta Channel : Build 22635.3350 Dev Channel : Build 26080.1100 Canary Channel : Build 260801.1 Release Preview Channel では Windows スポットライトが実装されました。 また、ロック画面の天気表示機能など Windows 11 で実装済みの機能が …",
           "link": "https://mitomoha.hatenablog.com/entry/2024/03/18/004246",
           "publishedOn": "2024-03-17T15:42:46.000Z",
-          "wordCount": 749,
+          "wordCount": 754,
           "title": "Windows 11 Insider Preview Build 26080 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240317/20240317144445.png"
         },
@@ -294,16 +304,6 @@
           "wordCount": 783,
           "title": "Windows 11 Insider Preview Build 26058 リリース",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240219/20240219020353.png"
-        },
-        {
-          "id": "https://mitomoha.hatenablog.com/entry/2024/02/18/043317",
-          "author": null,
-          "description": "最近の Microsoft は生成 AI を中心に動いている感が強いですが、 AI は GPT だけではありません。特に Microsoft 365 では Microsoft Syntex も推し機能の一つとして取り上げられる機会が増えている気がしています。 そんな中、 GPT 以外の AI 機能を一般に根付かせるために、 2024 年 6 月までの期間限定で Syntex のプロモーションを行なわれています。 詳細は以下の Learn にあるのですが、表になっていたのでピックアップしておきます。 https://learn.microsoft.com/ja-jp/microsoft-365/…",
-          "link": "https://mitomoha.hatenablog.com/entry/2024/02/18/043317",
-          "publishedOn": "2024-02-17T19:33:17.000Z",
-          "wordCount": 675,
-          "title": "Microsoft 365 SharePoint Premium に試用期間が設けられています",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/m/mohessu/20240217/20240217230255.png"
         }
       ]
     },
