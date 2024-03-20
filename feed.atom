@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-19T00:36:12.001Z</id>
+    <id>urn:2024-03-20T00:35:52.730Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T00:36:12.001Z</updated>
+    <updated>2024-03-20T00:35:52.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge パスワード保存機能を有効活用しましょう]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/20/022131</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/20/022131"/>
+        <updated>2024-03-19T17:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft はいつでもセキュリティの強化を考えながらそれらの対応を製品に取り込んでくれるのですが、特に最近は ID 周りの強化が多くなされている感じがしています。 今回はその ID 周りの強化機能を見ていきたいと思います。 2020 年代以降、 ID とパスワードでのユーザー同定は数打てば当たるということもあってかなり手を加えられていき、 2024 年現在は MFA という複数のキーを基にユーザーを同定する方法をとることがデファクトスタンダードとして扱われるようになりました。 MFA も偽装の難しさや環境の用意のしやすさといった基準からいくつもの手法が生み出され、簡単に利用できる方法と…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Paint がバージョンアップしています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/19/020459</id>
@@ -331,16 +341,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/20/000150"/>
         <updated>2024-02-19T15:01:50.000Z</updated>
         <summary type="html"><![CDATA[new Outlook が利用され始めたことで、 Outlook が Web ベースの仕組みに変わっていますが、今までは複数のアカウントを登録することができませんでした。 しかし、 Outlook のアプリとしては一般的な Web メールとの差としてこの点を売りにしていたこともあり、 2024 年 2 月から正式に複数アカウントを取り込むことができるようになったとのことです。 https://techcommunity.microsoft.com/t5/outlook-blog/how-licensing-works-for-work-and-school-accounts-in-the-ne…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 26058 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/19/025027</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/19/025027"/>
-        <updated>2024-02-18T17:50:27.000Z</updated>
-        <summary type="html"><![CDATA[今週も Windows Insider Program は元気に活動を続けています。 まずは Release Preview Channel ですが、 Build 22621.3227 と 22631.3227 がリリースしています。 22H2 と 22H3 向けが出たということですね。 これらは Beta Channel で提供された機能が反映待ちとなった感じですね。 音声アクセスの機能拡充やファイル共有時の連絡先取得方法の変更などが行われています。 また、 Windows 10 の Release Preview Channel も Build 19045.4116 に更新され、 Wind…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
