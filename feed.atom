@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-20T00:35:52.730Z</id>
+    <id>urn:2024-03-21T00:37:37.308Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-20T00:35:52.730Z</updated>
+    <updated>2024-03-21T00:37:37.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Office Scripts が E1 向けに GA となったようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/21/003216</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/21/003216"/>
+        <updated>2024-03-20T15:32:16.000Z</updated>
+        <summary type="html"><![CDATA[皆さん Office Scripts はご存じでしょうか。 Microsoft 365 で扱えるマクロの進化型ともいえる機能で、 VBA をオンプレでの開発機能とすると、 Office Scripts はクラウドでの開発機能といったところになっています。 この Office Scripts ですが Office 365 E1 や F3 で利用できるようになったようです。 https://techcommunity.microsoft.com/t5/excel-blog/office-scripts-is-now-available-for-office-365-enterprise-e1-an…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge パスワード保存機能を有効活用しましょう]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/20/022131</id>
@@ -13,6 +23,16 @@
         <summary type="html"><![CDATA[Microsoft はいつでもセキュリティの強化を考えながらそれらの対応を製品に取り込んでくれるのですが、特に最近は ID 周りの強化が多くなされている感じがしています。 今回はその ID 周りの強化機能を見ていきたいと思います。 2020 年代以降、 ID とパスワードでのユーザー同定は数打てば当たるということもあってかなり手を加えられていき、 2024 年現在は MFA という複数のキーを基にユーザーを同定する方法をとることがデファクトスタンダードとして扱われるようになりました。 MFA も偽装の難しさや環境の用意のしやすさといった基準からいくつもの手法が生み出され、簡単に利用できる方法と…]]></summary>
         <author>
             <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Clipchamp ：自動キャプション機能が登場]]></title>
+        <id>https://art-break.net/tech/?p=20856</id>
+        <link href="https://art-break.net/tech/?p=20856"/>
+        <updated>2024-03-19T09:00:30.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は 商用ライセンス版 Microsoft 365 の中の Clipchamp についての記事です。 昨日、ようやく Microsoft MVP Global Summit 2024 の参加を終えてアメリカから帰国 … "Microsoft Clipchamp ：自動キャプション機能が登場" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
         </author>
     </entry>
     <entry>
@@ -331,16 +351,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/21/030153"/>
         <updated>2024-02-20T18:01:53.000Z</updated>
         <summary type="html"><![CDATA[久々に Microsoft の Tier1 イベントとなる AI Tour Tokyo が 2024 年 2 月 20 日に開催されました。 今回はマイクロソフトさんの支援ということで Microsoft Copilot Studio のワークショップにおけるサポート対応をさせていただきました。その中で Copilot Studio の利用範囲の広さを再認識するとともに、ちょっと不明瞭だった点もあったので今回まとめておきたいと思います。 まず、 Copilot Studio は Power Virtual Agents の機能を内包した後継のような扱いとなっています。 この辺りはすんなり入って…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Outlook アカウントを複数登録できるようになっています]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/20/000150</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/20/000150"/>
-        <updated>2024-02-19T15:01:50.000Z</updated>
-        <summary type="html"><![CDATA[new Outlook が利用され始めたことで、 Outlook が Web ベースの仕組みに変わっていますが、今までは複数のアカウントを登録することができませんでした。 しかし、 Outlook のアプリとしては一般的な Web メールとの差としてこの点を売りにしていたこともあり、 2024 年 2 月から正式に複数アカウントを取り込むことができるようになったとのことです。 https://techcommunity.microsoft.com/t5/outlook-blog/how-licensing-works-for-work-and-school-accounts-in-the-ne…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
