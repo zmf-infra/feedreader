@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-22T00:35:58.115Z</id>
+    <id>urn:2024-03-23T00:35:27.297Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T00:35:58.115Z</updated>
+    <updated>2024-03-23T00:35:27.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Copilot in Windows プラグインのアクセス許可がメニューに追加されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/23/025801</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/23/025801"/>
+        <updated>2024-03-22T17:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 メッセージセンターを見ていたところ、 2024 年 5 月までに Microsoft Copilot in Windows を MSA で利用していない場合でも 10 回のやり取りができるようになるという話題が載っていました。 これは 2024 年 3 月末から徐々にリリースになるとのことなので、これから Copilot を試していこうとしている人にはちょうどよいのかもしれません。 今回はその話が主ではなく、 Copilot in Windows の三点リーダー内にプラグインのアクセス許可の項目が追加されていたことを取り上げたいと思います。 こんな感じに下から 2 …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Planner ： Microsoft Teams の新しい Planner アプリがプレビューで登場]]></title>
+        <id>https://art-break.net/tech/?p=20880</id>
+        <link href="https://art-break.net/tech/?p=20880"/>
+        <updated>2024-03-22T02:12:42.000Z</updated>
+        <summary type="html"><![CDATA[たしか去年2023年のイベント Microsoft Ignite で発表されたかな？ Microsoft Planner が新しくなるという事で、まずは第1弾として Microsoft Teams の長ったらしい変な名前 … "Microsoft Planner ： Microsoft Teams の新しい Planner アプリがプレビューで登場" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Teams ビデオの効果が大きく進化しています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/22/023418</id>
@@ -341,16 +361,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/23/015240"/>
         <updated>2024-02-22T16:52:40.000Z</updated>
         <summary type="html"><![CDATA[Microsoft 365 管理センターを見ていたところ、 Teams 会議に新しい機能が追加されていました。 それはチームに属しているメンバー全員に会議開催通知を送るという機能です。 チームの右上に表示されている「会議のスケジュール設定」から、設定した場合に使える機能となっています。 会議を設定すると、こんな形で中段右側に「個人に招待を送信する」という項目が表示されるようになりました。 インフォメーションマークをポイントすると、個人用予定表に会議が追加される旨が書かれていました。 オンにすると、上部に招待が行われること明記され、間違った設定を行わないようにうまく調整された UI となっていま…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge サイドバーのクイック アクセスは利用頻度を見ているようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/22/031204</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/22/031204"/>
-        <updated>2024-02-21T18:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Edge を起動していたら、サイド バーに吹き出しコメントが表示されました。 よくよくその内容を見ていたら、どうもアプリの利用頻度を見て表示状態を切り替える機能が追加されたようです。確かにこれらのアプリはあまり起動させていなかったですね。。。 「アプリの非表示」を押すと、そこで選択していたアプリが非表示となります。 非表示となったアプリは、 ＋ ボタンを押すことでクイックアクセス内に表示されています。 これをクリックすることで今までと同じようにアプリを起動することも可能です。 その場合はこんな感じにアプリ群の一番下にあるバーのさらに下に表示されるようになっています。 さらにこの状態で「アプリを…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
