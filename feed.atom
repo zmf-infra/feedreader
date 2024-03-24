@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-23T00:35:27.297Z</id>
+    <id>urn:2024-03-24T00:40:51.063Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T00:35:27.297Z</updated>
+    <updated>2024-03-24T00:40:51.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows Server ドメインコントローラー向けの修正パッチがリリースされています]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/24/014412</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/24/014412"/>
+        <updated>2024-03-23T16:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 管理センターに Windows Server 2022 の Windows Update でメモリリークを起こす更新が行われたというアナウンスが入ってきていました。 以下の Learn にあるように、 Active Directory の認証を司っている LSASS というプログラムがあるのですが、このプログラムに問題が発生したようです。 2024 年 3 月の Windows Update 後に認証要求が増えるとサーバーが再起動してしまうという状況に陥るケースが出ているということですね。 https://learn.microsoft.com/ja-jp/wind…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Copilot in Windows プラグインのアクセス許可がメニューに追加されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/23/025801</id>
@@ -351,16 +361,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/24/031641"/>
         <updated>2024-02-23T18:16:41.000Z</updated>
         <summary type="html"><![CDATA[最近 LLM の醍醐味はグラウンディングにあると感じることが増えてきたのですが、まだまだ Copilot ではその真価を見る機会が少ないなと思っていました。 しかし Microsoft Edge に展開されている Copilot in Edge では、その一端を垣間見ることができるように機能が拡張されているようです。 というわけで Copilot in Edge のグラウンディング機能を見てみましょう。 ちなみにグラウンディングとは、 LLM の応答結果を元に別のシステムを動かしていくような仕組みを指しています。 最近の Copilot in Edge は会話のスタイルの下にいくつかテンプレー…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Teams チャネル会議でチームメンバーの予定を追加できるようになりました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/23/015240</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/23/015240"/>
-        <updated>2024-02-22T16:52:40.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft 365 管理センターを見ていたところ、 Teams 会議に新しい機能が追加されていました。 それはチームに属しているメンバー全員に会議開催通知を送るという機能です。 チームの右上に表示されている「会議のスケジュール設定」から、設定した場合に使える機能となっています。 会議を設定すると、こんな形で中段右側に「個人に招待を送信する」という項目が表示されるようになりました。 インフォメーションマークをポイントすると、個人用予定表に会議が追加される旨が書かれていました。 オンにすると、上部に招待が行われること明記され、間違った設定を行わないようにうまく調整された UI となっていま…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
