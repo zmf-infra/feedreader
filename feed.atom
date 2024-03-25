@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-24T00:40:51.063Z</id>
+    <id>urn:2024-03-25T00:37:55.346Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T00:40:51.063Z</updated>
+    <updated>2024-03-25T00:37:55.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview Build 26085 リリース]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/25/013112</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/25/013112"/>
+        <updated>2024-03-24T16:31:12.000Z</updated>
+        <summary type="html"><![CDATA[先週、 Teams や Copilot in Windows など様々な更新が Canary / Dev Channel でおこなわれましたが、今週はその反動か、バグフィックスを中心とした更新となっていました。 今週の更新は以下の 3 つの Channel となっています。 Canary / Dev Channel : Build 26085 Release Preview Channel : Build 22621.3371 (22H2) Release Preview Channel : Build 22631.3371 (23H2) Release Preview Channel では、…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Server ドメインコントローラー向けの修正パッチがリリースされています]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/24/014412</id>
@@ -351,16 +361,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/25/015340"/>
         <updated>2024-02-24T16:53:40.000Z</updated>
         <summary type="html"><![CDATA[世の中、よく継続は力なりといいますが、継続して物事を確認していくことはやっぱり重要ですね。 最近 SharePoint 管理センターへのアクセスがおろそかになっていたのですがいつの間にかこの設定の個所に OneDrive for Business のストレージサイズを拡張するための機能が追加されていました。 以下のアドレスからアクセスできる個所に用意されています。 テナント名-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/settings これを見ると 1024GB (1TB) を 5TB まで、設定だけで更新できるようになって…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot in Edge でも設定画面にアクセスできるようになったようです]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/24/031641</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/24/031641"/>
-        <updated>2024-02-23T18:16:41.000Z</updated>
-        <summary type="html"><![CDATA[最近 LLM の醍醐味はグラウンディングにあると感じることが増えてきたのですが、まだまだ Copilot ではその真価を見る機会が少ないなと思っていました。 しかし Microsoft Edge に展開されている Copilot in Edge では、その一端を垣間見ることができるように機能が拡張されているようです。 というわけで Copilot in Edge のグラウンディング機能を見てみましょう。 ちなみにグラウンディングとは、 LLM の応答結果を元に別のシステムを動かしていくような仕組みを指しています。 最近の Copilot in Edge は会話のスタイルの下にいくつかテンプレー…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
