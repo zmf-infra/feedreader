@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-25T00:37:55.346Z</id>
+    <id>urn:2024-03-26T00:36:26.636Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T00:37:55.346Z</updated>
+    <updated>2024-03-26T00:36:26.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge リワード機能がサイドバーに追加されていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/26/021333</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/26/021333"/>
+        <updated>2024-03-25T17:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft は検索機能の追加コンテンツとして Reward を押しているのですが、その機能が Edge のサイドバーに追加されていました。 Reward とはユーザーが検索などを行った結果をポイント化して貯め、それをギフトと交換できるようにした仕組みとなっています。 この交換については、対象によって大きく倍率が異なっているのですが、概ね 10 ポイント 1 円程度の比率となっています。 このポイントは検索するだけで手に入るので、デジタルの検索がそれだけの意味を持つようになってきたと思うと感慨深いものがありますね。 今回追加されたサイドバーですが、開くと以下のような表示になっています。 …]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview Build 26085 リリース]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/25/013112</id>
@@ -351,16 +361,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/26/014731"/>
         <updated>2024-02-25T16:47:31.000Z</updated>
         <summary type="html"><![CDATA[今週の Windows Insider Program は Canary Channel のみの更新でした。 ということは、 Canary と Dev の両 Channel が袂を分かち個別の路を歩いていくのかと思ったのですが、まだ同一のアップデートを共有していくようです。今回のアップデートは一時的な分離扱いとなるようです。 今回の Canary Channel は Copilot in Windows で行えるグラウンディングが高機能になっています。 更新情報からチェックしてみると、このような機能が使えるようです。 Copilot in Windows では 29 タスクが使えるようになって…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 OneDrive for Business の容量拡大方法が簡単になっていました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/25/015340</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/25/015340"/>
-        <updated>2024-02-24T16:53:40.000Z</updated>
-        <summary type="html"><![CDATA[世の中、よく継続は力なりといいますが、継続して物事を確認していくことはやっぱり重要ですね。 最近 SharePoint 管理センターへのアクセスがおろそかになっていたのですがいつの間にかこの設定の個所に OneDrive for Business のストレージサイズを拡張するための機能が追加されていました。 以下のアドレスからアクセスできる個所に用意されています。 テナント名-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/settings これを見ると 1024GB (1TB) を 5TB まで、設定だけで更新できるようになって…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
