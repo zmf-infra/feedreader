@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-26T00:36:26.636Z</id>
+    <id>urn:2024-03-27T00:36:22.053Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T00:36:26.636Z</updated>
+    <updated>2024-03-27T00:36:22.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Office 2024 がアナウンスされていました]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/27/021303</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/27/021303"/>
+        <updated>2024-03-26T17:13:03.000Z</updated>
+        <summary type="html"><![CDATA[ここのところ Microsoft 365 は Copilot が中心となるリリース案内が続いていましたが、もちろんマイクロソフトは通常運転で作るべきものは粛々と対応を重ねています。 その一つとして、 Office 2021 の後継となる Office 2024 が発表されていました。 2024 年 3 月 15 日にアナウンスされていたのですね、、、ちょっと見落としていました。 https://blogs.windows.com/japan/2024/03/21/upcoming-preview-of-microsoft-office-ltsc-2024/?WT.mc_id=M365-MVP-…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge リワード機能がサイドバーに追加されていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/26/021333</id>
@@ -351,16 +361,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/27/030818"/>
         <updated>2024-02-26T18:08:18.000Z</updated>
         <summary type="html"><![CDATA[2023 年 9 月に EWS の EOS が 2026 年に行われるとアナウンスされて早半年。続々と EWS での重要機能がいち早く終了する方向となったようです。 2023 年当時のアナウンスは以下なのですが、さすがに EWS は様々なところで利用されており、かつ置き換え先となる Graph API はまだ機能が充足していないことから後進について様子見だった人も多かったのではないでしょうか。 https://techcommunity.microsoft.com/t5/exchange-team-blog/retirement-of-exchange-web-services-in-exch…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Insider Preview Build 26063 リリース]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/26/014731</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/26/014731"/>
-        <updated>2024-02-25T16:47:31.000Z</updated>
-        <summary type="html"><![CDATA[今週の Windows Insider Program は Canary Channel のみの更新でした。 ということは、 Canary と Dev の両 Channel が袂を分かち個別の路を歩いていくのかと思ったのですが、まだ同一のアップデートを共有していくようです。今回のアップデートは一時的な分離扱いとなるようです。 今回の Canary Channel は Copilot in Windows で行えるグラウンディングが高機能になっています。 更新情報からチェックしてみると、このような機能が使えるようです。 Copilot in Windows では 29 タスクが使えるようになって…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
