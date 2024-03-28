@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-27T00:36:22.053Z</id>
+    <id>urn:2024-03-28T00:36:32.813Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T00:36:22.053Z</updated>
+    <updated>2024-03-28T00:36:32.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Teams ：チャネルをアーカイブ（気になる挙動も発見）]]></title>
+        <id>https://art-break.net/tech/?p=20902</id>
+        <link href="https://art-break.net/tech/?p=20902"/>
+        <updated>2024-03-27T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Teams の利活用が進むほど運用管理の課題がたくさん出てきます。多くの企業では Microsoft Teams の利活用促進自体が課題だったと思いますが、コロナ禍以降は否が応でも利用せざるを得ない状 … "Microsoft Teams ：チャネルをアーカイブ（気になる挙動も発見）" の続きを読む]]></summary>
+        <author>
+            <name>TAICHI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 SharePoint Online Power Platform からの更新時に更新者列が分かりやすくなるようです]]></title>
+        <id>https://mitomoha.hatenablog.com/entry/2024/03/28/021451</id>
+        <link href="https://mitomoha.hatenablog.com/entry/2024/03/28/021451"/>
+        <updated>2024-03-27T17:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft 365 管理センターを眺めていたところ、 SharePoint Online と Power Platform 連携に関する新たな情報が追加されていました。 Power Platform を使って SharePoint のリスト列を更新した時に、作成者と更新者の情報が Microsoft Power Platform という記載に変わるというものです。 今まで更新者列は Power Platform からの接続ユーザーが書かれていた記憶があるのですが、この部分が変わる形になります。 この変更が行われると、人が変更したのか、システムが変更したのかがより分かりやすくなりますね。…]]></summary>
+        <author>
+            <name>（）のブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 Office 2024 がアナウンスされていました]]></title>
         <id>https://mitomoha.hatenablog.com/entry/2024/03/27/021303</id>
@@ -351,16 +371,6 @@
         <link href="https://mitomoha.hatenablog.com/entry/2024/02/28/024628"/>
         <updated>2024-02-27T17:46:28.000Z</updated>
         <summary type="html"><![CDATA[大体 2 ～ 3 年ごとに UI が刷新される Microsoft 365 ですが、今年は Microsoft 365 の左上、アプリランチャーに更新が入ることが決まったようです。 Microsoft 365 管理センターによると次のアプリランチャーは以下のような形になり、横に広くなる感じのようです。 見た目は Windows 11 のスタートメニューのアイコンですね。 思えば、 Windows 10 の中期のスタートメニューがアイコン + 文字の形で、今のアプリランチャーに近しい形だったと思います。 そう考えると Windows 11 の要素に合わせてきたという感じになるのかも知れませんね。…]]></summary>
-        <author>
-            <name>（）のブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft 365 Exchange Online でのアプリ偽装が EOS となることが決定しました]]></title>
-        <id>https://mitomoha.hatenablog.com/entry/2024/02/27/030818</id>
-        <link href="https://mitomoha.hatenablog.com/entry/2024/02/27/030818"/>
-        <updated>2024-02-26T18:08:18.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 9 月に EWS の EOS が 2026 年に行われるとアナウンスされて早半年。続々と EWS での重要機能がいち早く終了する方向となったようです。 2023 年当時のアナウンスは以下なのですが、さすがに EWS は様々なところで利用されており、かつ置き換え先となる Graph API はまだ機能が充足していないことから後進について様子見だった人も多かったのではないでしょうか。 https://techcommunity.microsoft.com/t5/exchange-team-blog/retirement-of-exchange-web-services-in-exch…]]></summary>
         <author>
             <name>（）のブログ</name>
         </author>
